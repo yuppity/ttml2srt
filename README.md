@@ -21,21 +21,21 @@ optional arguments:
 
 Simple conversion:
 ```
-./ttml_srt.py subtitle_from_netflix.xml > subtitle.srt
+./ttml2srt.py subtitle_from_netflix.xml > subtitle.srt
 ```
 or
 ```
-./ttml_srt.py subtitle_from_netflix.xml subtitle.srt
+./ttml2srt.py subtitle_from_netflix.xml subtitle.srt
 ```
 
 Shift everything forward by 2 secs:
 ```
-./ttml_srt.py -s 2000 ttml_srt.py subtitle_from_netflix.xml > subtitle.srt
+./ttml2srt.py -s 2000 subtitle_from_netflix.xml > subtitle.srt
 ```
 
 Convert with specific frame rate (only has an effect when input timestamps have frames):
 ```
-./ttml_srt.py -f 25 ttml_srt.py subtitle_from_hbo_nordic.xml > subtitle.srt
+./ttml2srt.py -f 25 subtitle_from_hbo_nordic.xml > subtitle.srt
 ```
 
 Run tests:
