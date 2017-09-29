@@ -1,4 +1,4 @@
-# ttml-to-srt
+# ttml2srt
 Convert TTML subtitles used by Netflix, HBO, CMore and others to SRT format
 
 ## Usage
