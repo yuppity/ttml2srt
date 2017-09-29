@@ -1,5 +1,9 @@
 # ttml2srt
-Convert TTML subtitles used by Netflix, HBO, CMore and others to SRT format
+Convert TTML subtitles used by Netflix, HBO, CMore and others to SRT format.
+
+`ttml2srt` is *not* a full-featured TTML-to-SRT converter and only works on a small subset of TTML documents. Namely, documents that follow the formats seen on the aforementioned streaming services.  Parts of the spec that you might expect support for that nevertheless aren't supported include overlapping time intervals, text styling (italics, etc.), and regions.
+
+Note: I'll happily relinquish the repo name if you want to host a more full-featured, universal TTML-to-SRT converter under the same name.
 
 ## Usage
 ```
