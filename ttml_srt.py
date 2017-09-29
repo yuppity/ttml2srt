@@ -19,10 +19,8 @@ def extract_dialogue(nodes):
 def extract_subtitle_data(ttml_file):
     data = minidom.parse(ttml_file)
     if data.encoding.lower() not in ['utf8', 'utf-8']:
-        # Don't attempt to convert subtitles that are not in UTF-8.
-        # Why? Out of spite.
-        print('Source is not declared as utf-8')
-        sys.exit(1)
+        # Don't bother with subtitles that aren't utf-8 encoded
+        raise UnicodeError('Source is not declared as utf-8')
 
     # Get the root tt element (assume the file contains
     # a single subtitle document)
@@ -117,7 +115,6 @@ def subrip_writer(lines, dst, shift, fps, tick_rate):
 
 if __name__ == '__main__':
     import argparse
-    import sys
 
     argparser = argparse.ArgumentParser(
             description = 'Convert subtitles from TTML Document to SubRip (SRT).')
