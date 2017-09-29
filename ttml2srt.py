@@ -101,7 +101,7 @@ def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None):
 def subrip_dialogue(count, start, end, dialogue):
         return '{}\n{} --> {}\n{}\n\n'.format(count, start, end, dialogue)
 
-def subrip_writer(lines, dst, shift, fps, tick_rate):
+def subrip_writer(f, lines, dst, shift, fps, tick_rate):
     lcount = 0
     for line in lines:
         lcount = lcount + 1
@@ -115,6 +115,7 @@ def subrip_writer(lines, dst, shift, fps, tick_rate):
 
 if __name__ == '__main__':
     import argparse
+    import sys
 
     argparser = argparse.ArgumentParser(
             description = 'Convert subtitles from TTML Document to SubRip (SRT).')
@@ -157,5 +158,5 @@ if __name__ == '__main__':
     output_f = getattr(args, 'output-file')
     if output_f: f = open(output_f, 'wb')
     else: f = sys.stdout
-    subrip_writer(subtitle['lines'], f, args.shift, subtitle['fps'], subtitle['tick_rate'])
+    subrip_writer(f, subtitle['lines'], f, args.shift, subtitle['fps'], subtitle['tick_rate'])
 
