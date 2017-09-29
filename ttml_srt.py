@@ -96,6 +96,25 @@ def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None):
 
     return ms_to_subrip(ms + shift)
 
+#######################################################################
+#                            SubRip output                            #
+#######################################################################
+
+def subrip_dialogue(count, start, end, dialogue):
+        return '{}\n{} --> {}\n{}\n\n'.format(count, start, end, dialogue)
+
+def subrip_writer(lines, dst, shift, fps, tick_rate):
+    lcount = 0
+    for line in lines:
+        lcount = lcount + 1
+        start, end = get_start_end(line)
+        dialg = subrip_dialogue(lcount,
+            get_sb_timestamp_be(start, shift, fps, tick_rate),
+            get_sb_timestamp_be(end, shift, fps, tick_rate),
+            extract_dialogue(line.childNodes).encode('utf8'))
+        f.write(dialg)
+    f.close()
+
 if __name__ == '__main__':
     import argparse
     import sys
@@ -104,6 +123,10 @@ if __name__ == '__main__':
             description = 'Convert subtitles from TTML Document to SubRip (SRT).')
     argparser.add_argument('ttml-file',
             help = 'TTML subtitle file',
+            action = 'store')
+    argparser.add_argument('output-file',
+            nargs = '?',
+            help = 'file to write resulting SRT to',
             action = 'store')
     argparser.add_argument('-s', '--shift',
             dest = 'shift', help = 'shift',
@@ -134,12 +157,8 @@ if __name__ == '__main__':
     subtitle = extract_subtitle_data(getattr(args, 'ttml-file'))
     if not subtitle['fps']: subtitle['fps'] = args.sfps
 
-    lcount = 0
-    for line in subtitle['lines']:
-        lcount = lcount + 1
-        start, end = get_start_end(line)
-        print('{}\n{} --> {}\n{}\n'.format(lcount,
-            get_sb_timestamp_be(start, args.shift, subtitle['fps'], subtitle['tick_rate']),
-            get_sb_timestamp_be(end, args.shift, subtitle['fps'], subtitle['tick_rate']),
-            extract_dialogue(line.childNodes).encode('utf8')))
+    output_f = getattr(args, 'output-file')
+    if output_f: f = open(output_f, 'wb')
+    else: f = sys.stdout
+    subrip_writer(subtitle['lines'], f, args.shift, subtitle['fps'], subtitle['tick_rate'])
 
