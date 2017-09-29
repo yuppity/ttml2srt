@@ -38,3 +38,8 @@ Convert with specific frame rate (only has an effect when input timestamps have 
 ./ttml_srt.py -f 25 ttml_srt.py subtitle_from_hbo_nordic.xml > subtitle.srt
 ```
 
+Run tests:
+```
+python2 tests/test01.py
+```
+
