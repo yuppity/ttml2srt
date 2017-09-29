@@ -18,8 +18,10 @@ def extract_dialogue(nodes):
 
 def extract_subtitle_data(ttml_file):
     data = minidom.parse(ttml_file)
-    if data.encoding.lower() not in ['utf8', 'utf-8']:
+    s_encoding = data.encoding
+    if s_encoding and s_encoding.lower() not in ['utf8', 'utf-8']:
         # Don't bother with subtitles that aren't utf-8 encoded
+        # but assume utf-8 when the encoding attr is missing
         raise UnicodeError('Source is not declared as utf-8')
 
     # Get the root tt element (assume the file contains
