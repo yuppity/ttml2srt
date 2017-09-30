@@ -18,6 +18,7 @@ def extract_dialogue(nodes):
 
 def extract_subtitle_data(ttml_file):
     data = minidom.parse(ttml_file)
+
     s_encoding = data.encoding
     if s_encoding and s_encoding.lower() not in ['utf8', 'utf-8']:
         # Don't bother with subtitles that aren't utf-8 encoded
@@ -45,17 +46,17 @@ def get_start_end(parag):
 #                           TIME/TIMESTAMPS                           #
 #######################################################################
 
-def calc_scale(sdur, tdur): return (tdur * 1.0) / sdur
+def calc_scale(sdur, tdur):
+    return (tdur * 1.0) / sdur
 
-def scaler(scaling, time): return int(scaling * time)
+def scaler(scaling, time):
+    return int(scaling * time)
 
 def frames_to_ms(frames, fps = 23.976):
-    frames = int(frames)
-    return int(frames * (1000 / fps))
+    return int(int(frames) * (1000 / fps))
 
 def ticks_to_ms(tickrate, ticks):
-    ticks = int(ticks.rstrip('t'))
-    return ((1.0 / tickrate) * ticks) * 1000
+    return ((1.0 / tickrate) * int(ticks.rstrip('t'))) * 1000
 
 def ms_to_subrip(ms):
     return '{:02d}:{:02d}:{:02d},{:03d}'.format(
