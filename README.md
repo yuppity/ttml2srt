@@ -40,6 +40,13 @@ Convert with specific frame rate (only has an effect when input timestamps have 
 ./ttml2srt.py -f 25 subtitle_from_hbo_nordic.xml > subtitle.srt
 ```
 
+You'll probably run into a situation where your target is playing at either slower or faster speed compared to a streaming service. You can scale timestamps to fit a source to a target by picking the same frame from both the target and source and comparing the timestamp.
+
+Here's an example cmd for when the first piece of dialogue from a streaming service is starting two seconds behind the target audio and where a frame towards the end has a timestamp of *00:15:39* (939s) in the target and *00:16:23* (983s) in the source:
+```
+./ttml2srt.py -s -2000 --t-dur 939 --s-dur 983 subtitle.xml
+```
+
 Run tests:
 ```
 python2 tests/test01.py

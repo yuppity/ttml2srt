@@ -49,14 +49,14 @@ def get_start_end(parag):
 def calc_scale(sdur, tdur):
     return (tdur * 1.0) / sdur
 
-def scaler(scaling, time):
-    return int(scaling * time)
+def scaler(time, scale):
+    return scale * time
 
 def frames_to_ms(frames, fps = 23.976):
     return int(int(frames) * (1000 / fps))
 
-def ticks_to_ms(tickrate, ticks):
-    return ((1.0 / tickrate) * int(ticks.rstrip('t'))) * 1000
+def ticks_to_ms(tickrate, ticks, scale = 1):
+    return scaler(((1.0 / tickrate) * int(ticks.rstrip('t'))) * 1000, scale)
 
 def ms_to_subrip(ms):
     return '{:02d}:{:02d}:{:02d},{:03d}'.format(
@@ -65,16 +65,16 @@ def ms_to_subrip(ms):
             int((ms % 60000) / 1000),  # ss
             int((ms % 60000) % 1000))  # ms
 
-def timestamp_to_ms(time, fps = 23.976, delim = '.'):
+def timestamp_to_ms(time, fps = 23.976, delim = '.', scale = 1):
     hhmmss, frames = time.rsplit(delim, 1)
     ms = frames_to_ms(frames, fps)
     hhmmss = hhmmss.split(':')
     hh, mm, ss = [int(hhmmss[0]) * 3600 * 1000,
                   int(hhmmss[1]) * 60 * 1000,
                   int(hhmmss[2]) * 1000]
-    return hh + mm + ss + ms
+    return scaler(hh + mm + ss + ms, scale)
 
-def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None):
+def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None, scale = 1):
     """Return SubRip timestamp after conversion from source timestamp.
 
     Assumes source timestamp to be in either the form of
@@ -91,9 +91,9 @@ def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None):
 
     delim = ''.join([i for i in time if not i.isdigit()])[-1]
     if delim.lower() == 't':
-        ms = ticks_to_ms(tick_rate, time)
+        ms = ticks_to_ms(tick_rate, time, scale)
     else:
-        ms = timestamp_to_ms(time, fps = fps, delim = delim)
+        ms = timestamp_to_ms(time, fps, delim, scale)
 
     return ms_to_subrip(ms + shift)
 
@@ -104,12 +104,12 @@ def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None):
 def subrip_dialogue(count, start, end, dialogue):
         return '{}\n{} --> {}\n{}\n\n'.format(count, start, end, dialogue)
 
-def subrip_writer(f, lines, dst, shift, fps, tick_rate):
+def subrip_writer(f, lines, dst, shift, fps, tick_rate, scale = 1):
     subs = []
     for line in lines:
         start, end = get_start_end(line)
-        subs.append([get_sb_timestamp_be(start, shift, fps, tick_rate),
-                get_sb_timestamp_be(end, shift, fps, tick_rate),
+        subs.append([get_sb_timestamp_be(start, shift, fps, tick_rate, scale),
+                get_sb_timestamp_be(end, shift, fps, tick_rate, scale),
                 extract_dialogue(line.childNodes).encode('utf8')])
 
     # Sort by the start time
@@ -163,11 +163,11 @@ if __name__ == '__main__':
     argparser.add_argument('--t-dur',
             dest = 'td', metavar = 'sec',
             help = 'target duration',
-            nargs = '?', type = int, default = 0, action = 'store')
+            nargs = '?', type = int, default = 1, action = 'store')
     argparser.add_argument('--s-dur',
             dest = 'sd', metavar = 'sec',
             help = 'source duration',
-            nargs = '?', type = int, default = 0, action = 'store')
+            nargs = '?', type = int, default = 1, action = 'store')
     args = argparser.parse_args()
 
     time_multiplier = False
@@ -181,5 +181,7 @@ if __name__ == '__main__':
     output_f = getattr(args, 'output-file')
     if output_f: f = open(output_f, 'wb')
     else: f = sys.stdout
-    subrip_writer(f, subtitle['lines'], f, args.shift, subtitle['fps'], subtitle['tick_rate'])
+    subrip_writer(f, subtitle['lines'], f, args.shift, subtitle['fps'],
+            subtitle['tick_rate'], calc_scale(args.sd, args.td))
+
 
