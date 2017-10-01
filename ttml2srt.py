@@ -23,7 +23,7 @@ def extract_subtitle_data(ttml_file):
     if s_encoding and s_encoding.lower() not in ['utf8', 'utf-8']:
         # Don't bother with subtitles that aren't utf-8 encoded
         # but assume utf-8 when the encoding attr is missing
-        raise UnicodeError('Source is not declared as utf-8')
+        raise NotImplementedError('Source is not declared as utf-8')
 
     # Get the root tt element (assume the file contains
     # a single subtitle document)
@@ -105,14 +105,34 @@ def subrip_dialogue(count, start, end, dialogue):
         return '{}\n{} --> {}\n{}\n\n'.format(count, start, end, dialogue)
 
 def subrip_writer(f, lines, dst, shift, fps, tick_rate):
-    lcount = 0
+    subs = []
     for line in lines:
-        lcount = lcount + 1
         start, end = get_start_end(line)
-        dialg = subrip_dialogue(lcount,
-            get_sb_timestamp_be(start, shift, fps, tick_rate),
-            get_sb_timestamp_be(end, shift, fps, tick_rate),
-            extract_dialogue(line.childNodes).encode('utf8'))
+        subs.append([get_sb_timestamp_be(start, shift, fps, tick_rate),
+                get_sb_timestamp_be(end, shift, fps, tick_rate),
+                extract_dialogue(line.childNodes).encode('utf8')])
+
+    # Sort by the start time
+    subs.sort(key = lambda x: x[0])
+
+    # Detect and deal with overlapping time intervals. Only
+    # works for overlaps that span two elements for now.
+    overlaps = []
+    for i in range(0, len(subs)):
+        if subs[i - 1][0] <= subs[i][0] < subs[i - 1][1]: overlaps.append((i - 1, i))
+
+    overlaps.reverse()
+    for o in overlaps:
+        a, b = o
+        subs[a][1] = max(subs[a][1], subs[b][1])
+        subs[a][2] = subs[a][2] + '\n' + subs[b][2]
+        subs.pop(b)
+
+    # Write to file obj
+    lcount = 0
+    for line in subs:
+        lcount = lcount + 1
+        dialg = subrip_dialogue(lcount, line[0], line[1], line[2])
         f.write(dialg)
     f.close()
 

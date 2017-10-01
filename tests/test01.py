@@ -45,6 +45,7 @@ class TestyTester(unittest.TestCase):
         self.file_tests('tests/hbo_nordic_sample.xml', True, True)
         self.file_tests('tests/hbo_nordic_sample.xml', True, False, {'-f': 5})
         self.file_tests('tests/hbo_nordic_sample.xml', True, False, {'-s': 5000})
+        self.file_tests('tests/netflix_t_overlap01.xml', True, True)
 
 if __name__ == '__main__':
     unittest.main()
