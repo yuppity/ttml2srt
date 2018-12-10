@@ -11,9 +11,12 @@ from xml.dom import minidom
 def extract_dialogue(nodes):
     dialogue = ''
     for node in nodes:
-        if node.localName == 'br': dialogue = dialogue + '\n'
-        elif node.nodeValue: dialogue = dialogue + node.nodeValue
-        if node.hasChildNodes(): dialogue = dialogue + extract_dialogue(node.childNodes)
+        if node.localName == 'br':
+            dialogue = dialogue + '\n'
+        elif node.nodeValue:
+            dialogue = dialogue + node.nodeValue
+        if node.hasChildNodes():
+            dialogue = dialogue + extract_dialogue(node.childNodes)
     return dialogue
 
 def extract_subtitle_data(ttml_file):
@@ -30,14 +33,19 @@ def extract_subtitle_data(ttml_file):
     tt_element = data.getElementsByTagName('tt')[0]
 
     # Detect source FPS and tick rate
-    try: fps = int(tt_element.attributes['ttp:frameRate'].value)
-    except KeyError: fps = None
-    try: tick_rate = int(tt_element.attributes['ttp:tickRate'].value)
-    except KeyError: tick_rate = None
+    try:
+        fps = int(tt_element.attributes['ttp:frameRate'].value)
+    except KeyError:
+        fps = None
+    try:
+        tick_rate = int(tt_element.attributes['ttp:tickRate'].value)
+    except KeyError:
+        tick_rate = None
 
-    lines = [i for i in data.getElementsByTagName('p') if 'begin' in i.attributes.keys()]
+    lines = [i for i in data.getElementsByTagName('p') if 'begin' \
+        in i.attributes.keys()]
 
-    return { 'fps': fps, 'tick_rate': tick_rate, 'lines': lines }
+    return {'fps': fps, 'tick_rate': tick_rate, 'lines': lines}
 
 def get_start_end(parag):
     return [parag.attributes['begin'].value, parag.attributes['end'].value]
@@ -52,20 +60,20 @@ def calc_scale(sdur, tdur):
 def scaler(time, scale):
     return scale * time
 
-def frames_to_ms(frames, fps = 23.976):
+def frames_to_ms(frames, fps=23.976):
     return int(int(frames) * (1000 / fps))
 
-def ticks_to_ms(tickrate, ticks, scale = 1):
+def ticks_to_ms(tickrate, ticks, scale=1):
     return scaler(((1.0 / tickrate) * int(ticks.rstrip('t'))) * 1000, scale)
 
 def ms_to_subrip(ms):
     return '{:02d}:{:02d}:{:02d},{:03d}'.format(
-            int(ms / (3600 * 1000)),   # hh
-            int(ms / 60000),           # mm
-            int((ms % 60000) / 1000),  # ss
-            int((ms % 60000) % 1000))  # ms
+        int(ms / (3600 * 1000)),   # hh
+        int(ms / 60000),           # mm
+        int((ms % 60000) / 1000),  # ss
+        int((ms % 60000) % 1000))  # ms
 
-def timestamp_to_ms(time, fps = 23.976, delim = '.', scale = 1):
+def timestamp_to_ms(time, fps=23.976, delim='.', scale=1):
     hhmmss, frames = time.rsplit(delim, 1)
     ms = frames_to_ms(frames, fps)
     hhmmss = hhmmss.split(':')
@@ -74,7 +82,7 @@ def timestamp_to_ms(time, fps = 23.976, delim = '.', scale = 1):
                   int(hhmmss[2]) * 1000]
     return scaler(hh + mm + ss + ms, scale)
 
-def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None, scale = 1):
+def get_sb_timestamp_be(time, shift=0, fps=23.976, tick_rate=None, scale=1):
     """Return SubRip timestamp after conversion from source timestamp.
 
     Assumes source timestamp to be in either the form of
@@ -104,7 +112,7 @@ def get_sb_timestamp_be(time, shift = 0, fps = 23.976, tick_rate = None, scale =
 def subrip_dialogue(count, start, end, dialogue):
         return '{}\n{} --> {}\n{}\n\n'.format(count, start, end, dialogue)
 
-def subrip_writer(f, lines, dst, shift, fps, tick_rate, scale = 1):
+def subrip_writer(f, lines, dst, shift, fps, tick_rate, scale=1):
     subs = []
     for line in lines:
         start, end = get_start_end(line)
@@ -113,13 +121,14 @@ def subrip_writer(f, lines, dst, shift, fps, tick_rate, scale = 1):
                 extract_dialogue(line.childNodes).encode('utf8')])
 
     # Sort by the start time
-    subs.sort(key = lambda x: x[0])
+    subs.sort(key=lambda x: x[0])
 
     # Detect and deal with overlapping time intervals. Only
     # works for overlaps that span two elements for now.
     overlaps = []
     for i in range(0, len(subs)):
-        if subs[i - 1][0] <= subs[i][0] < subs[i - 1][1]: overlaps.append((i - 1, i))
+        if subs[i - 1][0] <= subs[i][0] < subs[i - 1][1]:
+            overlaps.append((i - 1, i))
 
     overlaps.reverse()
     for o in overlaps:
@@ -141,47 +150,49 @@ if __name__ == '__main__':
     import sys
 
     argparser = argparse.ArgumentParser(
-            description = 'Convert subtitles from TTML Document to SubRip (SRT).')
+        description='Convert subtitles from TTML Document to SubRip (SRT).')
     argparser.add_argument('ttml-file',
-            help = 'TTML subtitle file',
-            action = 'store')
+        help='TTML subtitle file',
+        action='store')
     argparser.add_argument('output-file',
-            nargs = '?',
-            help = 'file to write resulting SRT to',
-            action = 'store')
+        nargs='?',
+        help='file to write resulting SRT to',
+        action='store')
     argparser.add_argument('-s', '--shift',
-            dest = 'shift', help = 'shift',
-            metavar = 'ms', nargs = '?',
-            const = 0, default = 0, type = int,
-            action = 'store')
+        dest='shift', help='shift',
+        metavar='ms', nargs='?',
+        const=0, default=0, type=int,
+        action='store')
     argparser.add_argument('-f', '--fps',
-            dest = 'sfps', metavar = 'fps',
-            help = 'frames per second (default: 23.976)',
-            nargs = '?', const = 23.976,
-            default = 23.976, type = float,
-            action = 'store')
+        dest='sfps', metavar='fps',
+        help='frames per second (default: 23.976)',
+        nargs='?', const=23.976,
+        default=23.976, type=float,
+        action='store')
     argparser.add_argument('--t-dur',
-            dest = 'td', metavar = 'sec',
-            help = 'target duration',
-            nargs = '?', type = int, default = 1, action = 'store')
+        dest='td', metavar='sec',
+        help='target duration',
+        nargs='?', type=int, default=1, action='store')
     argparser.add_argument('--s-dur',
-            dest = 'sd', metavar = 'sec',
-            help = 'source duration',
-            nargs = '?', type = int, default = 1, action = 'store')
+        dest='sd', metavar='sec',
+        help='source duration',
+        nargs='?', type=int, default=1, action='store')
     args = argparser.parse_args()
 
     time_multiplier = False
-    if getattr(args, 'ttml-file') == None: sys.exit(2)
+    if getattr(args, 'ttml-file') is None:
+        sys.exit(2)
     if args.td > 0 and args.sd > 0:
         time_multiplier = calc_scale(args.sd, args.td)
 
     subtitle = extract_subtitle_data(getattr(args, 'ttml-file'))
-    if not subtitle['fps']: subtitle['fps'] = args.sfps
+    if not subtitle['fps']:
+        subtitle['fps'] = args.sfps
 
     output_f = getattr(args, 'output-file')
-    if output_f: f = open(output_f, 'wb')
-    else: f = sys.stdout
+    if output_f:
+        f = open(output_f, 'wb')
+    else:
+        f = sys.stdout
     subrip_writer(f, subtitle['lines'], f, args.shift, subtitle['fps'],
             subtitle['tick_rate'], calc_scale(args.sd, args.td))
-
-

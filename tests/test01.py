@@ -3,24 +3,31 @@
 
 import unittest
 import filecmp
-import sys, os
+import sys
+import os
 import subprocess
 
-sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../')))
+sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(
+    os.path.realpath(__file__)), '../')))
 import ttml2srt
 
-class TestyTester(unittest.TestCase):
-    def file_tests(self, fname, cmd_exit_zero = True, cmp_result = True, args = {}):
+class Tester(unittest.TestCase):
+    def file_tests(self, fname, cmd_exit_zero=True, cmp_result=True, args={}):
         e_args = [i for sl in [[str(k), str(v)] for k, v in args.iteritems()] for i in sl]
         run = subprocess.call(['python2', 'ttml2srt.py'] + e_args + [fname, 'tests/testfile'])
-        if cmd_exit_zero: self.assertEqual(run, 0)
-        else: self.assertNotEqual(run, 0)
+        if cmd_exit_zero:
+            self.assertEqual(run, 0)
+        else:
+            self.assertNotEqual(run, 0)
 
-        filecmp._cache = {} # FFS!
-        fcmp = filecmp.cmp(fname.replace('.xml', '.srt'), 'tests/testfile', False)
+        filecmp._cache = {}  # FFS!
+        fcmp = filecmp.cmp(fname.replace('.xml', '.srt'),
+            'tests/testfile', False)
 
-        if cmp_result: self.assertTrue(fcmp)
-        else: self.assertFalse(fcmp)
+        if cmp_result:
+            self.assertTrue(fcmp)
+        else:
+            self.assertFalse(fcmp)
 
     def test_time(self):
         self.assertEqual(ttml2srt.ms_to_subrip(232823), '00:03:52,823')
@@ -35,8 +42,8 @@ class TestyTester(unittest.TestCase):
         self.assertEqual(ttml2srt.timestamp_to_ms('00:00:01.00', 25, '.'), 1000)
 
         self.assertEqual(ttml2srt.get_sb_timestamp_be('00:00:10.23'), '00:00:10,959')
-        self.assertNotEqual(ttml2srt.get_sb_timestamp_be('00:00:10.23', fps = 25), '00:00:10,959')
-        self.assertEqual(ttml2srt.get_sb_timestamp_be('00:00:10.23', shift = 6000), '00:00:16,959')
+        self.assertNotEqual(ttml2srt.get_sb_timestamp_be('00:00:10.23', fps=25), '00:00:10,959')
+        self.assertEqual(ttml2srt.get_sb_timestamp_be('00:00:10.23', shift=6000), '00:00:16,959')
         self.assertRaises(TypeError, ttml2srt.get_sb_timestamp_be, '131798332t')
 
     def test_foutput(self):
