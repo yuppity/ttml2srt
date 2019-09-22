@@ -11,6 +11,9 @@ from xml.dom import minidom
 def extract_dialogue(nodes):
     dialogue = ''
     for node in nodes:
+        if node.localName == 'span' and node.hasChildNodes():
+            dialogue = dialogue + "<i>" + extract_dialogue(node.childNodes) + "</i>"
+            continue
         if node.localName == 'br':
             dialogue = dialogue + '\n'
         elif node.nodeValue:
@@ -82,6 +85,13 @@ def timestamp_to_ms(time, fps=23.976, delim='.', scale=1):
                   int(hhmmss[2]) * 1000]
     return scaler(hh + mm + ss + ms, scale)
 
+def seconds_to_ms(time, scale=1):
+    ss, cc = time.rsplit('.', 1)
+    # Remove the unit signifier before converting to ms.
+    cc = int(cc[:-1]) * 10
+    ss = int(ss) * 1000
+    return scaler(ss + cc, scale)
+
 def get_sb_timestamp_be(time, shift=0, fps=23.976, tick_rate=None, scale=1):
     """Return SubRip timestamp after conversion from source timestamp.
 
@@ -100,6 +110,8 @@ def get_sb_timestamp_be(time, shift=0, fps=23.976, tick_rate=None, scale=1):
     delim = ''.join([i for i in time if not i.isdigit()])[-1]
     if delim.lower() == 't':
         ms = ticks_to_ms(tick_rate, time, scale)
+    elif delim.lower() == 's':
+        ms = seconds_to_ms(time, scale)
     else:
         ms = timestamp_to_ms(time, fps, delim, scale)
 
