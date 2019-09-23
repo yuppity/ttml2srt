@@ -11,9 +11,6 @@ from xml.dom import minidom
 def extract_dialogue(nodes):
     dialogue = ''
     for node in nodes:
-        if node.localName == 'span' and node.hasChildNodes():
-            dialogue = dialogue + "<i>" + extract_dialogue(node.childNodes) + "</i>"
-            continue
         if node.localName == 'br':
             dialogue = dialogue + '\n'
         elif node.nodeValue:
