@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2085417t" end="36286250t" region="bottom" xml:id="subtitle0"><span style="span">My name's Chelsea Handler,</span><br/><span style="span">and I am as white as they come.</span></p>
+<p begin="37120417t" end="62145417t" region="bottom" xml:id="subtitle1"><span style="span">I'm filming a documentary</span><br/><span style="span">about white privilege.</span></p>
+<p begin="81331250t" end="95095000t" region="bottom" xml:id="subtitle2"><span style="span">Oh-hhhh.</span></p>
+<p begin="103853750t" end="137220417t" region="bottom" xml:id="subtitle3"><span style="span">You guys know where you come from,</span><br/><span style="span">you know your history. We don't know that.</span></p>
+<p begin="138054584t" end="156406250t" region="bottom" xml:id="subtitle4"><span style="span">[man]</span><br/><span style="span">You do need to learn about others,</span></p>
+<p begin="157240417t" end="174757917t" region="bottom" xml:id="subtitle5"><span style="span">but you also have to learn about yourself.</span></p>
+<p begin="179762917t" end="213546667t" region="bottom" xml:id="subtitle6"><span style="span">White people have to have</span><br/><span style="span">the conversation with white people.</span></p>
+<p begin="223556667t" end="243159584t" region="bottom" xml:id="subtitle7"><span style="span">It's like talking about porn</span><br/><span style="span">at the dinner table.</span></p>
+<p begin="243993750t" end="264013750t" region="bottom" xml:id="subtitle8"><span style="span">[cackles] Lord have mercy.</span></p>
+<p begin="264847917t" end="277360417t" region="bottom" xml:id="subtitle9"><span style="span">[cymbals crash]</span></p>
+</div>
+</body>
+</tt>

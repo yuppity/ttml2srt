@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="8350008t" end="29225029t" region="bottom" xml:id="subtitle0"><span style="span">Sergeant Schumann.</span></p>
+<p begin="30895031t" end="43420043t" region="bottom" xml:id="subtitle1"><span style="span">Yes, sir.</span></p>
+<p begin="45090045t" end="56780057t" region="bottom" xml:id="subtitle2"><span style="span">At ease.</span></p>
+<p begin="68052568t" end="88092588t" region="bottom" xml:id="subtitle3"><span style="span">I didn't recognize you in civvies.</span></p>
+<p begin="92267592t" end="113560113t" region="bottom" xml:id="subtitle4"><span style="span">I don't recognize myself</span><br/><span style="span">sometimes either, sir.</span></p>
+<p begin="120240119t" end="133600133t" region="bottom" xml:id="subtitle5"><span style="span">Got out a few months back.</span></p>
+<p begin="135270135t" end="149882649t" region="bottom" xml:id="subtitle6"><span style="span">Why'd you go and do that?</span></p>
+<p begin="156145156t" end="187040187t" region="bottom" xml:id="subtitle7"><span style="span">The wife. I was downrange</span><br/><span style="span">three times with two kids.</span></p>
+<p begin="188710188t" end="201652701t" region="bottom" xml:id="subtitle8"><span style="span">Roger that.</span></p>
+<p begin="210837711t" end="229625229t" region="bottom" xml:id="subtitle9"><span style="span">What's this line you're in?</span></p>
+<p begin="235470234t" end="260102759t" region="bottom" xml:id="subtitle10"><span style="span">We're applying for</span><br/><span style="span">service connection, sir.</span></p>
+<p begin="285570285t" end="317717817t" region="bottom" xml:id="subtitle11"><span style="span">Shoe, you were my hammer out there.</span></p>
+<p begin="319387818t" end="346942846t" region="bottom" xml:id="subtitle12"><span style="span">Don't let these young guys</span><br/><span style="span">see you fold like this.</span></p>
+<p begin="348612848t" end="362807862t" region="bottom" xml:id="subtitle13"><span style="span">It's bad for morale.</span></p>
+<p begin="366982866t" end="383265382t" region="bottom" xml:id="subtitle14"><span style="span">Bad for Big Army.</span></p>
+</div>
+</body>
+</tt>

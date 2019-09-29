@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="657323332t" end="686936250t" region="bottomCenter" style="s1" xml:id="subtitle0">[boy] Mom, Mom! Uncle Jonas is here!</p>
+<p begin="687770416t" end="707790416t" region="bottomCenter" style="s1" xml:id="subtitle1">[mother] No, it's not Tuesday today.</p>
+<p begin="709458750t" end="729061666t" region="bottomCenter" style="s1" xml:id="subtitle2">But he is. He's here.</p>
+<p begin="911327082t" end="945527916t" region="bottomCenter" style="s1" xml:id="subtitle3">[Jonas] So, after the Germans surrendered,</p>
+<p begin="946362082t" end="987653332t" region="bottomCenter" style="s1" xml:id="subtitle4">when did our king return to Norway<br/>from exile?</p>
+<p begin="1008507499t" end="1024773749t" region="bottomCenter" style="s1" xml:id="subtitle5">Um...</p>
+<p begin="1051467082t" end="1081914166t" region="bottomCenter" style="s1" xml:id="subtitle6">June 7th, 1945.</p>
+<p begin="1109441666t" end="1140722916t" region="bottomCenter" style="s1" xml:id="subtitle7">And on what date<br/>did the Norwegian Parliament</p>
+<p begin="1141557082t" end="1173672500t" region="bottomCenter" style="s1" xml:id="subtitle8">hold its first election after the war?</p>
+<p begin="1242074166t" end="1254586666t" region="bottomCenter" style="s1" xml:id="subtitle9">Um...</p>
+<p begin="1261260000t" end="1285033750t" region="bottomCenter" style="s1" xml:id="subtitle10">-July 6...<br/>-[Jonas] Don't guess.</p>
+<p begin="1310058750t" end="1321737082t" region="bottomCenter" style="s1" xml:id="subtitle11">Uh...</p>
+<p begin="1327993332t" end="1338003332t" region="bottomCenter" style="s1" xml:id="subtitle12">August...</p>
+<p begin="1351767082t" end="1363862500t" region="bottomCenter" style="s1" xml:id="subtitle13">[breathing heavily]</p>
+<p begin="1381797082t" end="1404319582t" region="bottomCenter" style="s1" xml:id="subtitle14">On what date</p>
+<p begin="1405153750t" end="1456037916t" region="bottomCenter" style="s1" xml:id="subtitle15">did the Norwegian Parliament<br/>hold its first election since the war?</p>
+<p begin="1468967500t" end="1482731250t" region="bottomCenter" style="s1" xml:id="subtitle16">[boy] Uh...</p>
+<p begin="1485233750t" end="1511927082t" region="bottomCenter" style="s1" xml:id="subtitle17">August... August 12th, 1945.</p>
+<p begin="1523188332t" end="1540288750t" region="bottomCenter" style="s1" xml:id="subtitle18">[beans spilling]</p>
+<p begin="1555303750t" end="1583665416t" region="bottomCenter" style="s1" xml:id="subtitle19">You have to help him more.</p>
+<p begin="1835166666t" end="1857272082t" region="bottomCenter" style="s1" xml:id="subtitle20">-[Jonas grunting]<br/>-[bed squeaking]</p>
+<p begin="1893141249t" end="1909407499t" region="bottomCenter" style="s1" xml:id="subtitle21">[Jonas moans]</p>
+<p begin="1974472499t" end="1997412082t" region="bottomCenter" style="s1" xml:id="subtitle22">[Jonas panting]</p>
+<p begin="2049964582t" end="2079994582t" region="bottomCenter" style="s1" xml:id="subtitle23">I'm going to tell your wife<br/>that he's your son.</p>
+<p begin="2092507082t" end="2125456666t" region="bottomCenter" style="s1" xml:id="subtitle24">And then she can tell<br/>the rest of your family.</p>
+<p begin="2177592082t" end="2200948750t" region="bottomCenter" style="s1" xml:id="subtitle25">[Jonas] Then you'll never see me again.</p>
+<p begin="2306053750t" end="2326490832t" region="bottomCenter" style="s1" xml:id="subtitle26">[boy] Stop! Please!</p>
+<p begin="2346927916t" end="2362360000t" region="bottomCenter" style="s1" xml:id="subtitle27">Wait!</p>
+<p begin="2375706666t" end="2385716666t" region="bottomCenter" style="s1" xml:id="subtitle28">[engine starting]</p>
+<p begin="2386550832t" end="2396977916t" region="bottomCenter" style="s1" xml:id="subtitle29">No!</p>
+<p begin="2397812082t" end="2415329582t" region="bottomCenter" style="s1" xml:id="subtitle30">[mother] Jonas!</p>
+<p begin="2416163750t" end="2449530416t" region="bottomCenter" style="s1" xml:id="subtitle31">No! Jonas! No!</p>
+<p begin="2450364582t" end="2465379582t" region="bottomCenter" style="s1" xml:id="subtitle32">Jonas!</p>
+<p begin="2492490000t" end="2510007500t" region="bottomCenter" style="s1" xml:id="subtitle33">Mom!</p>
+<p begin="3017180832t" end="3027190832t" region="bottomCenter" style="s1" xml:id="subtitle34">Mom?</p>
+<p begin="3110607500t" end="3128125000t" region="bottomCenter" style="s1" xml:id="subtitle35">[brakes screeching]</p>
+<p begin="3200280416t" end="3215712500t" region="bottomCenter" style="s1" xml:id="subtitle36">[ice cracking]</p>
+<p begin="3221134582t" end="3248662082t" region="bottomCenter" style="s1" xml:id="subtitle37">Mom, come on, we've gotta get outta here!</p>
+<p begin="3269516250t" end="3292872916t" region="bottomCenter" style="s1" xml:id="subtitle38">Mom, come on!</p>
+<p begin="3324571250t" end="3345842500t" region="bottomCenter" style="s1" xml:id="subtitle39">Open the door!</p>
+<p begin="3379626249t" end="3403817082t" region="bottomCenter" style="s1" xml:id="subtitle40">Mom, come on! Open the door!</p>
+<p begin="3426339582t" end="3436766666t" region="bottomCenter" style="s1" xml:id="subtitle41">Mom!</p>
+<p begin="3449696249t" end="3463877082t" region="bottomCenter" style="s1" xml:id="subtitle42">Mom!</p>
+<p begin="3474304166t" end="3493072916t" region="bottomCenter" style="s1" xml:id="subtitle43">No!</p>
+<p begin="3509339166t" end="3527273749t" region="bottomCenter" style="s1" xml:id="subtitle44">Don't leave me!</p>
+<p begin="3546042499t" end="3572318749t" region="bottomCenter" style="s1" xml:id="subtitle45">No!</p>
+<p begin="3675755416t" end="3697443749t" region="bottomCenter" style="s1" xml:id="subtitle46">[snoring]</p>
+<p begin="3849262082t" end="3865945416t" region="topCenter" style="s1" xml:id="subtitle47">[snoring continues]</p>
+<p begin="3870533332t" end="3893889999t" region="bottomCenter" style="s1" xml:id="subtitle48">-[bottle clatters]<br/>-[gasps]</p>
+<p begin="3909322082t" end="3930176249t" region="bottomCenter" style="s1" xml:id="subtitle49">[groans]</p>
+<p begin="3979392082t" end="3988984999t" region="bottomCenter" style="s1" xml:id="subtitle50">[coughing]</p>
+<p begin="3989819166t" end="4009422082t" region="bottomCenter" style="s1" xml:id="subtitle51">[girl squealing]</p>
+<p begin="4146225416t" end="4162074582t" region="bottomCenter" style="s1" xml:id="subtitle52">Shit.</p>
+<p begin="4245074166t" end="4261340416t" region="bottomCenter" style="s1" xml:id="subtitle53">Morning.</p>
+<p begin="4293872916t" end="4319732082t" region="bottomCenter" style="s1" xml:id="subtitle54">-[indistinct chatter]<br/>-[Harry continues coughing]</p>
+<p begin="5734478750t" end="5744488750t" region="bottomCenter" style="s1" xml:id="subtitle55">[air hissing]</p>
+<p begin="5756584166t" end="5766594166t" region="bottomCenter" style="s1" xml:id="subtitle56">[man] Fuck it!</p>
+<p begin="5781609166t" end="5792870416t" region="bottomCenter" style="s1" xml:id="subtitle57">Piece of shit.</p>
+<p begin="5813724582t" end="5826237082t" region="bottomCenter" style="s1" xml:id="subtitle58">Harry Hole?</p>
+<p begin="5889216666t" end="5904648750t" region="bottomCenter" style="s1" xml:id="subtitle59">Hello.</p>
+<p begin="5910070832t" end="5925920000t" region="bottomCenter" style="s1" xml:id="subtitle60">Dry rot throughout the whole building,</p>
+<p begin="5926754166t" end="5952196250t" region="bottomCenter" style="s1" xml:id="subtitle61">and I'm afraid we've found<br/>some mold behind the walls.</p>
+<p begin="5956367082t" end="5982643332t" region="bottomCenter" style="s1" xml:id="subtitle62"><span style="s1_1">Aspergillus,</span> toxic,</p>
+<p begin="5983477500t" end="6000995000t" region="bottomCenter" style="s1" xml:id="subtitle63">and pathogenic.</p>
+<p begin="6001829166t" end="6035195832t" region="bottomCenter" style="s1" xml:id="subtitle64">Yeah, your landlord let me in<br/>to spray the apartment.</p>
+<p begin="6036030000t" end="6051879166t" region="bottomCenter" style="s1" xml:id="subtitle65">I'm gonna have to take<br/>all these panels off,</p>
+<p begin="6052713332t" end="6078155416t" region="bottomCenter" style="s1" xml:id="subtitle66">and this is above your bed. Jesus Christ.</p>
+<p begin="6081492082t" end="6105265832t" region="bottomCenter" style="s1" xml:id="subtitle67">Is there anywhere else<br/>that you could stay?</p>
+<p begin="6122366250t" end="6159069582t" region="bottomCenter" style="s1" xml:id="subtitle68">The air in here is so bad,<br/>you're actually killing your house plants.</p>
+<p begin="6221632082t" end="6248325416t" region="bottomCenter" style="s1" xml:id="subtitle69">I'm not disturbing you, am I?</p>
+<p begin="6264174582t" end="6286697082t" region="bottomCenter" style="s1" xml:id="subtitle70">[Rakel] You are familiar<br/>with Emanuel Vigeland.</p>
+<p begin="6287531250t" end="6327154166t" region="bottomCenter" style="s1" xml:id="subtitle71">The brothers' work was<br/>most likely influenced by their father,</p>
+<p begin="6327988332t" end="6373450416t" region="bottomCenter" style="s1" xml:id="subtitle72">who turned to drink, had an illegitimate<br/>child with a younger woman.</p>
+<p begin="6505248750t" end="6541117916t" region="bottomCenter" style="s1" xml:id="subtitle73">You can clearly see in each artist's case,</p>
+<p begin="6541952082t" end="6598258332t" region="bottomCenter" style="s1" xml:id="subtitle74">the recurring themes of love,<br/>perverted and betrayed...</p>
+<p begin="6617027082t" end="6643303332t" region="bottomCenter" style="s1" xml:id="subtitle75">[Edda] The good news is that<br/>with this new version of the EviSync,</p>
+<p begin="6644137500t" end="6669162500t" region="bottomCenter" style="s1" xml:id="subtitle76">from version 3.6 to version 4.0,</p>
+<p begin="6673750416t" end="6698358332t" region="bottomCenter" style="s1" xml:id="subtitle77">allows you to manually push the data</p>
+<p begin="6699192500t" end="6723800416t" region="bottomCenter" style="s1" xml:id="subtitle78">back to the server<br/>using the cellular network.</p>
+<p begin="6727554166t" end="6758835416t" region="bottomCenter" style="s1" xml:id="subtitle79">The EviSync will automatically upload<br/>all the new data</p>
+<p begin="6759669582t" end="6805965832t" region="bottomCenter" style="s1" xml:id="subtitle80">to the central police server here,<br/>every 12 hours.</p>
+<p begin="6810553749t" end="6849342499t" region="bottomCenter" style="s1" xml:id="subtitle81">We've also done some work<br/>on the fingerprint scanning software.</p>
+<p begin="6850176666t" end="6880623749t" region="bottomCenter" style="s1" xml:id="subtitle82">So, you will notice a significantly faster</p>
+<p begin="6881457916t" end="6909819582t" region="bottomCenter" style="s1" xml:id="subtitle83">opening time after scanning<br/>your fingerprint.</p>
+<p begin="6910653749t" end="6936512916t" region="bottomCenter" style="s1" xml:id="subtitle84">But please make sure<br/>that your fingerprint scans</p>
+<p begin="6937347082t" end="6980723749t" region="bottomCenter" style="s1" xml:id="subtitle85">are done cleanly<br/>and clearly from the start.</p>
+<p begin="6981557916t" end="7009085416t" region="bottomCenter" style="s1" xml:id="subtitle86">If you are experiencing<br/>a high number of false scans,</p>
+<p begin="7009919582t" end="7057884166t" region="bottomCenter" style="s1" xml:id="subtitle87">this is probably because your fingerprints<br/>were scanned incorrectly from the start.</p>
+<p begin="7074984582t" end="7097924166t" region="bottomCenter" style="s1" xml:id="subtitle88">[indistinct chatter]</p>
+<p begin="7346088749t" end="7375701666t" region="bottomCenter" style="s1" xml:id="subtitle89">That must be nearly<br/>a whole week of mail this time.</p>
+<p begin="7387797082t" end="7402812082t" region="bottomCenter" style="s1" xml:id="subtitle90">[sighs]</p>
+<p begin="7406148749t" end="7436178749t" region="bottomCenter" style="s1" xml:id="subtitle91">Did I miss anything while I was away?</p>
+<p begin="7450359582t" end="7474967499t" region="bottomCenter" style="s1" xml:id="subtitle92">My uncle died.</p>
+<p begin="7475801666t" end="7489982499t" region="bottomCenter" style="s1" xml:id="subtitle93">Close, were you?</p>
+<p begin="7507082916t" end="7548791249t" region="bottomCenter" style="s1" xml:id="subtitle94">A leave of absence has to<br/>be formally requested, in writing.</p>
+<p begin="7549625416t" end="7560886666t" region="bottomCenter" style="s1" xml:id="subtitle95">Doesn't matter who you are.</p>
+<p begin="7578821249t" end="7588831249t" region="bottomCenter" style="s1" xml:id="subtitle96">Backdate it,</p>
+<p begin="7595921666t" end="7622197916t" region="bottomCenter" style="s1" xml:id="subtitle97">but I can't keep covering for you.</p>
+<p begin="7644303332t" end="7668077082t" region="bottomCenter" style="s1" xml:id="subtitle98">I'm dealing with it.</p>
+<p begin="7676418749t" end="7705197499t" region="bottomCenter" style="s1" xml:id="subtitle99">I need a case to work on.</p>
+<p begin="7706031666t" end="7741483749t" region="bottomCenter" style="s1" xml:id="subtitle100">I apologize for Oslo's low murder rate.</p>
+<p begin="7748574166t" end="7802377916t" region="bottomCenter" style="s1" xml:id="subtitle101">[inhales] Let's, uh,<br/>stick to the uncle story.</p>
+<p begin="8249491249t" end="8279521249t" region="bottomCenter" style="s1" xml:id="subtitle102">[Rakel] You scared my clients away.</p>
+<p begin="8280355416t" end="8328737082t" region="bottomCenter" style="s1" xml:id="subtitle103">[Harry] I didn't forget Oleg's birthday.<br/>I got him concert tickets.</p>
+<p begin="8342917916t" end="8360435416t" region="bottomCenter" style="s1" xml:id="subtitle104">What did you do?</p>
+<p begin="8379204166t" end="8400475416t" region="bottomCenter" style="s1" xml:id="subtitle105">We took him for a pizza.</p>
+<p begin="8421746666t" end="8448857082t" region="bottomCenter" style="s1" xml:id="subtitle106">Oleg misses you.</p>
+<p begin="8449691249t" end="8478887082t" region="bottomCenter" style="s1" xml:id="subtitle107">He doesn't get along<br/>very well with Mathias.</p>
+<p begin="8479721249t" end="8507248749t" region="bottomCenter" style="s1" xml:id="subtitle108">[Harry] What about you?</p>
+<p begin="8508082916t" end="8544369166t" region="bottomCenter" style="s1" xml:id="subtitle109">[Rakel] I'm not going to answer that.</p>
+<p begin="8545203332t" end="8568559999t" region="bottomCenter" style="s1" xml:id="subtitle110">He wants to meet his real father.</p>
+<p begin="8576067499t" end="8610268332t" region="bottomCenter" style="s1" xml:id="subtitle111">I don't think he's ready for that.</p>
+<p begin="8753745000t" end="8786277500t" region="bottomCenter" style="s1" xml:id="subtitle112">Thank you for walking me back home.</p>
+<p begin="8787111666t" end="8811719582t" region="bottomCenter" style="s1" xml:id="subtitle113">[Harry] See you at the game.</p>
+<p begin="8812553750t" end="8847588750t" region="bottomCenter" style="s1" xml:id="subtitle114">Tell Oleg I'm sorry I missed it.</p>
+<p begin="8991899582t" end="9016090416t" region="bottomCenter" style="s1" xml:id="subtitle115">[indistinct chatter]</p>
+<p begin="9485726250t" end="9499907082t" region="bottomCenter" style="s1" xml:id="subtitle116">[car beeps and unlocks]</p>
+<p begin="9624615000t" end="9645052082t" region="bottomCenter" style="s1" xml:id="subtitle117">[engine starting]</p>
+<p begin="9755579166t" end="9771845416t" region="bottomCenter" style="s1" xml:id="subtitle118">[cell phone chimes]</p>
+<p begin="9870277082t" end="9886126250t" region="bottomCenter" style="s1" xml:id="subtitle119">[cell phone chimes]</p>
+<p begin="10139712916t" end="10168908750t" region="bottomCenter" style="s1" xml:id="subtitle120">[signal clicking]</p>
+<p begin="10486726250t" end="10498821666t" region="bottomCenter" style="s1" xml:id="subtitle121">Hi!</p>
+<p begin="10532605416t" end="10555545000t" region="bottomCenter" style="s1" xml:id="subtitle122">-The snowman.<br/>-What?</p>
+<p begin="10559298750t" end="10575982082t" region="bottomCenter" style="s1" xml:id="subtitle123">Snowman!</p>
+<p begin="10613519582t" end="10636876250t" region="bottomCenter" style="s1" xml:id="subtitle124">I'll take a picture.</p>
+<p begin="10637710416t" end="10649805832t" region="bottomCenter" style="s1" xml:id="subtitle125">Beautiful, honey.</p>
+<p begin="10812885416t" end="10828734582t" region="bottomCenter" style="s1" xml:id="subtitle126">[cell phone chimes]</p>
+<p begin="11035607916t" end="11048954582t" region="bottomCenter" style="s1" xml:id="subtitle127">Mum!</p>
+<p begin="11127366250t" end="11156145000t" region="bottomCenter" style="s1" xml:id="subtitle128">-Hi.<br/>-Hi.</p>
+<p begin="11156979166t" end="11172411250t" region="bottomCenter" style="s1" xml:id="subtitle129">Hello.</p>
+<p begin="11173245416t" end="11185757916t" region="bottomCenter" style="s1" xml:id="subtitle130">[girl] Can I borrow your scarf?</p>
+<p begin="11186592082t" end="11212868332t" region="bottomCenter" style="s1" xml:id="subtitle131">-You want my scarf? Here.<br/>-[giggles]</p>
+<p begin="11213702500t" end="11242898332t" region="bottomCenter" style="s1" xml:id="subtitle132">I told you I had to leave by 8:00.</p>
+<p begin="11244149582t" end="11280435832t" region="bottomCenter" style="s1" xml:id="subtitle133">And I told you<br/>that I had to help one of my students.</p>
+<p begin="11732137082t" end="11745483750t" region="bottomCenter" style="s1" xml:id="subtitle134">[gasps]</p>
+<p begin="12249320416t" end="12276013750t" region="bottomCenter" style="s1" xml:id="subtitle135">[Harry groaning]</p>
+<p begin="12424495416t" end="12439510416t" region="bottomCenter" style="s1" xml:id="subtitle136">No, thanks.</p>
+<p begin="12472042916t" end="12484138332t" region="bottomCenter" style="s1" xml:id="subtitle137">It's the smoking room.</p>
+<p begin="12494982500t" end="12519173332t" region="bottomCenter" style="s1" xml:id="subtitle138">Yeah, but it's the only place<br/>I can concentrate, so...</p>
+<p begin="12520007500t" end="12544198332t" region="bottomCenter" style="s1" xml:id="subtitle139">I'm, um... I'm Katrine Bratt.</p>
+<p begin="12547535000t" end="12561715832t" region="bottomCenter" style="s1" xml:id="subtitle140">Harry Hole.</p>
+<p begin="12562550000t" end="12607595000t" region="bottomCenter" style="s1" xml:id="subtitle141">I know who you are. We, um... We actually<br/>studied your cases at the academy.</p>
+<p begin="12619690416t" end="12640127500t" region="bottomCenter" style="s1" xml:id="subtitle142">I didn't know they date back that far.</p>
+<p begin="12640961666t" end="12664318332t" region="bottomCenter" style="s1" xml:id="subtitle143">Yeah, you're up there<br/>with the legends, so...</p>
+<p begin="12666403750t" end="12678916250t" region="bottomCenter" style="s1" xml:id="subtitle144">[men laughing]</p>
+<p begin="12772760000t" end="12784855416t" region="bottomCenter" style="s1" xml:id="subtitle145">I don't know who you are.</p>
+<p begin="12794031250t" end="12824061250t" region="bottomCenter" style="s1" xml:id="subtitle146">No, I'm new. I, um...<br/>I transferred from Bergen.</p>
+<p begin="12839910416t" end="12869940416t" region="bottomCenter" style="s1" xml:id="subtitle147">Actually, they've put me in your office.</p>
+<p begin="12919990416t" end="12945015416t" region="bottomCenter" style="s1" xml:id="subtitle148">Okay. Bye.</p>
+<p begin="12948352082t" end="12966286666t" region="bottomCenter" style="s1" xml:id="subtitle149">[Harry clears throat]</p>
+<p begin="12973794166t" end="13015085416t" region="bottomCenter" style="s1" xml:id="subtitle150">[door opens and closes]</p>
+<p begin="13156476666t" end="13175245416t" region="bottomCenter" style="s1" xml:id="subtitle151">Mom?</p>
+<p begin="13304958332t" end="13322058750t" region="bottomCenter" style="s1" xml:id="subtitle152">Mommy?</p>
+<p begin="13456359582t" end="13468454999t" region="bottomCenter" style="s1" xml:id="subtitle153">Mommy.</p>
+<p begin="13732885832t" end="13759162082t" region="bottomCenter" style="s1" xml:id="subtitle154">[Katrine] Okay, where can I drop you?<br/>I'm on a call.</p>
+<p begin="13759996249t" end="13780433332t" region="bottomCenter" style="s1" xml:id="subtitle155">[Harry] It's okay. I'm in no hurry.</p>
+<p begin="13781267499t" end="13799619166t" region="bottomCenter" style="s1" xml:id="subtitle156">[Katrine] So, why don't you have a car?</p>
+<p begin="13800453332t" end="13814217082t" region="bottomCenter" style="s1" xml:id="subtitle157">[Harry] I don't have a license.</p>
+<p begin="13869689166t" end="13885955416t" region="bottomCenter" style="s1" xml:id="subtitle158">Missing persons?</p>
+<p begin="13894297082t" end="13927246666t" region="bottomCenter" style="s1" xml:id="subtitle159">Yeah, it's a woman. The call just came in.</p>
+<p begin="14003572916t" end="14032768749t" region="bottomCenter" style="s1" xml:id="subtitle160">[Katrine] So, this machine is called<br/>"EviSync," and I will record you,</p>
+<p begin="14033602916t" end="14051954582t" region="bottomCenter" style="s1" xml:id="subtitle161">so, there's a little camera<br/>on the other side. You're aware of it.</p>
+<p begin="14052788749t" end="14064049999t" region="bottomCenter" style="s1" xml:id="subtitle162">Right.</p>
+<p begin="14064884166t" end="14091994582t" region="bottomCenter" style="s1" xml:id="subtitle163">Would you like to walk me<br/>through what happened?</p>
+<p begin="14092828749t" end="14122441666t" region="bottomCenter" style="s1" xml:id="subtitle164">Well, I saw Josephine<br/>in the garden in her pajamas.</p>
+<p begin="14123275832t" end="14168320832t" region="bottomCenter" style="s1" xml:id="subtitle165">And I thought,<br/>"What is she doing out in this cold?"</p>
+<p begin="14169154999t" end="14196265416t" region="bottomCenter" style="s1" xml:id="subtitle166">So, I came over to check.</p>
+<p begin="14200853332t" end="14232968749t" region="bottomCenter" style="s1" xml:id="subtitle167">And she said she couldn't find her mother.</p>
+<p begin="14233802916t" end="14273008749t" region="bottomCenter" style="s1" xml:id="subtitle168">I tried calling the father,<br/>but apparently, he's away on business.</p>
+<p begin="14813965832t" end="14840242082t" region="topCenter" style="s1" xml:id="subtitle169">[Rafto] How long has she been missing?</p>
+<p begin="14841076249t" end="14856508332t" region="bottomCenter" style="s1" xml:id="subtitle170">Two days.</p>
+<p begin="14868186666t" end="14902387499t" region="bottomCenter" style="s1" xml:id="subtitle171">She said she was going to visit a friend,<br/>and she never came back.</p>
+<p begin="14916151249t" end="14961196249t" region="bottomCenter" style="s1" xml:id="subtitle172">Why did you come to me?<br/>I've been suspended.</p>
+<p begin="14962030416t" end="14986638332t" region="bottomCenter" style="s1" xml:id="subtitle173">Because you're a friend.</p>
+<p begin="14987472499t" end="15007909582t" region="bottomCenter" style="s1" xml:id="subtitle174">And you're a great detective.</p>
+<p begin="15023341666t" end="15048366666t" region="bottomCenter" style="s1" xml:id="subtitle175">But I don't want anyone<br/>knowing about this just yet.</p>
+<p begin="15049200832t" end="15081733332t" region="bottomCenter" style="s1" xml:id="subtitle176">Not yet. I don't wanna go to the police.</p>
+<p begin="15082567499t" end="15130114999t" region="bottomCenter" style="s1" xml:id="subtitle177">Can you tell me,<br/>was your wife seeing anyone?</p>
+<p begin="15148883749t" end="15182250416t" region="bottomCenter" style="s1" xml:id="subtitle178">I, uh, I checked her credit card bills.</p>
+<p begin="15196848332t" end="15220204999t" region="bottomCenter" style="s1" xml:id="subtitle179">She's been to see a pregnancy doctor.</p>
+<p begin="15221039166t" end="15257325416t" region="bottomCenter" style="s1" xml:id="subtitle180">Well, that... That's great news, Frederik.</p>
+<p begin="15258576666t" end="15273174582t" region="bottomCenter" style="s1" xml:id="subtitle181">[sighs]</p>
+<p begin="15281933332t" end="15318219582t" region="bottomCenter" style="s1" xml:id="subtitle182">We haven't shared a bed in three years.</p>
+<p begin="15577228332t" end="15589323749t" region="bottomCenter" style="s1" xml:id="subtitle183">[car door closes]</p>
+<p begin="15801202082t" end="15837071249t" region="bottomCenter" style="s1" xml:id="subtitle184">[on voicemail] <span style="s1_1">This is Birte Becker.</span><br/><span style="s1_1">Please leave a message.</span></p>
+<p begin="15872106249t" end="15896297082t" region="bottomCenter" style="s1" xml:id="subtitle185"><span style="s1_1">This is Birte Becker. </span><br/><span style="s1_1">Please leave a message.</span></p>
+<p begin="15927161249t" end="15937588332t" region="bottomCenter" style="s1" xml:id="subtitle186"><span style="s1_1">This is Birte Becker.</span></p>
+<p begin="15991392082t" end="16018085416t" region="bottomCenter" style="s1" xml:id="subtitle187">[Harry imitates donkey]</p>
+<p begin="16039773749t" end="16051034999t" region="bottomCenter" style="s1" xml:id="subtitle188">[continues braying]</p>
+<p begin="16100667916t" end="16115265832t" region="bottomCenter" style="s1" xml:id="subtitle189">Hello, Mr. Donkey.</p>
+<p begin="16173657499t" end="16186169999t" region="bottomCenter" style="s1" xml:id="subtitle190">Can I sit down?</p>
+<p begin="16248315416t" end="16272506249t" region="bottomCenter" style="s1" xml:id="subtitle191">It's a nice place you've got here,<br/>Mr. Donkey.</p>
+<p begin="16290857916t" end="16308375416t" region="bottomCenter" style="s1" xml:id="subtitle192">[sniffs]</p>
+<p begin="16320887916t" end="16335485832t" region="bottomCenter" style="s1" xml:id="subtitle193">Did you do this by yourself?</p>
+<p begin="16354254582t" end="16373440416t" region="bottomCenter" style="s1" xml:id="subtitle194">My mom helped me.</p>
+<p begin="16412646249t" end="16432249166t" region="bottomCenter" style="s1" xml:id="subtitle195">Was she in a good mood<br/>when she got home?</p>
+<p begin="16453103332t" end="16468118332t" region="bottomCenter" style="s1" xml:id="subtitle196">Mmm-hmm.</p>
+<p begin="16500650832t" end="16523590416t" region="bottomCenter" style="s1" xml:id="subtitle197">And what about your dad?</p>
+<p begin="16560710832t" end="16594077499t" region="bottomCenter" style="s1" xml:id="subtitle198">He was grumpy again<br/>'cause Mommy was late.</p>
+<p begin="16604921666t" end="16624941666t" region="bottomCenter" style="s1" xml:id="subtitle199">Did she call to say she'd be late?</p>
+<p begin="16654554582t" end="16688755416t" region="bottomCenter" style="s1" xml:id="subtitle200">My dad doesn't want me to have a phone.</p>
+<p begin="16711277916t" end="16728378332t" region="bottomCenter" style="s1" xml:id="subtitle201">She didn't phone the house?</p>
+<p begin="16774674582t" end="16791357916t" region="bottomCenter" style="s1" xml:id="subtitle202">Is he grumpy often?</p>
+<p begin="16841407916t" end="16862262082t" region="bottomCenter" style="s1" xml:id="subtitle203">Has your mother been upset lately,</p>
+<p begin="16869352499t" end="16904387499t" region="bottomCenter" style="s1" xml:id="subtitle204">when your father's been grumpy?</p>
+<p begin="16948181249t" end="16965281666t" region="bottomCenter" style="s1" xml:id="subtitle205">Have you ever seen her cry?</p>
+<p begin="16983216249t" end="17016165832t" region="bottomCenter" style="s1" xml:id="subtitle206">No. But I saw Daddy cry.</p>
+<p begin="17019502499t" end="17030763749t" region="bottomCenter" style="s1" xml:id="subtitle207">When?</p>
+<p begin="17039105416t" end="17064130416t" region="bottomCenter" style="s1" xml:id="subtitle208">A few nights ago. He saw me, too.</p>
+<p begin="17082064999t" end="17103753332t" region="bottomCenter" style="s1" xml:id="subtitle209">What did he do?</p>
+<p begin="17104587499t" end="17132949166t" region="bottomCenter" style="s1" xml:id="subtitle210">Locked himself in the bathroom.</p>
+<p begin="17140873749t" end="17163396249t" region="bottomCenter" style="s1" xml:id="subtitle211">Where was Mommy when he was crying?</p>
+<p begin="17192592082t" end="17202602082t" region="bottomCenter" style="s1" xml:id="subtitle212">She'd gone out.</p>
+<p begin="17209692500t" end="17225124582t" region="bottomCenter" style="s1" xml:id="subtitle213">-[cell phone rings]<br/>-Oh!</p>
+<p begin="17225958750t" end="17235968750t" region="bottomCenter" style="s1" xml:id="subtitle214">Shit.</p>
+<p begin="17245144582t" end="17283516250t" region="bottomCenter" style="s1" xml:id="subtitle215">Yeah, is this Filip Becker?<br/>Yeah, I'm gonna have to call you back.</p>
+<p begin="17284350416t" end="17307707082t" region="bottomCenter" style="s1" xml:id="subtitle216">I'd better go. Thank you.</p>
+<p begin="17326058750t" end="17339405416t" region="bottomCenter" style="s1" xml:id="subtitle217">He cried last week.</p>
+<p begin="17379445416t" end="17408224166t" region="bottomCenter" style="s1" xml:id="subtitle218">Why did you build the snowman<br/>facing the house?</p>
+<p begin="17416148750t" end="17447012916t" region="bottomCenter" style="s1" xml:id="subtitle219">I didn't build the snowman.</p>
+<p begin="17523756250t" end="17548781250t" region="bottomCenter" style="s1" xml:id="subtitle220">[on voicemail] <span style="s1_1">This is Birte Becker.</span><br/><span style="s1_1">Please leave a message.</span></p>
+<p begin="17603836250t" end="17631780832t" region="topCenter" style="s1" xml:id="subtitle221"><span style="s1_1">This is Birte Becker. </span><br/><span style="s1_1">Please leave a message.</span></p>
+<p begin="17848247082t" end="17872855000t" region="bottomCenter" style="s1" xml:id="subtitle222">Do you want a coffee, or something?</p>
+<p begin="17873689166t" end="17891206666t" region="bottomCenter" style="s1" xml:id="subtitle223">[laughs] No.</p>
+<p begin="17892040832t" end="17911643750t" region="bottomCenter" style="s1" xml:id="subtitle224">Look, you're not gonna try<br/>and sleep with me, are you?</p>
+<p begin="17926658750t" end="17960442500t" region="bottomCenter" style="s1" xml:id="subtitle225">-No.<br/>-Okay, good.</p>
+<p begin="17990889582t" end="18027592916t" region="bottomCenter" style="s1" xml:id="subtitle226">She'll show up. She's having an affair.</p>
+<p begin="18028427082t" end="18044276250t" region="bottomCenter" style="s1" xml:id="subtitle227">She left her coat and her handbag<br/>in the house,</p>
+<p begin="18045110416t" end="18063045000t" region="bottomCenter" style="s1" xml:id="subtitle228">and the front door was open.</p>
+<p begin="18066798750t" end="18097245832t" region="bottomCenter" style="s1" xml:id="subtitle229">Even if you're having an affair,<br/>you do not leave your child like that.</p>
+<p begin="18109341250t" end="18129361250t" region="bottomCenter" style="s1" xml:id="subtitle230">And, Harry, she's not the only one.</p>
+<p begin="18130195416t" end="18154803332t" region="bottomCenter" style="s1" xml:id="subtitle231">Look, this is Hege Dahl.<br/>Missing two weeks.</p>
+<p begin="18155637500t" end="18197345832t" region="bottomCenter" style="s1" xml:id="subtitle232">Similar age, young children.<br/>Unhappy marriage.</p>
+<p begin="18206521666t" end="18221119582t" region="bottomCenter" style="s1" xml:id="subtitle233">Talk to the husband.</p>
+<p begin="18294109166t" end="18309958332t" region="bottomCenter" style="s1" xml:id="subtitle234">[sighs]</p>
+<p begin="18618182916t" end="18648630000t" region="bottomCenter" style="s1" xml:id="subtitle235">[officer over radio]<span style="s1_1"> 411 to Dispatch. </span><br/><span style="s1_1">Dispatch, do you receive?</span></p>
+<p begin="18649464166t" end="18681996666t" region="bottomCenter" style="s1" xml:id="subtitle236">[dispatch] <span style="s1_1">Go ahead, 411.</span><br/>[officer] <span style="s1_1">Up in Mount Ulriken.</span></p>
+<p begin="18682830832t" end="18697845832t" region="bottomCenter" style="s1" xml:id="subtitle237"><span style="s1_1">It looks like a homicide.</span></p>
+<p begin="18698680000t" end="18736217500t" region="bottomCenter" style="s1" xml:id="subtitle238"><span style="s1_1">Adult female. It's hard to see from here,</span><br/><span style="s1_1">but there's a lot of blood.</span></p>
+<p begin="18737051666t" end="18759991250t" region="bottomCenter" style="s1" xml:id="subtitle239"><span style="s1_1">A group of school children found her.</span></p>
+<p begin="18903467916t" end="18928492916t" region="bottomCenter" style="s1" xml:id="subtitle240"><span style="s1_1">I've got a problem. Rafto just showed up.</span></p>
+<p begin="18929327082t" end="18946844582t" region="bottomCenter" style="s1" xml:id="subtitle241">[officer 1 on walkie-talkie]<br/><span style="s1_1">What the hell's he doing there?</span></p>
+<p begin="18947678750t" end="18958105832t" region="bottomCenter" style="s1" xml:id="subtitle242"><span style="s1_1">He's been suspended.</span></p>
+<p begin="18961859582t" end="18978125832t" region="bottomCenter" style="s1" xml:id="subtitle243"><span style="s1_1">Try telling him that.</span></p>
+<p begin="18982713750t" end="19001065416t" region="bottomCenter" style="s1" xml:id="subtitle244">[static on walkie-talkie]</p>
+<p begin="19008990000t" end="19026507500t" region="bottomCenter" style="s1" xml:id="subtitle245">[officer 1] <span style="s1_1">We'll send the kids down</span><br/><span style="s1_1">with their teacher.</span></p>
+<p begin="19027341666t" end="19045276250t" region="bottomCenter" style="s1" xml:id="subtitle246"><span style="s1_1">Make sure there's a care officer </span><br/><span style="s1_1">to meet them,</span></p>
+<p begin="19046110416t" end="19069467082t" region="bottomCenter" style="s1" xml:id="subtitle247"><span style="s1_1">and someone to deal with the parents.</span></p>
+<p begin="19096160416t" end="19110341250t" region="bottomCenter" style="s1" xml:id="subtitle248">[children crying]</p>
+<p begin="19205019166t" end="19237551666t" region="bottomCenter" style="s1" xml:id="subtitle249">[teacher] One of the children, they heard<br/>a noise, and they went to see what it was.</p>
+<p begin="19238385832t" end="19273837916t" region="bottomCenter" style="s1" xml:id="subtitle250">[Svenson] Listen, listen. John, John. I'm<br/>gonna need you to calm down. Calm down.</p>
+<p begin="19274672082t" end="19298862916t" region="bottomCenter" style="s1" xml:id="subtitle251">It's important that you answer<br/>my questions and give me the information.</p>
+<p begin="19299697082t" end="19318882916t" region="bottomCenter" style="s1" xml:id="subtitle252">-[officer 2] <span style="s1_1">Who's in charge?</span><br/>-[officer 1] <span style="s1_1">Svenson.</span></p>
+<p begin="19319717082t" end="19333063750t" region="bottomCenter" style="s1" xml:id="subtitle253">[officer 2] <span style="s1_1">Jesus.</span></p>
+<p begin="19345993332t" end="19378108750t" region="bottomCenter" style="s1" xml:id="subtitle254">[officer 1] <span style="s1_1">It gets worse. </span><br/><span style="s1_1">Rafto just arrived.</span></p>
+<p begin="19378942916t" end="19401882500t" region="bottomCenter" style="s1" xml:id="subtitle255">[officer 2] <span style="s1_1">Perfect, the drunk </span><br/><span style="s1_1">and the halfwit.</span></p>
+<p begin="19413560832t" end="19433580832t" region="bottomCenter" style="s1" xml:id="subtitle256"><span style="s1_1">Just keep them apart, will you?</span></p>
+<p begin="19434832082t" end="19464445000t" region="bottomCenter" style="s1" xml:id="subtitle257">[officer 1] <span style="s1_1">I'll see what I can do.</span></p>
+<p begin="19499062916t" end="19513243750t" region="bottomCenter" style="s1" xml:id="subtitle258">Where are you going?</p>
+<p begin="19522836666t" end="19536183332t" region="bottomCenter" style="s1" xml:id="subtitle259">Rafto!</p>
+<p begin="19569967082t" end="19587484582t" region="bottomCenter" style="s1" xml:id="subtitle260">[seagulls squawking]</p>
+<p begin="19695509166t" end="19707604582t" region="bottomCenter" style="s1" xml:id="subtitle261">Rafto!</p>
+<p begin="19763076666t" end="19786850416t" region="bottomCenter" style="s1" xml:id="subtitle262">[squawking intensifies]</p>
+<p begin="19979542916t" end="19989970000t" region="bottomCenter" style="s1" xml:id="subtitle263">[door opens]</p>
+<p begin="20017497500t" end="20035432082t" region="bottomCenter" style="s1" xml:id="subtitle264">-[man] We're closed.<br/>-It's all right.</p>
+<p begin="20174737916t" end="20215612082t" region="bottomCenter" style="s1" xml:id="subtitle265">-You have something of mine.<br/>-It's not yours.</p>
+<p begin="20262325416t" end="20275255000t" region="bottomCenter" style="s1" xml:id="subtitle266">Cold case.</p>
+<p begin="20285682082t" end="20299862916t" region="bottomCenter" style="s1" xml:id="subtitle267">I have clearance to take it out,<br/>you don't.</p>
+<p begin="20300697082t" end="20312792500t" region="bottomCenter" style="s1" xml:id="subtitle268">[scoffs]</p>
+<p begin="20317380416t" end="20337400416t" region="bottomCenter" style="s1" xml:id="subtitle269">So, what? You're gonna report me?</p>
+<p begin="20390370000t" end="20414143750t" region="bottomCenter" style="s1" xml:id="subtitle270">Eli Kvale. Tell me.</p>
+<p begin="20439168750t" end="20480877082t" region="bottomCenter" style="s1" xml:id="subtitle271">She was married. She left three children.</p>
+<p begin="20484213750t" end="20519665832t" region="bottomCenter" style="s1" xml:id="subtitle272">The 12th of November, six years ago,<br/>she went missing.</p>
+<p begin="20532595416t" end="20558871666t" region="bottomCenter" style="s1" xml:id="subtitle273">And the day she vanished, it was snowing.</p>
+<p begin="20588901666t" end="20618514582t" region="bottomCenter" style="s1" xml:id="subtitle274">Hege Dahl disappeared the 8th of November.</p>
+<p begin="20619348750t" end="20650630000t" region="bottomCenter" style="s1" xml:id="subtitle275">The day she went missing, it was snowing.</p>
+<p begin="20651464166t" end="20683162500t" region="bottomCenter" style="s1" xml:id="subtitle276">-Not unusual, it's winter.<br/>-Now, Birte Becker.</p>
+<p begin="20693172500t" end="20710272916t" region="bottomCenter" style="s1" xml:id="subtitle277">The night she disappeared...</p>
+<p begin="20714443750t" end="20732795416t" region="bottomCenter" style="s1" xml:id="subtitle278">-Snowing.<br/>-Yeah.</p>
+<p begin="20736966250t" end="20773252500t" region="bottomCenter" style="s1" xml:id="subtitle279">I think it's the falling snow<br/>that sets the killer off.</p>
+<p begin="20774086666t" end="20804533750t" region="bottomCenter" style="s1" xml:id="subtitle280">And furthermore, they're all married,<br/>they all have children.</p>
+<p begin="20834563750t" end="20867096250t" region="bottomCenter" style="s1" xml:id="subtitle281">Did you talk to Filip Becker?</p>
+<p begin="20867930416t" end="20888784582t" region="bottomCenter" style="s1" xml:id="subtitle282">Nine times out of ten, the husband did it.</p>
+<p begin="20889618750t" end="20930075832t" region="bottomCenter" style="s1" xml:id="subtitle283">He was interviewed and his alibi is solid.<br/>He was 100 miles away.</p>
+<p begin="20957186250t" end="20990135832t" region="bottomCenter" style="s1" xml:id="subtitle284">-Have you eaten?<br/>-No.</p>
+<p begin="20990970000t" end="21006402082t" region="bottomCenter" style="s1" xml:id="subtitle285">No, I haven't. I'm hungry.</p>
+<p begin="21110255832t" end="21134029582t" region="bottomCenter" style="s1" xml:id="subtitle286">[Filip] "Twenty-eighth, handball."</p>
+<p begin="21135280832t" end="21153215416t" region="bottomCenter" style="s1" xml:id="subtitle287">Josephine's handball match.</p>
+<p begin="21181577082t" end="21212858332t" region="bottomCenter" style="s1" xml:id="subtitle288">"Third, F. Lunch."</p>
+<p begin="21213692500t" end="21255817916t" region="topCenter" style="s1" xml:id="subtitle289">That's lunch with her friend, Frida.</p>
+<p begin="21256652082t" end="21273752500t" region="topCenter" style="s1" xml:id="subtitle290">I really...<br/>I don't see the point in doing this.</p>
+<p begin="21274586666t" end="21295023750t" region="bottomCenter" style="s1" xml:id="subtitle291">[Harry] I won't keep you much longer.</p>
+<p begin="21309204582t" end="21325053750t" region="bottomCenter" style="s1" xml:id="subtitle292">[Filip sighs]</p>
+<p begin="21328807500t" end="21350078750t" region="bottomCenter" style="s1" xml:id="subtitle293">"Ninth, Vetlesen." He's her doctor.</p>
+<p begin="21350912916t" end="21360922916t" region="bottomCenter" style="s1" xml:id="subtitle294">Tenth...</p>
+<p begin="21361757082t" end="21386782082t" region="bottomCenter" style="s1" xml:id="subtitle295">Do you have any idea<br/>why your wife went to see him?</p>
+<p begin="21395957916t" end="21411807082t" region="bottomCenter" style="s1" xml:id="subtitle296">Who?</p>
+<p begin="21412641250t" end="21427656250t" region="bottomCenter" style="s1" xml:id="subtitle297">Dr. Vetlesen.</p>
+<p begin="21438917500t" end="21451847082t" region="bottomCenter" style="s1" xml:id="subtitle298">No.</p>
+<p begin="21463108332t" end="21474369582t" region="bottomCenter" style="s1" xml:id="subtitle299">"Tenth, yoga."</p>
+<p begin="21475203750t" end="21492721250t" region="bottomCenter" style="s1" xml:id="subtitle300">Is there any reason you can think of</p>
+<p begin="21498560416t" end="21531092916t" region="bottomCenter" style="s1" xml:id="subtitle301">why your wife might disappear so suddenly?</p>
+<p begin="21565293750t" end="21581977082t" region="bottomCenter" style="s1" xml:id="subtitle302">Your marriage,</p>
+<p begin="21589901666t" end="21607419166t" region="bottomCenter" style="s1" xml:id="subtitle303">was everything all right?</p>
+<p begin="21659554582t" end="21681242916t" region="bottomCenter" style="s1" xml:id="subtitle304">Were either of you having an affair?</p>
+<p begin="21682077082t" end="21696675000t" region="bottomCenter" style="s1" xml:id="subtitle305">[Josephine] Daddy!</p>
+<p begin="21705850832t" end="21718363332t" region="bottomCenter" style="s1" xml:id="subtitle306">Come on!</p>
+<p begin="21719197500t" end="21742554166t" region="bottomCenter" style="s1" xml:id="subtitle307">[Filip] I promised her<br/>we'd walk around the neighborhood</p>
+<p begin="21743388332t" end="21764659582t" region="bottomCenter" style="s1" xml:id="subtitle308">to see if we could find her mother.</p>
+<p begin="21765493750t" end="21782594166t" region="bottomCenter" style="s1" xml:id="subtitle309">I'm just gonna get my jacket, darling!</p>
+<p begin="21783428332t" end="21808870416t" region="bottomCenter" style="s1" xml:id="subtitle310">Come out! Dad!</p>
+<p begin="21810538750t" end="21830558750t" region="bottomCenter" style="s1" xml:id="subtitle311">[conversing in Russian]</p>
+<p begin="21879357500t" end="21895623750t" region="bottomCenter" style="s1" xml:id="subtitle312">[intercom beeps]</p>
+<p begin="21919814582t" end="21937749166t" region="bottomCenter" style="s1" xml:id="subtitle313">[gate lock buzzes]</p>
+<p begin="21951512916t" end="21964025416t" region="bottomCenter" style="s1" xml:id="subtitle314">[speaking Russian]</p>
+<p begin="22209270416t" end="22223868332t" region="bottomCenter" style="s1" xml:id="subtitle315">Step inside.</p>
+<p begin="22332727082t" end="22349410416t" region="bottomCenter" style="s1" xml:id="subtitle316">[crowd cheering]</p>
+<p begin="22381525832t" end="22417395000t" region="bottomCenter" style="s1" xml:id="subtitle317">Mmm. I thought you wouldn't remember.</p>
+<p begin="22447425000t" end="22460771666t" region="bottomCenter" style="s1" xml:id="subtitle318">[laughs]</p>
+<p begin="22471198750t" end="22503314166t" region="bottomCenter" style="s1" xml:id="subtitle319">[Harry] Is he still giving you<br/>a hard time?</p>
+<p begin="22504148332t" end="22517912082t" region="bottomCenter" style="s1" xml:id="subtitle320">If you want, I can talk to him.</p>
+<p begin="22529173332t" end="22543354166t" region="bottomCenter" style="s1" xml:id="subtitle321">-[crowd] Oh!<br/>-Oh!</p>
+<p begin="22571298750t" end="22619263332t" region="bottomCenter" style="s1" xml:id="subtitle322">Just have fun tonight. He misses you.</p>
+<p begin="22620097500t" end="22634278332t" region="bottomCenter" style="s1" xml:id="subtitle323">[Mathias] Hi, Harry.</p>
+<p begin="22635112500t" end="22649293332t" region="bottomCenter" style="s1" xml:id="subtitle324">Good to see you.</p>
+<p begin="22659720416t" end="22687247916t" region="bottomCenter" style="s1" xml:id="subtitle325">Sorry I'm late, honey.</p>
+<p begin="22700177500t" end="22718946250t" region="bottomCenter" style="s1" xml:id="subtitle326">Have you had anything to eat?</p>
+<p begin="22719780416t" end="22741468750t" region="bottomCenter" style="s1" xml:id="subtitle327">No, I'll grab something later.</p>
+<p begin="22742302916t" end="22761905832t" region="bottomCenter" style="s1" xml:id="subtitle328">No, no, no, but I've got vouchers.</p>
+<p begin="22763157082t" end="22784428332t" region="bottomCenter" style="s1" xml:id="subtitle329">-Yeah?<br/>-Yep.</p>
+<p begin="22785262500t" end="22834478332t" region="bottomCenter" style="s1" xml:id="subtitle330">-Hot dog, or hot dog.<br/>-[laughs] Well, hot dog, then.</p>
+<p begin="22835312500t" end="22848659166t" region="bottomCenter" style="s1" xml:id="subtitle331">Harry?</p>
+<p begin="22849493332t" end="22878689166t" region="bottomCenter" style="s1" xml:id="subtitle332">I'll get something to eat with Oleg after.</p>
+<p begin="22934578332t" end="22956266666t" region="bottomCenter" style="s1" xml:id="subtitle333">[cheering]</p>
+<p begin="22980874582t" end="23009236250t" region="bottomCenter" style="s1" xml:id="subtitle334">So, how are things with you?</p>
+<p begin="23010070416t" end="23025085416t" region="bottomCenter" style="s1" xml:id="subtitle335">-All right.<br/>-Yeah?</p>
+<p begin="23028839166t" end="23038849166t" region="bottomCenter" style="s1" xml:id="subtitle336">A bit tired.</p>
+<p begin="23049276250t" end="23073467082t" region="bottomCenter" style="s1" xml:id="subtitle337">You've been working too hard, haven't you?</p>
+<p begin="23093487082t" end="23110170416t" region="bottomCenter" style="s1" xml:id="subtitle338">I can't sleep.</p>
+<p begin="23128522082t" end="23183160000t" region="bottomCenter" style="s1" xml:id="subtitle339">You should try Valzetet. It's a new one.</p>
+<p begin="23184411250t" end="23198175000t" region="bottomCenter" style="s1" xml:id="subtitle340">It'll help you sleep.</p>
+<p begin="23211104582t" end="23242802916t" region="bottomCenter" style="s1" xml:id="subtitle341">I can give you a prescription right now.</p>
+<p begin="23243637082t" end="23254898332t" region="bottomCenter" style="s1" xml:id="subtitle342">-Really?<br/>-Yeah.</p>
+<p begin="23255732500t" end="23284928332t" region="bottomCenter" style="s1" xml:id="subtitle343">-With that?<br/>-Yeah.</p>
+<p begin="23340400416t" end="23365008332t" region="bottomCenter" style="s1" xml:id="subtitle344">-[crowd cheering]<br/>-[referee blows whistle]</p>
+<p begin="23412138750t" end="23439666250t" region="bottomCenter" style="s1" xml:id="subtitle345">[Oleg] She won't allow me to try<br/>and find my father.</p>
+<p begin="23440500416t" end="23465942500t" region="bottomCenter" style="s1" xml:id="subtitle346">[Harry] Your mother should be<br/>the judge of that.</p>
+<p begin="23497640832t" end="23538515000t" region="bottomCenter" style="s1" xml:id="subtitle347">-[Oleg] She won't listen to me.<br/>-[Harry] She's worried about you.</p>
+<p begin="23553112916t" end="23591901666t" region="bottomCenter" style="s1" xml:id="subtitle348">-All she cares about is herself.<br/>-All she cares about is you.</p>
+<p begin="23592735832t" end="23640700416t" region="bottomCenter" style="s1" xml:id="subtitle349">That's why she dumped me.<br/>I'm such a bad influence.</p>
+<p begin="23641534582t" end="23692418750t" region="bottomCenter" style="s1" xml:id="subtitle350">-She's concerned.<br/>-Concerned about what?</p>
+<p begin="23693252916t" end="23726619582t" region="bottomCenter" style="s1" xml:id="subtitle351">The fact that you run away from home.</p>
+<p begin="23727453750t" end="23757900832t" region="bottomCenter" style="s1" xml:id="subtitle352">The fact that you've been drinking.</p>
+<p begin="23758735000t" end="23800026250t" region="bottomCenter" style="s1" xml:id="subtitle353">So, you're gonna give me a lecture<br/>about drinking?</p>
+<p begin="23821297500t" end="23845071250t" region="bottomCenter" style="s1" xml:id="subtitle354">Don't be a prick.</p>
+<p begin="23849242082t" end="23888030832t" region="bottomCenter" style="s1" xml:id="subtitle355">[Harry] Your mum told me the school's<br/>arranged a father-and-son camping trip.</p>
+<p begin="23890533332t" end="23908050832t" region="bottomCenter" style="s1" xml:id="subtitle356">If you want, I can come.</p>
+<p begin="23922648750t" end="23949759166t" region="bottomCenter" style="s1" xml:id="subtitle357">But you're not her boyfriend anymore.</p>
+<p begin="23959769166t" end="23970196250t" region="bottomCenter" style="s1" xml:id="subtitle358">So?</p>
+<p begin="23980623332t" end="23998557916t" region="bottomCenter" style="s1" xml:id="subtitle359">[sighs]</p>
+<p begin="24017743750t" end="24055698332t" region="bottomCenter" style="s1" xml:id="subtitle360">[chuckles] Yeah. Yeah, I want you to come.</p>
+<p begin="24082808750t" end="24106165416t" region="bottomCenter" style="s1" xml:id="subtitle361">-You sure?<br/>-Yeah.</p>
+<p begin="24119095000t" end="24133692916t" region="bottomCenter" style="s1" xml:id="subtitle362">Good.</p>
+<p begin="24134527082t" end="24184577082t" region="bottomCenter" style="s1" xml:id="subtitle363">-So, what's the big surprise?<br/>-Uh...</p>
+<p begin="24207516666t" end="24245054166t" region="bottomCenter" style="s1" xml:id="subtitle364">Let's find out.<br/>Someone at work got me the tickets.</p>
+<p begin="24247973750t" end="24274667082t" region="bottomCenter" style="s1" xml:id="subtitle365">-[wailing]<br/>-[man cheering]</p>
+<p begin="24364757082t" end="24384360000t" region="bottomCenter" style="s1" xml:id="subtitle366">[Oleg] You've got a message.</p>
+<p begin="24385194166t" end="24404380000t" region="bottomCenter" style="s1" xml:id="subtitle367">[Harry] Let me see what it says!</p>
+<p begin="24425234166t" end="24461520416t" region="bottomCenter" style="s1" xml:id="subtitle368">I gotta make a call! You staying here?</p>
+<p begin="24483208750t" end="24506148332t" region="bottomCenter" style="s1" xml:id="subtitle369">[Katrine] <span style="s1_1">Harry, there's another</span><br/><span style="s1_1">missing woman. In Geilo this time.</span></p>
+<p begin="24506982500t" end="24545354166t" region="bottomCenter" style="s1" xml:id="subtitle370">-That's not our jurisdiction.<br/><span style="s1_1">-I think we should have a look at this.</span></p>
+<p begin="24546605416t" end="24567042500t" region="bottomCenter" style="s1" xml:id="subtitle371"><span style="s1_1">I'm gonna be with you </span><br/><span style="s1_1">in two minutes, okay?</span></p>
+<p begin="24572464582t" end="24603745832t" region="bottomCenter" style="s1" xml:id="subtitle372"><span style="s1_1">Her husband specifically asked for you.</span></p>
+<p begin="24673398750t" end="24694252916t" region="bottomCenter" style="s1" xml:id="subtitle373">-[Oleg] Hello.<br/>-[Mathias] Hi.</p>
+<p begin="24695087082t" end="24715524166t" region="bottomCenter" style="s1" xml:id="subtitle374">Oh, I didn't expect you so early.</p>
+<p begin="24716358332t" end="24737212500t" region="bottomCenter" style="s1" xml:id="subtitle375">-[Harry] Something came up.<br/>-Oh.</p>
+<p begin="24738046666t" end="24752227500t" region="bottomCenter" style="s1" xml:id="subtitle376">[Mathias] Hi, Harry.</p>
+<p begin="24753061666t" end="24766408332t" region="bottomCenter" style="s1" xml:id="subtitle377">-Hi.<br/>-[Rakel] How was the concert?</p>
+<p begin="24786845416t" end="24813121666t" region="bottomCenter" style="s1" xml:id="subtitle378">[stammers] Yeah, it was great.</p>
+<p begin="24835227082t" end="24853161666t" region="bottomCenter" style="s1" xml:id="subtitle379">[Harry] We spoke.</p>
+<p begin="24853995832t" end="24897372500t" region="bottomCenter" style="s1" xml:id="subtitle380">I'm taking him<br/>on the father-and-son camping trip...</p>
+<p begin="24909467916t" end="24922814582t" region="bottomCenter" style="s1" xml:id="subtitle381">Thing.</p>
+<p begin="24950342082t" end="24966608332t" region="bottomCenter" style="s1" xml:id="subtitle382">See you.</p>
+<p begin="24967442500t" end="24978703750t" region="bottomCenter" style="s1" xml:id="subtitle383">[Harry] Hey.</p>
+<p begin="24979537916t" end="24999557916t" region="bottomCenter" style="s1" xml:id="subtitle384">Bye.</p>
+<p begin="25039597916t" end="25054612916t" region="bottomCenter" style="s1" xml:id="subtitle385">[Harry] Take me home.</p>
+<p begin="25055447082t" end="25076301250t" region="bottomCenter" style="s1" xml:id="subtitle386">-We'll go in the morning.<br/>-[car door closes]</p>
+<p begin="25485042916t" end="25505062916t" region="bottomCenter" style="s1" xml:id="subtitle387">[Harry] <span style="s1_1">Who reported her missing?</span></p>
+<p begin="25507565416t" end="25546354166t" region="bottomCenter" style="s1" xml:id="subtitle388">[Katrine] <span style="s1_1">Her husband, last night, 20:05.</span></p>
+<p begin="25547188332t" end="25577635416t" region="bottomCenter" style="s1" xml:id="subtitle389">[Harry] <span style="s1_1">Sylvia Ottersen, 33 years old.</span></p>
+<p begin="25580972082t" end="25621429166t" region="bottomCenter" style="s1" xml:id="subtitle390"><span style="s1_1">Self-employed. Married twice.</span></p>
+<p begin="25622263332t" end="25635610000t" region="bottomCenter" style="s1" xml:id="subtitle391"><span style="s1_1">But no children.</span></p>
+<p begin="25772413332t" end="25789513750t" region="bottomCenter" style="s1" xml:id="subtitle392">[electronic music playing on stereo]</p>
+<p begin="25811619166t" end="25824548750t" region="bottomCenter" style="s1" xml:id="subtitle393">Hello?</p>
+<p begin="25849156666t" end="25859583750t" region="bottomCenter" style="s1" xml:id="subtitle394">Hello?</p>
+<p begin="25889613750t" end="25901709166t" region="bottomCenter" style="s1" xml:id="subtitle395">[Harry] Hello?</p>
+<p begin="25902960416t" end="25919643750t" region="bottomCenter" style="s1" xml:id="subtitle396">[hens squawking]</p>
+<p begin="26101075000t" end="26128185416t" region="bottomCenter" style="s1" xml:id="subtitle397">[squawking continues]</p>
+<p begin="26230787916t" end="26252476250t" region="bottomCenter" style="s1" xml:id="subtitle398">-Hi.<br/>-Hi.</p>
+<p begin="26253310416t" end="26263320416t" region="bottomCenter" style="s1" xml:id="subtitle399">Can I help you?</p>
+<p begin="26273330416t" end="26302943332t" region="bottomCenter" style="s1" xml:id="subtitle400">Yeah, well, we're with the Oslo Police.</p>
+<p begin="26317958332t" end="26341732082t" region="bottomCenter" style="s1" xml:id="subtitle401">We got the missing persons call.</p>
+<p begin="26347988332t" end="26365505832t" region="bottomCenter" style="s1" xml:id="subtitle402">Oh. Who's missing?</p>
+<p begin="26380103750t" end="26396370000t" region="bottomCenter" style="s1" xml:id="subtitle403">Sylvia Ottersen.</p>
+<p begin="26400957916t" end="26416807082t" region="bottomCenter" style="s1" xml:id="subtitle404">I'm Sylvia Ottersen.</p>
+<p begin="26426817082t" end="26454761666t" region="bottomCenter" style="s1" xml:id="subtitle405">What, you're Sylvia Ottersen? Why...</p>
+<p begin="26455595832t" end="26482706250t" region="bottomCenter" style="s1" xml:id="subtitle406">Why would your husband<br/>report you missing?</p>
+<p begin="26483540416t" end="26520660832t" region="bottomCenter" style="s1" xml:id="subtitle407">No idea. He's not the kind<br/>to play practical jokes, though.</p>
+<p begin="26521495000t" end="26543600416t" region="bottomCenter" style="s1" xml:id="subtitle408">-Is he here?<br/>-No.</p>
+<p begin="26547354166t" end="26570710832t" region="bottomCenter" style="s1" xml:id="subtitle409">He's gone to the station<br/>to pick up my sister.</p>
+<p begin="26571545000t" end="26614504582t" region="bottomCenter" style="s1" xml:id="subtitle410">Okay. Well, I guess<br/>it must be a crank call.</p>
+<p begin="26615338750t" end="26654544582t" region="bottomCenter" style="s1" xml:id="subtitle411">We didn't know where you were,<br/>so, we had a look inside the house.</p>
+<p begin="26655378750t" end="26671645000t" region="bottomCenter" style="s1" xml:id="subtitle412">I turned your music off.</p>
+<p begin="26672479166t" end="26688328332t" region="bottomCenter" style="s1" xml:id="subtitle413">Sorry about that.</p>
+<p begin="26705011666t" end="26720443750t" region="bottomCenter" style="s1" xml:id="subtitle414">Thank you.</p>
+<p begin="26773830416t" end="26810950832t" region="bottomCenter" style="s1" xml:id="subtitle415">Can I just ask you, is it just you and<br/>your husband, or do you have any children?</p>
+<p begin="26833056250t" end="26850990832t" region="bottomCenter" style="s1" xml:id="subtitle416">No, it's just us.</p>
+<p begin="26868508332t" end="26891447916t" region="bottomCenter" style="s1" xml:id="subtitle417">Okay, thank you.</p>
+<p begin="27043683332t" end="27063286249t" region="bottomCenter" style="s1" xml:id="subtitle418">What the hell do you think<br/>you're doing?</p>
+<p begin="27064120416t" end="27089145416t" region="bottomCenter" style="s1" xml:id="subtitle419">You know damn well what I'm talking about.</p>
+<p begin="27099989582t" end="27131687916t" region="bottomCenter" style="s1" xml:id="subtitle420">Calling the police,<br/>telling them I'm missing.</p>
+<p begin="27132522082t" end="27149622499t" region="bottomCenter" style="s1" xml:id="subtitle421">You think that's funny?</p>
+<p begin="27150456666t" end="27189245416t" region="bottomCenter" style="s1" xml:id="subtitle422">Don't you understand? It's over.<br/>I don't want to see you again.</p>
+<p begin="27204260416t" end="27244717499t" region="bottomCenter" style="s1" xml:id="subtitle423">No, it wasn't your child. It was mine.</p>
+<p begin="27245551666t" end="27278084166t" region="bottomCenter" style="s1" xml:id="subtitle424">If you call one more time,<br/>I'm going to the police.</p>
+<p begin="27345651666t" end="27366088749t" region="bottomCenter" style="s1" xml:id="subtitle425">[hens clucking]</p>
+<p begin="27636358749t" end="27653042082t" region="bottomCenter" style="s1" xml:id="subtitle426">-[whimpers]<br/>-[hens squawking]</p>
+<p begin="27795267499t" end="27804860416t" region="bottomCenter" style="s1" xml:id="subtitle427">[clicks]</p>
+<p begin="27829885416t" end="27844066249t" region="bottomCenter" style="s1" xml:id="subtitle428">[wire tensing]</p>
+<p begin="27947502916t" end="27964603332t" region="bottomCenter" style="s1" xml:id="subtitle429">[whirring]</p>
+<p begin="28015070416t" end="28040512499t" region="bottomCenter" style="s1" xml:id="subtitle430">[woman on radio] <span style="s1_1">HQ to DC Bratt.</span></p>
+<p begin="28041346666t" end="28070125416t" region="bottomCenter" style="s1" xml:id="subtitle431"><span style="s1_1">-DC Bratt.</span><br/>-[Katrine] Yeah, speaking.</p>
+<p begin="28070959582t" end="28110999582t" region="bottomCenter" style="s1" xml:id="subtitle432">[woman] <span style="s1_1">We've had a missing persons </span><br/><span style="s1_1">report, a woman named Sylvia Ottersen.</span></p>
+<p begin="28111833749t" end="28144366249t" region="bottomCenter" style="s1" xml:id="subtitle433">[Katrine] No, she's fine.<br/>We just left her.</p>
+<p begin="28145200416t" end="28180235416t" region="bottomCenter" style="s1" xml:id="subtitle434"><span style="s1_1">Well, the call came in two minutes ago.</span></p>
+<p begin="28181069582t" end="28211099582t" region="bottomCenter" style="s1" xml:id="subtitle435"><span style="s1_1">Her husband asked specifically</span><br/><span style="s1_1">for Inspector Hole.</span></p>
+<p begin="28211933749t" end="28238209999t" region="bottomCenter" style="s1" xml:id="subtitle436">[Katrine] How could...</p>
+<p begin="28239044166t" end="28253642082t" region="bottomCenter" style="s1" xml:id="subtitle437">[Harry] Turn the car around.</p>
+<p begin="28420058332t" end="28437575832t" region="bottomCenter" style="s1" xml:id="subtitle438">Sylvia?</p>
+<p begin="28464269166t" end="28486374582t" region="bottomCenter" style="s1" xml:id="subtitle439">Sorry we're back, Mrs. Ottersen.</p>
+<p begin="28487208749t" end="28510982499t" region="bottomCenter" style="s1" xml:id="subtitle440">We just wanted to make sure<br/>you were all right.</p>
+<p begin="28511816666t" end="28535590416t" region="bottomCenter" style="s1" xml:id="subtitle441">I'm Ane Pedersen.</p>
+<p begin="28536424582t" end="28584389166t" region="bottomCenter" style="s1" xml:id="subtitle442">Sylvia's my sister. We're twins.<br/>Who are you?</p>
+<p begin="28661966666t" end="28676981666t" region="bottomCenter" style="s1" xml:id="subtitle443">[hens clucking]</p>
+<p begin="29428148749t" end="29458178749t" region="bottomCenter" style="s1" xml:id="subtitle444">[sirens wailing]</p>
+<p begin="29517404582t" end="29533253749t" region="bottomCenter" style="s1" xml:id="subtitle445">-[police radio chatter]<br/>-[camera clicking]</p>
+<p begin="29553690832t" end="29582469582t" region="bottomCenter" style="s1" xml:id="subtitle446">-[man 1] Is that enough?<br/>-[man 2] Yeah, keep going.</p>
+<p begin="29583303749t" end="29615419166t" region="bottomCenter" style="s1" xml:id="subtitle447">-[Harry] Did you find Hagen?<br/>-He's at the dinner at City Hall.</p>
+<p begin="29635022082t" end="29665052082t" region="bottomCenter" style="s1" xml:id="subtitle448">[man 1] Keep it clear if you can.</p>
+<p begin="29810197082t" end="29821875416t" region="bottomCenter" style="s1" xml:id="subtitle449">[Ane] <span style="s1_1">She was a free spirit.</span></p>
+<p begin="29859829999t" end="29879849999t" region="bottomCenter" style="s1" xml:id="subtitle450">And she always liked men,</p>
+<p begin="29894030832t" end="29911131249t" region="bottomCenter" style="s1" xml:id="subtitle451">ever since we were teenagers.</p>
+<p begin="29940744166t" end="29959095832t" region="bottomCenter" style="s1" xml:id="subtitle452">She was a good person.</p>
+<p begin="29974527916t" end="29997467499t" region="bottomCenter" style="s1" xml:id="subtitle453">She didn't want to hurt anyone.</p>
+<p begin="29998301666t" end="30024160832t" region="bottomCenter" style="s1" xml:id="subtitle454">It's just the way she was.</p>
+<p begin="30080049999t" end="30111331249t" region="bottomCenter" style="s1" xml:id="subtitle455">I know your sister<br/>didn't have any children.</p>
+<p begin="30112165416t" end="30143863749t" region="bottomCenter" style="s1" xml:id="subtitle456">It was just that there was something<br/>in her reaction, that when I asked...</p>
+<p begin="30144697916t" end="30165552082t" region="bottomCenter" style="s1" xml:id="subtitle457">She was pregnant.</p>
+<p begin="30200587082t" end="30231451249t" region="bottomCenter" style="s1" xml:id="subtitle458">She wasn't sure who the father was.</p>
+<p begin="30261481249t" end="30299018749t" region="bottomCenter" style="s1" xml:id="subtitle459">She got rid of the baby a few weeks ago.</p>
+<p begin="30532585416t" end="30559278749t" region="bottomCenter" style="s1" xml:id="subtitle460">[indistinct chatter]</p>
+<p begin="30767820416t" end="30804940832t" region="bottomCenter" style="s1" xml:id="subtitle461">[announcer] <span style="s1_1">Ladies and gentlemen,</span><br/><span style="s1_1">introducing our guest of honor,</span></p>
+<p begin="30805774999t" end="30828714582t" region="bottomCenter" style="s1" xml:id="subtitle462"><span style="s1_1">king of industry, philanthropist,</span></p>
+<p begin="30829548749t" end="30871257082t" region="bottomCenter" style="s1" xml:id="subtitle463"><span style="s1_1">and head of Oslo's Winter Games bid,</span><br/><span style="s1_1">Arve Stop!</span></p>
+<p begin="30887523332t" end="30906292082t" region="bottomCenter" style="s1" xml:id="subtitle464">So lovely of you to be here for us.</p>
+<p begin="30907126249t" end="30922975416t" region="bottomCenter" style="s1" xml:id="subtitle465">[Vetlesen] I'm not on the list,<br/>but I know many of these people.</p>
+<p begin="30923809582t" end="30934236666t" region="bottomCenter" style="s1" xml:id="subtitle466">I'm supposed to be on the list.</p>
+<p begin="30935070832t" end="30968854582t" region="bottomCenter" style="s1" xml:id="subtitle467">I'm a close old friend of Arve Stop's,<br/>you see.</p>
+<p begin="30969688749t" end="30988040416t" region="bottomCenter" style="s1" xml:id="subtitle468">There's been<br/>some kind of misunderstanding.</p>
+<p begin="30988874582t" end="31003889582t" region="bottomCenter" style="s1" xml:id="subtitle469">[guard] I have a person named Vetlesen.</p>
+<p begin="31004723749t" end="31014733749t" region="bottomCenter" style="s1" xml:id="subtitle470">Come on up. You can come here.</p>
+<p begin="31015567916t" end="31050602916t" region="bottomCenter" style="s1" xml:id="subtitle471">[guard] He says he's a friend<br/>of Arve Stop.</p>
+<p begin="31051437082t" end="31068954582t" region="bottomCenter" style="s1" xml:id="subtitle472">-No. Wait, wait.<br/>-No, it's fine, it's fine.</p>
+<p begin="31069788749t" end="31084803749t" region="bottomCenter" style="s1" xml:id="subtitle473">No, just relax, just relax.</p>
+<p begin="31086054999t" end="31099401666t" region="bottomCenter" style="s1" xml:id="subtitle474">[guests applauding]</p>
+<p begin="31114833749t" end="31133602499t" region="bottomCenter" style="s1" xml:id="subtitle475">[Stop] <span style="s1_1">I run over a dozen companies.</span></p>
+<p begin="31134436666t" end="31149034582t" region="bottomCenter" style="s1" xml:id="subtitle476"><span style="s1_1">When people ask me</span></p>
+<p begin="31149868749t" end="31184069582t" region="bottomCenter" style="s1" xml:id="subtitle477"><span style="s1_1">why I've given up so much of my time</span><br/><span style="s1_1">to lead this bid,</span></p>
+<p begin="31184903749t" end="31226194999t" region="bottomCenter" style="s1" xml:id="subtitle478"><span style="s1_1">I tell them it's because</span><br/><span style="s1_1">I never had these opportunities.</span></p>
+<p begin="31227029166t" end="31244546666t" region="bottomCenter" style="s1" xml:id="subtitle479"><span style="s1_1">When I was a boy,</span></p>
+<p begin="31245380832t" end="31272074166t" region="bottomCenter" style="s1" xml:id="subtitle480"><span style="s1_1">the only winter sports I engaged in were</span></p>
+<p begin="31272908332t" end="31308777499t" region="bottomCenter" style="s1" xml:id="subtitle481"><span style="s1_1">the uphill snow shovel</span><br/><span style="s1_1">and the 50-meter firewood carry.</span></p>
+<p begin="31310028749t" end="31330048749t" region="bottomCenter" style="s1" xml:id="subtitle482">[all laughing]</p>
+<p begin="31350068749t" end="31390108749t" region="bottomCenter" style="s1" xml:id="subtitle483"><span style="s1_1">That is why I believe passionately</span><br/><span style="s1_1">that this Cup</span></p>
+<p begin="31390942916t" end="31442661249t" region="bottomCenter" style="s1" xml:id="subtitle484"><span style="s1_1">is about much more</span><br/><span style="s1_1">than just publicity for our fair city.</span></p>
+<p begin="31531082916t" end="31544012499t" region="bottomCenter" style="s1" xml:id="subtitle485">Homicides?</p>
+<p begin="31544846666t" end="31576544999t" region="bottomCenter" style="s1" xml:id="subtitle486">Just missing persons for now,<br/>but the pattern is disturbing.</p>
+<p begin="31596564999t" end="31622424166t" region="bottomCenter" style="s1" xml:id="subtitle487">And I received this.</p>
+<p begin="31662047082t" end="31686654999t" region="bottomCenter" style="s1" xml:id="subtitle488">Prints?</p>
+<p begin="31687489166t" end="31729614582t" region="bottomCenter" style="s1" xml:id="subtitle489">It isn't just the letter. He reported her<br/>missing before he killed her.</p>
+<p begin="31730448749t" end="31750468749t" region="bottomCenter" style="s1" xml:id="subtitle490">He was watching us the entire time.</p>
+<p begin="31784669582t" end="31795096666t" region="bottomCenter" style="s1" xml:id="subtitle491">What do you need?</p>
+<p begin="31795930832t" end="31831382916t" region="bottomCenter" style="s1" xml:id="subtitle492">A small team. I'll set up<br/>a separate incident room at the mill.</p>
+<p begin="31832217082t" end="31853905416t" region="bottomCenter" style="s1" xml:id="subtitle493">All right, but I don't want a word of this<br/>to be leaked...</p>
+<p begin="31854739582t" end="31864749582t" region="bottomCenter" style="s1" xml:id="subtitle494">To the press.</p>
+<p begin="31865583749t" end="31906040832t" region="bottomCenter" style="s1" xml:id="subtitle495">Press. Yeah, not until<br/>this fucking bid is over.</p>
+<p begin="32185486666t" end="32215099582t" region="bottomCenter" style="s1" xml:id="subtitle496">[Vetlesen] You look very pretty tonight.<br/>You know that.</p>
+<p begin="32215933749t" end="32250134582t" region="bottomCenter" style="s1" xml:id="subtitle497">And now you're trying to...<br/>You see, now you try to smile.</p>
+<p begin="32250968749t" end="32268903332t" region="bottomCenter" style="s1" xml:id="subtitle498">Smile, smile. That's great.</p>
+<p begin="32297264999t" end="32343978332t" region="bottomCenter" style="s1" xml:id="subtitle499">Does this strike you<br/>as the proper time and place for this?</p>
+<p begin="32358993332t" end="32370671666t" region="bottomCenter" style="s1" xml:id="subtitle500">Wait.</p>
+<p begin="32569620416t" end="32583384166t" region="bottomCenter" style="s1" xml:id="subtitle501">[camera clicks]</p>
+<p begin="32605906666t" end="32616333749t" region="bottomCenter" style="s1" xml:id="subtitle502">Idiot.</p>
+<p begin="32624675416t" end="32655539582t" region="bottomCenter" style="s1" xml:id="subtitle503">-[Vetlesen] What? Arve?<br/>-[woman sobs]</p>
+<p begin="32656373749t" end="32674308332t" region="bottomCenter" style="s1" xml:id="subtitle504">What? No, don't cry.</p>
+<p begin="32675976666t" end="32687654999t" region="bottomCenter" style="s1" xml:id="subtitle505">It's...</p>
+<p begin="32688489166t" end="32713514166t" region="bottomCenter" style="s1" xml:id="subtitle506">-Why...<br/>-[door closes]</p>
+<p begin="32772739999t" end="32785252499t" region="bottomCenter" style="s1" xml:id="subtitle507">Shit.</p>
+<p begin="32799016249t" end="32824041249t" region="bottomCenter" style="s1" xml:id="subtitle508">[electronic music playing on stereo]</p>
+<p begin="32981698749t" end="32995045416t" region="bottomCenter" style="s1" xml:id="subtitle509">[Harry] Hey.</p>
+<p begin="33007974999t" end="33019653332t" region="bottomCenter" style="s1" xml:id="subtitle510">Hey!</p>
+<p begin="33083467082t" end="33105989582t" region="bottomCenter" style="s1" xml:id="subtitle511">Get out.</p>
+<p begin="33106823749t" end="33122672916t" region="bottomCenter" style="s1" xml:id="subtitle512">Get out!</p>
+<p begin="33231531666t" end="33258224999t" region="bottomCenter" style="s1" xml:id="subtitle513">[dog whimpering]</p>
+<p begin="33288672082t" end="33299933332t" region="bottomCenter" style="s1" xml:id="subtitle514">Hey!</p>
+<p begin="33317450832t" end="33336219582t" region="bottomCenter" style="s1" xml:id="subtitle515">Oi, mate!</p>
+<p begin="33343727082t" end="33401284582t" region="bottomCenter" style="s1" xml:id="subtitle516">[Magnus] <span style="s1_1">Annette Elden, 33,</span><br/><span style="s1_1">disappeared 12th of December, 2006.</span></p>
+<p begin="33402118749t" end="33426309582t" region="bottomCenter" style="s1" xml:id="subtitle517"><span style="s1_1">Her head washed ashore near Arendal,</span></p>
+<p begin="33427143749t" end="33450917499t" region="bottomCenter" style="s1" xml:id="subtitle518"><span style="s1_1">rest of the body never found.</span></p>
+<p begin="33451751666t" end="33492625832t" region="bottomCenter" style="s1" xml:id="subtitle519">Forensic reports<br/>indicate saw marks on her neck.</p>
+<p begin="33493459999t" end="33518067916t" region="bottomCenter" style="s1" xml:id="subtitle520">Status, unmarried,</p>
+<p begin="33518902082t" end="33547263749t" region="bottomCenter" style="s1" xml:id="subtitle521">two children by different fathers.</p>
+<p begin="33550183332t" end="33586886666t" region="bottomCenter" style="s1" xml:id="subtitle522">Harry, I've got the names and the<br/>addresses of Sylvia Ottersen's boyfriends.</p>
+<p begin="33587720832t" end="33611494582t" region="bottomCenter" style="s1" xml:id="subtitle523">Now, she went to the clinic<br/>the second of November,</p>
+<p begin="33612328749t" end="33640690416t" region="bottomCenter" style="s1" xml:id="subtitle524">but they won't break<br/>patient confidentiality.</p>
+<p begin="33647363749t" end="33687820832t" region="bottomCenter" style="s1" xml:id="subtitle525">They do, however, perform abortions.</p>
+<p begin="33734117082t" end="33747463749t" region="bottomCenter" style="s1" xml:id="subtitle526">What is it?</p>
+<p begin="33752468749t" end="33777076666t" region="bottomCenter" style="s1" xml:id="subtitle527">-Magnus, get me the list.<br/>-[Magnus] What list?</p>
+<p begin="33777910832t" end="33805021249t" region="bottomCenter" style="s1" xml:id="subtitle528">The list of doctors at the Gellion.</p>
+<p begin="33805855416t" end="33843809999t" region="bottomCenter" style="s1" xml:id="subtitle529">I'm thinking that he's going after women<br/>that he disapproves of.</p>
+<p begin="33844644166t" end="33886352499t" region="bottomCenter" style="s1" xml:id="subtitle530">Here. All the doctors at Gellion<br/>from the last five years.</p>
+<p begin="33889689166t" end="33937653749t" region="bottomCenter" style="s1" xml:id="subtitle531">How did he know? How did he know<br/>Sylvia Ottersen was pregnant?</p>
+<p begin="34004387082t" end="34017733749t" region="bottomCenter" style="s1" xml:id="subtitle532">"Idar Vetlesen."</p>
+<p begin="34034834166t" end="34073205832t" region="bottomCenter" style="s1" xml:id="subtitle533">Birte Becker had an appointment<br/>with the same doctor.</p>
+<p begin="34292591666t" end="34304269999t" region="bottomCenter" style="s1" xml:id="subtitle534">[Vetlesen clears throat]</p>
+<p begin="34305104166t" end="34342641666t" region="bottomCenter" style="s1" xml:id="subtitle535">-Dr. Idar Vetlesen?<br/>-Yes, that's me.</p>
+<p begin="34343475832t" end="34353485832t" region="bottomCenter" style="s1" xml:id="subtitle536">Step in.</p>
+<p begin="34354319999t" end="34385601250t" region="bottomCenter" style="s1" xml:id="subtitle537">Birte Becker and Sylvia Ottersen<br/>were both patients of yours?</p>
+<p begin="34386435416t" end="34421887500t" region="bottomCenter" style="s1" xml:id="subtitle538">No, they were both patients at the clinic.</p>
+<p begin="34422721666t" end="34438987916t" region="bottomCenter" style="s1" xml:id="subtitle539">I never met Sylvia Ottersen.</p>
+<p begin="34439822082t" end="34459007916t" region="bottomCenter" style="s1" xml:id="subtitle540">[Harry] Can you tell me who treated her?</p>
+<p begin="34459842082t" end="34491540416t" region="bottomCenter" style="s1" xml:id="subtitle541">No, I'm bound by patient confidentiality.</p>
+<p begin="34501133332t" end="34512811666t" region="bottomCenter" style="s1" xml:id="subtitle542">She's dead.</p>
+<p begin="34516565416t" end="34529077916t" region="bottomCenter" style="s1" xml:id="subtitle543">Oh...</p>
+<p begin="34534500000t" end="34546178332t" region="bottomCenter" style="s1" xml:id="subtitle544">Oh, no.</p>
+<p begin="34555771250t" end="34585384166t" region="topCenter" style="s1" xml:id="subtitle545">Right. Well, doctor confidentiality.</p>
+<p begin="34586218332t" end="34613745832t" region="bottomCenter" style="s1" xml:id="subtitle546">In theory, would it be possible for you<br/>to access her medical files?</p>
+<p begin="34614580000t" end="34626258332t" region="bottomCenter" style="s1" xml:id="subtitle547">Even if you didn't treat her yourself.</p>
+<p begin="34632931666t" end="34650032082t" region="bottomCenter" style="s1" xml:id="subtitle548">Well, in theory, yes.</p>
+<p begin="34650866250t" end="34682564582t" region="bottomCenter" style="s1" xml:id="subtitle549">The doctors at the clinic<br/>have access to the files of every patient</p>
+<p begin="34683398750t" end="34719685000t" region="bottomCenter" style="s1" xml:id="subtitle550">should they choose to look at them,<br/>which I did not.</p>
+<p begin="34720519166t" end="34743041666t" region="bottomCenter" style="s1" xml:id="subtitle551">What did you see Birte Becker about?</p>
+<p begin="34743875832t" end="34768483750t" region="bottomCenter" style="s1" xml:id="subtitle552">Well, that is confidential.</p>
+<p begin="34769317916t" end="34788086666t" region="bottomCenter" style="s1" xml:id="subtitle553">How do you know Arve Stop?</p>
+<p begin="34800182082t" end="34815614166t" region="bottomCenter" style="s1" xml:id="subtitle554">-Arve?<br/>-Hmm.</p>
+<p begin="34818116666t" end="34840639166t" region="bottomCenter" style="s1" xml:id="subtitle555">Well, I've known Arve for years.</p>
+<p begin="34856905416t" end="34877759582t" region="bottomCenter" style="s1" xml:id="subtitle556">I do research in premature birth.</p>
+<p begin="34878593750t" end="34916131250t" region="bottomCenter" style="s1" xml:id="subtitle557">We have a small charity, and Arve Stop<br/>is one of our biggest supporters.</p>
+<p begin="34916965416t" end="34946161250t" region="bottomCenter" style="s1" xml:id="subtitle558">Huh. I wouldn't have thought that a man<br/>who goes on so much about family values</p>
+<p begin="34946995416t" end="34972020416t" region="bottomCenter" style="s1" xml:id="subtitle559">would support a clinic<br/>that specializes in abortion.</p>
+<p begin="34983698750t" end="35012894582t" region="bottomCenter" style="s1" xml:id="subtitle560">Well, we specialize<br/>in many different areas.</p>
+<p begin="35013728750t" end="35052934582t" region="bottomCenter" style="s1" xml:id="subtitle561">And Mr. Stop supports our research<br/>in premature birth.</p>
+<p begin="35053768750t" end="35072120416t" region="bottomCenter" style="s1" xml:id="subtitle562">So, do you see each other socially?</p>
+<p begin="35074622916t" end="35109240832t" region="bottomCenter" style="s1" xml:id="subtitle563">[chuckles] Yeah, well,<br/>that depends on how you mean...</p>
+<p begin="35110075000t" end="35128009582t" region="bottomCenter" style="s1" xml:id="subtitle564">It is quite simple, actually.<br/>Do you have friends in common?</p>
+<p begin="35128843750t" end="35156788332t" region="bottomCenter" style="s1" xml:id="subtitle565">Yes, we mix in the same circles, so...</p>
+<p begin="35157622500t" end="35171803332t" region="bottomCenter" style="s1" xml:id="subtitle566">Why are you...</p>
+<p begin="35172637500t" end="35196828332t" region="bottomCenter" style="s1" xml:id="subtitle567">Have you ever practiced in<br/>other parts of the country, Dr. Vetlesen?</p>
+<p begin="35198079582t" end="35213094582t" region="bottomCenter" style="s1" xml:id="subtitle568">-[scoffs]<br/>-Yes.</p>
+<p begin="35213928750t" end="35235617082t" region="bottomCenter" style="s1" xml:id="subtitle569">I have, in Eidsvoll, in Lillehammer...</p>
+<p begin="35236451250t" end="35266064166t" region="bottomCenter" style="s1" xml:id="subtitle570">I see you have a picture<br/>of Mon Plaisir pavilion in Bergen.</p>
+<p begin="35266898332t" end="35278993750t" region="bottomCenter" style="s1" xml:id="subtitle571">Yes. Yes, in Bergen.</p>
+<p begin="35297345416t" end="35308606666t" region="bottomCenter" style="s1" xml:id="subtitle572">Do you live alone?</p>
+<p begin="35332380416t" end="35359073750t" region="bottomCenter" style="s1" xml:id="subtitle573">Yes, I, uh... I am a reluctant bachelor.</p>
+<p begin="35359907916t" end="35381596250t" region="bottomCenter" style="s1" xml:id="subtitle574">Is there anyone in the house right now?</p>
+<p begin="35397445416t" end="35425807082t" region="bottomCenter" style="s1" xml:id="subtitle575">Because I thought I saw someone<br/>in the window when I passed.</p>
+<p begin="35442490416t" end="35484198750t" region="bottomCenter" style="s1" xml:id="subtitle576">Well, if you want to take a look around,<br/>I will need to see a search warrant.</p>
+<p begin="35485032916t" end="35513811666t" region="bottomCenter" style="s1" xml:id="subtitle577">In fact, if you don't mind,</p>
+<p begin="35514645832t" end="35558439582t" region="bottomCenter" style="s1" xml:id="subtitle578">I would like to call my lawyer before<br/>I answer any more of your questions.</p>
+<p begin="35559273750t" end="35593891666t" region="bottomCenter" style="s1" xml:id="subtitle579">That won't be necessary, Dr. Vetlesen.</p>
+<p begin="35594725832t" end="35628092500t" region="bottomCenter" style="s1" xml:id="subtitle580">You can bring your lawyer<br/>when we see you next time.</p>
+<p begin="35661042082t" end="35671052082t" region="bottomCenter" style="s1" xml:id="subtitle581">[door closes]</p>
+<p begin="35671886250t" end="35688986666t" region="bottomCenter" style="s1" xml:id="subtitle582">-[Harry] Hey.<br/>-Hey.</p>
+<p begin="35699830832t" end="35710675000t" region="bottomCenter" style="s1" xml:id="subtitle583">What was that?</p>
+<p begin="35721102082t" end="35732363332t" region="bottomCenter" style="s1" xml:id="subtitle584">What?</p>
+<p begin="35733197500t" end="35770317916t" region="bottomCenter" style="s1" xml:id="subtitle585">He isn't a suspect yet. We need his<br/>permission to search the house.</p>
+<p begin="35771152082t" end="35786584166t" region="bottomCenter" style="s1" xml:id="subtitle586">[scoffs] I know that.</p>
+<p begin="35792423332t" end="35814111666t" region="bottomCenter" style="s1" xml:id="subtitle587">Why'd you ask him about Arve Stop?</p>
+<p begin="35834131666t" end="35856237082t" region="bottomCenter" style="s1" xml:id="subtitle588">I saw a picture of them both together.</p>
+<p begin="35862493332t" end="35876674166t" region="bottomCenter" style="s1" xml:id="subtitle589">And?</p>
+<p begin="35877508332t" end="35892523332t" region="bottomCenter" style="s1" xml:id="subtitle590">And it was an innocent question.</p>
+<p begin="35893357500t" end="35917965416t" region="bottomCenter" style="s1" xml:id="subtitle591">Jesus. Anyone can see<br/>he's trying to hide something.</p>
+<p begin="35968849582t" end="35991789166t" region="bottomCenter" style="s1" xml:id="subtitle592">[Edda] Like a Netflix type thing. Oh, hey.</p>
+<p begin="36109823750t" end="36129426666t" region="bottomCenter" style="s1" xml:id="subtitle593">Cloudberry.</p>
+<p begin="36163210416t" end="36181562082t" region="bottomCenter" style="s1" xml:id="subtitle594">If you hadn't told me to look out for it,</p>
+<p begin="36182396250t" end="36207838332t" region="bottomCenter" style="s1" xml:id="subtitle595">I'd have assumed<br/>she was attached to his security detail.</p>
+<p begin="36208672500t" end="36239953750t" region="bottomCenter" style="s1" xml:id="subtitle596">-Cloudberry?<br/>-It's her password.</p>
+<p begin="36268315416t" end="36301265000t" region="bottomCenter" style="s1" xml:id="subtitle597">[Stop, on video] <span style="s1_1">Does this strike you</span><br/><span style="s1_1">as the proper time and place for this?</span></p>
+<p begin="36354651666t" end="36365912916t" region="bottomCenter" style="s1" xml:id="subtitle598">[Harry] Arve Stop.</p>
+<p begin="36366747082t" end="36376340000t" region="bottomCenter" style="s1" xml:id="subtitle599">[Stop] <span style="s1_1">Idiot.</span></p>
+<p begin="36377174166t" end="36397611250t" region="bottomCenter" style="s1" xml:id="subtitle600">[Edda] She filmed him</p>
+<p begin="36398445416t" end="36438485416t" region="bottomCenter" style="s1" xml:id="subtitle601">at rallies, at restaurants, at home.</p>
+<p begin="36640770832t" end="36677057082t" region="bottomCenter" style="s1" xml:id="subtitle602">Hi. Do you want a ride?</p>
+<p begin="36698745416t" end="36709172500t" region="bottomCenter" style="s1" xml:id="subtitle603">No.</p>
+<p begin="36811357916t" end="36822202082t" region="bottomCenter" style="s1" xml:id="subtitle604">Bye.</p>
+<p begin="36908955416t" end="36923553332t" region="bottomCenter" style="s1" xml:id="subtitle605">[door closes]</p>
+<p begin="37399028332t" end="37438234166t" region="bottomCenter" style="s1" xml:id="subtitle606">[man on PA] <span style="s1_1">The 8:45 train to Bergen</span><br/><span style="s1_1">is leaving from platform five.</span></p>
+<p begin="37461590832t" end="37473269166t" region="bottomCenter" style="s1" xml:id="subtitle607">Oh, sorry.</p>
+<p begin="37502465000t" end="37530409582t" region="bottomCenter" style="s1" xml:id="subtitle608">[man over intercom]<br/><span style="s1_1">This is the 8:45 service to Bergen,</span></p>
+<p begin="37531243750t" end="37562525000t" region="bottomCenter" style="s1" xml:id="subtitle609"><span style="s1_1">stopping at Gol, Finse, Voss, and Bergen.</span></p>
+<p begin="37563359166t" end="37592972082t" region="bottomCenter" style="s1" xml:id="subtitle610"><span style="s1_1">The next station is Gol.</span></p>
+<p begin="37781493750t" end="37794840416t" region="bottomCenter" style="s1" xml:id="subtitle611">Hi, Harry.</p>
+<p begin="37821533750t" end="37831543750t" region="bottomCenter" style="s1" xml:id="subtitle612">Hi.</p>
+<p begin="37832377916t" end="37864910416t" region="bottomCenter" style="s1" xml:id="subtitle613">-Hiding in the playroom, are we?<br/>-Yes.</p>
+<p begin="37880342500t" end="37919965416t" region="bottomCenter" style="s1" xml:id="subtitle614">Don't worry.<br/>I'm getting off at the next stop.</p>
+<p begin="37920799582t" end="37950412500t" region="bottomCenter" style="s1" xml:id="subtitle615">-Going far?<br/>-Bergen.</p>
+<p begin="37951246666t" end="37966261666t" region="bottomCenter" style="s1" xml:id="subtitle616">Ah. Rather you than me.</p>
+<p begin="37970015416t" end="37982110832t" region="bottomCenter" style="s1" xml:id="subtitle617">Then again,</p>
+<p begin="37982945000t" end="38031326666t" region="bottomCenter" style="s1" xml:id="subtitle618">I'm attending a three-day conference<br/>on bio-identical hormone restoration.</p>
+<p begin="38032160832t" end="38053849166t" region="bottomCenter" style="s1" xml:id="subtitle619">I thought you were a plastic surgeon.</p>
+<p begin="38054683332t" end="38104316250t" region="bottomCenter" style="s1" xml:id="subtitle620">Well, you know, cosmetic surgery<br/>needs to move with the times, too.</p>
+<p begin="38105150416t" end="38151863750t" region="bottomCenter" style="s1" xml:id="subtitle621">We're swapping the scalpel<br/>for hormone replacement therapy.</p>
+<p begin="38152697916t" end="38171049582t" region="bottomCenter" style="s1" xml:id="subtitle622">If you can slow down the aging process,</p>
+<p begin="38171883750t" end="38209004166t" region="bottomCenter" style="s1" xml:id="subtitle623">there won't be any need<br/>for face lifts, will there?</p>
+<p begin="38209838332t" end="38233612082t" region="bottomCenter" style="s1" xml:id="subtitle624">-I'll bear that in mind.<br/>-[Mathias chuckles]</p>
+<p begin="38249461250t" end="38270732500t" region="bottomCenter" style="s1" xml:id="subtitle625">So, how's the prescription working?</p>
+<p begin="38286164582t" end="38314526250t" region="bottomCenter" style="s1" xml:id="subtitle626">-Sleeping like a baby.<br/>-Splendid.</p>
+<p begin="38333712082t" end="38367078750t" region="bottomCenter" style="s1" xml:id="subtitle627">So, you canceled the Oleg thing.</p>
+<p begin="38397108750t" end="38435897500t" region="bottomCenter" style="s1" xml:id="subtitle628">The school trip,<br/>weren't you supposed to...</p>
+<p begin="38436731666t" end="38450495416t" region="bottomCenter" style="s1" xml:id="subtitle629">Oh, shit.</p>
+<p begin="38474269166t" end="38489701250t" region="bottomCenter" style="s1" xml:id="subtitle630">-Oh, shit.<br/>-I'm sorry, Harry.</p>
+<p begin="38498877082t" end="38543087916t" region="bottomCenter" style="s1" xml:id="subtitle631"><span style="s1_1">I'm sure he's fine.</span><br/><span style="s1_1">He knows how busy you are.</span></p>
+<p begin="38543922082t" end="38556434582t" region="bottomCenter" style="s1" xml:id="subtitle632">Shit!</p>
+<p begin="38569781250t" end="38600645416t" region="bottomCenter" style="s1" xml:id="subtitle633">Look. Look, you're not his father, Harry.</p>
+<p begin="38613992082t" end="38627338750t" region="bottomCenter" style="s1" xml:id="subtitle634">What does that mean?</p>
+<p begin="38633177916t" end="38644022082t" region="bottomCenter" style="s1" xml:id="subtitle635">Well, uh...</p>
+<p begin="38644856250t" end="38665293332t" region="bottomCenter" style="s1" xml:id="subtitle636">I don't have to be his father<br/>to care about him.</p>
+<p begin="38666127500t" end="38681559582t" region="bottomCenter" style="s1" xml:id="subtitle637">I was just trying to say that</p>
+<p begin="38682393750t" end="38723267916t" region="bottomCenter" style="s1" xml:id="subtitle638">it's a big enough responsibility<br/>for a real father, isn't it?</p>
+<p begin="38724102082t" end="38737448750t" region="bottomCenter" style="s1" xml:id="subtitle639">Let alone you and me.</p>
+<p begin="38759971250t" end="38795423332t" region="bottomCenter" style="s1" xml:id="subtitle640">-I'm sorry, Harry.<br/>-No.</p>
+<p begin="38842970832t" end="38870081250t" region="bottomCenter" style="s1" xml:id="subtitle641">[Rakel] Did you hear from him?</p>
+<p begin="38870915416t" end="38906784582t" region="bottomCenter" style="s1" xml:id="subtitle642">-Why can't I go? Can I go with you?<br/>-[Oleg] Just go.</p>
+<p begin="38944322082t" end="38969764166t" region="bottomCenter" style="s1" xml:id="subtitle643">Hi, Oleg. It's Mathias.</p>
+<p begin="38970598332t" end="39001879582t" region="bottomCenter" style="s1" xml:id="subtitle644">You know what?<br/>I forgot to check my messages last night,</p>
+<p begin="39002713750t" end="39048592916t" region="bottomCenter" style="s1" xml:id="subtitle645">and Harry called to say<br/>that he couldn't make your trip.</p>
+<p begin="39049427082t" end="39072783750t" region="bottomCenter" style="s1" xml:id="subtitle646">No, I know.</p>
+<p begin="39073617916t" end="39113240832t" region="bottomCenter" style="s1" xml:id="subtitle647">No, well, he couldn't get through<br/>to you, or your mom apparently, so...</p>
+<p begin="39121999582t" end="39147858750t" region="bottomCenter" style="s1" xml:id="subtitle648">No, it's totally my fault, Oleg.</p>
+<p begin="39154115000t" end="39174552082t" region="bottomCenter" style="s1" xml:id="subtitle649">Yes, yes. I'm sorry.</p>
+<p begin="39181225416t" end="39199577082t" region="bottomCenter" style="s1" xml:id="subtitle650">I'm sorry, Oleg. Yes.</p>
+<p begin="39214592082t" end="39230441250t" region="bottomCenter" style="s1" xml:id="subtitle651">Yeah.</p>
+<p begin="39231275416t" end="39277988750t" region="bottomCenter" style="s1" xml:id="subtitle652">So, see you in a few days, then,<br/>when I'm back from the conference. Yeah.</p>
+<p begin="39316777500t" end="39348058750t" region="bottomCenter" style="s1" xml:id="subtitle653">You didn't have to do that.</p>
+<p begin="39786830416t" end="39806850416t" region="bottomCenter" style="s1" xml:id="subtitle654">[indistinct chatter]</p>
+<p begin="39819362916t" end="39845222082t" region="bottomCenter" style="s1" xml:id="subtitle655">Hey, Aasen. Somebody here to speak to you.</p>
+<p begin="39892352500t" end="39904030832t" region="bottomCenter" style="s1" xml:id="subtitle656">Aasen.</p>
+<p begin="39957000416t" end="39999542916t" region="bottomCenter" style="s1" xml:id="subtitle657">My family owned all of these buildings,<br/>and that house over there, too.</p>
+<p begin="40010387082t" end="40027904582t" region="bottomCenter" style="s1" xml:id="subtitle658">Arve Stop worked for us back then.</p>
+<p begin="40028738750t" end="40071281250t" region="bottomCenter" style="s1" xml:id="subtitle659">He was bright, ambitious.</p>
+<p begin="40072115416t" end="40097557500t" region="bottomCenter" style="s1" xml:id="subtitle660">My father really believed in him.</p>
+<p begin="40115492082t" end="40156366250t" region="bottomCenter" style="s1" xml:id="subtitle661">The business wasn't going very well,<br/>so, we, uh, offered him a stake.</p>
+<p begin="40157200416t" end="40189732916t" region="bottomCenter" style="s1" xml:id="subtitle662">Within a year, he had forced us out.</p>
+<p begin="40190567082t" end="40211838332t" region="bottomCenter" style="s1" xml:id="subtitle663">Sold the land for a fortune.</p>
+<p begin="40231441250t" end="40272315416t" region="bottomCenter" style="s1" xml:id="subtitle664">Have any of my colleagues<br/>been in touch with you recently?</p>
+<p begin="40273149582t" end="40299842916t" region="bottomCenter" style="s1" xml:id="subtitle665">-A young lady?<br/>-No.</p>
+<p begin="40308601666t" end="40339465832t" region="bottomCenter" style="s1" xml:id="subtitle666">[Frederik] I look at this picture now.</p>
+<p begin="40340300000t" end="40361154166t" region="bottomCenter" style="s1" xml:id="subtitle667">I see Laila staring at him.</p>
+<p begin="40376586250t" end="40394103750t" region="bottomCenter" style="s1" xml:id="subtitle668">No idea at the time.</p>
+<p begin="40416209166t" end="40431641250t" region="bottomCenter" style="s1" xml:id="subtitle669">Family man, eh?</p>
+<p begin="40467093332t" end="40500877082t" region="bottomCenter" style="s1" xml:id="subtitle670">Do you remember the name<br/>of your wife's doctor?</p>
+<p begin="40501711250t" end="40527153332t" region="bottomCenter" style="s1" xml:id="subtitle671">Sure. Morton Freiberg.</p>
+<p begin="40568861666t" end="40608484582t" region="bottomCenter" style="s1" xml:id="subtitle672">Did she ever see someone<br/>called "Vetlesen?"</p>
+<p begin="40609318750t" end="40633092500t" region="bottomCenter" style="s1" xml:id="subtitle673">Vetlesen? No.</p>
+<p begin="40633926666t" end="40649358750t" region="bottomCenter" style="s1" xml:id="subtitle674">Dr. Idar Vetlesen.</p>
+<p begin="40688147500t" end="40702328332t" region="bottomCenter" style="s1" xml:id="subtitle675">No.</p>
+<p begin="40719845832t" end="40759051666t" region="bottomCenter" style="s1" xml:id="subtitle676">Any idea where I might find the officer<br/>who's in charge of the case?</p>
+<p begin="40759885832t" end="40771564166t" region="bottomCenter" style="s1" xml:id="subtitle677">Rafto?</p>
+<p begin="40786996250t" end="40799091666t" region="bottomCenter" style="s1" xml:id="subtitle678">He died.</p>
+<p begin="40814523750t" end="40856232082t" region="bottomCenter" style="s1" xml:id="subtitle679">Yeah, he died around the same time.</p>
+<p begin="40869161666t" end="40888347500t" region="bottomCenter" style="s1" xml:id="subtitle680">-[snoring]<br/>-[door closes]</p>
+<p begin="40891267082t" end="40921714166t" region="bottomCenter" style="s1" xml:id="subtitle681">[footsteps approaching]</p>
+<p begin="41307516250t" end="41340465832t" region="bottomCenter" style="s1" xml:id="subtitle682">[Rafto] Detective Rafto.</p>
+<p begin="41341300000t" end="41364239582t" region="bottomCenter" style="s1" xml:id="subtitle683">Can you connect me to Haukeland Hospital?</p>
+<p begin="41365073750t" end="41375083750t" region="bottomCenter" style="s1" xml:id="subtitle684">-[woman] Rafto.<br/>-[lively chatter]</p>
+<p begin="41375917916t" end="41390932916t" region="bottomCenter" style="s1" xml:id="subtitle685">[Svenson] What is this? Am I under arrest?</p>
+<p begin="41400525832t" end="41411370000t" region="bottomCenter" style="s1" xml:id="subtitle686">A cake!</p>
+<p begin="41412204166t" end="41455997916t" region="bottomCenter" style="s1" xml:id="subtitle687">Yeah, I need some information<br/>on a patient, Laila Aasen.</p>
+<p begin="41456832082t" end="41468510416t" region="bottomCenter" style="s1" xml:id="subtitle688">No, I don't...</p>
+<p begin="41469344582t" end="41496872082t" region="bottomCenter" style="s1" xml:id="subtitle689">Listen to me.<br/>I don't know the admitting doctor.</p>
+<p begin="41497706250t" end="41527736250t" region="bottomCenter" style="s1" xml:id="subtitle690">But perhaps she was there for an abortion.</p>
+<p begin="41528570416t" end="41542751250t" region="bottomCenter" style="s1" xml:id="subtitle691">♪ <span style="s1_1">Happy birthday to you ♪</span></p>
+<p begin="41543585416t" end="41586127916t" region="bottomCenter" style="s1" xml:id="subtitle692">Well, then, I'll come down there<br/>with a fucking warrant myself.</p>
+<p begin="41586962082t" end="41619077500t" region="bottomCenter" style="s1" xml:id="subtitle693"><span style="s1_1">♪ Happy birthday, dear Svenson ♪</span></p>
+<p begin="41627002082t" end="41653278332t" region="bottomCenter" style="s1" xml:id="subtitle694"><span style="s1_1">♪ Happy birthday to you ♪</span></p>
+<p begin="41654112500t" end="41672881250t" region="bottomCenter" style="s1" xml:id="subtitle695">-[Svenson] Rafto.<br/>-[Rafto] Idiot.</p>
+<p begin="41673715416t" end="41688313332t" region="bottomCenter" style="s1" xml:id="subtitle696">[crowd] Hip, hip, hooray!<br/>Hip, hip, hooray!</p>
+<p begin="41689147500t" end="41720845832t" region="bottomCenter" style="s1" xml:id="subtitle697">[Rafto] Fucking incompetent<br/>sons of bitches.</p>
+<p begin="41730438750t" end="41742117082t" region="bottomCenter" style="s1" xml:id="subtitle698">Oi! Rafto!</p>
+<p begin="41760051666t" end="41770061666t" region="bottomCenter" style="s1" xml:id="subtitle699">Rafto!</p>
+<p begin="41778403332t" end="41801760000t" region="bottomCenter" style="s1" xml:id="subtitle700">[upbeat music playing]</p>
+<p begin="41836377916t" end="41853895416t" region="bottomCenter" style="s1" xml:id="subtitle701">In, in! Get back!</p>
+<p begin="41863488332t" end="41881840000t" region="bottomCenter" style="s1" xml:id="subtitle702">Get back in! Get back in!</p>
+<p begin="41882674166t" end="41901860000t" region="bottomCenter" style="s1" xml:id="subtitle703"><span style="s1_1">Happy birthday to you</span></p>
+<p begin="41917292082t" end="41931472916t" region="bottomCenter" style="s1" xml:id="subtitle704">[Svenson] You idiot!</p>
+<p begin="41967342082t" end="41993201250t" region="bottomCenter" style="s1" xml:id="subtitle705">[Harry] I heard he was a great detective.</p>
+<p begin="41994035416t" end="42016140832t" region="bottomCenter" style="s1" xml:id="subtitle706">[scoffs] He was a suicidal maniac.</p>
+<p begin="42016975000t" end="42052427082t" region="bottomCenter" style="s1" xml:id="subtitle707">They were gonna suspend him, anyway.<br/>They found stuff in his drawers.</p>
+<p begin="42053261250t" end="42083708332t" region="bottomCenter" style="s1" xml:id="subtitle708">Items he'd stolen<br/>from various crime scenes.</p>
+<p begin="42089547500t" end="42105813750t" region="bottomCenter" style="s1" xml:id="subtitle709">Is this him?</p>
+<p begin="42145019582t" end="42155863750t" region="bottomCenter" style="s1" xml:id="subtitle710">[Svenson] Where'd you get this?</p>
+<p begin="42167542082t" end="42177552082t" region="bottomCenter" style="s1" xml:id="subtitle711">[Harry] From a colleague.</p>
+<p begin="42190064582t" end="42207582082t" region="bottomCenter" style="s1" xml:id="subtitle712">Yes, that's him.</p>
+<p begin="42228853332t" end="42253461250t" region="bottomCenter" style="s1" xml:id="subtitle713">He had this cabin up on the coast.</p>
+<p begin="42254295416t" end="42276817916t" region="bottomCenter" style="s1" xml:id="subtitle714">Used to go up there to get smashed.</p>
+<p begin="42277652082t" end="42296003750t" region="bottomCenter" style="s1" xml:id="subtitle715">He was probably drunk<br/>when he shot himself.</p>
+<p begin="42325199582t" end="42347722082t" region="bottomCenter" style="s1" xml:id="subtitle716">What's this on the floor?</p>
+<p begin="42363571250t" end="42389430416t" region="bottomCenter" style="s1" xml:id="subtitle717">They look like coffee beans.</p>
+<p begin="42390264582t" end="42410284582t" region="bottomCenter" style="s1" xml:id="subtitle718">Maybe he was trying to sober up after all.</p>
+<p begin="42411952916t" end="42426967916t" region="bottomCenter" style="s1" xml:id="subtitle719">[chuckles]</p>
+<p begin="42439480416t" end="42451158750t" region="bottomCenter" style="s1" xml:id="subtitle720">You didn't check?</p>
+<p begin="42456580832t" end="42481188750t" region="bottomCenter" style="s1" xml:id="subtitle721">The cabin was locked from the inside,</p>
+<p begin="42489113332t" end="42506213750t" region="bottomCenter" style="s1" xml:id="subtitle722">and he looked like that<br/>when they found him.</p>
+<p begin="42507047916t" end="42529570416t" region="bottomCenter" style="s1" xml:id="subtitle723">There wasn't anything to check.</p>
+<p begin="42562937082t" end="42578369166t" region="bottomCenter" style="s1" xml:id="subtitle724">Did he have any family?</p>
+<p begin="42581705832t" end="42613404166t" region="bottomCenter" style="s1" xml:id="subtitle725">Wife, who left him<br/>a year before he killed himself.</p>
+<p begin="42614238332t" end="42636343750t" region="bottomCenter" style="s1" xml:id="subtitle726">I think there was a daughter.</p>
+<p begin="42648022082t" end="42666790832t" region="bottomCenter" style="s1" xml:id="subtitle727">Do you know where she is now?</p>
+<p begin="42667625000t" end="42689313332t" region="bottomCenter" style="s1" xml:id="subtitle728">Not a clue.</p>
+<p begin="42696820832t" end="42712252916t" region="bottomCenter" style="s1" xml:id="subtitle729">Is the cabin still there?</p>
+<p begin="42776066666t" end="42821111666t" region="bottomCenter" style="s1" xml:id="subtitle730">[Rafto] What are you doing<br/>with my fucking gun, you idiot?</p>
+<p begin="43042582916t" end="43063854166t" region="bottomCenter" style="s1" xml:id="subtitle731">[upbeat music playing]</p>
+<p begin="43079286250t" end="43093884166t" region="bottomCenter" style="s1" xml:id="subtitle732">[man] Here's the papers you asked for.</p>
+<p begin="43270310416t" end="43282822916t" region="bottomCenter" style="s1" xml:id="subtitle733">Where's Harry?</p>
+<p begin="43304928332t" end="43318275000t" region="bottomCenter" style="s1" xml:id="subtitle734">In Bergen.</p>
+<p begin="43730770416t" end="43748287916t" region="bottomCenter" style="s1" xml:id="subtitle735">[chiming rapidly]</p>
+<p begin="43879669166t" end="43899272082t" region="bottomCenter" style="s1" xml:id="subtitle736">[phone ringing]</p>
+<p begin="44077783750t" end="44099472082t" region="bottomCenter" style="s1" xml:id="subtitle737">-Hello?<br/>-[woman] <span style="s1_1">Mr. Hole?</span></p>
+<p begin="44100306250t" end="44114904166t" region="bottomCenter" style="s1" xml:id="subtitle738">This is Harry Hole's phone.</p>
+<p begin="44119075000t" end="44137843750t" region="bottomCenter" style="s1" xml:id="subtitle739">Can I speak to him?</p>
+<p begin="44142848750t" end="44168290832t" region="bottomCenter" style="s1" xml:id="subtitle740">He's not here right now,<br/>but I can take the message for him.</p>
+<p begin="44169125000t" end="44179552082t" region="bottomCenter" style="s1" xml:id="subtitle741"><span style="s1_1">Right, okay.</span></p>
+<p begin="44180386250t" end="44202074582t" region="bottomCenter" style="s1" xml:id="subtitle742"><span style="s1_1">This is Rebecca, NRS at Telenor.</span></p>
+<p begin="44202908750t" end="44232521666t" region="bottomCenter" style="s1" xml:id="subtitle743">We picked up a signal<br/>from a missing person's phone.</p>
+<p begin="44233355832t" end="44251707500t" region="bottomCenter" style="s1" xml:id="subtitle744">Case number MP two.</p>
+<p begin="44252541666t" end="44283822916t" region="bottomCenter" style="s1" xml:id="subtitle745">Um... I don't have any files in front<br/>of me. Um, who's that?</p>
+<p begin="44284657082t" end="44311350416t" region="bottomCenter" style="s1" xml:id="subtitle746">I'll check. Birte Becker.</p>
+<p begin="44334707082t" end="44359732082t" region="bottomCenter" style="s1" xml:id="subtitle747">What, is it transmitting now?</p>
+<p begin="44360566250t" end="44378500832t" region="bottomCenter" style="s1" xml:id="subtitle748">Yeah, just got it in minutes ago.</p>
+<p begin="44379335000t" end="44410199166t" region="bottomCenter" style="s1" xml:id="subtitle749">-Yeah, but wait. Is it moving right now?<br/><span style="s1_1">-No.</span></p>
+<p begin="44411033332t" end="44422711666t" region="bottomCenter" style="s1" xml:id="subtitle750">I'll send you the coordinates.</p>
+<p begin="44423545832t" end="44436475416t" region="bottomCenter" style="s1" xml:id="subtitle751">No, just... What's the address?</p>
+<p begin="44446485416t" end="44486942500t" region="bottomCenter" style="s1" xml:id="subtitle752"><span style="s1_1">Uh, Parkway 1, 0139, Oslo.</span></p>
+<p begin="44493198750t" end="44509465000t" region="bottomCenter" style="s1" xml:id="subtitle753">You're sure that's correct?</p>
+<p begin="44510299166t" end="44526565416t" region="bottomCenter" style="s1" xml:id="subtitle754"><span style="s1_1">Yes, Parkway 1.</span></p>
+<p begin="44576615416t" end="44591630416t" region="bottomCenter" style="s1" xml:id="subtitle755">[Magnus] Hey, are you all right?</p>
+<p begin="44788493750t" end="44813518750t" region="bottomCenter" style="s1" xml:id="subtitle756">[intercom buzzing]</p>
+<p begin="45267722500t" end="45284822916t" region="bottomCenter" style="s1" xml:id="subtitle757">[vibrates]</p>
+<p begin="45540912082t" end="45567188332t" region="bottomCenter" style="s1" xml:id="subtitle758">[on voicemail] <span style="s1_1">This is Birte Becker.</span><br/><span style="s1_1">Please leave a message.</span></p>
+<p begin="45913784582t" end="45934638750t" region="bottomCenter" style="s1" xml:id="subtitle759">-[beeping]<br/>-[sighs]</p>
+<p begin="46007211250t" end="46034738750t" region="bottomCenter" style="s1" xml:id="subtitle760">[beeping continues]</p>
+<p begin="46318772500t" end="46331702082t" region="bottomCenter" style="s1" xml:id="subtitle761">[gasps]</p>
+<p begin="46354224582t" end="46381335000t" region="bottomCenter" style="s1" xml:id="subtitle762">[car speeding away]</p>
+<p begin="46418455416t" end="46429716666t" region="bottomCenter" style="s1" xml:id="subtitle763">Yes?</p>
+<p begin="46433887500t" end="46455575832t" region="bottomCenter" style="s1" xml:id="subtitle764">[whispering inaudibly]</p>
+<p begin="46468505416t" end="46493113332t" region="bottomCenter" style="s1" xml:id="subtitle765">-In his own garage?<br/>-Yeah.</p>
+<p begin="46523143332t" end="46546082916t" region="bottomCenter" style="s1" xml:id="subtitle766">[indistinct chatter]</p>
+<p begin="46723760416t" end="46758795416t" region="bottomCenter" style="s1" xml:id="subtitle767">Ah. The great Harry Hole.</p>
+<p begin="46762132082t" end="46798418332t" region="bottomCenter" style="s1" xml:id="subtitle768">-How many bodies?<br/>-Birte Becker and Ms. Dahl.</p>
+<p begin="46799252500t" end="46822609166t" region="bottomCenter" style="s1" xml:id="subtitle769">-Where's Katrine?<br/>-Suspended.</p>
+<p begin="46823443332t" end="46848051250t" region="bottomCenter" style="s1" xml:id="subtitle770">She got a call telling her<br/>they traced the Becker phone,</p>
+<p begin="46848885416t" end="46867237082t" region="bottomCenter" style="s1" xml:id="subtitle771">and didn't think to tell anyone.</p>
+<p begin="46868071250t" end="46913950416t" region="bottomCenter" style="s1" xml:id="subtitle772">-I asked you where she was.<br/>-That's not my problem right now.</p>
+<p begin="46916452916t" end="46947734166t" region="bottomCenter" style="s1" xml:id="subtitle773">He shot himself straight on.</p>
+<p begin="46948568332t" end="46968588332t" region="bottomCenter" style="s1" xml:id="subtitle774">How do you do that with a shotgun?</p>
+<p begin="46969422500t" end="47000703750t" region="bottomCenter" style="s1" xml:id="subtitle775">It's too long, you'd have to angle it.</p>
+<p begin="47001537916t" end="47026562916t" region="bottomCenter" style="s1" xml:id="subtitle776">The pellet marks<br/>should be up there somewhere.</p>
+<p begin="47027397082t" end="47054924582t" region="bottomCenter" style="s1" xml:id="subtitle777">Luckily, we have experts<br/>to determine that.</p>
+<p begin="47079532500t" end="47111647916t" region="bottomCenter" style="s1" xml:id="subtitle778">-You sure he was alone?<br/>-The garage door was closed.</p>
+<p begin="47112482082t" end="47124994582t" region="bottomCenter" style="s1" xml:id="subtitle779">One set of footprints.</p>
+<p begin="47125828750t" end="47167120000t" region="bottomCenter" style="s1" xml:id="subtitle780">We found two bodies in the house,<br/>and Birte Becker's phone.</p>
+<p begin="47178798332t" end="47205074582t" region="bottomCenter" style="s1" xml:id="subtitle781">It was a suicide.</p>
+<p begin="47205908750t" end="47219672500t" region="bottomCenter" style="s1" xml:id="subtitle782">Case closed.</p>
+<p begin="47279732500t" end="47316852916t" region="bottomCenter" style="s1" xml:id="subtitle783">Mathias, listen,<br/>I have no idea where he's gone.</p>
+<p begin="47328114166t" end="47361897916t" region="bottomCenter" style="s1" xml:id="subtitle784">Yes, I've checked my messages,<br/>he hasn't called.</p>
+<p begin="47362732082t" end="47399435416t" region="bottomCenter" style="s1" xml:id="subtitle785">Well, how can you help?<br/>You're at your bloody conference!</p>
+<p begin="47416952916t" end="47431550832t" region="bottomCenter" style="s1" xml:id="subtitle786">Can I keep this?</p>
+<p begin="47446565832t" end="47456575832t" region="bottomCenter" style="s1" xml:id="subtitle787">[Magnus] No.</p>
+<p begin="47479932500t" end="47496198750t" region="bottomCenter" style="s1" xml:id="subtitle788">Can I keep this?</p>
+<p begin="47501203750t" end="47514550416t" region="bottomCenter" style="s1" xml:id="subtitle789">[Magnus sighs]</p>
+<p begin="47522892082t" end="47540826666t" region="bottomCenter" style="s1" xml:id="subtitle790">Yeah, sure.</p>
+<p begin="47602137916t" end="47613816250t" region="bottomCenter" style="s1" xml:id="subtitle791">She's not picking up.</p>
+<p begin="47701820832t" end="47716001666t" region="bottomCenter" style="s1" xml:id="subtitle792">Katrine!</p>
+<p begin="47813599166t" end="47827362916t" region="bottomCenter" style="s1" xml:id="subtitle793">[sighs]</p>
+<p begin="47873242082t" end="47893262082t" region="bottomCenter" style="s1" xml:id="subtitle794">[both grunting]</p>
+<p begin="47900352500t" end="47913282082t" region="bottomCenter" style="s1" xml:id="subtitle795">[Katrine groans]</p>
+<p begin="47921623750t" end="47931633750t" region="bottomCenter" style="s1" xml:id="subtitle796">[Katrine] Get off!</p>
+<p begin="47936638750t" end="47958744166t" region="bottomCenter" style="s1" xml:id="subtitle797">[both grunting]</p>
+<p begin="47967920000t" end="47979598332t" region="bottomCenter" style="s1" xml:id="subtitle798">[Harry] Stop!</p>
+<p begin="47983769166t" end="48003789166t" region="bottomCenter" style="s1" xml:id="subtitle799">[Katrine panting]</p>
+<p begin="48008377082t" end="48030065416t" region="bottomCenter" style="s1" xml:id="subtitle800">[Katrine sighs]</p>
+<p begin="48052587916t" end="48080115416t" region="bottomCenter" style="s1" xml:id="subtitle801">I guess congratulations are in order.</p>
+<p begin="48092210832t" end="48120989582t" region="bottomCenter" style="s1" xml:id="subtitle802">You know it wasn't that creep.</p>
+<p begin="48121823750t" end="48148934166t" region="bottomCenter" style="s1" xml:id="subtitle803">Vetlesen didn't commit suicide.</p>
+<p begin="48149768332t" end="48178547082t" region="bottomCenter" style="s1" xml:id="subtitle804">Someone killed him<br/>because we got too close.</p>
+<p begin="48221923750t" end="48240692500t" region="bottomCenter" style="s1" xml:id="subtitle805">[Katrine sighs]</p>
+<p begin="48254039166t" end="48287822916t" region="bottomCenter" style="s1" xml:id="subtitle806">Like your father.</p>
+<p begin="48288657082t" end="48315350416t" region="bottomCenter" style="s1" xml:id="subtitle807">My father would<br/>never have committed suicide.</p>
+<p begin="48316184582t" end="48340792500t" region="bottomCenter" style="s1" xml:id="subtitle808">He would never have left me like that.</p>
+<p begin="48341626666t" end="48367902916t" region="bottomCenter" style="s1" xml:id="subtitle809">Get off me. Get off me. Get off me!</p>
+<p begin="48368737082t" end="48382917916t" region="bottomCenter" style="s1" xml:id="subtitle810">Get off me!</p>
+<p begin="48383752082t" end="48412530832t" region="bottomCenter" style="s1" xml:id="subtitle811">Get off me, you fucking drunk!</p>
+<p begin="48413365000t" end="48432133750t" region="bottomCenter" style="s1" xml:id="subtitle812">Get off!</p>
+<p begin="48433802082t" end="48450485416t" region="bottomCenter" style="s1" xml:id="subtitle813">[sniffling] Get off.</p>
+<p begin="48451319582t" end="48462163750t" region="bottomCenter" style="s1" xml:id="subtitle814">Yeah.</p>
+<p begin="48483017916t" end="48497615832t" region="bottomCenter" style="s1" xml:id="subtitle815">I'm a drunk.</p>
+<p begin="48540575416t" end="48562263750t" region="bottomCenter" style="s1" xml:id="subtitle816">Like your father.</p>
+<p begin="48585203332t" end="48600635416t" region="bottomCenter" style="s1" xml:id="subtitle817">[Harry sighs]</p>
+<p begin="48659027082t" end="48674042082t" region="bottomCenter" style="s1" xml:id="subtitle818">[Katrine sighs]</p>
+<p begin="48690725416t" end="48708242916t" region="bottomCenter" style="s1" xml:id="subtitle819">[lighter clicks]</p>
+<p begin="48709077082t" end="48723675000t" region="bottomCenter" style="s1" xml:id="subtitle820">[panting]</p>
+<p begin="48724509166t" end="48746614582t" region="bottomCenter" style="s1" xml:id="subtitle821">Laila Aasen and Arve Stop<br/>were having an affair,</p>
+<p begin="48747448750t" end="48782900832t" region="bottomCenter" style="s1" xml:id="subtitle822">and that's the last thing my father<br/>was investigating before he got killed.</p>
+<p begin="48808760000t" end="48827945832t" region="bottomCenter" style="s1" xml:id="subtitle823">You broke into Vetlesen's house</p>
+<p begin="48828780000t" end="48854222082t" region="bottomCenter" style="s1" xml:id="subtitle824">because you were afraid<br/>I'd find out this was personal</p>
+<p begin="48855056250t" end="48866734582t" region="bottomCenter" style="s1" xml:id="subtitle825">and take you off the case.</p>
+<p begin="48867568750t" end="48884669166t" region="bottomCenter" style="s1" xml:id="subtitle826">Vetlesen was his pimp!</p>
+<p begin="48885503332t" end="48906774582t" region="bottomCenter" style="s1" xml:id="subtitle827">And they were both in Bergen<br/>when the murders started.</p>
+<p begin="48907608750t" end="48921789582t" region="bottomCenter" style="s1" xml:id="subtitle828">I know how much you want this,</p>
+<p begin="48922623750t" end="48943477916t" region="bottomCenter" style="s1" xml:id="subtitle829">but you can't force the pieces to fit.</p>
+<p begin="48944312082t" end="48978095832t" region="bottomCenter" style="s1" xml:id="subtitle830">I called the Gellion Clinic,<br/>and Vetlesen wasn't even working</p>
+<p begin="48978930000t" end="49003120832t" region="bottomCenter" style="s1" xml:id="subtitle831">the day he was supposed to<br/>meet Birte Becker.</p>
+<p begin="49009377082t" end="49041075416t" region="bottomCenter" style="s1" xml:id="subtitle832">They found two dead bodies in his house,<br/>and Birte Becker's phone.</p>
+<p begin="49041909582t" end="49055256250t" region="bottomCenter" style="s1" xml:id="subtitle833">Yeah, well, isn't that convenient, then?</p>
+<p begin="49056090416t" end="49106974582t" region="bottomCenter" style="s1" xml:id="subtitle834">So, Hagen has his killer and Arve Stop's<br/>safe, and no questions are asked.</p>
+<p begin="49107808750t" end="49130331250t" region="bottomCenter" style="s1" xml:id="subtitle835">Do you actually think he killed them?</p>
+<p begin="49131165416t" end="49142843750t" region="bottomCenter" style="s1" xml:id="subtitle836">I don't know.</p>
+<p begin="49154939166t" end="49181215416t" region="bottomCenter" style="s1" xml:id="subtitle837">I don't think either of us do for sure.</p>
+<p begin="49239607082t" end="49257541666t" region="bottomCenter" style="s1" xml:id="subtitle838">Maybe this will bring your balls back.</p>
+<p begin="49465249166t" end="49503203750t" region="bottomCenter" style="s1" xml:id="subtitle839">-I'm gonna need your weapon.<br/>-It's right there in front of you.</p>
+<p begin="49666700416t" end="49696313332t" region="bottomCenter" style="s1" xml:id="subtitle840">Why did he call you Cloudberry?</p>
+<p begin="49735936250t" end="49775976250t" region="bottomCenter" style="s1" xml:id="subtitle841">Because I liked cloudberry jam<br/>with ice cream.</p>
+<p begin="49776810416t" end="49790157082t" region="bottomCenter" style="s1" xml:id="subtitle842">[sniffles]</p>
+<p begin="50191808332t" end="50213913750t" region="bottomCenter" style="s1" xml:id="subtitle843">[indistinct chatter]</p>
+<p begin="50389922916t" end="50420370000t" region="bottomCenter" style="s1" xml:id="subtitle844">[music playing on headphones]</p>
+<p begin="50729845832t" end="50746946250t" region="bottomCenter" style="s1" xml:id="subtitle845">Oleg ran away again.</p>
+<p begin="50850382916t" end="50874990832t" region="bottomCenter" style="s1" xml:id="subtitle846">[lively music playing]</p>
+<p begin="50887920416t" end="50903769582t" region="bottomCenter" style="s1" xml:id="subtitle847">[indistinct chatter]</p>
+<p begin="50904603750t" end="50917116250t" region="bottomCenter" style="s1" xml:id="subtitle848">-[music stops]<br/>-[applause]</p>
+<p begin="50917950416t" end="50959658750t" region="bottomCenter" style="s1" xml:id="subtitle849">[Stop] It doesn't really matter<br/>if we win or lose this bid tonight.</p>
+<p begin="50960492916t" end="50975507916t" region="bottomCenter" style="s1" xml:id="subtitle850">What matters most is that</p>
+<p begin="50976342082t" end="51005537916t" region="bottomCenter" style="s1" xml:id="subtitle851">we celebrate the way<br/>this has brought us together,</p>
+<p begin="51006372082t" end="51050582916t" region="bottomCenter" style="s1" xml:id="subtitle852">and use that energy to restore the values<br/>that make Norway great.</p>
+<p begin="51051417082t" end="51095210832t" region="bottomCenter" style="s1" xml:id="subtitle853">And so, it doesn't matter<br/>if 56 minutes and 33 seconds from now,</p>
+<p begin="51096045000t" end="51110225832t" region="bottomCenter" style="s1" xml:id="subtitle854">but who's counting?</p>
+<p begin="51111060000t" end="51129411666t" region="bottomCenter" style="s1" xml:id="subtitle855">[all chuckle]</p>
+<p begin="51130245832t" end="51177376250t" region="bottomCenter" style="s1" xml:id="subtitle856">If the World Cup goes<br/>to Beijing or Denver or Montreal.</p>
+<p begin="51178210416t" end="51215747916t" region="bottomCenter" style="s1" xml:id="subtitle857">Because I believe in my heart, tonight,</p>
+<p begin="51216582082t" end="51234933750t" region="bottomCenter" style="s1" xml:id="subtitle858">Oslo has already won.</p>
+<p begin="51241607082t" end="51268300416t" region="bottomCenter" style="s1" xml:id="subtitle859">[all] Cheers!</p>
+<p begin="51279978750t" end="51321687082t" region="bottomCenter" style="s1" xml:id="subtitle860">I tried calling.<br/>I thought he might be with you.</p>
+<p begin="51327943332t" end="51354219582t" region="bottomCenter" style="s1" xml:id="subtitle861">-Uh...<br/>-He's okay.</p>
+<p begin="51355053750t" end="51374656666t" region="bottomCenter" style="s1" xml:id="subtitle862">He's at a friend's house.</p>
+<p begin="51375490832t" end="51404269582t" region="bottomCenter" style="s1" xml:id="subtitle863">Just didn't bother calling me.</p>
+<p begin="51410108750t" end="51424706666t" region="bottomCenter" style="s1" xml:id="subtitle864">What did you argue about?</p>
+<p begin="51442641250t" end="51467249166t" region="bottomCenter" style="s1" xml:id="subtitle865">[sighs] He doesn't want to leave the city.</p>
+<p begin="51486017916t" end="51517716250t" region="bottomCenter" style="s1" xml:id="subtitle866">I thought that change<br/>would be good for him.</p>
+<p begin="51527726250t" end="51548580416t" region="bottomCenter" style="s1" xml:id="subtitle867">Well, for me, too.</p>
+<p begin="51571520000t" end="51586952082t" region="bottomCenter" style="s1" xml:id="subtitle868">Where?</p>
+<p begin="51587786250t" end="51633248332t" region="bottomCenter" style="s1" xml:id="subtitle869">Um, Mathias has a house,<br/>uh, up in Telemark.</p>
+<p begin="51634082500t" end="51660775832t" region="bottomCenter" style="s1" xml:id="subtitle870">And because<br/>he consults all over the place,</p>
+<p begin="51667032082t" end="51696227916t" region="bottomCenter" style="s1" xml:id="subtitle871">it's not too inconvenient.</p>
+<p begin="51697062082t" end="51732931250t" region="bottomCenter" style="s1" xml:id="subtitle872">I saw him the other day,<br/>he didn't mention anything.</p>
+<p begin="51760041666t" end="51782981250t" region="bottomCenter" style="s1" xml:id="subtitle873">Is that really what you want?</p>
+<p begin="51800081666t" end="51830111666t" region="bottomCenter" style="s1" xml:id="subtitle874">I don't know what I want.</p>
+<p begin="51886835000t" end="51907272082t" region="bottomCenter" style="s1" xml:id="subtitle875">I miss you.</p>
+<p begin="51953568332t" end="51995693750t" region="bottomCenter" style="s1" xml:id="subtitle876">[Stop] <span style="s1_1">Well, in my head, I know </span><br/><span style="s1_1">it's 50-50, but in my heart, 100%.</span></p>
+<p begin="51996527916t" end="52016547916t" region="bottomCenter" style="s1" xml:id="subtitle877">-Thank you for coming.<br/>-Mr. Stop?</p>
+<p begin="52017382082t" end="52036150832t" region="bottomCenter" style="s1" xml:id="subtitle878">Mr. Stop, I'm sorry. I, um...</p>
+<p begin="52047829166t" end="52087452082t" region="bottomCenter" style="s1" xml:id="subtitle879">I just want to thank you.<br/>I really liked your speech.</p>
+<p begin="52088286250t" end="52115813750t" region="bottomCenter" style="s1" xml:id="subtitle880">I found it very, very moving.</p>
+<p begin="52127909166t" end="52138753332t" region="bottomCenter" style="s1" xml:id="subtitle881">You see, I, um...</p>
+<p begin="52159190416t" end="52193391250t" region="bottomCenter" style="s1" xml:id="subtitle882">I was an orphan, myself, so...</p>
+<p begin="52194225416t" end="52204235416t" region="bottomCenter" style="s1" xml:id="subtitle883">Well,</p>
+<p begin="52210074582t" end="52236767916t" region="bottomCenter" style="s1" xml:id="subtitle884">it doesn't have to be<br/>a disadvantage, young lady.</p>
+<p begin="52237602082t" end="52250948750t" region="bottomCenter" style="s1" xml:id="subtitle885">It can motivate us, too.</p>
+<p begin="52263878332t" end="52275139582t" region="bottomCenter" style="s1" xml:id="subtitle886">Oh.</p>
+<p begin="52290154582t" end="52304335416t" region="bottomCenter" style="s1" xml:id="subtitle887">Oh, yes. [chuckles]</p>
+<p begin="52322687082t" end="52363978332t" region="bottomCenter" style="s1" xml:id="subtitle888">I work in Bergen<br/>with young people in a care center,</p>
+<p begin="52364812500t" end="52395259582t" region="bottomCenter" style="s1" xml:id="subtitle889">and I know how very busy you are,<br/>but if you're ever in the city...</p>
+<p begin="52396093750t" end="52416947916t" region="bottomCenter" style="s1" xml:id="subtitle890">I started my career in Bergen.</p>
+<p begin="52431962916t" end="52453651250t" region="bottomCenter" style="s1" xml:id="subtitle891">Write to me. I'll see what I can do.</p>
+<p begin="52454485416t" end="52466997916t" region="bottomCenter" style="s1" xml:id="subtitle892">Yes. I'm so sorry. I know...</p>
+<p begin="52467832082t" end="52486183750t" region="bottomCenter" style="s1" xml:id="subtitle893">I know people are waiting to talk to you.<br/>Thank you.</p>
+<p begin="52487017916t" end="52501615832t" region="bottomCenter" style="s1" xml:id="subtitle894">-Not at all.<br/>-Oh.</p>
+<p begin="52506203750t" end="52518299166t" region="bottomCenter" style="s1" xml:id="subtitle895">[camera clicks]</p>
+<p begin="52549163332t" end="52558756250t" region="bottomCenter" style="s1" xml:id="subtitle896">[speaking indistinctly]</p>
+<p begin="52559590416t" end="52569600416t" region="bottomCenter" style="s1" xml:id="subtitle897">Yes.</p>
+<p begin="52625072500t" end="52647595000t" region="bottomCenter" style="s1" xml:id="subtitle898">Mr. Stop wanted me to let you know</p>
+<p begin="52648429166t" end="52670117500t" region="bottomCenter" style="s1" xml:id="subtitle899">-how much he enjoyed your conversation.<br/>-Oh.</p>
+<p begin="52670951666t" end="52696810832t" region="bottomCenter" style="s1" xml:id="subtitle900">It's, um, room 472.</p>
+<p begin="52712660000t" end="52728509166t" region="bottomCenter" style="s1" xml:id="subtitle901">He'll be free after the announcement,</p>
+<p begin="52729343332t" end="52756453750t" region="bottomCenter" style="s1" xml:id="subtitle902">if there's anything else<br/>you'd like to ask him.</p>
+<p begin="52757287916t" end="52774388332t" region="bottomCenter" style="s1" xml:id="subtitle903">Thank you.</p>
+<p begin="52788152082t" end="52802750000t" region="bottomCenter" style="s1" xml:id="subtitle904">[chuckles]</p>
+<p begin="52860307500t" end="52874488332t" region="bottomCenter" style="s1" xml:id="subtitle905">[music playing over headphones]</p>
+<p begin="52875322500t" end="52891588750t" region="bottomCenter" style="s1" xml:id="subtitle906">[music switches to speakers]</p>
+<p begin="53453400000t" end="53468415000t" region="bottomCenter" style="s1" xml:id="subtitle907">[turns music off]</p>
+<p begin="53635248332t" end="53649429166t" region="bottomCenter" style="s1" xml:id="subtitle908">[beeps]</p>
+<p begin="53847543749t" end="53867980832t" region="bottomCenter" style="s1" xml:id="subtitle909">[cell phone ringing]</p>
+<p begin="53942638749t" end="53956819582t" region="bottomCenter" style="s1" xml:id="subtitle910">[Rakel] Mathias.</p>
+<p begin="53957653749t" end="53976839582t" region="bottomCenter" style="s1" xml:id="subtitle911">[Mathias] <span style="s1_1">Where are you?</span></p>
+<p begin="53977673749t" end="53994774166t" region="bottomCenter" style="s1" xml:id="subtitle912"><span style="s1_1">-I just tried calling you on the landline.</span><br/>-[sighs]</p>
+<p begin="54009789166t" end="54025638332t" region="bottomCenter" style="s1" xml:id="subtitle913">I'm at Harry's.</p>
+<p begin="54036482499t" end="54046909582t" region="bottomCenter" style="s1" xml:id="subtitle914"><span style="s1_1">Yeah?</span></p>
+<p begin="54054417082t" end="54088617916t" region="bottomCenter" style="s1" xml:id="subtitle915">Because I phoned Eric's parents,<br/>and Oleg wasn't there, either, so, I...</p>
+<p begin="54089452082t" end="54102798749t" region="bottomCenter" style="s1" xml:id="subtitle916"><span style="s1_1">I know. I found him.</span></p>
+<p begin="54110723332t" end="54139502082t" region="bottomCenter" style="s1" xml:id="subtitle917">He was with another friend.</p>
+<p begin="54164944166t" end="54175371249t" region="bottomCenter" style="s1" xml:id="subtitle918">Are you okay?</p>
+<p begin="54176205416t" end="54199144999t" region="bottomCenter" style="s1" xml:id="subtitle919">Yes, I'm fine now.</p>
+<p begin="54217913749t" end="54234179999t" region="bottomCenter" style="s1" xml:id="subtitle920">[sighs]</p>
+<p begin="54236682499t" end="54252114582t" region="bottomCenter" style="s1" xml:id="subtitle921">Mathias...</p>
+<p begin="54252948749t" end="54282978749t" region="bottomCenter" style="s1" xml:id="subtitle922"><span style="s1_1">I've got to run</span><br/><span style="s1_1">to one of those boring dinners,</span></p>
+<p begin="54283812916t" end="54318430832t" region="bottomCenter" style="s1" xml:id="subtitle923">but I'll call you in the morning,<br/>when I'm back. Okay?</p>
+<p begin="54428957916t" end="54441470416t" region="bottomCenter" style="s1" xml:id="subtitle924">Shit!</p>
+<p begin="54932794582t" end="54963658749t" region="bottomCenter" style="s1" xml:id="subtitle925">You couldn't have asked another doctor?</p>
+<p begin="54964492916t" end="54975754166t" region="bottomCenter" style="s1" xml:id="subtitle926">What?</p>
+<p begin="55050412082t" end="55074185832t" region="bottomCenter" style="s1" xml:id="subtitle927">[man over PA] <span style="s1_1">Two minutes,</span><br/><span style="s1_1">ladies and gentlemen.</span></p>
+<p begin="55267295416t" end="55288983749t" region="bottomCenter" style="s1" xml:id="subtitle928">[indistinct chatter]</p>
+<p begin="55378239582t" end="55394088749t" region="bottomCenter" style="s1" xml:id="subtitle929">[clicks]</p>
+<p begin="55399093749t" end="55414108749t" region="bottomCenter" style="s1" xml:id="subtitle930">[wire tensing]</p>
+<p begin="55442887499t" end="55463324582t" region="bottomCenter" style="s1" xml:id="subtitle931">Hello?</p>
+<p begin="55464575832t" end="55476671249t" region="bottomCenter" style="s1" xml:id="subtitle932">[wire tenses]</p>
+<p begin="55477505416t" end="55489183749t" region="bottomCenter" style="s1" xml:id="subtitle933">Hello?</p>
+<p begin="55558836666t" end="55589700832t" region="bottomCenter" style="s1" xml:id="subtitle934"><span style="s1_1">And to all our viewers</span><br/><span style="s1_1">around the world, thank you</span></p>
+<p begin="55590534999t" end="55623484582t" region="bottomCenter" style="s1" xml:id="subtitle935"><span style="s1_1">for joining us here tonight </span><br/><span style="s1_1">at the Hotel...</span></p>
+<p begin="55634328749t" end="55646841249t" region="bottomCenter" style="s1" xml:id="subtitle936">[gasps] No! No!</p>
+<p begin="55652263332t" end="55678122499t" region="bottomCenter" style="s1" xml:id="subtitle937">No! Stop! No!</p>
+<p begin="55679373749t" end="55701896249t" region="bottomCenter" style="s1" xml:id="subtitle938">No! No!</p>
+<p begin="55702730416t" end="55736514166t" region="bottomCenter" style="s1" xml:id="subtitle939"><span style="s1_1">...of Beijing, Denver, Oslo, and Montreal.</span></p>
+<p begin="55737348332t" end="55747775416t" region="bottomCenter" style="s1" xml:id="subtitle940">[screams]</p>
+<p begin="55782810416t" end="55816177082t" region="bottomCenter" style="s1" xml:id="subtitle941"><span style="s1_1">...as with every competition,</span><br/><span style="s1_1">there can only be one winner.</span></p>
+<p begin="55836614166t" end="55849543749t" region="bottomCenter" style="s1" xml:id="subtitle942">[gagging]</p>
+<p begin="55882910416t" end="55922950416t" region="bottomCenter" style="s1" xml:id="subtitle943"><span style="s1_1">...that the 15th Winter Sports World Cup</span><br/><span style="s1_1">has been awarded to...</span></p>
+<p begin="55923784582t" end="55945055832t" region="bottomCenter" style="s1" xml:id="subtitle944">[crowd] ...two, one!</p>
+<p begin="55946724166t" end="55969246666t" region="bottomCenter" style="s1" xml:id="subtitle945"><span style="s1_1">-...Oslo!</span><br/>-[cheering]</p>
+<p begin="55971332082t" end="56000944999t" region="bottomCenter" style="s1" xml:id="subtitle946">[band playing]</p>
+<p begin="56111054999t" end="56129406666t" region="bottomCenter" style="s1" xml:id="subtitle947">[fireworks booming]</p>
+<p begin="56204898749t" end="56216994166t" region="bottomCenter" style="s1" xml:id="subtitle948">[whirring]</p>
+<p begin="56218245416t" end="56238682499t" region="bottomCenter" style="s1" xml:id="subtitle949">[all cheering]</p>
+<p begin="56239516666t" end="56274968749t" region="bottomCenter" style="s1" xml:id="subtitle950">[chanting] Stop! Stop! Stop! Stop!</p>
+<p begin="56305415832t" end="56321682082t" region="bottomCenter" style="s1" xml:id="subtitle951">Congrats to us all.</p>
+<p begin="56479756666t" end="56496857082t" region="bottomCenter" style="s1" xml:id="subtitle952">Whoo-hoo...</p>
+<p begin="57518294166t" end="57546655832t" region="bottomCenter" style="s1" xml:id="subtitle953">That's the last of her files to download.</p>
+<p begin="57547489999t" end="57577937082t" region="bottomCenter" style="s1" xml:id="subtitle954">There's nothing after that.</p>
+<p begin="57587947082t" end="57629238332t" region="bottomCenter" style="s1" xml:id="subtitle955">Get me a list of all the phone calls and<br/>appointments she made while I was away.</p>
+<p begin="57647589999t" end="57659685416t" region="bottomCenter" style="s1" xml:id="subtitle956">Magnus!</p>
+<p begin="57687212916t" end="57710569582t" region="bottomCenter" style="s1" xml:id="subtitle957">Yeah, sure.</p>
+<p begin="57727252916t" end="57742267916t" region="bottomCenter" style="s1" xml:id="subtitle958">[Magnus sniffles]</p>
+<p begin="57743102082t" end="57772297916t" region="bottomCenter" style="s1" xml:id="subtitle959">-When was this taken?<br/>-Two days ago.</p>
+<p begin="57773132082t" end="57789398332t" region="bottomCenter" style="s1" xml:id="subtitle960">-[Filip] <span style="s1_1">No, no, no!</span><br/>-[Katrine] <span style="s1_1">I'm sorry, I'm sorry!</span></p>
+<p begin="57790232499t" end="57809835416t" region="bottomCenter" style="s1" xml:id="subtitle961"><span style="s1_1">I'm late to get her to school!</span><br/><span style="s1_1">I have to get to work.</span></p>
+<p begin="57810669582t" end="57834860416t" region="bottomCenter" style="s1" xml:id="subtitle962">[Katrine] <span style="s1_1">I am sorry. I have one quick </span><br/><span style="s1_1">question I need to ask you.</span></p>
+<p begin="57835694582t" end="57859051249t" region="bottomCenter" style="s1" xml:id="subtitle963">[Filip] <span style="s1_1">We have been over this</span><br/><span style="s1_1">hundreds of times.</span></p>
+<p begin="57859885416t" end="57879071249t" region="bottomCenter" style="s1" xml:id="subtitle964">[Katrine] <span style="s1_1">I know we have been</span><br/><span style="s1_1">over this 100 times,</span></p>
+<p begin="57879905416t" end="57893252082t" region="bottomCenter" style="s1" xml:id="subtitle965"><span style="s1_1">but I need to sort something out.</span></p>
+<p begin="57894086249t" end="57932040832t" region="bottomCenter" style="s1" xml:id="subtitle966"><span style="s1_1">Dr. Vetlesen was not working at the clinic</span><br/><span style="s1_1">the day your wife was supposed to see him.</span></p>
+<p begin="57932874999t" end="57950392499t" region="bottomCenter" style="s1" xml:id="subtitle967"><span style="s1_1">He wasn't there.</span></p>
+<p begin="57951226666t" end="57975000416t" region="bottomCenter" style="s1" xml:id="subtitle968"><span style="s1_1">-So, she got the day wrong.</span><br/>-[Katrine] <span style="s1_1">I...</span></p>
+<p begin="57975834582t" end="58007532916t" region="bottomCenter" style="s1" xml:id="subtitle969">-[Josephine] <span style="s1_1">Daddy!</span><br/><span style="s1_1">-How... Josephine, in the car.</span></p>
+<p begin="58008367082t" end="58036728749t" region="bottomCenter" style="s1" xml:id="subtitle970"><span style="s1_1">How the hell am I supposed to</span><br/><span style="s1_1">remember what day we saw him?</span></p>
+<p begin="58037562916t" end="58065507499t" region="bottomCenter" style="s1" xml:id="subtitle971">[Katrine] <span style="s1_1">Sir, I'm just trying to find </span><br/><span style="s1_1">your wife. Please help me.</span></p>
+<p begin="58070095416t" end="58099708332t" region="bottomCenter" style="s1" xml:id="subtitle972">[Filip] <span style="s1_1">How the hell am I supposed to</span><br/><span style="s1_1">remember what day we saw him?</span></p>
+<p begin="58100542499t" end="58132657916t" region="bottomCenter" style="s1" xml:id="subtitle973">[Katrine] <span style="s1_1">Sir, I'm just trying to find </span><br/><span style="s1_1">your wife. Please help me.</span></p>
+<p begin="58133492082t" end="58158934166t" region="bottomCenter" style="s1" xml:id="subtitle974">[Filip] <span style="s1_1">How the hell am I supposed to</span><br/><span style="s1_1">remember what day we saw him?</span></p>
+<p begin="58159768332t" end="58178119999t" region="bottomCenter" style="s1" xml:id="subtitle975">[Katrine] <span style="s1_1">Sir, I'm trying </span><br/><span style="s1_1">to find your wife.</span></p>
+<p begin="58178954166t" end="58201059582t" region="bottomCenter" style="s1" xml:id="subtitle976">[Filip] <span style="s1_1">How the hell am I supposed to</span><br/><span style="s1_1">remember what day we saw him?</span></p>
+<p begin="58201893749t" end="58216491666t" region="bottomCenter" style="s1" xml:id="subtitle977">[Katrine] <span style="s1_1">Sir, I'm trying </span><br/><span style="s1_1">to find your wife.</span></p>
+<p begin="58217325832t" end="58231089582t" region="bottomCenter" style="s1" xml:id="subtitle978"><span style="s1_1">-...what day we saw him?</span><br/><span style="s1_1">-Sir...</span></p>
+<p begin="58231923749t" end="58245270416t" region="bottomCenter" style="s1" xml:id="subtitle979"><span style="s1_1">-...what day we saw him?</span><br/><span style="s1_1">-Sir...</span></p>
+<p begin="58260285416t" end="58276968749t" region="bottomCenter" style="s1" xml:id="subtitle980">Yes, I want all those files.</p>
+<p begin="58277802916t" end="58291149582t" region="bottomCenter" style="s1" xml:id="subtitle981">Give me your car keys.</p>
+<p begin="58291983749t" end="58310335416t" region="bottomCenter" style="s1" xml:id="subtitle982">-What?<br/>-And your phone.</p>
+<p begin="58325767499t" end="58342450832t" region="bottomCenter" style="s1" xml:id="subtitle983">[keys jangling]</p>
+<p begin="58627318749t" end="58637745832t" region="bottomCenter" style="s1" xml:id="subtitle984">Yes?</p>
+<p begin="58659017082t" end="58698222916t" region="bottomCenter" style="s1" xml:id="subtitle985">You told me Vetlesen was<br/>your wife's doctor when we spoke.</p>
+<p begin="58699057082t" end="58732840832t" region="bottomCenter" style="s1" xml:id="subtitle986">And that you had no idea<br/>why she'd gone to see him.</p>
+<p begin="58733674999t" end="58744102082t" region="bottomCenter" style="s1" xml:id="subtitle987">Yes.</p>
+<p begin="58761202499t" end="58791232499t" region="bottomCenter" style="s1" xml:id="subtitle988">But you told my colleague<br/>you both went to see him.</p>
+<p begin="58792900832t" end="58820428332t" region="bottomCenter" style="s1" xml:id="subtitle989">[sighs] She must have misheard me.</p>
+<p begin="58838779999t" end="58860885416t" region="bottomCenter" style="s1" xml:id="subtitle990">She recorded the interview.</p>
+<p begin="58865890416t" end="58881739582t" region="bottomCenter" style="s1" xml:id="subtitle991">[growls]</p>
+<p begin="58910101249t" end="58945136249t" region="bottomCenter" style="s1" xml:id="subtitle992">Darling, go back inside.<br/>I'll come in in a minute, okay?</p>
+<p begin="58970995416t" end="58988095832t" region="bottomCenter" style="s1" xml:id="subtitle993">Good girl.</p>
+<p begin="58997688749t" end="59021879582t" region="bottomCenter" style="s1" xml:id="subtitle994">She isn't mine.</p>
+<p begin="59039397082t" end="59069009999t" region="bottomCenter" style="s1" xml:id="subtitle995">Birte and I were trying for another child.</p>
+<p begin="59081522499t" end="59104462082t" region="bottomCenter" style="s1" xml:id="subtitle996">We thought it might save our marriage.</p>
+<p begin="59114054999t" end="59141999582t" region="bottomCenter" style="s1" xml:id="subtitle997">We had blood tests done at the clinic<br/>for hormone treatment,</p>
+<p begin="59152843749t" end="59170778332t" region="bottomCenter" style="s1" xml:id="subtitle998">and it came out that</p>
+<p begin="59187044582t" end="59214572082t" region="bottomCenter" style="s1" xml:id="subtitle999">she wasn't mine.</p>
+<p begin="59231255416t" end="59251275416t" region="bottomCenter" style="s1" xml:id="subtitle1000">I am infertile.</p>
+<p begin="59252109582t" end="59273380832t" region="bottomCenter" style="s1" xml:id="subtitle1001">I've always been infertile.</p>
+<p begin="59290481249t" end="59309667082t" region="bottomCenter" style="s1" xml:id="subtitle1002">Can't have children.</p>
+<p begin="59323847916t" end="59367641666t" region="bottomCenter" style="s1" xml:id="subtitle1003">But she is mine. Do you understand?</p>
+<p begin="59368475832t" end="59391415416t" region="bottomCenter" style="s1" xml:id="subtitle1004">How can I not love her?</p>
+<p begin="59426867499t" end="59464822082t" region="bottomCenter" style="s1" xml:id="subtitle1005">But you didn't see Vetlesen<br/>the day you found out.</p>
+<p begin="59500274166t" end="59510284166t" region="bottomCenter" style="s1" xml:id="subtitle1006">[sighs]</p>
+<p begin="59511118332t" end="59548655832t" region="bottomCenter" style="s1" xml:id="subtitle1007">No, we saw some hormone specialist.</p>
+<p begin="59549489999t" end="59568675832t" region="bottomCenter" style="s1" xml:id="subtitle1008">A visiting consultant.</p>
+<p begin="59631655416t" end="59656680416t" region="bottomCenter" style="s1" xml:id="subtitle1009">Do you know his name?</p>
+<p begin="59699639999t" end="59717991666t" region="bottomCenter" style="s1" xml:id="subtitle1010">[knocking on door]</p>
+<p begin="59731338332t" end="59741765416t" region="bottomCenter" style="s1" xml:id="subtitle1011">Yes?</p>
+<p begin="59745519166t" end="59766790416t" region="bottomCenter" style="s1" xml:id="subtitle1012">[cell phone ringing]</p>
+<p begin="59777634582t" end="59792649582t" region="bottomCenter" style="s1" xml:id="subtitle1013">Just a second.</p>
+<p begin="59808081666t" end="59820177082t" region="bottomCenter" style="s1" xml:id="subtitle1014">Damn it.</p>
+<p begin="59823096666t" end="59839362916t" region="bottomCenter" style="s1" xml:id="subtitle1015">[knocking continues]</p>
+<p begin="59845202082t" end="59865639166t" region="bottomCenter" style="s1" xml:id="subtitle1016">I said I'm coming!</p>
+<p begin="59937377499t" end="59951975416t" region="bottomCenter" style="s1" xml:id="subtitle1017">You never called.</p>
+<p begin="59970744166t" end="59989095832t" region="bottomCenter" style="s1" xml:id="subtitle1018">Is Oleg back?</p>
+<p begin="59989929999t" end="60004110832t" region="bottomCenter" style="s1" xml:id="subtitle1019">What? Oleg?</p>
+<p begin="60004944999t" end="60019959999t" region="bottomCenter" style="s1" xml:id="subtitle1020">He's at school.</p>
+<p begin="60037060416t" end="60058748749t" region="bottomCenter" style="s1" xml:id="subtitle1021">And Harry?</p>
+<p begin="60065839166t" end="60080854166t" region="bottomCenter" style="s1" xml:id="subtitle1022">Is Harry here?</p>
+<p begin="60084607916t" end="60100039999t" region="bottomCenter" style="s1" xml:id="subtitle1023">[scoffs]</p>
+<p begin="60100874166t" end="60111718332t" region="bottomCenter" style="s1" xml:id="subtitle1024">No.</p>
+<p begin="60115889166t" end="60128401666t" region="bottomCenter" style="s1" xml:id="subtitle1025">No...</p>
+<p begin="60150507082t" end="60181788332t" region="bottomCenter" style="s1" xml:id="subtitle1026">How did he convince you<br/>to give him those pills?</p>
+<p begin="60195134999t" end="60208481666t" region="bottomCenter" style="s1" xml:id="subtitle1027">He didn't.</p>
+<p begin="60225164999t" end="60244767916t" region="bottomCenter" style="s1" xml:id="subtitle1028">You didn't have to do it for me.</p>
+<p begin="60245602082t" end="60263953749t" region="bottomCenter" style="s1" xml:id="subtitle1029">I didn't do it for you.</p>
+<p begin="60309415832t" end="60330687082t" region="bottomCenter" style="s1" xml:id="subtitle1030">[door closes and locks]</p>
+<p begin="60366556249t" end="60390747082t" region="bottomCenter" style="s1" xml:id="subtitle1031">It was never about you.</p>
+<p begin="60517540416t" end="60543399582t" region="bottomCenter" style="s1" xml:id="subtitle1032">[Harry] I'm outside his house.</p>
+<p begin="60544233749t" end="60576349166t" region="bottomCenter" style="s1" xml:id="subtitle1033">I can't reach Rakel.<br/>Send someone to her apartment.</p>
+<p begin="60818674582t" end="60834940832t" region="bottomCenter" style="s1" xml:id="subtitle1034">[Mathias] Oleg.</p>
+<p begin="60835774999t" end="60856212082t" region="bottomCenter" style="s1" xml:id="subtitle1035">Sorry to keep you waiting.</p>
+<p begin="60952141249t" end="60974663749t" region="bottomCenter" style="s1" xml:id="subtitle1036">[Rakel's cell phone ringing]</p>
+<p begin="61053075416t" end="61074346666t" region="bottomCenter" style="s1" xml:id="subtitle1037">Why do you have Mum's phone?</p>
+<p begin="61112718332t" end="61125647916t" region="bottomCenter" style="s1" xml:id="subtitle1038">Come on.</p>
+<p begin="61217406249t" end="61229918749t" region="bottomCenter" style="s1" xml:id="subtitle1039">[camera clicks]</p>
+<p begin="61275380832t" end="61286224999t" region="bottomCenter" style="s1" xml:id="subtitle1040">[Rakel's cell phone<br/>continues ringing]</p>
+<p begin="61287059166t" end="61309998749t" region="bottomCenter" style="s1" xml:id="subtitle1041">You and I have more in common<br/>than you think.</p>
+<p begin="61341697082t" end="61369641666t" region="bottomCenter" style="s1" xml:id="subtitle1042">I didn't know who my father was, either.</p>
+<p begin="61427616249t" end="61437626249t" region="bottomCenter" style="s1" xml:id="subtitle1043">[camera clicks]</p>
+<p begin="61548570416t" end="61569841666t" region="bottomCenter" style="s1" xml:id="subtitle1044">Magnus, track Rakel's phone.</p>
+<p begin="61679951666t" end="61694966666t" region="bottomCenter" style="s1" xml:id="subtitle1045">Sorry, I just...</p>
+<p begin="61698720416t" end="61721659999t" region="bottomCenter" style="s1" xml:id="subtitle1046">[tires screeching]</p>
+<p begin="61752107082t" end="61762117082t" region="bottomCenter" style="s1" xml:id="subtitle1047">All right.</p>
+<p begin="61782137082t" end="61797986249t" region="bottomCenter" style="s1" xml:id="subtitle1048">Okay, Harry, we just picked up her signal,</p>
+<p begin="61798820416t" end="61820925832t" region="bottomCenter" style="s1" xml:id="subtitle1049"><span style="s1_1">heading west towards Telemark.</span></p>
+<p begin="61821759999t" end="61867222082t" region="bottomCenter" style="s1" xml:id="subtitle1050">It is a red Volvo registered to<br/>a Mathias Lund-Helgesen,</p>
+<p begin="61868056249t" end="61885573749t" region="bottomCenter" style="s1" xml:id="subtitle1051">Rjukan, 2421.</p>
+<p begin="61912267082t" end="61924362499t" region="bottomCenter" style="s1" xml:id="subtitle1052"><span style="s1_1">The house is pretty remote.</span></p>
+<p begin="61925196666t" end="61961899999t" region="bottomCenter" style="s1" xml:id="subtitle1053">There's an access road, but that's it.<br/>And there's a big lake around it.</p>
+<p begin="61973161249t" end="61992347082t" region="bottomCenter" style="s1" xml:id="subtitle1054"><span style="s1_1">Helicopters are grounded</span><br/><span style="s1_1">because of the weather,</span></p>
+<p begin="61993181249t" end="62022377082t" region="bottomCenter" style="s1" xml:id="subtitle1055"><span style="s1_1">but Delta is on their way.</span></p>
+<p begin="62035306666t" end="62054075416t" region="bottomCenter" style="s1" xml:id="subtitle1056">[Harry] Anything on Mathias's family?</p>
+<p begin="62054909582t" end="62069924582t" region="bottomCenter" style="s1" xml:id="subtitle1057">[Magnus] <span style="s1_1">Okay, I've got something here.</span></p>
+<p begin="62070758749t" end="62124979582t" region="bottomCenter" style="s1" xml:id="subtitle1058">Jonas Lund-Helgesen, former<br/>police officer, lost his job in '89.</p>
+<p begin="62125813749t" end="62152924166t" region="bottomCenter" style="s1" xml:id="subtitle1059">A scandal involving a woman<br/>drowning in a car.</p>
+<p begin="62153758332t" end="62165436666t" region="bottomCenter" style="s1" xml:id="subtitle1060">Probable suicide.</p>
+<p begin="62173361249t" end="62186707916t" region="bottomCenter" style="s1" xml:id="subtitle1061"><span style="s1_1">She had a son.</span></p>
+<p begin="62187542082t" end="62197969166t" region="bottomCenter" style="s1" xml:id="subtitle1062">Stop!</p>
+<p begin="62198803332t" end="62212984166t" region="bottomCenter" style="s1" xml:id="subtitle1063"><span style="s1_1">Father unknown.</span></p>
+<p begin="62213818332t" end="62224245416t" region="bottomCenter" style="s1" xml:id="subtitle1064">Please!</p>
+<p begin="62225079582t" end="62241762916t" region="bottomCenter" style="s1" xml:id="subtitle1065"><span style="s1_1">He was sent to an orphanage.</span></p>
+<p begin="62319340416t" end="62355209582t" region="bottomCenter" style="s1" xml:id="subtitle1066">[Harry] Who led the investigation into<br/>the woman's disappearance?</p>
+<p begin="62356043749t" end="62379817499t" region="bottomCenter" style="s1" xml:id="subtitle1067">[Magnus] <span style="s1_1">Some local talent</span><br/><span style="s1_1">in the village nearby.</span></p>
+<p begin="62380651666t" end="62411515832t" region="topCenter" style="s1" xml:id="subtitle1068">-[Harry] <span style="s1_1">What's his name?</span><br/>-Jonas Lund-Helgesen.</p>
+<p begin="62424445416t" end="62463234166t" region="bottomCenter" style="s1" xml:id="subtitle1069">Jonas! No, please, stop!</p>
+<p begin="62660097499t" end="62670107499t" region="bottomCenter" style="s1" xml:id="subtitle1070">[Magnus] <span style="s1_1">Harry?</span></p>
+<p begin="62677197916t" end="62695132499t" region="bottomCenter" style="s1" xml:id="subtitle1071">Harry? We've lost him.</p>
+<p begin="63281968749t" end="63308244999t" region="bottomCenter" style="s1" xml:id="subtitle1072">[Rakel's cell phone ringing]</p>
+<p begin="63590193332t" end="63616469582t" region="bottomCenter" style="s1" xml:id="subtitle1073">[knocking and whirring]</p>
+<p begin="63880066249t" end="63897583749t" region="bottomCenter" style="s1" xml:id="subtitle1074">Sit down, Harry.</p>
+<p begin="64012281666t" end="64024377082t" region="bottomCenter" style="s1" xml:id="subtitle1075">Pass me the gun.</p>
+<p begin="64125728332t" end="64152838749t" region="bottomCenter" style="s1" xml:id="subtitle1076">I didn't think you'd find me.</p>
+<p begin="64176612499t" end="64203722916t" region="bottomCenter" style="s1" xml:id="subtitle1077">Perhaps the pills helped, after all.</p>
+<p begin="64222908749t" end="64248767916t" region="bottomCenter" style="s1" xml:id="subtitle1078">I spoke to Filip Becker.</p>
+<p begin="64280466249t" end="64297149582t" region="bottomCenter" style="s1" xml:id="subtitle1079">[Mathias] What's going to happen</p>
+<p begin="64297983749t" end="64336355416t" region="bottomCenter" style="s1" xml:id="subtitle1080">when Josephine Becker finds out<br/>he isn't her father?</p>
+<p begin="64355124166t" end="64374309999t" region="bottomCenter" style="s1" xml:id="subtitle1081">She'll still love him.</p>
+<p begin="64375144166t" end="64385988332t" region="bottomCenter" style="s1" xml:id="subtitle1082">Wrong answer.</p>
+<p begin="64494847082t" end="64511947499t" region="bottomCenter" style="s1" xml:id="subtitle1083">Let's try again.</p>
+<p begin="64524877082t" end="64576178332t" region="bottomCenter" style="s1" xml:id="subtitle1084">Was it right for Sylvia Ottersen<br/>to kill her unborn child</p>
+<p begin="64577012499t" end="64613298749t" region="bottomCenter" style="s1" xml:id="subtitle1085">simply because she couldn't<br/>keep track of who the father was?</p>
+<p begin="64632484582t" end="64649584999t" region="bottomCenter" style="s1" xml:id="subtitle1086">That was her choice.</p>
+<p begin="64676695416t" end="64687539582t" region="bottomCenter" style="s1" xml:id="subtitle1087">Too short.</p>
+<p begin="64696715416t" end="64712981666t" region="bottomCenter" style="s1" xml:id="subtitle1088">Maybe she was afraid.</p>
+<p begin="64754272916t" end="64771790416t" region="bottomCenter" style="s1" xml:id="subtitle1089">What about you, Harry?</p>
+<p begin="64790559166t" end="64806825416t" region="bottomCenter" style="s1" xml:id="subtitle1090">You have a woman who loves you.</p>
+<p begin="64818503749t" end="64836021249t" region="bottomCenter" style="s1" xml:id="subtitle1091">A boy who's devoted to you.</p>
+<p begin="64853538749t" end="64876895416t" region="bottomCenter" style="s1" xml:id="subtitle1092">Why did you abandon them?</p>
+<p begin="64902754582t" end="64920689166t" region="bottomCenter" style="s1" xml:id="subtitle1093">They deserve better.</p>
+<p begin="64921523332t" end="64935287082t" region="bottomCenter" style="s1" xml:id="subtitle1094">[Mathias scoffs]</p>
+<p begin="64945297082t" end="64955724166t" region="bottomCenter" style="s1" xml:id="subtitle1095">Too easy.</p>
+<p begin="64969904999t" end="64995347082t" region="bottomCenter" style="s1" xml:id="subtitle1096">-[whimpering]<br/>-Because I'm selfish.</p>
+<p begin="65032050416t" end="65053738749t" region="bottomCenter" style="s1" xml:id="subtitle1097">I'm an addict.</p>
+<p begin="65080432082t" end="65105457082t" region="bottomCenter" style="s1" xml:id="subtitle1098">There isn't enough room for them.</p>
+<p begin="65177195416t" end="65189290832t" region="bottomCenter" style="s1" xml:id="subtitle1099">[clicking]</p>
+<p begin="65268953749t" end="65302320416t" region="bottomCenter" style="s1" xml:id="subtitle1100">[Mathias] You know,<br/>when I first saw your picture in the paper</p>
+<p begin="65322340416t" end="65341943332t" region="bottomCenter" style="s1" xml:id="subtitle1101">with all those medals,</p>
+<p begin="65357375416t" end="65396164166t" region="bottomCenter" style="s1" xml:id="subtitle1102">I thought,<br/>"That man must have a perfect family."</p>
+<p begin="65461646249t" end="65480832082t" region="bottomCenter" style="s1" xml:id="subtitle1103">And here you are.</p>
+<p begin="65496264166t" end="65508776666t" region="bottomCenter" style="s1" xml:id="subtitle1104">Last question.</p>
+<p begin="65528796666t" end="65539223749t" region="bottomCenter" style="s1" xml:id="subtitle1105">This boy,</p>
+<p begin="65547982499t" end="65572590416t" region="bottomCenter" style="s1" xml:id="subtitle1106"><span style="s1_1">who doesn't even know who his father is,</span></p>
+<p begin="65590524999t" end="65635152916t" region="bottomCenter" style="s1" xml:id="subtitle1107">who's had to put up with so many men<br/>like you and me taking his place...</p>
+<p begin="65676027082t" end="65699800832t" region="bottomCenter" style="s1" xml:id="subtitle1108">Does his mother deserve to live?</p>
+<p begin="65750267916t" end="65769453749t" region="bottomCenter" style="s1" xml:id="subtitle1109">Why don't you ask him?</p>
+<p begin="65836604166t" end="65849533749t" region="bottomCenter" style="s1" xml:id="subtitle1110">[Mathias groans]</p>
+<p begin="65859960832t" end="65885819999t" region="bottomCenter" style="s1" xml:id="subtitle1111">[both grunting]</p>
+<p begin="65996347082t" end="66016367082t" region="bottomCenter" style="s1" xml:id="subtitle1112">[Harry screaming]</p>
+<p begin="66093110416t" end="66109793749t" region="bottomCenter" style="s1" xml:id="subtitle1113">[Harry groaning]</p>
+<p begin="66213647499t" end="66227828332t" region="bottomCenter" style="s1" xml:id="subtitle1114">You all right?</p>
+<p begin="66259943749t" end="66278712499t" region="bottomCenter" style="s1" xml:id="subtitle1115">Kill him.</p>
+<p begin="66279546666t" end="66299983749t" region="bottomCenter" style="s1" xml:id="subtitle1116">Kill him.</p>
+<p begin="66300817916t" end="66312079166t" region="bottomCenter" style="s1" xml:id="subtitle1117">Kill him!</p>
+<p begin="66379646666t" end="66399249582t" region="bottomCenter" style="s1" xml:id="subtitle1118">[wind howling]</p>
+<p begin="66679112499t" end="66690790832t" region="bottomCenter" style="s1" xml:id="subtitle1119">Come on!</p>
+<p begin="66707057082t" end="66722072082t" region="bottomCenter" style="s1" xml:id="subtitle1120">I'm ready!</p>
+<p begin="66734167499t" end="66747097082t" region="bottomCenter" style="s1" xml:id="subtitle1121">I'm here!</p>
+<p begin="66752519166t" end="66762946249t" region="bottomCenter" style="s1" xml:id="subtitle1122">Come on!</p>
+<p begin="66763780416t" end="66776292916t" region="bottomCenter" style="s1" xml:id="subtitle1123">[gun fires]</p>
+<p begin="66815498749t" end="66828845416t" region="bottomCenter" style="s1" xml:id="subtitle1124">[Harry groaning]</p>
+<p begin="66978995416t" end="66999015416t" region="bottomCenter" style="s1" xml:id="subtitle1125">[continues groaning]</p>
+<p begin="67091190832t" end="67124557499t" region="bottomCenter" style="s1" xml:id="subtitle1126">I know why you blame her.</p>
+<p begin="67217567082t" end="67249682499t" region="bottomCenter" style="s1" xml:id="subtitle1127">You've been wrong the whole time.</p>
+<p begin="67306405832t" end="67327677082t" region="bottomCenter" style="s1" xml:id="subtitle1128"><span style="s1_1">It wasn't her.</span></p>
+<p begin="67386068749t" end="67417767082t" region="bottomCenter" style="s1" xml:id="subtitle1129">It wasn't your mother who didn't want you.</p>
+<p begin="67438204166t" end="67456972916t" region="bottomCenter" style="s1" xml:id="subtitle1130"><span style="s1_1">It was your father.</span></p>
+<p begin="67489505416t" end="67519535416t" region="bottomCenter" style="s1" xml:id="subtitle1131">It would've been better for him</p>
+<p begin="67550816666t" end="67566248749t" region="bottomCenter" style="s1" xml:id="subtitle1132">had you not been born.</p>
+<p begin="67803986249t" end="67819001249t" region="bottomCenter" style="s1" xml:id="subtitle1133">[grunting]</p>
+<p begin="67908674166t" end="67921603749t" region="bottomCenter" style="s1" xml:id="subtitle1134">[sighs heavily]</p>
+<p begin="68397078749t" end="68430028332t" region="bottomCenter" style="s1" xml:id="subtitle1135">The pathologist detected<br/>traces of the drug, ketonal.</p>
+<p begin="68430862499t" end="68475490416t" region="bottomCenter" style="s1" xml:id="subtitle1136">But the direct cause of death was drowning<br/>as a result of blood filling her lungs.</p>
+<p begin="68477158749t" end="68503434999t" region="bottomCenter" style="s1" xml:id="subtitle1137">Twenty-four stab wounds<br/>were found in her mouth,</p>
+<p begin="68504269166t" end="68546394582t" region="bottomCenter" style="s1" xml:id="subtitle1138">all at regular intervals and<br/>at the same depth, seven centimeters.</p>
+<p begin="68547228749t" end="68572670832t" region="bottomCenter" style="s1" xml:id="subtitle1139">Pathologist can't determine<br/>what kind of weapon was used.</p>
+<p begin="68584349166t" end="68606037499t" region="bottomCenter" style="s1" xml:id="subtitle1140">And he's never seen anything like it.</p>
+<p begin="68617298749t" end="68638569999t" region="bottomCenter" style="s1" xml:id="subtitle1141">I'll take it.</p>
+</div>
+</body>
+</tt>

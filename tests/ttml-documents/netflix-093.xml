@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2085417t" end="26693334t" region="bottom" xml:id="subtitle0"><span style="span">I... I got it. I got it right here.</span></p>
+<p begin="27527500t" end="46713334t" region="bottom" xml:id="subtitle1"><span style="span">Wait, let me see your hands! Let me see--</span></p>
+<p begin="128878750t" end="148898750t" region="bottom" xml:id="subtitle2"><span style="span">Cory, watch your back!</span></p>
+</div>
+</body>
+</tt>

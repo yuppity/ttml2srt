@@ -49,6 +49,6 @@ Here's an example cmd for when the first piece of dialogue from a streaming serv
 
 Run tests:
 ```
-python2 tests/test01.py
+python3 tests/test01.py
 ```
 

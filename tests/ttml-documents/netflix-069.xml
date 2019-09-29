@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="23750000t" end="35416667t" region="bottom" xml:id="subtitle0"><span style="span">Just for the record,</span></p>
+<p begin="41250000t" end="57083334t" region="bottom" xml:id="subtitle1"><span style="italic">there's not one person in this group</span></p>
+<p begin="57916667t" end="80416667t" region="bottom" xml:id="subtitle2"><span style="italic">that I would've chosen</span><br/><span style="italic">for this type of mission.</span></p>
+<p begin="85833334t" end="98333334t" region="bottom" xml:id="subtitle3"><span style="italic">You're all too reckless.</span></p>
+<p begin="174166667t" end="190833334t" region="bottom" xml:id="subtitle4"><span style="span">Government has killed</span><br/><span style="span">hundreds of families.</span></p>
+<p begin="191666667t" end="206250000t" region="bottom" xml:id="subtitle5"><span style="span">[screaming]</span></p>
+<p begin="210000000t" end="235833334t" region="bottom" xml:id="subtitle6"><span style="span">Many more will die</span><br/><span style="span">if something is not done.</span></p>
+<p begin="271250000t" end="292916667t" region="bottom" xml:id="subtitle7"><span style="span">What do you know</span><br/><span style="span">about what's happening in Ethiopia?</span></p>
+<p begin="295416667t" end="309583334t" region="bottom" xml:id="subtitle8"><span style="span">It's another bloody genocide.</span></p>
+<p begin="337083334t" end="356666667t" region="bottom" xml:id="subtitle9"><span style="span">If we don't do something, no one will.</span></p>
+<p begin="377500000t" end="394166667t" region="bottom" xml:id="subtitle10"><span style="italic">The Red Sea Diving Resort.</span></p>
+<p begin="397916667t" end="418333334t" region="bottom" xml:id="subtitle11"><span style="italic">It's a hotel we can use</span><br/><span style="italic">to smuggle the refugees</span></p>
+<p begin="419166667t" end="431666667t" region="bottom" xml:id="subtitle12"><span style="italic">through Sudan to Israel.</span></p>
+<p begin="464583334t" end="477916667t" region="bottom" xml:id="subtitle13"><span style="span">[man 1] </span><span style="italic">So, let's be very clear.</span></p>
+<p begin="509583334t" end="520416667t" region="bottom" xml:id="subtitle14"><span style="italic">If this goes wrong,</span></p>
+<p begin="536250000t" end="552916667t" region="bottom" xml:id="subtitle15"><span style="span">you'll all be hanging from cranes.</span></p>
+<p begin="611666667t" end="625000000t" region="bottom" xml:id="subtitle16"><span style="span">[man 2] What do you see?</span></p>
+<p begin="632916667t" end="649166667t" region="bottom" xml:id="subtitle17"><span style="span">The best cover we could ask for.</span></p>
+<p begin="678750000t" end="692083334t" region="bottom" xml:id="subtitle18"><span style="span">Base is on the way home.</span></p>
+<p begin="723333334t" end="752916667t" region="bottom" xml:id="subtitle19"><span style="span">There are still hundreds</span><br/><span style="span">crossing the border every week.</span></p>
+<p begin="808333334t" end="818333334t" region="bottom" xml:id="subtitle20"><span style="span">Turn around.</span></p>
+<p begin="857500000t" end="871666667t" region="bottom" xml:id="subtitle21"><span style="span">[man 3] We are watching you.</span></p>
+<p begin="887500000t" end="912083334t" region="bottom" xml:id="subtitle22"><span style="span">If you ask me,</span><br/><span style="span">this entire country's a tinderbox.</span></p>
+<p begin="924583334t" end="945000000t" region="bottom" xml:id="subtitle23"><span style="span">The mission isn't over for us,</span><br/><span style="span">I promise.</span></p>
+<p begin="945833334t" end="957916667t" region="bottom" xml:id="subtitle24"><span style="span">This is not a mission for me.</span></p>
+<p begin="970000000t" end="980000000t" region="bottom" xml:id="subtitle25"><span style="italic">This is my life.</span></p>
+<p begin="996666667t" end="1010416667t" region="bottom" xml:id="subtitle26"><span style="span">They're executing dissidents.</span></p>
+<p begin="1011250000t" end="1020000000t" region="bottom" xml:id="subtitle27"><span style="span">It's revolution.</span></p>
+<p begin="1020833334t" end="1034583334t" region="bottom" xml:id="subtitle28"><span style="span">We must leave, now!</span></p>
+<p begin="1050833334t" end="1078333334t" region="bottom" xml:id="subtitle29"><span style="span">They're dying, and they're sick,</span><br/><span style="span">and they're starving.</span></p>
+<p begin="1102916667t" end="1122916667t" region="bottom" xml:id="subtitle30"><span style="span">-[man 4] There's a roadblock.</span><br/><span style="span">-Full speed ahead.</span></p>
+<p begin="1123750000t" end="1136250000t" region="bottom" xml:id="subtitle31"><span style="span">You are crazy.</span></p>
+<p begin="1161250000t" end="1187083334t" region="bottom" xml:id="subtitle32"><span style="span">[man 4] </span><span style="italic">You're a lucky guy,</span><br/><span style="italic">but when the luck runs out,</span></p>
+<p begin="1187916667t" end="1212500000t" region="bottom" xml:id="subtitle33"><span style="span">you gotta have a plan,</span><br/><span style="span">and you never have one.</span></p>
+<p begin="1232500000t" end="1248750000t" region="bottom" xml:id="subtitle34"><span style="span">We will leave no one behind.</span></p>
+<p begin="1255416667t" end="1270000000t" region="bottom" xml:id="subtitle35"><span style="span">[rapid gunfire]</span></p>
+<p begin="1270833334t" end="1283333334t" region="bottom" xml:id="subtitle36"><span style="span">[man screams] Help!</span></p>
+<p begin="1290833334t" end="1307916667t" region="bottom" xml:id="subtitle37"><span style="span">[woman]</span><br/><span style="italic">We're all just refugees, aren't we?</span></p>
+</div>
+</body>
+</tt>

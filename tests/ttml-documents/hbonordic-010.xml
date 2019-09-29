@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="fi" ttp:frameRate="25" ttp:timeBase="smpte" ttp:markerMode="continuous" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <styling>
+      <style xml:id="Swift" tts:color="white" tts:textAlign="center" tts:extent="720px 576px" tts:fontFamily="Arial" tts:fontSize="36px" />
+    </styling>
+  </head>
+  <body>
+    <div style="Swift">
+      <p xml:id="0" xml:space="preserve" begin="00:00:35:14" end="00:00:38:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiitoksia!</p>
+      <p xml:id="1" xml:space="preserve" begin="00:00:38:06" end="00:00:42:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiitos. Tiedän, miksi iloitsette.</p>
+      <p xml:id="2" xml:space="preserve" begin="00:00:43:01" end="00:00:46:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Koska vaaliväittely on ohi.</p>
+      <p xml:id="3" xml:space="preserve" begin="00:00:46:13" end="00:00:50:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Katsoitteko sen?<br />Minä katsoin koko kolmetuntisen.</p>
+      <p xml:id="4" xml:space="preserve" begin="00:00:50:22" end="00:00:54:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jameis Winston näytti<br />tosi hyvältä eilen.</p>
+      <p xml:id="5" xml:space="preserve" begin="00:00:57:12" end="00:01:01:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ehkä se ei ollutkaan väittely,<br />mitä katsoin.</p>
+      <p xml:id="6" xml:space="preserve" begin="00:01:01:05" end="00:01:06:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kolme tuntia? Sen päätteeksi Pete<br />näytti siltä kuin voisi ostaa oluen.</p>
+      <p xml:id="7" xml:space="preserve" begin="00:01:09:00" end="00:01:13:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Väittely oli niin pitkä, että yhdessä<br />vaiheessa Cory Booker-</p>
+      <p xml:id="8" xml:space="preserve" begin="00:01:13:14" end="00:01:16:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-meni katsomaan J-Lon<br />stripparielokuvaa.</p>
+      <p xml:id="9" xml:space="preserve" begin="00:01:16:19" end="00:01:20:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän palasi ennen kun kukaan<br />ehti huomata mitään.</p>
+      <p xml:id="10" xml:space="preserve" begin="00:01:20:16" end="00:01:24:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikkien katseet olivat<br />kolmikossa lavan keskellä.</p>
+      <p xml:id="11" xml:space="preserve" begin="00:01:24:07" end="00:01:28:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Biden, Warren ja Bernie tai kuten<br />heidän lonkkansa heidät tuntevat-</p>
+      <p xml:id="12" xml:space="preserve" begin="00:01:28:22" end="00:01:30:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Snap, Crackle ja Pop.</p>
+      <p xml:id="13" xml:space="preserve" begin="00:01:37:07" end="00:01:39:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Näittekö heidän yhteiskuvansa?</p>
+      <p xml:id="14" xml:space="preserve" begin="00:01:39:22" end="00:01:43:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuin häistä, joihin<br />ex-miehetkin on kutsuttu.</p>
+      <p xml:id="15" xml:space="preserve" begin="00:01:47:10" end="00:01:51:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Suurin aihe oli terveydenhuolto.</p>
+      <p xml:id="16" xml:space="preserve" begin="00:01:51:06" end="00:01:55:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bernie ja Warren kannattavat<br />Medicarea kaikille-</p>
+      <p xml:id="17" xml:space="preserve" begin="00:01:55:04" end="00:01:59:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Pete kannattaa Medicarea<br />sitä haluaville ja Beto...</p>
+      <p xml:id="18" xml:space="preserve" begin="00:02:00:03" end="00:02:02:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En osaa espanjaa.</p>
+      <p xml:id="19" xml:space="preserve" begin="00:02:05:18" end="00:02:09:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Beto otti kovan linjan aseisiin.<br />Hän sanoi, hitto kyllä.</p>
+      <p xml:id="20" xml:space="preserve" begin="00:02:12:03" end="00:02:16:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Hitto, kyllä todellakin<br />viemme AK-47:nne."</p>
+      <p xml:id="21" xml:space="preserve" begin="00:02:16:06" end="00:02:19:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">AK-47:n kuullessaan<br />Joe Biden sanoi "bingo".</p>
+      <p xml:id="22" xml:space="preserve" begin="00:02:21:12" end="00:02:25:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tiedättekö...</p>
+      <p xml:id="23" xml:space="preserve" begin="00:02:25:04" end="00:02:29:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sanon aina, että ikärasismi<br />on huono juttu-</p>
+      <p xml:id="24" xml:space="preserve" begin="00:02:30:00" end="00:02:33:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-mutta Joe vaan on...</p>
+      <p xml:id="25" xml:space="preserve" begin="00:02:33:07" end="00:02:35:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän näytti hyvältä muuten-</p>
+      <p xml:id="26" xml:space="preserve" begin="00:02:35:09" end="00:02:39:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-paitsi vastatessaan<br />kysymykseen orjuushyvityksistä.</p>
+      <p xml:id="27" xml:space="preserve" begin="00:02:39:04" end="00:02:44:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän puhui opettajien palkoista,<br />Venezuelasta ja levysoittimista.</p>
+      <p xml:id="28" xml:space="preserve" begin="00:02:46:18" end="00:02:50:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuin olisi katsonut vanhan<br />koiran yrittävän nousta sohvalle.</p>
+      <p xml:id="29" xml:space="preserve" begin="00:02:55:01" end="00:02:59:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän on todellakin<br />ajan hermolla. Hän tykkää vinyylistä.</p>
+      <p xml:id="30" xml:space="preserve" begin="00:02:59:04" end="00:03:01:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Repikää siitä, Y-sukupolvi.</p>
+      <p xml:id="31" xml:space="preserve" begin="00:03:03:09" end="00:03:04:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei sentään.</p>
+      <p xml:id="32" xml:space="preserve" begin="00:03:04:22" end="00:03:08:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bernie on vielä vanhempi,<br />eikä kukaan vitsaile hänen iästään-</p>
+      <p xml:id="33" xml:space="preserve" begin="00:03:09:03" end="00:03:12:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-koska hän ei käyttäydy kuin vanhus.</p>
+      <p xml:id="34" xml:space="preserve" begin="00:03:12:08" end="00:03:15:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kyse ei ole iästä vaan kilometreistä.</p>
+      <p xml:id="35" xml:space="preserve" begin="00:03:17:00" end="00:03:19:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bernie on tilanteen tasalla.</p>
+      <p xml:id="36" xml:space="preserve" begin="00:03:19:04" end="00:03:22:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Välitän perustuslaista,<br />koska kirjoitin sen."</p>
+      <p xml:id="37" xml:space="preserve" begin="00:03:28:08" end="00:03:32:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Onneksi kukaan ei tällä kertaa<br />käynyt Obaman kimppuun.</p>
+      <p xml:id="38" xml:space="preserve" begin="00:03:32:13" end="00:03:36:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He kävivät Trumpin kimppuun.<br />Hyvä strategia.</p>
+      <p xml:id="39" xml:space="preserve" begin="00:03:38:17" end="00:03:41:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Amy Klobuchar sanoi,<br />että maata johtaa juontaja-</p>
+      <p xml:id="40" xml:space="preserve" begin="00:03:42:03" end="00:03:45:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja Yang oli samoilla linjoilla.<br />"Sellainen ei käy."</p>
+      <p xml:id="41" xml:space="preserve" begin="00:03:45:18" end="00:03:50:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Siksi tarjoan kaikille<br />perheille tonnin."</p>
+      <p xml:id="42" xml:space="preserve" begin="00:03:54:21" end="00:03:58:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Trumpin viikko oli melko hiljainen.</p>
+      <p xml:id="43" xml:space="preserve" begin="00:03:58:14" end="00:04:02:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän teki vain kolme<br />rangaistavaa tekoa.</p>
+      <p xml:id="44" xml:space="preserve" begin="00:04:03:00" end="00:04:08:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän antoi potkut kolmannelle<br />turvallisuusneuvojalleen.</p>
+      <p xml:id="45" xml:space="preserve" begin="00:04:08:17" end="00:04:11:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Bolton teki isoja virheitä."</p>
+      <p xml:id="46" xml:space="preserve" begin="00:04:12:12" end="00:04:15:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sellaisia, joita ei<br />voi korjata tussilla.</p>
+      <p xml:id="47" xml:space="preserve" begin="00:04:17:12" end="00:04:20:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tiedättehän...</p>
+      <p xml:id="48" xml:space="preserve" begin="00:04:22:03" end="00:04:25:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän rakastaa tussiaan.<br />Se on hänen juttunsa.</p>
+      <p xml:id="49" xml:space="preserve" begin="00:04:25:11" end="00:04:28:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kuin käsine Michael Jacksonille.</p>
+      <p xml:id="50" xml:space="preserve" begin="00:04:28:17" end="00:04:32:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Alabaman hurrikaanihan<br />oli jymymenestys.</p>
+      <p xml:id="51" xml:space="preserve" begin="00:04:34:11" end="00:04:36:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän luulee tussin korjaavan kaiken.</p>
+      <p xml:id="52" xml:space="preserve" begin="00:04:37:00" end="00:04:40:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Eilen hän piirsi hymyn<br />Melanian kasvoille.</p>
+      <p xml:id="53" xml:space="preserve" begin="00:04:43:09" end="00:04:45:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aivan.</p>
+      <p xml:id="54" xml:space="preserve" begin="00:04:47:12" end="00:04:49:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">WTC-iskujen vuosipäivä meni.</p>
+      <p xml:id="55" xml:space="preserve" begin="00:04:49:20" end="00:04:55:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trump julkaisi kuvan Melaniasta,<br />itsestään ja New Yorkin taivasta.</p>
+      <p xml:id="56" xml:space="preserve" begin="00:04:55:18" end="00:04:58:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trump sanoi<br />ajatelleensa palomiehiä.</p>
+      <p xml:id="57" xml:space="preserve" begin="00:04:59:01" end="00:05:02:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Melaniakin ajatteli palomiehiä.</p>
+      <p xml:id="58" xml:space="preserve" begin="00:05:06:15" end="00:05:08:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Silti he pysyvät yhdessä.</p>
+      <p xml:id="59" xml:space="preserve" begin="00:05:08:13" end="00:05:12:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Samaa ei voi sanoa Sarah Palinista<br />ja aviomies Toddista.</p>
+      <p xml:id="60" xml:space="preserve" begin="00:05:13:01" end="00:05:17:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Todd Palin haki avioeroa.</p>
+      <p xml:id="61" xml:space="preserve" begin="00:05:17:17" end="00:05:21:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Niin vaan käy.<br />He ajautuivat erilleen.</p>
+      <p xml:id="62" xml:space="preserve" begin="00:05:24:05" end="00:05:28:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Todd haki eroa. Siitä tietää,<br />että on saanut tarpeekseen-</p>
+      <p xml:id="63" xml:space="preserve" begin="00:05:28:13" end="00:05:32:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-kun on valmis astumaan<br />sinkkuelämään Alaskassa.</p>
+      <p xml:id="64" xml:space="preserve" begin="00:05:32:23" end="00:05:37:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hieno show tulossa. Michael Steele,<br />Krystal Ball ja Fernand Amandi.</p>
+      <p xml:id="65" xml:space="preserve" begin="00:05:37:15" end="00:05:40:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jututan myös<br /><span tts:fontStyle="italic">New York Timesin</span> toimittajaa-</p>
+      <p xml:id="66" xml:space="preserve" begin="00:05:41:01" end="00:05:43:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Bari Weissiä.</p>
+      <p xml:id="67" xml:space="preserve" begin="00:05:45:05" end="00:05:49:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ensin kuitenkin Oscar-palkittu<br />elokuvaohjaaja-</p>
+      <p xml:id="68" xml:space="preserve" begin="00:05:49:16" end="00:05:51:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja hyvä ystäväni Michael Moore.</p>
+      <p xml:id="69" xml:space="preserve" begin="00:05:54:00" end="00:05:56:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miten menee, Michael?</p>
+      <p xml:id="70" xml:space="preserve" begin="00:05:58:12" end="00:06:00:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miten menee?</p>
+      <p xml:id="71" xml:space="preserve" begin="00:06:00:20" end="00:06:02:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvältä näyttää.</p>
+      <p xml:id="72" xml:space="preserve" begin="00:06:06:23" end="00:06:09:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Näytät oikein hyvältä.</p>
+      <p xml:id="73" xml:space="preserve" begin="00:06:09:20" end="00:06:12:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Töitä pukkaa.</p>
+      <p xml:id="74" xml:space="preserve" begin="00:06:12:10" end="00:06:17:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olemme olleet eri mieltä vain<br />yhdestä asiasta vuosien mittaan.</p>
+      <p xml:id="75" xml:space="preserve" begin="00:06:17:09" end="00:06:21:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vain yhdestä.<br />Sosialismi vastaan kapitalismi.</p>
+      <p xml:id="76" xml:space="preserve" begin="00:06:21:12" end="00:06:25:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Elokuvistasi suosikkini on<br /><span tts:fontStyle="italic">Capitalism: A Love Story.</span></p>
+      <p xml:id="77" xml:space="preserve" begin="00:06:25:09" end="00:06:31:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En usko, että kapitalismi<br />pitäisi hylätä täysin.</p>
+      <p xml:id="78" xml:space="preserve" begin="00:06:31:05" end="00:06:34:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Puhuin siitä jokunen aika sitten.</p>
+      <p xml:id="79" xml:space="preserve" begin="00:06:34:19" end="00:06:38:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sosialismi on mahtava juttu.<br />Se ei ole kirosana.</p>
+      <p xml:id="80" xml:space="preserve" begin="00:06:38:17" end="00:06:41:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kyse on siitä, minkä eteen<br />ei tarvitse raataa.</p>
+      <p xml:id="81" xml:space="preserve" begin="00:06:41:21" end="00:06:44:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Opiskelijalainat ja sairastumiset.</p>
+      <p xml:id="82" xml:space="preserve" begin="00:06:44:12" end="00:06:48:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minusta sosialismin pitäisi olla<br />kapitalismia eduilla.</p>
+      <p xml:id="83" xml:space="preserve" begin="00:06:49:02" end="00:06:51:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Warren sanoo olevansa kapitalisti.</p>
+      <p xml:id="84" xml:space="preserve" begin="00:06:51:13" end="00:06:56:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Etkö pidä siitä, että Warren<br />ei ole tarpeeksi vasemmalla?</p>
+      <p xml:id="85" xml:space="preserve" begin="00:06:56:18" end="00:06:59:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minusta hän ei oikeasti usko niin.</p>
+      <p xml:id="86" xml:space="preserve" begin="00:07:00:02" end="00:07:02:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hän on valehtelija.<br />-Ei.</p>
+      <p xml:id="87" xml:space="preserve" begin="00:07:02:09" end="00:07:05:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Moore sanoo,<br />että Warren on valehtelija."</p>
+      <p xml:id="88" xml:space="preserve" begin="00:07:05:12" end="00:07:07:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän otti mallia sinulta-</p>
+      <p xml:id="89" xml:space="preserve" begin="00:07:08:03" end="00:07:10:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-eli on otettava rauhassa-</p>
+      <p xml:id="90" xml:space="preserve" begin="00:07:10:15" end="00:07:16:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-koska ihmiset hermostuvat.</p>
+      <p xml:id="91" xml:space="preserve" begin="00:07:16:13" end="00:07:21:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vanha kapitalismi on mennyttä.<br />Uusi kapitalismi on paha järjestelmä.</p>
+      <p xml:id="92" xml:space="preserve" begin="00:07:21:07" end="00:07:23:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eikö sitä voi korjata?</p>
+      <p xml:id="93" xml:space="preserve" begin="00:07:23:11" end="00:07:26:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei voi. On liian myöhäistä.</p>
+      <p xml:id="94" xml:space="preserve" begin="00:07:26:09" end="00:07:29:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olemme miltei tuhonneet keskiluokan-</p>
+      <p xml:id="95" xml:space="preserve" begin="00:07:29:19" end="00:07:32:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-jossa mekin vartuimme.<br />Se on mennyttä.</p>
+      <p xml:id="96" xml:space="preserve" begin="00:07:32:13" end="00:07:35:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä sosialismi sitten on?</p>
+      <p xml:id="97" xml:space="preserve" begin="00:07:35:04" end="00:07:38:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se on sitä,<br />että kaikki saavat piirakkapalansa.</p>
+      <p xml:id="98" xml:space="preserve" begin="00:07:38:21" end="00:07:40:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siihen on uskottava.</p>
+      <p xml:id="99" xml:space="preserve" begin="00:07:41:01" end="00:07:45:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikki eivät saa<br />samankokoista palaa...</p>
+      <p xml:id="100" xml:space="preserve" begin="00:07:45:08" end="00:07:47:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pitääkö palansa eteen tehdä töitä?</p>
+      <p xml:id="101" xml:space="preserve" begin="00:07:48:01" end="00:07:52:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Useimmat haluavat tehdä töitä.<br />Ja jos ei voi, saa silti palan.</p>
+      <p xml:id="102" xml:space="preserve" begin="00:07:52:22" end="00:07:56:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maassamme on jo<br />jonkin verran sosialismia.</p>
+      <p xml:id="103" xml:space="preserve" begin="00:07:56:09" end="00:07:58:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Enempi olisi parempi.</p>
+      <p xml:id="104" xml:space="preserve" begin="00:07:58:15" end="00:08:00:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kuin 50-luvulla.</p>
+      <p xml:id="105" xml:space="preserve" begin="00:08:01:00" end="00:08:03:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Enemmän niin kuin Kanadassa-</p>
+      <p xml:id="106" xml:space="preserve" begin="00:08:03:05" end="00:08:06:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-tai maissa,<br />joissa on löydetty keino...</p>
+      <p xml:id="107" xml:space="preserve" begin="00:08:06:12" end="00:08:09:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vaikka vastustaisi kapitalismia...</p>
+      <p xml:id="108" xml:space="preserve" begin="00:08:09:22" end="00:08:13:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikkien on saatava elantonsa.<br />Siitä tässä on kyse.</p>
+      <p xml:id="109" xml:space="preserve" begin="00:08:13:13" end="00:08:15:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se ei ole kommunismia.</p>
+      <p xml:id="110" xml:space="preserve" begin="00:08:16:00" end="00:08:20:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Euroopan sosiaalidemokraatit<br />uskovat järjestelmään-</p>
+      <p xml:id="111" xml:space="preserve" begin="00:08:20:11" end="00:08:23:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-joka huolehtii ihmisistä.</p>
+      <p xml:id="112" xml:space="preserve" begin="00:08:23:24" end="00:08:26:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Turvaverkkoon.<br />Jos putoaa raosta...</p>
+      <p xml:id="113" xml:space="preserve" begin="00:08:27:02" end="00:08:28:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jos rakoa ei ole...</p>
+      <p xml:id="114" xml:space="preserve" begin="00:08:28:24" end="00:08:32:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Euroopassa on pulmia.<br />Ranskassa kukaan ei tee töitä.</p>
+      <p xml:id="115" xml:space="preserve" begin="00:08:32:14" end="00:08:34:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki ovat lakossa.</p>
+      <p xml:id="116" xml:space="preserve" begin="00:08:34:20" end="00:08:38:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Italian liira.<br />Dollarilla niitä saa miljoonan.</p>
+      <p xml:id="117" xml:space="preserve" begin="00:08:38:18" end="00:08:40:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aina sanotaan samaa.</p>
+      <p xml:id="118" xml:space="preserve" begin="00:08:40:12" end="00:08:42:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mikä on tarinan toinen puoli?</p>
+      <p xml:id="119" xml:space="preserve" begin="00:08:42:19" end="00:08:45:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ainoa puoli on se,<br />että jos sairastuu-</p>
+      <p xml:id="120" xml:space="preserve" begin="00:08:46:00" end="00:08:48:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-pääsee lääkäriin.</p>
+      <p xml:id="121" xml:space="preserve" begin="00:08:48:04" end="00:08:51:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Moni eurooppalainen tuli tänne-</p>
+      <p xml:id="122" xml:space="preserve" begin="00:08:51:08" end="00:08:53:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska ei pidä<br />eurososialismista.</p>
+      <p xml:id="123" xml:space="preserve" begin="00:08:53:21" end="00:08:56:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He halusivat vaan Disneylandiin.</p>
+      <p xml:id="124" xml:space="preserve" begin="00:08:58:00" end="00:08:59:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuo ei ole totta.</p>
+      <p xml:id="125" xml:space="preserve" begin="00:08:59:22" end="00:09:05:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He pitävät Amerikasta, mutta<br />eivät koskaan riskeeraisi...</p>
+      <p xml:id="126" xml:space="preserve" begin="00:09:06:02" end="00:09:08:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puolessa Euroopasta<br />koulu on ilmainen.</p>
+      <p xml:id="127" xml:space="preserve" begin="00:09:08:22" end="00:09:11:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olet puhunut siitä.</p>
+      <p xml:id="128" xml:space="preserve" begin="00:09:11:16" end="00:09:14:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Heistä tuntuu,<br />että täällä voi nousta.</p>
+      <p xml:id="129" xml:space="preserve" begin="00:09:14:13" end="00:09:16:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Et voi kieltää sitä.</p>
+      <p xml:id="130" xml:space="preserve" begin="00:09:16:04" end="00:09:19:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se on USA:n hienous ja huonous.<br />Täällä voi nousta-</p>
+      <p xml:id="131" xml:space="preserve" begin="00:09:19:16" end="00:09:23:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta luuserit jätetään<br />oman onnensa nojaan.</p>
+      <p xml:id="132" xml:space="preserve" begin="00:09:23:13" end="00:09:25:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haluamme molemmat sitä-</p>
+      <p xml:id="133" xml:space="preserve" begin="00:09:26:01" end="00:09:28:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että jotenkin löytyisi...</p>
+      <p xml:id="134" xml:space="preserve" begin="00:09:28:17" end="00:09:32:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">On nimi sitten kapitalismi<br />tai kapitalismi eduilla-</p>
+      <p xml:id="135" xml:space="preserve" begin="00:09:32:09" end="00:09:35:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-tiedämme,<br />että nykyjärjestelmä on julma.</p>
+      <p xml:id="136" xml:space="preserve" begin="00:09:35:21" end="00:09:39:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">99 % tekee töitä<br />yhden prosentin hyväksi.</p>
+      <p xml:id="137" xml:space="preserve" begin="00:09:39:22" end="00:09:43:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei pitäisi...</p>
+      <p xml:id="138" xml:space="preserve" begin="00:09:43:18" end="00:09:47:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yhdellä prosentilla on varallisuus-</p>
+      <p xml:id="139" xml:space="preserve" begin="00:09:47:06" end="00:09:49:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja loput 99 % taistelee murusista.</p>
+      <p xml:id="140" xml:space="preserve" begin="00:09:50:03" end="00:09:55:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se pitää saada muuttumaan. Pitää<br />päästä eroon muustakin kun Trumpista.</p>
+      <p xml:id="141" xml:space="preserve" begin="00:09:56:02" end="00:09:59:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En tiedä, uskotko kaikkiin<br />mielipidekyselyihin.</p>
+      <p xml:id="142" xml:space="preserve" begin="00:09:59:17" end="00:10:04:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Neljä tai viisi demokraattiehdokasta<br />voittaisi Trumpin.</p>
+      <p xml:id="143" xml:space="preserve" begin="00:10:04:04" end="00:10:08:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mutta he pelaavat<br />oman ryhmän sisäisiä pelejä.</p>
+      <p xml:id="144" xml:space="preserve" begin="00:10:08:07" end="00:10:10:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vastassa ei ole oikea...</p>
+      <p xml:id="145" xml:space="preserve" begin="00:10:11:00" end="00:10:13:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kuin katsoisi Training Campia.</p>
+      <p xml:id="146" xml:space="preserve" begin="00:10:13:09" end="00:10:14:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Et seuraa sitä.</p>
+      <p xml:id="147" xml:space="preserve" begin="00:10:14:21" end="00:10:16:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Katsotko sitä?<br />-Kyllä.</p>
+      <p xml:id="148" xml:space="preserve" begin="00:10:16:22" end="00:10:18:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Katson <span tts:fontStyle="italic">Bacheloretteakin-</span></p>
+      <p xml:id="149" xml:space="preserve" begin="00:10:19:00" end="00:10:21:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joten älä anna<br />liian suurta arvoa.</p>
+      <p xml:id="150" xml:space="preserve" begin="00:10:21:15" end="00:10:24:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pelinrakentajalla on punainen paita.</p>
+      <p xml:id="151" xml:space="preserve" begin="00:10:24:15" end="00:10:27:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oikeassa kampanjassa<br />vastassa on Donald Trump.</p>
+      <p xml:id="152" xml:space="preserve" begin="00:10:27:19" end="00:10:30:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sillä ei ole väliä.</p>
+      <p xml:id="153" xml:space="preserve" begin="00:10:30:04" end="00:10:35:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pelkäät joidenkin ehdokkaiden<br />Medicaren puolustusta.</p>
+      <p xml:id="154" xml:space="preserve" begin="00:10:35:19" end="00:10:38:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Että siitä olisi meille haittaa.</p>
+      <p xml:id="155" xml:space="preserve" begin="00:10:38:19" end="00:10:41:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siitä ei ole haittaa meille, koska...</p>
+      <p xml:id="156" xml:space="preserve" begin="00:10:41:23" end="00:10:44:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kenelle meille?</p>
+      <p xml:id="157" xml:space="preserve" begin="00:10:44:06" end="00:10:45:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aivan. Kenelle meille?</p>
+      <p xml:id="158" xml:space="preserve" begin="00:10:45:23" end="00:10:47:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Amerikkalaisille...</p>
+      <p xml:id="159" xml:space="preserve" begin="00:10:47:24" end="00:10:51:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olemme taistelleet vuosia<br />saadaksemme maan tähän.</p>
+      <p xml:id="160" xml:space="preserve" begin="00:10:51:12" end="00:10:54:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhuit ilmastonmuutoksesta<br />jo 20 vuotta sitten.</p>
+      <p xml:id="161" xml:space="preserve" begin="00:10:54:18" end="00:10:58:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhuit monesta asiasta.<br />Marihuanan laillistamisesta.</p>
+      <p xml:id="162" xml:space="preserve" begin="00:10:59:02" end="00:11:04:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Osavaltio ovat lähteneet mukaan.<br />Olit edelläkävijä monia vuosia.</p>
+      <p xml:id="163" xml:space="preserve" begin="00:11:04:07" end="00:11:06:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Taistelimme niistä.</p>
+      <p xml:id="164" xml:space="preserve" begin="00:11:06:20" end="00:11:10:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Taistelimme.</p>
+      <p xml:id="165" xml:space="preserve" begin="00:11:10:05" end="00:11:11:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minimipalkka...</p>
+      <p xml:id="166" xml:space="preserve" begin="00:11:11:24" end="00:11:16:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bill Maherin mielestä<br />7,25 dollaria on huono minimipalkka.</p>
+      <p xml:id="167" xml:space="preserve" begin="00:11:16:05" end="00:11:17:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Käydään lista läpi.</p>
+      <p xml:id="168" xml:space="preserve" begin="00:11:17:23" end="00:11:20:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Naisten pitää saada samaa palkkaa.</p>
+      <p xml:id="169" xml:space="preserve" begin="00:11:20:13" end="00:11:24:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Saimme maan siihen, missä<br />Maher ja Moore ovat.</p>
+      <p xml:id="170" xml:space="preserve" begin="00:11:24:06" end="00:11:27:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi perääntyä nyt?</p>
+      <p xml:id="171" xml:space="preserve" begin="00:11:27:14" end="00:11:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Maa ei ole vielä siellä.</p>
+      <p xml:id="172" xml:space="preserve" begin="00:11:29:21" end="00:11:32:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sori, mutta tuo on<br />epämääräistä paskaa.</p>
+      <p xml:id="173" xml:space="preserve" begin="00:11:32:24" end="00:11:36:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Maa haluaa minimipalkan nostoa.</p>
+      <p xml:id="174" xml:space="preserve" begin="00:11:36:09" end="00:11:38:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maa ei halua<br />Medicarea kaikille.</p>
+      <p xml:id="175" xml:space="preserve" begin="00:11:38:15" end="00:11:41:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yksityisten vakuutusten poisto...</p>
+      <p xml:id="176" xml:space="preserve" begin="00:11:41:20" end="00:11:45:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Obama sanoi: "Jos pidät lääkäristäsi,<br />pidä hänet."</p>
+      <p xml:id="177" xml:space="preserve" begin="00:11:45:09" end="00:11:48:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se koski kahta prosenttia väestöstä-</p>
+      <p xml:id="178" xml:space="preserve" begin="00:11:48:20" end="00:11:51:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja koko maalta meni<br />pasmat sekaisin.</p>
+      <p xml:id="179" xml:space="preserve" begin="00:11:51:12" end="00:11:54:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Nytkö se vietäisi kaikilta?</p>
+      <p xml:id="180" xml:space="preserve" begin="00:11:54:14" end="00:11:56:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Obamacaressa on vikaa...</p>
+      <p xml:id="181" xml:space="preserve" begin="00:11:56:16" end="00:11:58:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ihmiset eivät pidä siitä.</p>
+      <p xml:id="182" xml:space="preserve" begin="00:11:59:01" end="00:12:01:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He pitävät, että ovat 26-vuotiaita-</p>
+      <p xml:id="183" xml:space="preserve" begin="00:12:01:20" end="00:12:04:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-eikä heidän tarvitse murehtia.</p>
+      <p xml:id="184" xml:space="preserve" begin="00:12:04:10" end="00:12:08:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pidät Obamacaresta.<br />Se ei mennyt tarpeeksi pitkälle.</p>
+      <p xml:id="185" xml:space="preserve" begin="00:12:08:16" end="00:12:11:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">30 miljoonaa ihmistä<br />on ilman vakuutusta.</p>
+      <p xml:id="186" xml:space="preserve" begin="00:12:11:12" end="00:12:15:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">50 miljoonan vakuutus<br />ei ole tarpeeksi kattava.</p>
+      <p xml:id="187" xml:space="preserve" begin="00:12:15:15" end="00:12:18:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nancy Pelosi sanoo,<br />että Obamacare on parempi.</p>
+      <p xml:id="188" xml:space="preserve" begin="00:12:18:19" end="00:12:21:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Medicare ei korvaa katastrofeissa.</p>
+      <p xml:id="189" xml:space="preserve" begin="00:12:21:09" end="00:12:24:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bill, me voitamme Trumpin.</p>
+      <p xml:id="190" xml:space="preserve" begin="00:12:24:04" end="00:12:27:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuosta ei ole apua.</p>
+      <p xml:id="191" xml:space="preserve" begin="00:12:27:05" end="00:12:29:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En ennusta mitään.</p>
+      <p xml:id="192" xml:space="preserve" begin="00:12:30:00" end="00:12:34:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tiedän. Me kaksi sanoimme<br />silloin, että Trump voittaa.</p>
+      <p xml:id="193" xml:space="preserve" begin="00:12:34:13" end="00:12:38:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos vaalit pidettäisiin tänään,<br />Trump voittaisi.</p>
+      <p xml:id="194" xml:space="preserve" begin="00:12:38:07" end="00:12:39:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä sanot?</p>
+      <p xml:id="195" xml:space="preserve" begin="00:12:39:21" end="00:12:42:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Niin vaarallinen tilanne on.</p>
+      <p xml:id="196" xml:space="preserve" begin="00:12:42:18" end="00:12:47:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sama reaktio kuin kolme vuotta<br />sitten. "Ei, älä sano noin."</p>
+      <p xml:id="197" xml:space="preserve" begin="00:12:47:12" end="00:12:51:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sen miehen pahaa neroutta<br />pitää kunnioittaa.</p>
+      <p xml:id="198" xml:space="preserve" begin="00:12:51:19" end="00:12:55:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sitä, miten hän selviää kaikesta.</p>
+      <p xml:id="199" xml:space="preserve" begin="00:12:55:09" end="00:12:56:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiinnostavaa on se...</p>
+      <p xml:id="200" xml:space="preserve" begin="00:12:57:02" end="00:13:01:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sinä ja minä aloitimme taistelun.</p>
+      <p xml:id="201" xml:space="preserve" begin="00:13:01:14" end="00:13:04:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Taistelimme siitä, mihin uskoimme.</p>
+      <p xml:id="202" xml:space="preserve" begin="00:13:04:04" end="00:13:08:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trump haluaa tehdä<br />kinastelijoista demokraattien kasvot.</p>
+      <p xml:id="203" xml:space="preserve" begin="00:13:08:15" end="00:13:11:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sinäkin haluat tehdä niin.</p>
+      <p xml:id="204" xml:space="preserve" begin="00:13:11:05" end="00:13:14:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Me voitamme.</p>
+      <p xml:id="205" xml:space="preserve" begin="00:13:14:23" end="00:13:18:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">70 % ensi vuoden äänestäjistä-</p>
+      <p xml:id="206" xml:space="preserve" begin="00:13:18:18" end="00:13:22:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-on naisia, etnistä alkuperää<br />tai 18- 35 -vuotiaita.</p>
+      <p xml:id="207" xml:space="preserve" begin="00:13:22:17" end="00:13:24:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">70 % äänestäjistä.</p>
+      <p xml:id="208" xml:space="preserve" begin="00:13:24:17" end="00:13:28:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Naiset, etniset ja nuoret.<br />Meidän pitää vedota heihin.</p>
+      <p xml:id="209" xml:space="preserve" begin="00:13:28:17" end="00:13:32:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos sanot, ettet pidä naisista,<br />koska...</p>
+      <p xml:id="210" xml:space="preserve" begin="00:13:32:20" end="00:13:37:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olet eri mieltä<br />yksittäisessä asiassa.</p>
+      <p xml:id="211" xml:space="preserve" begin="00:13:37:22" end="00:13:40:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tarkoitatko,<br />että kansa vihaa ehdokkaita?</p>
+      <p xml:id="212" xml:space="preserve" begin="00:13:40:19" end="00:13:42:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He eivät ole suosittuja.</p>
+      <p xml:id="213" xml:space="preserve" begin="00:13:42:17" end="00:13:45:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Etniset ryhmät ja naiset<br />rakastavat heitä.</p>
+      <p xml:id="214" xml:space="preserve" begin="00:13:46:02" end="00:13:48:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">70 % äänestäjistä on heitä.</p>
+      <p xml:id="215" xml:space="preserve" begin="00:13:48:24" end="00:13:53:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mutta yksikään ehdokas ei saa<br />yli 25 % kannatusta.</p>
+      <p xml:id="216" xml:space="preserve" begin="00:13:53:18" end="00:13:56:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kansa ei rakasta heitä.</p>
+      <p xml:id="217" xml:space="preserve" begin="00:13:56:14" end="00:14:00:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He eivät usko asioihin,<br />joihin moni kansalainen uskoo.</p>
+      <p xml:id="218" xml:space="preserve" begin="00:14:01:01" end="00:14:02:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Esimerkiksi Medicareen.</p>
+      <p xml:id="219" xml:space="preserve" begin="00:14:03:00" end="00:14:06:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ihmiset uskovat Medicareen.</p>
+      <p xml:id="220" xml:space="preserve" begin="00:14:06:11" end="00:14:08:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meillä on omat lähteemme.</p>
+      <p xml:id="221" xml:space="preserve" begin="00:14:08:21" end="00:14:12:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kun kulkee ihmisten parissa...</p>
+      <p xml:id="222" xml:space="preserve" begin="00:14:12:12" end="00:14:16:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikki ehdokkaat paria<br />lukuun ottamatta kannattavat sitä.</p>
+      <p xml:id="223" xml:space="preserve" begin="00:14:16:18" end="00:14:19:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kansa ei pidä<br />Pelosin haukkumisesta.</p>
+      <p xml:id="224" xml:space="preserve" begin="00:14:19:09" end="00:14:22:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kansan mielestä<br />he menevät liian pitkälle.</p>
+      <p xml:id="225" xml:space="preserve" begin="00:14:22:19" end="00:14:25:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jotkut nuoret menevät liian pitkälle.</p>
+      <p xml:id="226" xml:space="preserve" begin="00:14:25:22" end="00:14:30:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Romantisoit aina nuoria.</p>
+      <p xml:id="227" xml:space="preserve" begin="00:14:30:15" end="00:14:33:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki näyttävät nuorina hyviltä.</p>
+      <p xml:id="228" xml:space="preserve" begin="00:14:33:21" end="00:14:36:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He ovat täydellisiä<br />ja viattomia.</p>
+      <p xml:id="229" xml:space="preserve" begin="00:14:36:04" end="00:14:40:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän iässämme<br />hekin ovat paskiaisia.</p>
+      <p xml:id="230" xml:space="preserve" begin="00:14:40:06" end="00:14:45:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jokaiselle sukupolvelle käy niin.</p>
+      <p xml:id="231" xml:space="preserve" begin="00:14:45:14" end="00:14:48:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Silloin ollaan idealisteja.<br />Pitää maksaa verot-</p>
+      <p xml:id="232" xml:space="preserve" begin="00:14:48:20" end="00:14:51:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja saada ruokaa pöytään.</p>
+      <p xml:id="233" xml:space="preserve" begin="00:14:51:05" end="00:14:57:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Saa rahaa, joka syövyttää.<br />Ovatko he yhtä viattomia kuin muut?</p>
+      <p xml:id="234" xml:space="preserve" begin="00:14:57:06" end="00:14:59:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mekin olimme nuoria.</p>
+      <p xml:id="235" xml:space="preserve" begin="00:14:59:09" end="00:15:01:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meidän ikäisiämme on niin paljon.</p>
+      <p xml:id="236" xml:space="preserve" begin="00:15:02:00" end="00:15:04:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He äänestivät Reagania.</p>
+      <p xml:id="237" xml:space="preserve" begin="00:15:05:01" end="00:15:07:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Ei.<br />-Eikö?</p>
+      <p xml:id="238" xml:space="preserve" begin="00:15:07:08" end="00:15:08:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänet äänestettiin.</p>
+      <p xml:id="239" xml:space="preserve" begin="00:15:09:00" end="00:15:13:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">55-vuotiaana vuonna 1980<br />Reagania äänestäneet ovat kuolleet.</p>
+      <p xml:id="240" xml:space="preserve" begin="00:15:13:05" end="00:15:17:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Älä puhu siitä,<br />mitä meidän sukupolvemme teki.</p>
+      <p xml:id="241" xml:space="preserve" begin="00:15:18:01" end="00:15:20:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Me pidimme kiinni arvoistamme-</p>
+      <p xml:id="242" xml:space="preserve" begin="00:15:20:05" end="00:15:23:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja siksi homot voivat avioitua.</p>
+      <p xml:id="243" xml:space="preserve" begin="00:15:23:04" end="00:15:26:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Saat sen kuulostamaan,<br />että "nuoret, elämä kovenee-</p>
+      <p xml:id="244" xml:space="preserve" begin="00:15:26:19" end="00:15:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja teistä tulee<br />konservatiivisempia."</p>
+      <p xml:id="245" xml:space="preserve" begin="00:15:29:21" end="00:15:31:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He ovat.</p>
+      <p xml:id="246" xml:space="preserve" begin="00:15:31:14" end="00:15:35:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sukupolvemme<br />ei ole konservatiivisempi.</p>
+      <p xml:id="247" xml:space="preserve" begin="00:15:35:16" end="00:15:38:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Valtaosa kansasta<br />on samaa mieltä-</p>
+      <p xml:id="248" xml:space="preserve" begin="00:15:38:12" end="00:15:40:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-minimipalkasta, vankiloista-</p>
+      <p xml:id="249" xml:space="preserve" begin="00:15:40:24" end="00:15:43:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-naisten oikeuksista...</p>
+      <p xml:id="250" xml:space="preserve" begin="00:15:43:07" end="00:15:44:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He ovat tukenamme.</p>
+      <p xml:id="251" xml:space="preserve" begin="00:15:45:00" end="00:15:48:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Voisimme käyttää tätä<br />vallan hetkeä vaaleissa.</p>
+      <p xml:id="252" xml:space="preserve" begin="00:15:49:03" end="00:15:51:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hankkiudutaan eroon Trumpista.</p>
+      <p xml:id="253" xml:space="preserve" begin="00:15:51:08" end="00:15:52:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haluamme tehdä niin.</p>
+      <p xml:id="254" xml:space="preserve" begin="00:15:53:01" end="00:15:56:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kerron, miten käänsimme<br />suunnan Michiganissa.</p>
+      <p xml:id="255" xml:space="preserve" begin="00:15:56:11" end="00:15:58:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haluan antaa esimerkin.</p>
+      <p xml:id="256" xml:space="preserve" begin="00:15:58:18" end="00:16:02:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Michigan äänesti Trumpia<br />vuonna 2016.</p>
+      <p xml:id="257" xml:space="preserve" begin="00:16:02:14" end="00:16:07:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minusta ja Michiganin ystävistäni<br />se oli noloa.</p>
+      <p xml:id="258" xml:space="preserve" begin="00:16:07:04" end="00:16:11:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Päätimme esittää aiheita<br />äänestykseen viime marraskuulle.</p>
+      <p xml:id="259" xml:space="preserve" begin="00:16:12:00" end="00:16:14:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaksi aihetta suunnattiin nuorille-</p>
+      <p xml:id="260" xml:space="preserve" begin="00:16:15:03" end="00:16:19:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja tuhansille äänestämättä<br />jättäneille afroamerikkalaisille-</p>
+      <p xml:id="261" xml:space="preserve" begin="00:16:19:09" end="00:16:21:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-jotka eivät äänestäneet Hillarya.</p>
+      <p xml:id="262" xml:space="preserve" begin="00:16:21:20" end="00:16:26:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ehdotimme vaalipiirien muuntelun<br />tekemistä laittomaksi-</p>
+      <p xml:id="263" xml:space="preserve" begin="00:16:26:20" end="00:16:29:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja marihuanan laillistamista.</p>
+      <p xml:id="264" xml:space="preserve" begin="00:16:29:19" end="00:16:31:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olen kuuluttanut sitä pitkään.</p>
+      <p xml:id="265" xml:space="preserve" begin="00:16:31:24" end="00:16:34:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Molemmat menivät läpi.</p>
+      <p xml:id="266" xml:space="preserve" begin="00:16:35:01" end="00:16:38:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nuorten äänestäjien<br />määrä tuplaantui-</p>
+      <p xml:id="267" xml:space="preserve" begin="00:16:38:22" end="00:16:40:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-edellisistä välivaaleista.</p>
+      <p xml:id="268" xml:space="preserve" begin="00:16:41:01" end="00:16:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuhannet afroamerikkalaiset-</p>
+      <p xml:id="269" xml:space="preserve" begin="00:16:43:14" end="00:16:46:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-tulivat uurnille.</p>
+      <p xml:id="270" xml:space="preserve" begin="00:16:46:15" end="00:16:50:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos mielimme voittaa ensi vuonna,<br />on saatava mitä äänestää.</p>
+      <p xml:id="271" xml:space="preserve" begin="00:16:50:17" end="00:16:55:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sillä nuoret saadaan uurnille.<br />Se saa afroamerikkalaiset liikkeelle.</p>
+      <p xml:id="272" xml:space="preserve" begin="00:16:55:12" end="00:16:57:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Entä tasa-arvo?</p>
+      <p xml:id="273" xml:space="preserve" begin="00:16:57:16" end="00:17:02:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Äänestetään siitä ensi vuonna.</p>
+      <p xml:id="274" xml:space="preserve" begin="00:17:02:05" end="00:17:04:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Niin voitetaan.</p>
+      <p xml:id="275" xml:space="preserve" begin="00:17:04:08" end="00:17:06:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Taistelet eri vaaleissa-</p>
+      <p xml:id="276" xml:space="preserve" begin="00:17:07:00" end="00:17:10:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska on sama, miten<br />väki äänestää Kaliforniassa.</p>
+      <p xml:id="277" xml:space="preserve" begin="00:17:10:12" end="00:17:13:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Murskavoitto Kaliforniassa on turha-</p>
+      <p xml:id="278" xml:space="preserve" begin="00:17:13:12" end="00:17:15:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska on voitettava<br />Wisconsinissa.</p>
+      <p xml:id="279" xml:space="preserve" begin="00:17:15:23" end="00:17:18:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Voitamme, jos toimimme,<br />kuten puhuin.</p>
+      <p xml:id="280" xml:space="preserve" begin="00:17:18:14" end="00:17:20:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ehkä. Et ole Nostradamus.</p>
+      <p xml:id="281" xml:space="preserve" begin="00:17:21:02" end="00:17:26:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bernie voitti<br />Michiganissa ja Wisconsinissa.</p>
+      <p xml:id="282" xml:space="preserve" begin="00:17:26:17" end="00:17:28:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hillary ei mennyt sinne.</p>
+      <p xml:id="283" xml:space="preserve" begin="00:17:28:16" end="00:17:31:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Se oli hullua.<br />-Edellinen voittaja oli Obama.</p>
+      <p xml:id="284" xml:space="preserve" begin="00:17:31:20" end="00:17:33:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän edusti keskilinjaa.</p>
+      <p xml:id="285" xml:space="preserve" begin="00:17:33:17" end="00:17:37:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän oli ehdolla populistina.</p>
+      <p xml:id="286" xml:space="preserve" begin="00:17:37:08" end="00:17:40:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eihän.</p>
+      <p xml:id="287" xml:space="preserve" begin="00:17:40:11" end="00:17:42:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän oli keskilinjan mies.</p>
+      <p xml:id="288" xml:space="preserve" begin="00:17:42:09" end="00:17:43:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Näit vaan hänet...</p>
+      <p xml:id="289" xml:space="preserve" begin="00:17:43:22" end="00:17:47:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Äänestin häntä.<br />Äänestyslapussa luki-</p>
+      <p xml:id="290" xml:space="preserve" begin="00:17:47:17" end="00:17:51:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Barack Hussein Obama.</p>
+      <p xml:id="291" xml:space="preserve" begin="00:17:52:01" end="00:17:58:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos haluaa pelata varman päälle,<br />ei laita Husseinia äänestyslippuun!</p>
+      <p xml:id="292" xml:space="preserve" begin="00:17:58:12" end="00:18:02:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Keskustan edustaja<br />ei sano itseään Husseiniksi.</p>
+      <p xml:id="293" xml:space="preserve" begin="00:18:02:11" end="00:18:05:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ehkä hän ei päättänyt,<br />miten nimi merkitään.</p>
+      <p xml:id="294" xml:space="preserve" begin="00:18:05:13" end="00:18:09:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ehdokas päättää, lukeeko<br />siinä William Jefferson Clinton-</p>
+      <p xml:id="295" xml:space="preserve" begin="00:18:09:15" end="00:18:12:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-vai Bill Clinton.<br />Ehdokas päättää sen.</p>
+      <p xml:id="296" xml:space="preserve" begin="00:18:12:19" end="00:18:17:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos sanot, että Obama laittoi<br />Husseinin tarkoituksella-</p>
+      <p xml:id="297" xml:space="preserve" begin="00:18:17:16" end="00:18:20:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-saadakseen ääniä...<br />Jutellaan siitä toiste.</p>
+      <p xml:id="298" xml:space="preserve" begin="00:18:20:18" end="00:18:22:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänellä oli rohkeutta.</p>
+      <p xml:id="299" xml:space="preserve" begin="00:18:22:14" end="00:18:25:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuo on varmaa. Hän ei sanonut-</p>
+      <p xml:id="300" xml:space="preserve" begin="00:18:25:15" end="00:18:28:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että laitetaan Hussein ehdolle.</p>
+      <p xml:id="301" xml:space="preserve" begin="00:18:28:14" end="00:18:30:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Paljostako lyödään vetoa?</p>
+      <p xml:id="302" xml:space="preserve" begin="00:18:32:14" end="00:18:36:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tee siitä hankalaa itsellesi.</p>
+      <p xml:id="303" xml:space="preserve" begin="00:18:36:22" end="00:18:39:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tee siitä hankalaa itsellesi.</p>
+      <p xml:id="304" xml:space="preserve" begin="00:18:39:08" end="00:18:41:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minulleko?</p>
+      <p xml:id="305" xml:space="preserve" begin="00:18:41:13" end="00:18:44:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mistä lyödään vetoa?<br />Havaijin matkasta?</p>
+      <p xml:id="306" xml:space="preserve" begin="00:18:44:21" end="00:18:46:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sinun kanssasiko?</p>
+      <p xml:id="307" xml:space="preserve" begin="00:18:46:19" end="00:18:48:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se olisi mahtavaa.</p>
+      <p xml:id="308" xml:space="preserve" begin="00:18:49:00" end="00:18:52:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kiitokset, Michael Moore.<br />Sitten paneelin pariin.</p>
+      <p xml:id="309" xml:space="preserve" begin="00:18:59:12" end="00:19:01:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Häviänkö sen vedon?</p>
+      <p xml:id="310" xml:space="preserve" begin="00:19:03:01" end="00:19:06:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Häviänkö?<br />-En tiedä.</p>
+      <p xml:id="311" xml:space="preserve" begin="00:19:06:21" end="00:19:09:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tekikö Obama...</p>
+      <p xml:id="312" xml:space="preserve" begin="00:19:09:20" end="00:19:12:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Tekikö hän sen tahallaan?<br />-Kyllä.</p>
+      <p xml:id="313" xml:space="preserve" begin="00:19:12:09" end="00:19:14:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tahallaanko?</p>
+      <p xml:id="314" xml:space="preserve" begin="00:19:14:10" end="00:19:18:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Haluan mennä Havaijille<br />Michaelin kanssa.</p>
+      <p xml:id="315" xml:space="preserve" begin="00:19:18:07" end="00:19:23:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pikainen kysymys.</p>
+      <p xml:id="316" xml:space="preserve" begin="00:19:23:11" end="00:19:25:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Anteeksi, esittelyt jäivät.</p>
+      <p xml:id="317" xml:space="preserve" begin="00:19:25:15" end="00:19:30:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Strange Days -podcastin<br />juontaja Fernand Amandi.</p>
+      <p xml:id="318" xml:space="preserve" begin="00:19:31:23" end="00:19:33:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sitten...</p>
+      <p xml:id="319" xml:space="preserve" begin="00:19:34:00" end="00:19:36:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Rising-aamushow'n juontaja-</p>
+      <p xml:id="320" xml:space="preserve" begin="00:19:36:19" end="00:19:40:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja kirjan <span tts:fontStyle="italic">Reversing the Apocalypse</span><br />kirjoittaja-</p>
+      <p xml:id="321" xml:space="preserve" begin="00:19:40:18" end="00:19:42:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Krystal Ball.</p>
+      <p xml:id="322" xml:space="preserve" begin="00:19:43:18" end="00:19:49:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ja RNC:n entinen johtaja<br />Michael Steele.</p>
+      <p xml:id="323" xml:space="preserve" begin="00:19:51:16" end="00:19:56:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Muistakaa lähettää<br />kysymyksiä Overtimeen.</p>
+      <p xml:id="324" xml:space="preserve" begin="00:19:56:19" end="00:19:58:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onko väittelyistä apua?</p>
+      <p xml:id="325" xml:space="preserve" begin="00:19:59:03" end="00:20:00:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">On.</p>
+      <p xml:id="326" xml:space="preserve" begin="00:20:00:15" end="00:20:02:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Minusta on.<br />-Demokraateilleko?</p>
+      <p xml:id="327" xml:space="preserve" begin="00:20:02:23" end="00:20:05:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se auttaa demokraatteja<br />valaisemaan...</p>
+      <p xml:id="328" xml:space="preserve" begin="00:20:05:14" end="00:20:07:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Väittelyiden ongelma on...</p>
+      <p xml:id="329" xml:space="preserve" begin="00:20:07:18" end="00:20:10:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eilinen oli täydellinen esimerkki.</p>
+      <p xml:id="330" xml:space="preserve" begin="00:20:11:01" end="00:20:14:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He puhuivat 39 minuuttia<br />terveydenhuollon vivahteista.</p>
+      <p xml:id="331" xml:space="preserve" begin="00:20:14:19" end="00:20:18:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Maamme on hätätilassa-</p>
+      <p xml:id="332" xml:space="preserve" begin="00:20:18:10" end="00:20:21:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska johtajamme on<br />uskoton perustuslaillemme.</p>
+      <p xml:id="333" xml:space="preserve" begin="00:20:21:24" end="00:20:25:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ihan kuin vastassa olisi<br />Bush tai Reagan.</p>
+      <p xml:id="334" xml:space="preserve" begin="00:20:25:10" end="00:20:30:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitää painottaa, että se mies<br />aikoo tuhota demokratian.</p>
+      <p xml:id="335" xml:space="preserve" begin="00:20:30:13" end="00:20:35:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos siitä ei aleta puhua,<br />olemme pulassa ensi vuonna.</p>
+      <p xml:id="336" xml:space="preserve" begin="00:20:35:09" end="00:20:39:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Auttavatko väittelyt demokraatteja?</p>
+      <p xml:id="337" xml:space="preserve" begin="00:20:39:06" end="00:20:42:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vastaus on,<br />että ei todellakaan.</p>
+      <p xml:id="338" xml:space="preserve" begin="00:20:43:00" end="00:20:46:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Huomio on republikaanien aiheissa.</p>
+      <p xml:id="339" xml:space="preserve" begin="00:20:46:16" end="00:20:49:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Warrenin, Bidenin ja Sandersin-</p>
+      <p xml:id="340" xml:space="preserve" begin="00:20:49:06" end="00:20:51:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-vastakkainasettelu<br />on viihdettä.</p>
+      <p xml:id="341" xml:space="preserve" begin="00:20:51:15" end="00:20:55:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minusta Andrew Yangilla<br />oli paras kommentti.</p>
+      <p xml:id="342" xml:space="preserve" begin="00:20:56:00" end="00:20:58:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Olemme täällä meikattuina."</p>
+      <p xml:id="343" xml:space="preserve" begin="00:20:58:14" end="00:21:01:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sen takia meillä<br />on tosi-tv -presidentti.</p>
+      <p xml:id="344" xml:space="preserve" begin="00:21:01:21" end="00:21:06:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki on tosi-tv:tä-</p>
+      <p xml:id="345" xml:space="preserve" begin="00:21:06:12" end="00:21:10:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-eikä oikeita aiheita,<br />joista ihmiset välittävät.</p>
+      <p xml:id="346" xml:space="preserve" begin="00:21:10:11" end="00:21:12:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jakaako hän jo tonnin summia?</p>
+      <p xml:id="347" xml:space="preserve" begin="00:21:13:01" end="00:21:15:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">120 000 dollarin kampanja.</p>
+      <p xml:id="348" xml:space="preserve" begin="00:21:15:23" end="00:21:18:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onko oikein lahjoa ihmisiä?</p>
+      <p xml:id="349" xml:space="preserve" begin="00:21:18:18" end="00:21:22:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos luulet, että vaalivalvonta<br />toimii, yllätyt pahasti.</p>
+      <p xml:id="350" xml:space="preserve" begin="00:21:22:16" end="00:21:26:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Keskustelusi Michael Mooren<br />kanssa ja tämä alku...</p>
+      <p xml:id="351" xml:space="preserve" begin="00:21:26:16" end="00:21:30:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minulla on hauskaa.</p>
+      <p xml:id="352" xml:space="preserve" begin="00:21:30:09" end="00:21:32:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Teillä on mietittävää.</p>
+      <p xml:id="353" xml:space="preserve" begin="00:21:32:18" end="00:21:36:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maksamme sinulle,<br />joudut osallistumaan.</p>
+      <p xml:id="354" xml:space="preserve" begin="00:21:36:13" end="00:21:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Molemmat puolet ovat<br />analysoineet oikein.</p>
+      <p xml:id="355" xml:space="preserve" begin="00:21:43:14" end="00:21:48:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Demokraatit auttavat itseään<br />keskustelemalla aiheista.</p>
+      <p xml:id="356" xml:space="preserve" begin="00:21:48:11" end="00:21:52:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kysymys on siitä,<br />uppoaako se kansaan sellaisenaan.</p>
+      <p xml:id="357" xml:space="preserve" begin="00:21:52:22" end="00:21:57:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Elizabeth Warrenilla<br />on suunnitelma kaikkeen.</p>
+      <p xml:id="358" xml:space="preserve" begin="00:21:57:04" end="00:22:00:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Paitsi terveydenhuoltoon.<br />-Niin no...</p>
+      <p xml:id="359" xml:space="preserve" begin="00:22:00:08" end="00:22:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän ei ole kertonut,<br />miten kustantaisi sen.</p>
+      <p xml:id="360" xml:space="preserve" begin="00:22:03:17" end="00:22:05:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänellä on suunnitelma.</p>
+      <p xml:id="361" xml:space="preserve" begin="00:22:05:19" end="00:22:11:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ongelma on siinä, kun tulee<br />hetkiä kuten Julián Castron kanssa.</p>
+      <p xml:id="362" xml:space="preserve" begin="00:22:11:06" end="00:22:16:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän antoi parhaiten esimakua Trumpin<br />ja Bidenin vastakkainasettelusta.</p>
+      <p xml:id="363" xml:space="preserve" begin="00:22:17:02" end="00:22:19:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hetkinen nyt.</p>
+      <p xml:id="364" xml:space="preserve" begin="00:22:20:03" end="00:22:24:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki hermoilivat tänään siitä-</p>
+      <p xml:id="365" xml:space="preserve" begin="00:22:24:13" end="00:22:27:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että Castro kävi Bidenin kimppuun.</p>
+      <p xml:id="366" xml:space="preserve" begin="00:22:27:22" end="00:22:31:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trumpin hyökkäys tulee<br />olemaan paljon pahempi.</p>
+      <p xml:id="367" xml:space="preserve" begin="00:22:32:01" end="00:22:34:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eikö hän kestä Julián Castroa?</p>
+      <p xml:id="368" xml:space="preserve" begin="00:22:34:05" end="00:22:36:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onko hän muka valmis Trumpia varten?</p>
+      <p xml:id="369" xml:space="preserve" begin="00:22:36:23" end="00:22:39:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se on harjoitusleiri.</p>
+      <p xml:id="370" xml:space="preserve" begin="00:22:39:12" end="00:22:44:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maahanmuuttovastaisen<br />mainoksen takana-</p>
+      <p xml:id="371" xml:space="preserve" begin="00:22:44:18" end="00:22:46:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-käydään keskustelua.</p>
+      <p xml:id="372" xml:space="preserve" begin="00:22:46:18" end="00:22:51:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se vahvistaa negatiivista kuvaa<br />demokraateista vaaleissa.</p>
+      <p xml:id="373" xml:space="preserve" begin="00:22:51:05" end="00:22:54:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se demokraattien<br />on saatava loppumaan.</p>
+      <p xml:id="374" xml:space="preserve" begin="00:22:54:22" end="00:23:00:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tämä voi olla vuosi, jona...<br />Tästä puhuin Miken kanssa.</p>
+      <p xml:id="375" xml:space="preserve" begin="00:23:00:24" end="00:23:05:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He eivät pääse eroon keskusta<br />vastaan vasemmisto -linjasta.</p>
+      <p xml:id="376" xml:space="preserve" begin="00:23:05:17" end="00:23:08:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Warren nappaa<br />Bernien äänestäjät.</p>
+      <p xml:id="377" xml:space="preserve" begin="00:23:08:14" end="00:23:10:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Warren vastaan Biden.</p>
+      <p xml:id="378" xml:space="preserve" begin="00:23:11:00" end="00:23:13:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puoluekokouksessa<br />tulee pattitilanne.</p>
+      <p xml:id="379" xml:space="preserve" begin="00:23:13:14" end="00:23:17:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Näin on käynyt ennenkin.<br />Kaipaamme kompromissiehdokasta.</p>
+      <p xml:id="380" xml:space="preserve" begin="00:23:17:17" end="00:23:22:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mietin Amy Klobucharia.</p>
+      <p xml:id="381" xml:space="preserve" begin="00:23:22:12" end="00:23:25:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tämä ei ole loukkaus-</p>
+      <p xml:id="382" xml:space="preserve" begin="00:23:25:08" end="00:23:29:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-mutta yleisdemokraatti voittaa.</p>
+      <p xml:id="383" xml:space="preserve" begin="00:23:29:08" end="00:23:35:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos sellaista ei ole...<br />Hän on nainen. Se auttaa paljon.</p>
+      <p xml:id="384" xml:space="preserve" begin="00:23:35:18" end="00:23:37:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi luulet-</p>
+      <p xml:id="385" xml:space="preserve" begin="00:23:38:02" end="00:23:41:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että talouspopulismi<br />tai miksi sitä sanotkaan-</p>
+      <p xml:id="386" xml:space="preserve" begin="00:23:41:09" end="00:23:43:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-sosialismi tai mikä lie-</p>
+      <p xml:id="387" xml:space="preserve" begin="00:23:43:19" end="00:23:46:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ei niitä suosiota-</p>
+      <p xml:id="388" xml:space="preserve" begin="00:23:46:04" end="00:23:49:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-kun kyselyn mukaan Bernie<br />voittaisi Trumpin Teksasissa-</p>
+      <p xml:id="389" xml:space="preserve" begin="00:23:50:00" end="00:23:51:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-muita varmemmin.</p>
+      <p xml:id="390" xml:space="preserve" begin="00:23:51:24" end="00:23:56:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Viimeisten 20 kyselyn mukaan<br />Sanders voittaisi Trumpin.</p>
+      <p xml:id="391" xml:space="preserve" begin="00:23:56:21" end="00:23:59:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Emme tarvitse<br />keskustan linjaa voittoon.</p>
+      <p xml:id="392" xml:space="preserve" begin="00:23:59:19" end="00:24:03:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sen takia hävisimme<br />tuhat paikkaa osavaltioissa...</p>
+      <p xml:id="393" xml:space="preserve" begin="00:24:04:01" end="00:24:07:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Otimme keskitien ja hävisimme.</p>
+      <p xml:id="394" xml:space="preserve" begin="00:24:07:08" end="00:24:10:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Keskustan edustajatkin<br />ovat melko vasemmalla.</p>
+      <p xml:id="395" xml:space="preserve" begin="00:24:10:24" end="00:24:15:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Koko maan mittapuulla<br />he edustavat vasemmistokeskustaa.</p>
+      <p xml:id="396" xml:space="preserve" begin="00:24:16:01" end="00:24:19:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kyse ei ole keskustasta<br />vaan karismasta.</p>
+      <p xml:id="397" xml:space="preserve" begin="00:24:19:04" end="00:24:23:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuka ehdokkaista<br />saa Amerikan liikkeelle?</p>
+      <p xml:id="398" xml:space="preserve" begin="00:24:23:05" end="00:24:25:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sellainen ehdokas voittaa.</p>
+      <p xml:id="399" xml:space="preserve" begin="00:24:25:22" end="00:24:29:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Warren on sellainen nyt.</p>
+      <p xml:id="400" xml:space="preserve" begin="00:24:29:18" end="00:24:32:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Katsokaa, kuka ehdokkaita tukee.</p>
+      <p xml:id="401" xml:space="preserve" begin="00:24:32:19" end="00:24:37:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kenen tukena on monen rodun<br />edustajien porukka-</p>
+      <p xml:id="402" xml:space="preserve" begin="00:24:37:14" end="00:24:39:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-joka saa ihmiset liikkeelle?</p>
+      <p xml:id="403" xml:space="preserve" begin="00:24:39:19" end="00:24:42:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sandersilla.<br />Miksi hänen pitäisi lopettaa?</p>
+      <p xml:id="404" xml:space="preserve" begin="00:24:42:20" end="00:24:45:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se ei riitä.</p>
+      <p xml:id="405" xml:space="preserve" begin="00:24:45:09" end="00:24:49:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tässä demokraattien on<br />selvitettävä päänsä.</p>
+      <p xml:id="406" xml:space="preserve" begin="00:24:49:22" end="00:24:52:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Michael Moore on oikeassa.</p>
+      <p xml:id="407" xml:space="preserve" begin="00:24:53:01" end="00:24:56:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos vaalit pidettäisiin nyt,<br />Trump voittaisi.</p>
+      <p xml:id="408" xml:space="preserve" begin="00:24:56:13" end="00:25:01:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vuoden päästä marraskuussa<br />Trump voittaa vaaleissa-</p>
+      <p xml:id="409" xml:space="preserve" begin="00:25:01:09" end="00:25:04:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-koska tämän hetken narratiivi-</p>
+      <p xml:id="410" xml:space="preserve" begin="00:25:04:06" end="00:25:09:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-kasvattaa pelkoa,<br />joka vei tiiliä muurista-</p>
+      <p xml:id="411" xml:space="preserve" begin="00:25:09:11" end="00:25:14:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joita demokraatit ovat<br />saaneet rakennettua.</p>
+      <p xml:id="412" xml:space="preserve" begin="00:25:14:08" end="00:25:16:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ne tiilet menivät Trumpille.</p>
+      <p xml:id="413" xml:space="preserve" begin="00:25:16:18" end="00:25:22:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Haaste on siinä, miten<br />demokraatit saavat tiilet takaisin.</p>
+      <p xml:id="414" xml:space="preserve" begin="00:25:22:04" end="00:25:24:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Viimeinen pointti vielä.</p>
+      <p xml:id="415" xml:space="preserve" begin="00:25:24:17" end="00:25:28:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Näissä vaaleissa ei ole<br />kyse maan-</p>
+      <p xml:id="416" xml:space="preserve" begin="00:25:28:13" end="00:25:30:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-tai demokraattien<br />tulevaisuudesta.</p>
+      <p xml:id="417" xml:space="preserve" begin="00:25:30:24" end="00:25:33:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kyse on siirtymästä<br />pois Trumpista-</p>
+      <p xml:id="418" xml:space="preserve" begin="00:25:33:14" end="00:25:37:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että päästäisiin<br />takaisin normaaliin.</p>
+      <p xml:id="419" xml:space="preserve" begin="00:25:37:05" end="00:25:39:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Paluuta normaaliin ei ole.</p>
+      <p xml:id="420" xml:space="preserve" begin="00:25:39:07" end="00:25:42:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kansa kertoo,<br />mitä normaali heille on.</p>
+      <p xml:id="421" xml:space="preserve" begin="00:25:42:16" end="00:25:45:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Esitän kysymyksen.</p>
+      <p xml:id="422" xml:space="preserve" begin="00:25:45:12" end="00:25:48:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhutaan paljon Trumpista<br />ja eksistentiaalisesta.</p>
+      <p xml:id="423" xml:space="preserve" begin="00:25:49:00" end="00:25:51:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Että hän on eksistentiaalinen uhka.</p>
+      <p xml:id="424" xml:space="preserve" begin="00:25:51:18" end="00:25:55:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siksi olen toivonut lamaa.</p>
+      <p xml:id="425" xml:space="preserve" begin="00:25:55:08" end="00:25:58:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Miten voit tehdä niin, Bill?"<br />Koska Trump on uhka.</p>
+      <p xml:id="426" xml:space="preserve" begin="00:25:58:22" end="00:26:03:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Selviämme uudesta lamasta.</p>
+      <p xml:id="427" xml:space="preserve" begin="00:26:03:21" end="00:26:07:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän ei ole vain<br />eksistentiaalinen uhka.</p>
+      <p xml:id="428" xml:space="preserve" begin="00:26:07:05" end="00:26:12:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän on poliittinen toimija,<br />joka pelaa perinteistä peliä.</p>
+      <p xml:id="429" xml:space="preserve" begin="00:26:12:04" end="00:26:16:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos hän on, ja minusta on,<br />eksistentiaalinen uhka-</p>
+      <p xml:id="430" xml:space="preserve" begin="00:26:17:00" end="00:26:21:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-suostuisiko Elizabeth Warren<br />uhrautumaan-</p>
+      <p xml:id="431" xml:space="preserve" begin="00:26:21:07" end="00:26:24:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja ryhtyisi Joe Bidenin<br />varapresidentiksi?</p>
+      <p xml:id="432" xml:space="preserve" begin="00:26:24:21" end="00:26:26:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi juuri Biden?</p>
+      <p xml:id="433" xml:space="preserve" begin="00:26:27:02" end="00:26:29:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi haluaisimme Bidenin?</p>
+      <p xml:id="434" xml:space="preserve" begin="00:26:30:00" end="00:26:34:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vaihtoehtoina ovat<br />äärivasen ja keskivasen.</p>
+      <p xml:id="435" xml:space="preserve" begin="00:26:35:03" end="00:26:37:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Niiden on yhdistyttävä.</p>
+      <p xml:id="436" xml:space="preserve" begin="00:26:37:20" end="00:26:41:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Biden ei voi<br />ryhtyä uudestaan varapresidentiksi.</p>
+      <p xml:id="437" xml:space="preserve" begin="00:26:41:07" end="00:26:44:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Et ymmärrä sitä, että...</p>
+      <p xml:id="438" xml:space="preserve" begin="00:26:44:11" end="00:26:46:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sen pitäisi olla Biden ja Warren.</p>
+      <p xml:id="439" xml:space="preserve" begin="00:26:47:00" end="00:26:49:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jos mietitään liittoja-</p>
+      <p xml:id="440" xml:space="preserve" begin="00:26:49:06" end="00:26:53:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Bidenilla ja Berniellä<br />on enemmän yhteisiä äänestäjiä-</p>
+      <p xml:id="441" xml:space="preserve" begin="00:26:53:12" end="00:26:55:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-kuin Berniellä ja Warrenilla.</p>
+      <p xml:id="442" xml:space="preserve" begin="00:26:56:03" end="00:26:59:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Äänestäjät eivät mieti ideologiaa.</p>
+      <p xml:id="443" xml:space="preserve" begin="00:26:59:06" end="00:27:03:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He miettivät, kehen luottavat,<br />ja kuka on täynnä paskaa.</p>
+      <p xml:id="444" xml:space="preserve" begin="00:27:03:12" end="00:27:06:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Moni keskilinjan edustaja-</p>
+      <p xml:id="445" xml:space="preserve" begin="00:27:06:14" end="00:27:11:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-on täynnä paskaa.</p>
+      <p xml:id="446" xml:space="preserve" begin="00:27:11:09" end="00:27:12:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sillä voi hävitä.</p>
+      <p xml:id="447" xml:space="preserve" begin="00:27:12:24" end="00:27:17:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Joe Manchin on keskilinjan vetäjä.<br />Demokraateissa heitä riittää.</p>
+      <p xml:id="448" xml:space="preserve" begin="00:27:17:17" end="00:27:20:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sanot, että Manchin on paska.</p>
+      <p xml:id="449" xml:space="preserve" begin="00:27:20:05" end="00:27:25:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä sellaisen ehdokkaan kannattajat<br />tekevät vaaleissa?</p>
+      <p xml:id="450" xml:space="preserve" begin="00:27:25:16" end="00:27:29:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He eivät siirry sinulle.<br />He päätyvät Trumpille-</p>
+      <p xml:id="451" xml:space="preserve" begin="00:27:29:12" end="00:27:32:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska piru,<br />joka kunnioittaa, on parempi-</p>
+      <p xml:id="452" xml:space="preserve" begin="00:27:32:16" end="00:27:37:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska hän ei nimittele<br />ja sano, että olisin täynnä paskaa.</p>
+      <p xml:id="453" xml:space="preserve" begin="00:27:37:05" end="00:27:40:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kyse on siitä,<br />kuka puolustaa demokratiaa.</p>
+      <p xml:id="454" xml:space="preserve" begin="00:27:40:23" end="00:27:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kuka vastustaa hallinnon korruptiota?</p>
+      <p xml:id="455" xml:space="preserve" begin="00:27:43:14" end="00:27:46:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ainoa, joka puhuu sillä energialla-</p>
+      <p xml:id="456" xml:space="preserve" begin="00:27:46:10" end="00:27:49:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-on Elizabeth Warren.</p>
+      <p xml:id="457" xml:space="preserve" begin="00:27:49:24" end="00:27:53:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jos esivaalit näyttävät-</p>
+      <p xml:id="458" xml:space="preserve" begin="00:27:53:10" end="00:27:57:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että Biden on paras Trumpin<br />voittajaksi, hän saa ehdokkuuden.</p>
+      <p xml:id="459" xml:space="preserve" begin="00:27:57:23" end="00:28:02:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trumpia ei ole asetettu syytteeseen<br />viime viikkojen teoista.</p>
+      <p xml:id="460" xml:space="preserve" begin="00:28:02:06" end="00:28:05:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhuin tästä viime viikolla.<br />Tämä on toinen osa.</p>
+      <p xml:id="461" xml:space="preserve" begin="00:28:05:21" end="00:28:09:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sanoin, että hän takavarikoi maata<br />muuriaan varten-</p>
+      <p xml:id="462" xml:space="preserve" begin="00:28:09:18" end="00:28:13:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja käskee ihmisiä rikkomaan lakia.</p>
+      <p xml:id="463" xml:space="preserve" begin="00:28:13:20" end="00:28:18:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Älkää edes aloittako siitä, jos<br />Obama tekisi samaa. Pääni räjähtäisi.</p>
+      <p xml:id="464" xml:space="preserve" begin="00:28:19:03" end="00:28:20:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä Ukrainassa tapahtuu?</p>
+      <p xml:id="465" xml:space="preserve" begin="00:28:21:02" end="00:28:24:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän keskeytti Ukrainan avustuksen-</p>
+      <p xml:id="466" xml:space="preserve" begin="00:28:24:04" end="00:28:29:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska se ei auta häntä<br />kampanjassa Bidenia vastaan.</p>
+      <p xml:id="467" xml:space="preserve" begin="00:28:29:05" end="00:28:34:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Irlanti ja koko homma<br />surkean golfkentän kanssa...</p>
+      <p xml:id="468" xml:space="preserve" begin="00:28:34:04" end="00:28:37:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Amerikkalaissotilaiden<br />majoittamisesta maksetaan.</p>
+      <p xml:id="469" xml:space="preserve" begin="00:28:37:16" end="00:28:42:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trump sanoi neuvotelleensa<br />Kiinan kanssa.</p>
+      <p xml:id="470" xml:space="preserve" begin="00:28:42:04" end="00:28:44:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Silkka valhe.</p>
+      <p xml:id="471" xml:space="preserve" begin="00:28:44:24" end="00:28:47:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ja pörssikurssit nousivat.</p>
+      <p xml:id="472" xml:space="preserve" begin="00:28:47:20" end="00:28:50:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tästä ei tulisi virkasyytettä-</p>
+      <p xml:id="473" xml:space="preserve" begin="00:28:50:04" end="00:28:53:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta jos Obama<br />olisi kutsunut Talebanin-</p>
+      <p xml:id="474" xml:space="preserve" begin="00:28:53:15" end="00:28:57:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-terrori-iskun vuosipäivänä<br />Camp Davidiin...</p>
+      <p xml:id="475" xml:space="preserve" begin="00:28:57:23" end="00:29:00:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ihmisiltä olisi pälli levinnyt.</p>
+      <p xml:id="476" xml:space="preserve" begin="00:29:01:03" end="00:29:06:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos Obama olisi tehnyt saman,<br />hän ei olisi saanut virkasyytettä.</p>
+      <p xml:id="477" xml:space="preserve" begin="00:29:06:04" end="00:29:10:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Erikoisjoukot olisivat tehneet saman<br />hänelle kun hän teki Osamalle.</p>
+      <p xml:id="478" xml:space="preserve" begin="00:29:10:18" end="00:29:13:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Demokraatit-</p>
+      <p xml:id="479" xml:space="preserve" begin="00:29:13:18" end="00:29:15:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-antoivat tämän muhia.</p>
+      <p xml:id="480" xml:space="preserve" begin="00:29:16:01" end="00:29:19:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He ovat kuin vanhemmat,<br />jotka eivät osaa sanoa ei.</p>
+      <p xml:id="481" xml:space="preserve" begin="00:29:19:24" end="00:29:21:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lapsi voi tehdä mitä vaan.</p>
+      <p xml:id="482" xml:space="preserve" begin="00:29:22:01" end="00:29:25:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se näyttää heikolta.<br />Ihmiset eivät äänestä tekoja.</p>
+      <p xml:id="483" xml:space="preserve" begin="00:29:25:13" end="00:29:29:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He äänestävät voiman<br />tai heikkouden mukaan.</p>
+      <p xml:id="484" xml:space="preserve" begin="00:29:29:22" end="00:29:32:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He missasivat tilaisuutensa.</p>
+      <p xml:id="485" xml:space="preserve" begin="00:29:32:06" end="00:29:35:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olemme keskittyneet<br />vääriin asioihin.</p>
+      <p xml:id="486" xml:space="preserve" begin="00:29:35:18" end="00:29:37:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Keskitymme korruptioon-</p>
+      <p xml:id="487" xml:space="preserve" begin="00:29:37:21" end="00:29:41:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-joka on viety aivan uudelle tasolle.</p>
+      <p xml:id="488" xml:space="preserve" begin="00:29:42:00" end="00:29:44:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kansa miettii,<br />että niin moni on mätä.</p>
+      <p xml:id="489" xml:space="preserve" begin="00:29:44:23" end="00:29:47:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Joe Biden diileineen<br />poikansa kanssa.</p>
+      <p xml:id="490" xml:space="preserve" begin="00:29:47:12" end="00:29:49:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bill Clinton myös.</p>
+      <p xml:id="491" xml:space="preserve" begin="00:29:49:05" end="00:29:53:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meidän pitäisi keskittyä-</p>
+      <p xml:id="492" xml:space="preserve" begin="00:29:53:09" end="00:29:55:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Trumpin aiheuttamaan vahinkoon.</p>
+      <p xml:id="493" xml:space="preserve" begin="00:29:55:21" end="00:29:59:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Muslimikielto, lapset häkeissä,<br />kaikki se julmuus.</p>
+      <p xml:id="494" xml:space="preserve" begin="00:30:00:01" end="00:30:02:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Todellinen aiheutettu vahinko.</p>
+      <p xml:id="495" xml:space="preserve" begin="00:30:02:15" end="00:30:05:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Puhumattakaan väkivallasta-</p>
+      <p xml:id="496" xml:space="preserve" begin="00:30:05:07" end="00:30:08:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-jota hän puolustaa.</p>
+      <p xml:id="497" xml:space="preserve" begin="00:30:09:03" end="00:30:11:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Äärioikeistosta.</p>
+      <p xml:id="498" xml:space="preserve" begin="00:30:11:21" end="00:30:15:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ongelma tuossa on se-</p>
+      <p xml:id="499" xml:space="preserve" begin="00:30:15:04" end="00:30:19:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että tilanne on tällä hetkellä se,<br />että Trumpilla on takanaan-</p>
+      <p xml:id="500" xml:space="preserve" begin="00:30:20:02" end="00:30:21:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-oikeusjärjestelmä.</p>
+      <p xml:id="501" xml:space="preserve" begin="00:30:21:22" end="00:30:24:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Korkein oikeus päätti äskettäin-</p>
+      <p xml:id="502" xml:space="preserve" begin="00:30:24:05" end="00:30:26:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että niin voi toimia...</p>
+      <p xml:id="503" xml:space="preserve" begin="00:30:27:02" end="00:30:29:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vaalien on parasta mennä hyvin.</p>
+      <p xml:id="504" xml:space="preserve" begin="00:30:29:24" end="00:30:33:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Demokraatit eivät<br />keskity korkeimpaan oikeuteen.</p>
+      <p xml:id="505" xml:space="preserve" begin="00:30:33:08" end="00:30:37:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Asiasta ei ole keskusteltu<br />väittelyissä kertaakaan.</p>
+      <p xml:id="506" xml:space="preserve" begin="00:30:37:13" end="00:30:40:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki melskasivat Kavanaugh'sta.</p>
+      <p xml:id="507" xml:space="preserve" begin="00:30:40:08" end="00:30:42:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Melskasivat Gorsuchista.</p>
+      <p xml:id="508" xml:space="preserve" begin="00:30:42:12" end="00:30:45:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Silti kun olisi mahdollisuus puhua-</p>
+      <p xml:id="509" xml:space="preserve" begin="00:30:45:12" end="00:30:49:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-millaisen oikeusjärjestelmän haluaa,<br />emme tiedä.</p>
+      <p xml:id="510" xml:space="preserve" begin="00:30:49:18" end="00:30:53:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kun Trump puhuu oikeudesta,<br />he ovat vaan että selvä juttu.</p>
+      <p xml:id="511" xml:space="preserve" begin="00:30:53:17" end="00:30:56:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Saanko kertoa hyviä uutisia?</p>
+      <p xml:id="512" xml:space="preserve" begin="00:30:56:24" end="00:30:58:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tosi hyviä uutisia.</p>
+      <p xml:id="513" xml:space="preserve" begin="00:30:59:00" end="00:31:02:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trumpilta kysyttiin<br />tällä viikolla Afganistanista.</p>
+      <p xml:id="514" xml:space="preserve" begin="00:31:02:11" end="00:31:05:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Voittaisimme heidät helposti."</p>
+      <p xml:id="515" xml:space="preserve" begin="00:31:07:08" end="00:31:11:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Tekemällä tiettyjä juttuja.<br />Enkä puhu ydinaseista."</p>
+      <p xml:id="516" xml:space="preserve" begin="00:31:14:18" end="00:31:20:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Voisimme tehdä tiettyjä juttuja,<br />mutta se veisi miljardeja henkiä."</p>
+      <p xml:id="517" xml:space="preserve" begin="00:31:20:05" end="00:31:21:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"En halua tehdä niin."</p>
+      <p xml:id="518" xml:space="preserve" begin="00:31:21:21" end="00:31:25:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Presidentti ei halua menettää<br />miljardeja henkiä.</p>
+      <p xml:id="519" xml:space="preserve" begin="00:31:26:03" end="00:31:30:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitäs siitä sanotte?<br />Se on hyvä uutinen.</p>
+      <p xml:id="520" xml:space="preserve" begin="00:31:30:21" end="00:31:33:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se mies on ihan hullu.</p>
+      <p xml:id="521" xml:space="preserve" begin="00:31:33:18" end="00:31:39:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Huono uutinen: Brad Parscale,<br />Trumpin kampanjapäällikkö, sanoi-</p>
+      <p xml:id="522" xml:space="preserve" begin="00:31:39:23" end="00:31:45:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että Trumpeista tulee dynastia.</p>
+      <p xml:id="523" xml:space="preserve" begin="00:31:45:14" end="00:31:48:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ja luulitte,<br />että nykytilanne on paha.</p>
+      <p xml:id="524" xml:space="preserve" begin="00:31:49:00" end="00:31:51:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sen näkee Ivankasta ja Jaredista.</p>
+      <p xml:id="525" xml:space="preserve" begin="00:31:51:15" end="00:31:53:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En uskonut ennen kun näin.</p>
+      <p xml:id="526" xml:space="preserve" begin="00:31:53:21" end="00:31:56:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Lapsille on jo omat<br />kampanjajulisteet.</p>
+      <p xml:id="527" xml:space="preserve" begin="00:31:57:03" end="00:31:58:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvänen aika.</p>
+      <p xml:id="528" xml:space="preserve" begin="00:32:01:18" end="00:32:03:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jared Kushner.</p>
+      <p xml:id="529" xml:space="preserve" begin="00:32:03:07" end="00:32:06:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minä olen uurnalla se naama,<br />jota haluat lyödä.</p>
+      <p xml:id="530" xml:space="preserve" begin="00:32:08:09" end="00:32:09:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuo oli hyvä.</p>
+      <p xml:id="531" xml:space="preserve" begin="00:32:10:03" end="00:32:13:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Don Junior ja Eric.<br />Ei paska kauas puusta putoa.</p>
+      <p xml:id="532" xml:space="preserve" begin="00:32:17:10" end="00:32:21:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Melania 2024: uutiset on valetta,<br />mutta tissit on aidot.</p>
+      <p xml:id="533" xml:space="preserve" begin="00:32:24:14" end="00:32:27:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Eric Trump:<br />Mahtava Amerikka tehdä taas.</p>
+      <p xml:id="534" xml:space="preserve" begin="00:32:33:08" end="00:32:38:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jared Kushner: Juutalainen,<br />mutta ei sen oudon hatun kanssa.</p>
+      <p xml:id="535" xml:space="preserve" begin="00:32:41:01" end="00:32:42:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Barron Trump 2052.</p>
+      <p xml:id="536" xml:space="preserve" begin="00:32:42:19" end="00:32:46:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Älkää muuttako suuntaa,<br />muuri on jo lähes valmis.</p>
+      <p xml:id="537" xml:space="preserve" begin="00:32:47:11" end="00:32:51:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän on<br /><span tts:fontStyle="italic">New York Timesin</span> toimittaja-</p>
+      <p xml:id="538" xml:space="preserve" begin="00:32:51:08" end="00:32:58:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja kirjan <span tts:fontStyle="italic">How to Fight Anti-Semitism</span><br />kirjoittaja Bari Weiss.</p>
+      <p xml:id="539" xml:space="preserve" begin="00:32:59:00" end="00:33:02:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hei, miten menee?</p>
+      <p xml:id="540" xml:space="preserve" begin="00:33:02:16" end="00:33:04:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hauska nähdä taas.</p>
+      <p xml:id="541" xml:space="preserve" begin="00:33:04:06" end="00:33:06:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olet valmiina.</p>
+      <p xml:id="542" xml:space="preserve" begin="00:33:06:06" end="00:33:07:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minua hermostuttaa.</p>
+      <p xml:id="543" xml:space="preserve" begin="00:33:07:21" end="00:33:10:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhutaan ensin kirjastasi.<br />Tunnet sen hyvin.</p>
+      <p xml:id="544" xml:space="preserve" begin="00:33:11:02" end="00:33:13:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kirjoitithan sen.</p>
+      <p xml:id="545" xml:space="preserve" begin="00:33:13:04" end="00:33:15:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se on vakava kirja.</p>
+      <p xml:id="546" xml:space="preserve" begin="00:33:15:17" end="00:33:17:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siinä on kiehtovia kohtia.</p>
+      <p xml:id="547" xml:space="preserve" begin="00:33:17:23" end="00:33:20:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haluan sinun puhuvan siitä-</p>
+      <p xml:id="548" xml:space="preserve" begin="00:33:20:04" end="00:33:24:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että antisemitismissä on kyse<br />muustakin kuin juutalaisista.</p>
+      <p xml:id="549" xml:space="preserve" begin="00:33:24:10" end="00:33:30:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siinä on kyse yhteiskunnan<br />terveydestä halki historian.</p>
+      <p xml:id="550" xml:space="preserve" begin="00:33:30:14" end="00:33:33:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Niin pitkään<br />kun juutalaisia on ollut.</p>
+      <p xml:id="551" xml:space="preserve" begin="00:33:33:06" end="00:33:35:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yhteiskunnan antisemitismi kertoo-</p>
+      <p xml:id="552" xml:space="preserve" begin="00:33:35:19" end="00:33:40:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että jotain on pielessä.<br />Se on mielenkiintoista.</p>
+      <p xml:id="553" xml:space="preserve" begin="00:33:40:10" end="00:33:45:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kirjoitin kirjan, en vain sen vuoksi,<br />että synagogani-</p>
+      <p xml:id="554" xml:space="preserve" begin="00:33:45:12" end="00:33:48:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joutui ammuskelun kohteeksi<br />27. lokakuuta 2018-</p>
+      <p xml:id="555" xml:space="preserve" begin="00:33:48:21" end="00:33:52:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-vaan koska mitä enemmän<br />aihetta tutkin-</p>
+      <p xml:id="556" xml:space="preserve" begin="00:33:53:03" end="00:33:57:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-huomasin, että yhteiskunnat,<br />joissa antisemitismi kukoisti-</p>
+      <p xml:id="557" xml:space="preserve" begin="00:33:58:00" end="00:34:01:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-olivat kuolevia yhteiskuntia. Miksi?</p>
+      <p xml:id="558" xml:space="preserve" begin="00:34:01:12" end="00:34:05:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Koska antisemitismi on<br />salaliittoteorioiden äiti.</p>
+      <p xml:id="559" xml:space="preserve" begin="00:34:05:16" end="00:34:08:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kun antisemitismi kukoistaa-</p>
+      <p xml:id="560" xml:space="preserve" begin="00:34:08:12" end="00:34:13:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-se kertoo siitä, että yhteiskunta<br />on vaihtanut totuudet valheisiin.</p>
+      <p xml:id="561" xml:space="preserve" begin="00:34:13:16" end="00:34:15:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Antisemitismi on tavallaan...</p>
+      <p xml:id="562" xml:space="preserve" begin="00:34:15:22" end="00:34:20:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sitä voi ajatella ajatusviruksena,<br />jota sivilisaatio kantaa.</p>
+      <p xml:id="563" xml:space="preserve" begin="00:34:20:18" end="00:34:24:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meissäkin on viruksia-</p>
+      <p xml:id="564" xml:space="preserve" begin="00:34:24:13" end="00:34:27:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta jos olemme terveitä,<br />ne pysyvät kurissa.</p>
+      <p xml:id="565" xml:space="preserve" begin="00:34:27:19" end="00:34:31:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kun yhteiskunta sairastuu,<br />ja repii itsensä hajalle-</p>
+      <p xml:id="566" xml:space="preserve" begin="00:34:31:18" end="00:34:35:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-antisemitismi alkaa nostaa päätään.</p>
+      <p xml:id="567" xml:space="preserve" begin="00:34:36:02" end="00:34:39:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mutta miksi juutalaiset?</p>
+      <p xml:id="568" xml:space="preserve" begin="00:34:39:07" end="00:34:46:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Juuret ovat Matteuksen evankeliumissa<br />ja Egyptissä ennen ajanlaskua.</p>
+      <p xml:id="569" xml:space="preserve" begin="00:34:46:11" end="00:34:50:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Maailmassa on niin monia kansoja.</p>
+      <p xml:id="570" xml:space="preserve" begin="00:34:50:07" end="00:34:54:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Näyttää siltä, että<br />juutalaiset ovat aina liikkeellä.</p>
+      <p xml:id="571" xml:space="preserve" begin="00:34:54:19" end="00:34:58:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Niin me olemmekin.<br />Tässä yksi syy siihen.</p>
+      <p xml:id="572" xml:space="preserve" begin="00:34:58:16" end="00:35:01:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kun juutalaiset<br />kielsivät Jeesuksen...</p>
+      <p xml:id="573" xml:space="preserve" begin="00:35:01:16" end="00:35:05:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ai, se juttu.<br />Tiesin, että unohdin jotain.</p>
+      <p xml:id="574" xml:space="preserve" begin="00:35:05:23" end="00:35:09:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se koko homma.</p>
+      <p xml:id="575" xml:space="preserve" begin="00:35:09:08" end="00:35:11:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aina pitää palata siihen.</p>
+      <p xml:id="576" xml:space="preserve" begin="00:35:11:17" end="00:35:14:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mieti sitä hetki.</p>
+      <p xml:id="577" xml:space="preserve" begin="00:35:14:13" end="00:35:16:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olet oikeassa. Unohdin.</p>
+      <p xml:id="578" xml:space="preserve" begin="00:35:17:03" end="00:35:22:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pienet juutalaiset saavat<br />mahtavimman imperiumin-</p>
+      <p xml:id="579" xml:space="preserve" begin="00:35:22:14" end="00:35:24:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-tappamaan Jeesuksen.</p>
+      <p xml:id="580" xml:space="preserve" begin="00:35:25:00" end="00:35:28:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ja mikä on juutalainen?</p>
+      <p xml:id="581" xml:space="preserve" begin="00:35:28:22" end="00:35:33:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kyse ei ole rasismista,<br />jossa toinen rotu on alempi-</p>
+      <p xml:id="582" xml:space="preserve" begin="00:35:33:15" end="00:35:36:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja rasisti lyö alaspäin.</p>
+      <p xml:id="583" xml:space="preserve" begin="00:35:36:10" end="00:35:40:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Antisemitismin salaliittoteoriassa<br />juutalainen on manipuloija-</p>
+      <p xml:id="584" xml:space="preserve" begin="00:35:40:23" end="00:35:45:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joka saa vallanpitäjät<br />tekemään tahtonsa mukaan.</p>
+      <p xml:id="585" xml:space="preserve" begin="00:35:45:09" end="00:35:48:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Palataan alkuperäiseen salaliittoon.</p>
+      <p xml:id="586" xml:space="preserve" begin="00:35:48:06" end="00:35:53:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En ole juutalaisuuden asiantuntija,<br />vaikka maksan vaan tukkuhintaa.</p>
+      <p xml:id="587" xml:space="preserve" begin="00:36:00:15" end="00:36:02:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Me molemmat.</p>
+      <p xml:id="588" xml:space="preserve" begin="00:36:02:23" end="00:36:04:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mutta minä...</p>
+      <p xml:id="589" xml:space="preserve" begin="00:36:04:20" end="00:36:06:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Joudut vielä pulaan tuosta.</p>
+      <p xml:id="590" xml:space="preserve" begin="00:36:06:20" end="00:36:11:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ihan kun välittäisin paskaakaan.</p>
+      <p xml:id="591" xml:space="preserve" begin="00:36:11:04" end="00:36:15:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhut myös siitä, että molemmat<br />puolet syyttävät juutalaisia.</p>
+      <p xml:id="592" xml:space="preserve" begin="00:36:15:15" end="00:36:18:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Fasistit ovat aina<br />vihanneet juutalaisia-</p>
+      <p xml:id="593" xml:space="preserve" begin="00:36:19:03" end="00:36:23:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta viime vuosikymmeninä<br />vasemmistokin on tehnyt niin.</p>
+      <p xml:id="594" xml:space="preserve" begin="00:36:23:05" end="00:36:29:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhut, että antisemitismillä<br />pärjää Amerikan politiikassa.</p>
+      <p xml:id="595" xml:space="preserve" begin="00:36:29:13" end="00:36:32:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se on selvinnyt<br />politiikassa Euroopassa.</p>
+      <p xml:id="596" xml:space="preserve" begin="00:36:33:01" end="00:36:36:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Labour-puoluetta johtaa<br />juutalaisvastainen Jeremy Corbyn-</p>
+      <p xml:id="597" xml:space="preserve" begin="00:36:37:02" end="00:36:42:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joka on muuttanut yhtä<br />tärkeimmistä puolueista... Kiitos.</p>
+      <p xml:id="598" xml:space="preserve" begin="00:36:42:16" end="00:36:44:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Katso, miten on käynyt.</p>
+      <p xml:id="599" xml:space="preserve" begin="00:36:44:17" end="00:36:49:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pelkään niin käyvän<br />demokraateillekin.</p>
+      <p xml:id="600" xml:space="preserve" begin="00:36:49:04" end="00:36:55:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ehdokasryhmittymä, josta Michaelin<br />kanssa puhuit...</p>
+      <p xml:id="601" xml:space="preserve" begin="00:36:55:07" end="00:37:00:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Osa siitä tukee<br />Israelin vastaista BDS:ää-</p>
+      <p xml:id="602" xml:space="preserve" begin="00:37:00:21" end="00:37:03:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joka haluaa hävittää<br />juutalaisvaltiot-</p>
+      <p xml:id="603" xml:space="preserve" begin="00:37:03:15" end="00:37:05:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Jordan-joen ja Välimeren väliltä.</p>
+      <p xml:id="604" xml:space="preserve" begin="00:37:06:02" end="00:37:11:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ihmiset tietysti ajattelevat,<br />että puhumme tästä nyt-</p>
+      <p xml:id="605" xml:space="preserve" begin="00:37:11:05" end="00:37:14:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska Netanjahu puhui<br />Länsirannasta.</p>
+      <p xml:id="606" xml:space="preserve" begin="00:37:14:18" end="00:37:17:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minusta se ei ole hyvä idea.</p>
+      <p xml:id="607" xml:space="preserve" begin="00:37:17:10" end="00:37:22:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Rauhansopimuksen tekoon<br />on ollut 70 vuotta aikaa.</p>
+      <p xml:id="608" xml:space="preserve" begin="00:37:22:04" end="00:37:26:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ilman sitä vihamielisyyttä...</p>
+      <p xml:id="609" xml:space="preserve" begin="00:37:26:22" end="00:37:30:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kamala tilanne,<br />molemmille puolilla on oikeus maahan.</p>
+      <p xml:id="610" xml:space="preserve" begin="00:37:30:21" end="00:37:34:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Juutalaiset olisivat jakaneet<br />sen 70 vuotta sitten.</p>
+      <p xml:id="611" xml:space="preserve" begin="00:37:34:09" end="00:37:37:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He halusivat tappaa teidät kaikki.</p>
+      <p xml:id="612" xml:space="preserve" begin="00:37:37:04" end="00:37:41:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos vaatii kaikkea, mutta ei saa<br />sitä, pitää tehdä sopimus.</p>
+      <p xml:id="613" xml:space="preserve" begin="00:37:41:08" end="00:37:43:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tehkää sopimus.</p>
+      <p xml:id="614" xml:space="preserve" begin="00:37:43:13" end="00:37:49:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Myös äärivasemmisto pysyy<br />kannassaan, koska se tukee heitä.</p>
+      <p xml:id="615" xml:space="preserve" begin="00:37:49:06" end="00:37:52:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bibi-ismi liitetään sionismiin.</p>
+      <p xml:id="616" xml:space="preserve" begin="00:37:52:22" end="00:37:54:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ne ovat hyvin eri asioita.</p>
+      <p xml:id="617" xml:space="preserve" begin="00:37:54:20" end="00:37:58:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kritisoin vahvasti Israelin<br />nykypääministeriä.</p>
+      <p xml:id="618" xml:space="preserve" begin="00:37:58:09" end="00:38:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minusta sekä juutalaisilla että<br />palestiinalaisilla on oikeus maahan.</p>
+      <p xml:id="619" xml:space="preserve" begin="00:38:03:02" end="00:38:08:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos Israel haluaa olla demokraattinen<br />valtio, valtioita pitää olla kaksi.</p>
+      <p xml:id="620" xml:space="preserve" begin="00:38:08:15" end="00:38:12:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Niiden tyyppien mukaan<br />koska Bibi on pääministeri-</p>
+      <p xml:id="621" xml:space="preserve" begin="00:38:13:00" end="00:38:14:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Israelia ei saisi olla.</p>
+      <p xml:id="622" xml:space="preserve" begin="00:38:14:21" end="00:38:18:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ei kukaan väitä, että vaikka<br />meillä on paha presidentti-</p>
+      <p xml:id="623" xml:space="preserve" begin="00:38:18:19" end="00:38:21:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Amerikka pitäisi hajottaa.</p>
+      <p xml:id="624" xml:space="preserve" begin="00:38:21:13" end="00:38:25:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ensinnäkin 97 % Länsirannasta<br />oli tarjolla 90-luvulla.</p>
+      <p xml:id="625" xml:space="preserve" begin="00:38:26:03" end="00:38:28:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He eivät<br />suostuneet sopimukseen.</p>
+      <p xml:id="626" xml:space="preserve" begin="00:38:28:19" end="00:38:32:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jordania hallitsi<br />Länsirantaa 19 vuotta.</p>
+      <p xml:id="627" xml:space="preserve" begin="00:38:32:14" end="00:38:36:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Missä Palestiina oli?<br />Siitä ei Amerikan mediassa puhuta.</p>
+      <p xml:id="628" xml:space="preserve" begin="00:38:36:10" end="00:38:40:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ahaa, siellä on viisi juutalaista.</p>
+      <p xml:id="629" xml:space="preserve" begin="00:38:41:03" end="00:38:43:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kysyn tästä.</p>
+      <p xml:id="630" xml:space="preserve" begin="00:38:43:07" end="00:38:46:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kirjoitit siitä,<br />että ennen pelättiin...</p>
+      <p xml:id="631" xml:space="preserve" begin="00:38:46:15" end="00:38:50:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tämä on henkilökohtaista.<br />Syyskuun 11. vuosipäivänä-</p>
+      <p xml:id="632" xml:space="preserve" begin="00:38:50:09" end="00:38:54:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mietin aina syyskuun 17. päivän<br />traagisia tapahtumia.</p>
+      <p xml:id="633" xml:space="preserve" begin="00:38:54:22" end="00:39:00:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuusi päivää iskun jälkeen<br />sain potkut.</p>
+      <p xml:id="634" xml:space="preserve" begin="00:39:00:12" end="00:39:04:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ohjelmani peruttiin.</p>
+      <p xml:id="635" xml:space="preserve" begin="00:39:04:12" end="00:39:07:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ennen kun<br />perumisesta tuli muotia.</p>
+      <p xml:id="636" xml:space="preserve" begin="00:39:07:18" end="00:39:13:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se tapahtui tv:ssä,<br />koska sponsorit vetäytyivät.</p>
+      <p xml:id="637" xml:space="preserve" begin="00:39:13:05" end="00:39:16:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sinusta kyse ei ole<br />mainostajista vaan lukijoista.</p>
+      <p xml:id="638" xml:space="preserve" begin="00:39:17:00" end="00:39:20:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Niin se on.</p>
+      <p xml:id="639" xml:space="preserve" begin="00:39:20:21" end="00:39:24:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Uskon, että jos kaikki<br /><span tts:fontStyle="italic">New York Timesin</span> toimittajat-</p>
+      <p xml:id="640" xml:space="preserve" begin="00:39:24:16" end="00:39:29:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja muutkin lehdet poistuisivat<br />Twitteristä puoleksi vuodeksi-</p>
+      <p xml:id="641" xml:space="preserve" begin="00:39:30:01" end="00:39:35:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-uutisointi olisi aivan erilaista<br />ja parempaa.</p>
+      <p xml:id="642" xml:space="preserve" begin="00:39:35:12" end="00:39:37:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Twitter...</p>
+      <p xml:id="643" xml:space="preserve" begin="00:39:38:00" end="00:39:41:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sama koskee myös poliitikkoja.</p>
+      <p xml:id="644" xml:space="preserve" begin="00:39:41:04" end="00:39:46:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhuin suositun kongressiedustajan<br />henkilöstöpäällikölle.</p>
+      <p xml:id="645" xml:space="preserve" begin="00:39:46:23" end="00:39:50:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän sanoi,<br />että poliitikon avustajat-</p>
+      <p xml:id="646" xml:space="preserve" begin="00:39:50:19" end="00:39:53:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-katsovat reaktioita Twitteristä-</p>
+      <p xml:id="647" xml:space="preserve" begin="00:39:53:08" end="00:39:57:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja laskevat reaktion perusteella,<br />mitä kannattaa sanoa.</p>
+      <p xml:id="648" xml:space="preserve" begin="00:39:57:05" end="00:40:00:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sama tapahtuu journalismissa.</p>
+      <p xml:id="649" xml:space="preserve" begin="00:40:00:23" end="00:40:03:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Katsomme, mikä raivostuttaa.</p>
+      <p xml:id="650" xml:space="preserve" begin="00:40:03:13" end="00:40:07:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Normaali ihminen ei halua<br />astua miinakentälle.</p>
+      <p xml:id="651" xml:space="preserve" begin="00:40:08:00" end="00:40:09:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Toki poikkeuksia on.</p>
+      <p xml:id="652" xml:space="preserve" begin="00:40:09:16" end="00:40:12:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mutta se on ongelma.</p>
+      <p xml:id="653" xml:space="preserve" begin="00:40:12:20" end="00:40:16:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Koska lukija pystyy<br />reagoimaan välittömästi-</p>
+      <p xml:id="654" xml:space="preserve" begin="00:40:16:08" end="00:40:18:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-pelkään sen häiritsevän työtämme.</p>
+      <p xml:id="655" xml:space="preserve" begin="00:40:19:01" end="00:40:23:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ihmisellä pitäisi olla<br />mahdollisuus astua miinakentälle.</p>
+      <p xml:id="656" xml:space="preserve" begin="00:40:24:00" end="00:40:27:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ellemme vastusta Twitteriä,<br />mikään ei muutu-</p>
+      <p xml:id="657" xml:space="preserve" begin="00:40:27:22" end="00:40:31:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja Trump valitaan.<br />Twitter on hänen narttunsa.</p>
+      <p xml:id="658" xml:space="preserve" begin="00:40:31:15" end="00:40:34:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Demokraatit ovat Twitterin narttuja.</p>
+      <p xml:id="659" xml:space="preserve" begin="00:40:34:16" end="00:40:41:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pointti on se, että politiikka<br />pyörii tätä nykyä-</p>
+      <p xml:id="660" xml:space="preserve" begin="00:40:41:07" end="00:40:45:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-Twitterin ympärillä-</p>
+      <p xml:id="661" xml:space="preserve" begin="00:40:45:17" end="00:40:49:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-välittömän tyydytyksen saamiseksi.</p>
+      <p xml:id="662" xml:space="preserve" begin="00:40:49:09" end="00:40:53:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Twitter edustaa pientä joukkoa.</p>
+      <p xml:id="663" xml:space="preserve" begin="00:40:53:05" end="00:40:58:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ocasio-Cortez sanoi<br />siitä puhemiehelle.</p>
+      <p xml:id="664" xml:space="preserve" begin="00:40:58:22" end="00:41:01:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Minulla on<br />neljä miljoonaa seuraajaa."</p>
+      <p xml:id="665" xml:space="preserve" begin="00:41:01:19" end="00:41:04:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhemies vastasi:<br />"Mutta vain neljä ääntä."</p>
+      <p xml:id="666" xml:space="preserve" begin="00:41:04:23" end="00:41:09:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siinä on poliittisen<br />johtajuuden paradoksi.</p>
+      <p xml:id="667" xml:space="preserve" begin="00:41:09:17" end="00:41:12:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Kuka asetti agendan?<br />-Ocasio-Cortez.</p>
+      <p xml:id="668" xml:space="preserve" begin="00:41:12:09" end="00:41:16:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minusta se on mahtavaa.<br />Hän nosti ilmaston kartalle.</p>
+      <p xml:id="669" xml:space="preserve" begin="00:41:16:21" end="00:41:21:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Puhumme koko asiasta,<br />koska hän nousi kongressiin.</p>
+      <p xml:id="670" xml:space="preserve" begin="00:41:21:04" end="00:41:25:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onnittelut kirjastasi, Bari.</p>
+      <p xml:id="671" xml:space="preserve" begin="00:41:25:18" end="00:41:29:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Arvostan sitä, että puhut<br />antisemitismistä-</p>
+      <p xml:id="672" xml:space="preserve" begin="00:41:29:08" end="00:41:34:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-ja siitä, miten se on päässyt<br />ennennäkemättömälle tasolle.</p>
+      <p xml:id="673" xml:space="preserve" begin="00:41:34:13" end="00:41:39:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Poikani joutui jäämään esikouluun<br />pommiuhkauksen takia.</p>
+      <p xml:id="674" xml:space="preserve" begin="00:41:39:08" end="00:41:41:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Seinillä oli graffiteja.</p>
+      <p xml:id="675" xml:space="preserve" begin="00:41:41:10" end="00:41:46:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minua huolestuttaa se, että<br />keskustelu keskittyy-</p>
+      <p xml:id="676" xml:space="preserve" begin="00:41:46:22" end="00:41:49:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-parin kongressiedustajan sanoihin-</p>
+      <p xml:id="677" xml:space="preserve" begin="00:41:49:10" end="00:41:55:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-kun netissä on väkivaltainen liike.</p>
+      <p xml:id="678" xml:space="preserve" begin="00:41:55:09" end="00:41:57:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Synagogani... Hetkinen.</p>
+      <p xml:id="679" xml:space="preserve" begin="00:41:57:16" end="00:41:59:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi aina pitää kilpailla?</p>
+      <p xml:id="680" xml:space="preserve" begin="00:42:00:03" end="00:42:02:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Enkö ota<br />äärioikeistoa vakavasti?</p>
+      <p xml:id="681" xml:space="preserve" begin="00:42:02:19" end="00:42:05:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tietysti otat, mutta rinnastat nämä.</p>
+      <p xml:id="682" xml:space="preserve" begin="00:42:05:14" end="00:42:06:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ne ovat eri asia.</p>
+      <p xml:id="683" xml:space="preserve" begin="00:42:07:02" end="00:42:09:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ne ovat kahta eri antisemitismiä.</p>
+      <p xml:id="684" xml:space="preserve" begin="00:42:09:19" end="00:42:14:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se tehdään kirjassani selväksi.<br />Toinen ilmoittaa itsestään.</p>
+      <p xml:id="685" xml:space="preserve" begin="00:42:14:16" end="00:42:18:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sitä edustaa tyyppi, joka tuli<br />synagogaani ja sanoi-</p>
+      <p xml:id="686" xml:space="preserve" begin="00:42:18:18" end="00:42:21:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-että juutalaisten on kuoltava.</p>
+      <p xml:id="687" xml:space="preserve" begin="00:42:21:04" end="00:42:23:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tässä huoneessa ja maassa-</p>
+      <p xml:id="688" xml:space="preserve" begin="00:42:23:14" end="00:42:27:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ollaan yhtä mieltä sen pahuudesta.</p>
+      <p xml:id="689" xml:space="preserve" begin="00:42:27:08" end="00:42:30:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ero on siinä, että<br />vasemmisto solahtaa valtavirtaan-</p>
+      <p xml:id="690" xml:space="preserve" begin="00:42:30:22" end="00:42:33:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja kielenkäyttöön-</p>
+      <p xml:id="691" xml:space="preserve" begin="00:42:34:03" end="00:42:36:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-antirasismin kieleen.</p>
+      <p xml:id="692" xml:space="preserve" begin="00:42:36:22" end="00:42:41:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Labour-puolueelle kävi niin.<br />Se ei ole fyysistä väkivaltaa.</p>
+      <p xml:id="693" xml:space="preserve" begin="00:42:41:09" end="00:42:44:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jos joku tulee tänne tappamaan-</p>
+      <p xml:id="694" xml:space="preserve" begin="00:42:44:13" end="00:42:48:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-hän kuuluu äärioikeistoon.</p>
+      <p xml:id="695" xml:space="preserve" begin="00:42:48:15" end="00:42:50:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siitä ei ole epäilystä.</p>
+      <p xml:id="696" xml:space="preserve" begin="00:42:50:12" end="00:42:53:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Haluan herätellä siihen,<br />mitä voi tulla.</p>
+      <p xml:id="697" xml:space="preserve" begin="00:42:53:11" end="00:42:57:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Työni on myös kertoa...</p>
+      <p xml:id="698" xml:space="preserve" begin="00:42:57:04" end="00:42:59:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei välttämättä.</p>
+      <p xml:id="699" xml:space="preserve" begin="00:42:59:16" end="00:43:05:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Syyskuun 11. päivän<br />terrori-iskujen jälkeen-</p>
+      <p xml:id="700" xml:space="preserve" begin="00:43:05:24" end="00:43:09:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-lähestulkoon sama määrä,<br />muistaakseni 105 ihmistä-</p>
+      <p xml:id="701" xml:space="preserve" begin="00:43:09:15" end="00:43:13:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-on kuollut jihadistien<br />ja äärioikeiston toimesta.</p>
+      <p xml:id="702" xml:space="preserve" begin="00:43:13:19" end="00:43:18:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos mietitään syyskuun 10. päivää,<br />luku on aivan erilainen.</p>
+      <p xml:id="703" xml:space="preserve" begin="00:43:18:22" end="00:43:20:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kunhan sanon.</p>
+      <p xml:id="704" xml:space="preserve" begin="00:43:20:09" end="00:43:23:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pahaa on molemmin puolin.</p>
+      <p xml:id="705" xml:space="preserve" begin="00:43:23:05" end="00:43:25:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pahuudesta ei tarvitse kilpailla.</p>
+      <p xml:id="706" xml:space="preserve" begin="00:43:25:19" end="00:43:27:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vihataan niitä molempia.</p>
+      <p xml:id="707" xml:space="preserve" begin="00:43:28:00" end="00:43:31:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En ymmärrä,<br />mistä tässä tapellaan.</p>
+      <p xml:id="708" xml:space="preserve" begin="00:43:31:06" end="00:43:34:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uhat ovat erilaisia.</p>
+      <p xml:id="709" xml:space="preserve" begin="00:43:34:12" end="00:43:37:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikki palestiinalaiset<br />eivät ole enkeleitä.</p>
+      <p xml:id="710" xml:space="preserve" begin="00:43:37:16" end="00:43:41:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikki BDF:ään liittyvät<br />eivät ole enkeleitä.</p>
+      <p xml:id="711" xml:space="preserve" begin="00:43:41:05" end="00:43:42:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olet oikeassa siinä-</p>
+      <p xml:id="712" xml:space="preserve" begin="00:43:43:03" end="00:43:46:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että vasemmiston<br />keskustelutavassa on vaaransa.</p>
+      <p xml:id="713" xml:space="preserve" begin="00:43:47:03" end="00:43:51:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ensimmäistä kertaa ei keskitytä<br />palestiinalaisten ihmisoikeuksiin-</p>
+      <p xml:id="714" xml:space="preserve" begin="00:43:52:00" end="00:43:55:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-eikä apartheidiin,<br />jota ei voi hyväksyä.</p>
+      <p xml:id="715" xml:space="preserve" begin="00:43:56:01" end="00:44:00:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se vaarantaa nykytilanteen.</p>
+      <p xml:id="716" xml:space="preserve" begin="00:44:00:13" end="00:44:03:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ensi kertaa se on haastettava.</p>
+      <p xml:id="717" xml:space="preserve" begin="00:44:03:07" end="00:44:07:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">BDS ei ole ihmisoikeuksien asialla.</p>
+      <p xml:id="718" xml:space="preserve" begin="00:44:08:02" end="00:44:12:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kannatan ihmisoikeuksia.<br />Tiedätkö, miten tuen niitä?</p>
+      <p xml:id="719" xml:space="preserve" begin="00:44:12:05" end="00:44:16:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Välittämällä myös Libanonissa<br />asuvista 500 000 palestiinalaisista-</p>
+      <p xml:id="720" xml:space="preserve" begin="00:44:16:20" end="00:44:21:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-jotka on ahdettu<br />12 pakolaisleirille.</p>
+      <p xml:id="721" xml:space="preserve" begin="00:44:22:00" end="00:44:23:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kukaan ei puhu heistä.</p>
+      <p xml:id="722" xml:space="preserve" begin="00:44:23:18" end="00:44:28:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Välittäminen tulee mukaan<br />vain jos Israel liittyy siihen.</p>
+      <p xml:id="723" xml:space="preserve" begin="00:44:28:05" end="00:44:32:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kiinassa on miljoona uiguuria.<br />Muslimeita keskitysleireillä.</p>
+      <p xml:id="724" xml:space="preserve" begin="00:44:32:19" end="00:44:36:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Miksi niin kovasti<br />välittävä vasemmisto-</p>
+      <p xml:id="725" xml:space="preserve" begin="00:44:36:24" end="00:44:39:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ei puhu heistä?</p>
+      <p xml:id="726" xml:space="preserve" begin="00:44:39:04" end="00:44:43:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Varsinkin Rashida Tlaib<br />on kritisoinut saudeja.</p>
+      <p xml:id="727" xml:space="preserve" begin="00:44:43:06" end="00:44:46:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyviä ystäviämme saudeja.</p>
+      <p xml:id="728" xml:space="preserve" begin="00:44:47:00" end="00:44:52:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Israelin pitäisi olla liittolaisemme.</p>
+      <p xml:id="729" xml:space="preserve" begin="00:44:52:08" end="00:44:56:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ensinnäkin yleisö ihmettelee,<br />mitä ne hiton uiguurit on.</p>
+      <p xml:id="730" xml:space="preserve" begin="00:44:56:13" end="00:44:59:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvä, että sain sen telkkariin.</p>
+      <p xml:id="731" xml:space="preserve" begin="00:44:59:04" end="00:45:02:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meillä on pari minuuttia jäljellä.</p>
+      <p xml:id="732" xml:space="preserve" begin="00:45:02:24" end="00:45:05:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Terrori-iskuista on 18 vuotta.</p>
+      <p xml:id="733" xml:space="preserve" begin="00:45:05:18" end="00:45:08:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän pitäisi kiittää,<br />enkä ikinä tee niin.</p>
+      <p xml:id="734" xml:space="preserve" begin="00:45:09:01" end="00:45:13:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En ole mikään perseennuolija.</p>
+      <p xml:id="735" xml:space="preserve" begin="00:45:14:02" end="00:45:19:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">CIA, FBI, paikallispoliisi.<br />Moni teki rutkasti töitä.</p>
+      <p xml:id="736" xml:space="preserve" begin="00:45:19:07" end="00:45:22:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olisi voinut tapahtua vaikka mitä.</p>
+      <p xml:id="737" xml:space="preserve" begin="00:45:22:22" end="00:45:26:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ja te tiedätte kuka heitä uhkaa.</p>
+      <p xml:id="738" xml:space="preserve" begin="00:45:26:04" end="00:45:31:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entä jos se tapahtuu taas? Onko<br />Warrenilla suunnitelma siihenkin?</p>
+      <p xml:id="739" xml:space="preserve" begin="00:45:31:08" end="00:45:35:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aina sanotaan-</p>
+      <p xml:id="740" xml:space="preserve" begin="00:45:36:00" end="00:45:40:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-että teillä on kellot,<br />mutta meillä on aika.</p>
+      <p xml:id="741" xml:space="preserve" begin="00:45:40:06" end="00:45:44:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">18 vuotta on silmänräpäys<br />jihadisteille.</p>
+      <p xml:id="742" xml:space="preserve" begin="00:45:44:24" end="00:45:48:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Niin tapahtui, mutta niin<br />voi tapahtua uudelleen.</p>
+      <p xml:id="743" xml:space="preserve" begin="00:45:48:19" end="00:45:54:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entä jos se tapahtuisi ennen vaaleja?<br />Miten demokraatit vastaisivat?</p>
+      <p xml:id="744" xml:space="preserve" begin="00:45:54:19" end="00:45:58:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En usko, että heillä on suunnitelmaa.<br />Niin kuin virkasyytekin.</p>
+      <p xml:id="745" xml:space="preserve" begin="00:45:59:00" end="00:46:02:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sen piti olla varma<br />Muellerin raportin ilmestyttyä.</p>
+      <p xml:id="746" xml:space="preserve" begin="00:46:02:18" end="00:46:07:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Heidän viestinsä ei ole selvä.</p>
+      <p xml:id="747" xml:space="preserve" begin="00:46:07:06" end="00:46:10:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He eivät hallitse kongressia<br />enemmistön tavalla.</p>
+      <p xml:id="748" xml:space="preserve" begin="00:46:10:21" end="00:46:14:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sotalakitilanne on mahdollinen.</p>
+      <p xml:id="749" xml:space="preserve" begin="00:46:15:02" end="00:46:18:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Presidentti,<br />joka voi tehdä mitä vaan...</p>
+      <p xml:id="750" xml:space="preserve" begin="00:46:18:10" end="00:46:20:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olet sanonut sitä koko ajan.</p>
+      <p xml:id="751" xml:space="preserve" begin="00:46:20:16" end="00:46:22:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Trump mukamas vitsaili.</p>
+      <p xml:id="752" xml:space="preserve" begin="00:46:23:00" end="00:46:24:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"En mene minnekään."</p>
+      <p xml:id="753" xml:space="preserve" begin="00:46:25:03" end="00:46:26:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sitä olen sanonut.</p>
+      <p xml:id="754" xml:space="preserve" begin="00:46:27:03" end="00:46:31:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se on nyt esillä.</p>
+      <p xml:id="755" xml:space="preserve" begin="00:46:31:13" end="00:46:34:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Moni naureskelee sille-</p>
+      <p xml:id="756" xml:space="preserve" begin="00:46:34:10" end="00:46:38:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-mutta sen alla on vakavuutta.</p>
+      <p xml:id="757" xml:space="preserve" begin="00:46:38:10" end="00:46:43:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pohdin pointtiasi siitä,<br />miten koimme terrori-iskun.</p>
+      <p xml:id="758" xml:space="preserve" begin="00:46:44:01" end="00:46:48:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Trumpista huolimatta...<br />Ja vaikka rakoilua on ollut-</p>
+      <p xml:id="759" xml:space="preserve" begin="00:46:48:05" end="00:46:50:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-tiedustelutoiminnassa-</p>
+      <p xml:id="760" xml:space="preserve" begin="00:46:50:23" end="00:46:52:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-se tekee hienoa työtä.</p>
+      <p xml:id="761" xml:space="preserve" begin="00:46:52:21" end="00:46:56:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikki se, minkä he ovat<br />saaneet pysäytettyä.</p>
+      <p xml:id="762" xml:space="preserve" begin="00:46:56:21" end="00:47:01:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Emme kuule siitä<br />Trumpista huolimatta.</p>
+      <p xml:id="763" xml:space="preserve" begin="00:47:01:15" end="00:47:07:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vaikka niin moni sitä työtä tekevistä<br />on varmasti turhautunut-</p>
+      <p xml:id="764" xml:space="preserve" begin="00:47:07:11" end="00:47:10:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-he tekevät silti työnsä.<br />Kiitos siitä.</p>
+      <p xml:id="765" xml:space="preserve" begin="00:47:10:12" end="00:47:12:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiitokset paneelille.</p>
+      <p xml:id="766" xml:space="preserve" begin="00:47:13:23" end="00:47:15:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Aamen.</p>
+      <p xml:id="767" xml:space="preserve" begin="00:47:15:10" end="00:47:19:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">UUDET SÄÄNNÖT</p>
+      <p xml:id="768" xml:space="preserve" begin="00:47:21:05" end="00:47:26:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Lakatkaa sanomasta, että<br />uusi salasanani on heikko.</p>
+      <p xml:id="769" xml:space="preserve" begin="00:47:26:18" end="00:47:30:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Teen parhaani!<br />En kaipaa asennettasi.</p>
+      <p xml:id="770" xml:space="preserve" begin="00:47:30:24" end="00:47:33:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eikä tuo edes ole minun tilini.</p>
+      <p xml:id="771" xml:space="preserve" begin="00:47:36:07" end="00:47:42:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sen sijaan, että varoittaisi kanan<br />suutelun voivan levittää salmonellaa-</p>
+      <p xml:id="772" xml:space="preserve" begin="00:47:42:19" end="00:47:46:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-CDC saisi pitää huolen<br />omista asioistaan.</p>
+      <p xml:id="773" xml:space="preserve" begin="00:47:48:04" end="00:47:50:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Viljelijän elämä on<br />tarpeeksi ikävää-</p>
+      <p xml:id="774" xml:space="preserve" begin="00:47:50:24" end="00:47:54:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ilman esileikin romuttamistakin.</p>
+      <p xml:id="775" xml:space="preserve" begin="00:47:57:09" end="00:48:00:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ashuran,<br />shiia-muslimien pyhän päivän-</p>
+      <p xml:id="776" xml:space="preserve" begin="00:48:00:09" end="00:48:03:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-jolloin pyhiinvaeltajat<br />viiltelevät itseään-</p>
+      <p xml:id="777" xml:space="preserve" begin="00:48:03:23" end="00:48:06:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-on saatava<br />Neosporin sponsorikseen.</p>
+      <p xml:id="778" xml:space="preserve" begin="00:48:11:14" end="00:48:13:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Juuri niin.</p>
+      <p xml:id="779" xml:space="preserve" begin="00:48:13:10" end="00:48:16:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kun imaami sanoo,<br />että haavasi ei märkäne-</p>
+      <p xml:id="780" xml:space="preserve" begin="00:48:16:16" end="00:48:19:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-voit sanoa, että juuri niin.</p>
+      <p xml:id="781" xml:space="preserve" begin="00:48:22:15" end="00:48:27:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Floridalaisteini, joka nosti rahaa<br />vanhempiensa kortilla-</p>
+      <p xml:id="782" xml:space="preserve" begin="00:48:27:05" end="00:48:32:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-palkatakseen jonkun tappamaan<br />vanhempansa, saisi hävetä.</p>
+      <p xml:id="783" xml:space="preserve" begin="00:48:32:14" end="00:48:37:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän olisi voinut olla kesän töissä<br />ja ansaita omat rahansa tappoon-</p>
+      <p xml:id="784" xml:space="preserve" begin="00:48:37:14" end="00:48:41:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta ei, kaikki pitäisi<br />tehdä hänen puolestaan.</p>
+      <p xml:id="785" xml:space="preserve" begin="00:48:41:12" end="00:48:44:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänen isänään olisin raivoissani.</p>
+      <p xml:id="786" xml:space="preserve" begin="00:48:46:00" end="00:48:50:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kahvimukiin ei tarvitse kirjoittaa<br />"rakastan kahvia".</p>
+      <p xml:id="787" xml:space="preserve" begin="00:48:50:09" end="00:48:55:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Muki itse kyllä kertoo sen.<br />Se on täynnä kahvia.</p>
+      <p xml:id="788" xml:space="preserve" begin="00:48:55:09" end="00:48:58:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuin kirjoittaisi Ferrariin<br />"minulla on pieni muna".</p>
+      <p xml:id="789" xml:space="preserve" begin="00:49:07:12" end="00:49:10:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ja vielä lopuksi-</p>
+      <p xml:id="790" xml:space="preserve" begin="00:49:10:10" end="00:49:14:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-joku saa kertoa, milloin päätettiin<br />perustaa talous-</p>
+      <p xml:id="791" xml:space="preserve" begin="00:49:14:21" end="00:49:17:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-muiden arvioiden perusteella.</p>
+      <p xml:id="792" xml:space="preserve" begin="00:49:17:23" end="00:49:21:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikkea ei tarvitse<br />mitata kyselyllä.</p>
+      <p xml:id="793" xml:space="preserve" begin="00:49:21:09" end="00:49:24:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Palataan siihen, että annat lampun,<br />minä rahat-</p>
+      <p xml:id="794" xml:space="preserve" begin="00:49:24:17" end="00:49:27:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja kumpikin jatkaa elämäänsä.</p>
+      <p xml:id="795" xml:space="preserve" begin="00:49:32:19" end="00:49:36:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tyytyväisyyskysely saa jo riittää.</p>
+      <p xml:id="796" xml:space="preserve" begin="00:49:36:15" end="00:49:38:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haluan vaan panna.</p>
+      <p xml:id="797" xml:space="preserve" begin="00:49:40:17" end="00:49:43:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En halua puhua laadusta<br />tai kehityksestä-</p>
+      <p xml:id="798" xml:space="preserve" begin="00:49:43:18" end="00:49:47:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska et ole tyttöystäväni<br />vaan viemärifirma.</p>
+      <p xml:id="799" xml:space="preserve" begin="00:49:47:22" end="00:49:50:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ime viemärini ja häivy.</p>
+      <p xml:id="800" xml:space="preserve" begin="00:49:50:07" end="00:49:53:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Amazonin ei tarvitse<br />kysellä joka ostosta.</p>
+      <p xml:id="801" xml:space="preserve" begin="00:49:53:11" end="00:49:58:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Piditkö suihkuverhostasi?"<br />Se on ihan uskomaton.</p>
+      <p xml:id="802" xml:space="preserve" begin="00:50:00:14" end="00:50:04:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Haluaisitko jakaa kokemuksesi?"</p>
+      <p xml:id="803" xml:space="preserve" begin="00:50:04:12" end="00:50:08:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tehdäänpä niin.<br />Aioin naida vaimoa ruoan jälkeen-</p>
+      <p xml:id="804" xml:space="preserve" begin="00:50:08:04" end="00:50:10:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-mutta kirjoitan<br />300 sanan tarinan siitä-</p>
+      <p xml:id="805" xml:space="preserve" begin="00:50:11:00" end="00:50:13:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-miten paljon tykkäsin kekseistäsi.</p>
+      <p xml:id="806" xml:space="preserve" begin="00:50:14:24" end="00:50:17:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miten monesti soittaessasi-</p>
+      <p xml:id="807" xml:space="preserve" begin="00:50:17:04" end="00:50:21:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-sinua on pyydetty pysymään<br />linjalla kyselyn takia?</p>
+      <p xml:id="808" xml:space="preserve" begin="00:50:21:13" end="00:50:24:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Miksi pysyisin linjalla<br />puhelun jälkeen-</p>
+      <p xml:id="809" xml:space="preserve" begin="00:50:24:18" end="00:50:27:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-kun en meinaa saada<br />ketään linjalle?</p>
+      <p xml:id="810" xml:space="preserve" begin="00:50:34:05" end="00:50:38:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Kuinka arvioisitte<br />asiakastyytyväisyyttä?" Nelonen.</p>
+      <p xml:id="811" xml:space="preserve" begin="00:50:39:01" end="00:50:43:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jättäkää minut rauhaan ennen<br />kun ehdin laskea neljään.</p>
+      <p xml:id="812" xml:space="preserve" begin="00:50:47:00" end="00:50:50:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Milloin bisneselämästä<br />tuli niin epävarma?</p>
+      <p xml:id="813" xml:space="preserve" begin="00:50:50:05" end="00:50:54:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minua pyydettiin<br />arvioimaan kokemukseni-</p>
+      <p xml:id="814" xml:space="preserve" begin="00:50:54:14" end="00:50:56:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-lentokentän vessasta.</p>
+      <p xml:id="815" xml:space="preserve" begin="00:50:58:03" end="00:51:02:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se oli huono. En tavannut<br />yhtäkään republikaaniedustajaa.</p>
+      <p xml:id="816" xml:space="preserve" begin="00:51:03:21" end="00:51:06:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sinun oli pakko sanoa tuo.</p>
+      <p xml:id="817" xml:space="preserve" begin="00:51:10:19" end="00:51:14:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se on lentokentän vessa.<br />Mitä pitäisi sanoa?</p>
+      <p xml:id="818" xml:space="preserve" begin="00:51:14:06" end="00:51:17:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kaikista käyttämistäni<br />urinaaleista...</p>
+      <p xml:id="819" xml:space="preserve" begin="00:51:17:21" end="00:51:20:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">LaGuardiassa on hienoin.</p>
+      <p xml:id="820" xml:space="preserve" begin="00:51:20:17" end="00:51:23:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Miksi Denny´s on Yelpissä?</p>
+      <p xml:id="821" xml:space="preserve" begin="00:51:23:21" end="00:51:28:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Surkealla Denny´sillä on oma<br />merkki. Kyltti, jossa lukee Denny´s.</p>
+      <p xml:id="822" xml:space="preserve" begin="00:51:33:19" end="00:51:38:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitääkö kaikki arvostella?<br />Suolakin arvostellaan.</p>
+      <p xml:id="823" xml:space="preserve" begin="00:51:38:15" end="00:51:41:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kat antoi viisi tähteä.</p>
+      <p xml:id="824" xml:space="preserve" begin="00:51:41:11" end="00:51:44:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Käytän sitä päivittäin ruokaan."</p>
+      <p xml:id="825" xml:space="preserve" begin="00:51:51:18" end="00:51:53:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä sanotte tästä?</p>
+      <p xml:id="826" xml:space="preserve" begin="00:51:53:05" end="00:51:57:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos ette pidä firman tavasta toimia,<br />älkää käyttäkö sitä.</p>
+      <p xml:id="827" xml:space="preserve" begin="00:51:57:15" end="00:52:01:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se toimi ensimmäiset<br />miljoona vuotta.</p>
+      <p xml:id="828" xml:space="preserve" begin="00:52:01:11" end="00:52:05:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Palkitse yritys<br />uudella käynnillä-</p>
+      <p xml:id="829" xml:space="preserve" begin="00:52:05:04" end="00:52:08:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-tai mene muualle.<br />Jos useampi tekee niin-</p>
+      <p xml:id="830" xml:space="preserve" begin="00:52:08:10" end="00:52:11:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-liike ryhtyy Halloween-kaupaksi.</p>
+      <p xml:id="831" xml:space="preserve" begin="00:52:13:20" end="00:52:17:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Työpaikan ei pitäisi olla<br />jonkun random-tyypin arvion varassa.</p>
+      <p xml:id="832" xml:space="preserve" begin="00:52:18:02" end="00:52:21:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En halua arvostella<br />paskatöissä rehkiviä.</p>
+      <p xml:id="833" xml:space="preserve" begin="00:52:21:22" end="00:52:25:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Millenniaalit voivat pitää siitä,<br />mutta minä en.</p>
+      <p xml:id="834" xml:space="preserve" begin="00:52:25:14" end="00:52:28:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kestän sen, jos tarjoilija<br />unohtaa salaattini.</p>
+      <p xml:id="835" xml:space="preserve" begin="00:52:28:18" end="00:52:32:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En näppäile<br />"huora, nyt olet entinen".</p>
+      <p xml:id="836" xml:space="preserve" begin="00:52:34:17" end="00:52:36:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Totta.</p>
+      <p xml:id="837" xml:space="preserve" begin="00:52:42:03" end="00:52:44:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se on niin totta.</p>
+      <p xml:id="838" xml:space="preserve" begin="00:52:46:02" end="00:52:48:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Älkääkä arvostelko minua.</p>
+      <p xml:id="839" xml:space="preserve" begin="00:52:50:10" end="00:52:53:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En halua olla linjoilla koko ajan.</p>
+      <p xml:id="840" xml:space="preserve" begin="00:52:53:09" end="00:52:58:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kun nousen Uberiin, haluan rentoutua<br />armenialaisen diskon tahtiin.</p>
+      <p xml:id="841" xml:space="preserve" begin="00:53:02:09" end="00:53:06:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Antaisin kymmenen tähteä<br />rehellisestä Uber-kuskista.</p>
+      <p xml:id="842" xml:space="preserve" begin="00:53:06:18" end="00:53:11:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Hei, olen Dan. Vihaan elämääni."</p>
+      <p xml:id="843" xml:space="preserve" begin="00:53:11:07" end="00:53:14:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"Olen Bill ja minulla on krapula.<br />Turpa umpeen."</p>
+      <p xml:id="844" xml:space="preserve" begin="00:53:17:06" end="00:53:22:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mieli ei tykkää jatkuvasta<br />arvostelijana olosta.</p>
+      <p xml:id="845" xml:space="preserve" begin="00:53:22:04" end="00:53:24:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Meidän pitäisi olla vapaita.</p>
+      <p xml:id="846" xml:space="preserve" begin="00:53:24:05" end="00:53:27:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olemme koko ajan vahdittavina<br />ja arvosteltavina.</p>
+      <p xml:id="847" xml:space="preserve" begin="00:53:27:16" end="00:53:32:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kamerat kuvaavat meitä<br />liikenteessä, ovella ja automaatilla.</p>
+      <p xml:id="848" xml:space="preserve" begin="00:53:32:14" end="00:53:36:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Huoltoasemilla, hisseissä<br />ja parkkipaikoilla.</p>
+      <p xml:id="849" xml:space="preserve" begin="00:53:36:13" end="00:53:38:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pettäminen on hankalaa-</p>
+      <p xml:id="850" xml:space="preserve" begin="00:53:38:15" end="00:53:42:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-koska kännykät ja puhelimet<br />ovat jäljityslaitteita.</p>
+      <p xml:id="851" xml:space="preserve" begin="00:53:42:06" end="00:53:46:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">On mahdotonta pettää,<br />kun Siri ei pidä turpaansa ummessa.</p>
+      <p xml:id="852" xml:space="preserve" begin="00:53:53:07" end="00:53:57:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En halua, että meistä tulee<br />Kiina palkkiojärjestelmineen.</p>
+      <p xml:id="853" xml:space="preserve" begin="00:53:57:11" end="00:54:01:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pisteitä tai miinuksia saa<br />käyttäytymisen mukaan.</p>
+      <p xml:id="854" xml:space="preserve" begin="00:54:02:03" end="00:54:05:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Arvioijina kamerat<br />ja muut kansalaiset.</p>
+      <p xml:id="855" xml:space="preserve" begin="00:54:05:16" end="00:54:08:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se on luokitusjärjestelmä.</p>
+      <p xml:id="856" xml:space="preserve" begin="00:54:08:06" end="00:54:12:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kohteena olet sinä itse.<br />Ihminen, jolla voi olla huono päivä.</p>
+      <p xml:id="857" xml:space="preserve" begin="00:54:12:23" end="00:54:16:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sellaista ei nykyään sallita.</p>
+      <p xml:id="858" xml:space="preserve" begin="00:54:16:11" end="00:54:20:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siksi loin uuden sivuston.<br />"Paskimmat tomaatit."</p>
+      <p xml:id="859" xml:space="preserve" begin="00:54:22:00" end="00:54:25:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siellä voi arvioida muiden<br />arvioitsijoiden arvioita.</p>
+      <p xml:id="860" xml:space="preserve" begin="00:54:25:23" end="00:54:30:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tuo on hyvä!</p>
+      <p xml:id="861" xml:space="preserve" begin="00:54:30:11" end="00:54:37:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Keksin sen pöllyssä.<br />Se ruoho saa hyvän palautteen.</p>
+      <p xml:id="862" xml:space="preserve" begin="00:54:37:12" end="00:54:39:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Siinä kaikki.</p>
+      <p xml:id="863" xml:space="preserve" begin="00:54:39:05" end="00:54:42:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minut näkee Teksasissa<br />21. syyskuuta-</p>
+      <p xml:id="864" xml:space="preserve" begin="00:54:43:00" end="00:54:46:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-ja Oklahoma Cityssä 22. syyskuuta.</p>
+      <p xml:id="865" xml:space="preserve" begin="00:54:46:11" end="00:54:49:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Fernand Amandi, Krystal<br />Ball, Michael Steele-</p>
+      <p xml:id="866" xml:space="preserve" begin="00:54:49:23" end="00:54:53:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Bari Weiss ja Michael Moore.<br />Muistakaa Overtime.</p>
+      <p xml:id="867" xml:space="preserve" begin="00:54:53:18" end="00:54:55:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiitos!</p>
+    </div>
+  </body>
+</tt>

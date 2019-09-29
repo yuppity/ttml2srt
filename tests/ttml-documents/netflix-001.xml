@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="416667t" end="19166667t" region="bottom" xml:id="subtitle0"><span style="span">Welcome to another edition</span><br/><span style="span">of </span><span style="italic">Between Two Ferns,</span></p>
+<p begin="20000000t" end="46250000t" region="bottom" xml:id="subtitle1"><span style="span">and my guest today is Matthew McConaughey.</span></p>
+<p begin="47083334t" end="55833334t" region="bottom" xml:id="subtitle2"><span style="span">Good to be here, Zach.</span></p>
+<p begin="56666667t" end="77083334t" region="bottom" xml:id="subtitle3"><span style="span">Of all the things</span><br/><span style="span">you can win an Oscar for,</span></p>
+<p begin="77916667t" end="101666667t" region="bottom" xml:id="subtitle4"><span style="span">how surprised are you</span><br/><span style="span">that you won one for acting?</span></p>
+<p begin="102500000t" end="117500000t" region="bottom" xml:id="subtitle5"><span style="span">-Here we go.</span><br/><span style="span">-[water dripping steadily]</span></p>
+<p begin="118333334t" end="137500000t" region="bottom" xml:id="subtitle6"><span style="span">I noticed that you're wearing a shirt.</span></p>
+<p begin="138333334t" end="147083334t" region="bottom" xml:id="subtitle7"><span style="span">Is everything okay?</span></p>
+<p begin="147916667t" end="165000000t" region="bottom" xml:id="subtitle8"><span style="span">[rapid dripping]</span></p>
+<p begin="165833334t" end="182500000t" region="bottom" xml:id="subtitle9"><span style="span">Hey, you have a major leak in here.</span></p>
+<p begin="183333334t" end="194583334t" region="bottom" xml:id="subtitle10"><span style="span">I'm so-- I'm so sorry.</span></p>
+<p begin="195416667t" end="207916667t" region="bottom" xml:id="subtitle11"><span style="span">See what's going on with these pipes.</span></p>
+<p begin="208750000t" end="220000000t" region="bottom" xml:id="subtitle12"><span style="span">Dude, don't do that.</span></p>
+<p begin="222500000t" end="237500000t" region="bottom" xml:id="subtitle13"><span style="span">[fire alarm ringing]</span></p>
+<p begin="245000000t" end="254166667t" region="bottom" xml:id="subtitle14"><span style="span">[Zach] Help!</span></p>
+<p begin="255000000t" end="270416667t" region="bottom" xml:id="subtitle15"><span style="span">[Matthew] A little help here! </span></p>
+<p begin="271250000t" end="298333334t" region="bottom" xml:id="subtitle16"><span style="span">Who is the idiot that installed</span><br/><span style="span">the sprinkler system?</span></p>
+<p begin="319166667t" end="339583334t" region="bottom" xml:id="subtitle17"><span style="span">[panting] Well, they turned </span><br/><span style="span">the sprinklers off.</span></p>
+<p begin="345000000t" end="353333334t" region="bottom" xml:id="subtitle18"><span style="span">[screaming] </span></p>
+<p begin="389583334t" end="409166667t" region="bottom" xml:id="subtitle19"><span style="span">-[Zach wailing]</span><br/><span style="span">-You killed Matthew McConaughey.</span></p>
+<p begin="413333334t" end="423333334t" region="bottom" xml:id="subtitle20"><span style="span">[Zach] He's dead?</span></p>
+<p begin="424166667t" end="438750000t" region="bottom" xml:id="subtitle21"><span style="span">He was brought back to life,</span></p>
+<p begin="439583334t" end="457083334t" region="bottom" xml:id="subtitle22"><span style="span">but he was momentarily dead.</span></p>
+<p begin="457916667t" end="468750000t" region="bottom" xml:id="subtitle23"><span style="span">You owe me.</span></p>
+<p begin="473333334t" end="485833334t" region="bottom" xml:id="subtitle24"><span style="span">Go across the country...</span></p>
+<p begin="486666667t" end="512083334t" region="bottom" xml:id="subtitle25"><span style="span">get ten more episodes</span><br/><span style="span">of</span><span style="italic"> Between Two Ferns.</span></p>
+<p begin="512916667t" end="535416667t" region="bottom" xml:id="subtitle26"><span style="span">Ten of your dumb internet talk show</span></p>
+<p begin="536250000t" end="554166667t" region="bottom" xml:id="subtitle27"><span style="span">and you give me a network talk show.</span></p>
+<p begin="555000000t" end="585000000t" region="bottom" xml:id="subtitle28"><span style="span">I'm a white man and I'm straight</span><br/><span style="span">and I deserve it.</span></p>
+<p begin="585833334t" end="612916667t" region="bottom" xml:id="subtitle29"><span style="span">["Deceptacon" by Le Tigre playing] </span></p>
+<p begin="613750000t" end="624166667t" region="bottom" xml:id="subtitle30"><span style="span">Green as ever.</span></p>
+<p begin="625000000t" end="644583334t" region="bottom" xml:id="subtitle31"><span style="span">-[tape measure whirring]</span><br/><span style="span">-Is the width off to you?</span></p>
+<p begin="667500000t" end="690833334t" region="bottom" xml:id="subtitle32"><span style="italic">We're taking</span><span style="span"> Between Two Ferns</span><br/><span style="italic">on the road.</span></p>
+<p begin="719166667t" end="730416667t" region="bottom" xml:id="subtitle33"><span style="span">My guest today is</span></p>
+<p begin="731250000t" end="750416667t" region="bottom" xml:id="subtitle34"><span style="span">Benedick Cumberbutt... batch.</span></p>
+<p begin="751250000t" end="759583334t" region="bottom" xml:id="subtitle35"><span style="span">Butt.</span></p>
+<p begin="760416667t" end="768750000t" region="bottom" xml:id="subtitle36"><span style="span">Uh...</span></p>
+<p begin="775416667t" end="783750000t" region="bottom" xml:id="subtitle37"><span style="span">Benedick Cam--</span></p>
+<p begin="787500000t" end="799166667t" region="bottom" xml:id="subtitle38"><span style="span">Benefit Lumberjacks.</span></p>
+<p begin="800000000t" end="815416667t" region="bottom" xml:id="subtitle39"><span style="span">-Uh...</span><br/><span style="span">-Benedict Cumberbatch.</span></p>
+<p begin="816250000t" end="826250000t" region="bottom" xml:id="subtitle40"><span style="span">[Zach] That's what it is.</span></p>
+<p begin="842916667t" end="862916667t" region="bottom" xml:id="subtitle41"><span style="span">I read online that you're very private</span></p>
+<p begin="863750000t" end="893333334t" region="bottom" xml:id="subtitle42"><span style="span">and decline to answer questions </span><br/><span style="span">that make you feel uncomfortable.</span></p>
+<p begin="894166667t" end="921666667t" region="bottom" xml:id="subtitle43"><span style="span">Is that true? And how old were you</span><br/><span style="span">when you got your first period?</span></p>
+<p begin="928333334t" end="936666667t" region="bottom" xml:id="subtitle44"><span style="span">Um...</span></p>
+<p begin="953333334t" end="981666667t" region="bottom" xml:id="subtitle45"><span style="span">Bradley Cooper co-wrote, directed, </span><br/><span style="span">and starred in </span><span style="italic">A Star is Born.</span></p>
+<p begin="982500000t" end="990833334t" region="bottom" xml:id="subtitle46"><span style="span">I hear it's great.</span></p>
+<p begin="991666667t" end="1018750000t" region="bottom" xml:id="subtitle47"><span style="span">Are you hoping that will open doors</span><br/><span style="span">for other hot idiots?</span></p>
+<p begin="1019583334t" end="1027916667t" region="bottom" xml:id="subtitle48"><span style="span">Uh...</span></p>
+<p begin="1055000000t" end="1073750000t" region="bottom" xml:id="subtitle49"><span style="span">[Zach] </span><span style="italic">I don't know if I'm gonna</span><br/><span style="italic">get these shows out.</span></p>
+<p begin="1074583334t" end="1095000000t" region="bottom" xml:id="subtitle50"><span style="italic">-We don't have any money. We're hungry.</span><br/><span style="span">-[yelling] </span></p>
+<p begin="1095833334t" end="1113750000t" region="bottom" xml:id="subtitle51"><span style="span">-We're gonna order the clam strips.</span><br/><span style="span">-How big are they?</span></p>
+<p begin="1114583334t" end="1134583334t" region="bottom" xml:id="subtitle52"><span style="span">Well, have you ever seen a chicken strip?</span></p>
+<p begin="1136666667t" end="1155833334t" region="bottom" xml:id="subtitle53"><span style="span">I've never seen a chicken wear clothes.</span></p>
+<p begin="1156666667t" end="1173750000t" region="bottom" xml:id="subtitle54"><span style="span">-Go, go, go! </span><br/><span style="span">-[Peter] Hey!</span></p>
+<p begin="1174583334t" end="1190416667t" region="bottom" xml:id="subtitle55"><span style="span">Here's to the crazy ones...</span></p>
+<p begin="1205416667t" end="1225000000t" region="bottom" xml:id="subtitle56"><span style="italic">the misfits, and ding-dongs.</span></p>
+<p begin="1225833334t" end="1234583334t" region="bottom" xml:id="subtitle57"><span style="span">[crunching] </span></p>
+<p begin="1235416667t" end="1260833334t" region="bottom" xml:id="subtitle58"><span style="span">I'm just curious about the pathology</span><br/><span style="span">behind this.</span></p>
+<p begin="1261666667t" end="1281250000t" region="bottom" xml:id="subtitle59"><span style="span">[Zach] </span><span style="italic">Some people would say</span><br/><span style="italic">we're the crazy ones,</span></p>
+<p begin="1290000000t" end="1303750000t" region="bottom" xml:id="subtitle60"><span style="italic">but I think we're geniuses.</span></p>
+<p begin="1304583334t" end="1316666667t" region="bottom" xml:id="subtitle61"><span style="span">-[truck horn honking]</span><br/><span style="span">-[screaming]</span></p>
+<p begin="1322083334t" end="1335833334t" region="bottom" xml:id="subtitle62"><span style="span">-Hello.</span><br/><span style="span">-I love your show.</span></p>
+<p begin="1336666667t" end="1355833334t" region="bottom" xml:id="subtitle63"><span style="span">What if we take this upstairs?</span></p>
+<p begin="1356666667t" end="1366250000t" region="bottom" xml:id="subtitle64"><span style="span">[whispering] What about John Legend?</span></p>
+<p begin="1367083334t" end="1385833334t" region="bottom" xml:id="subtitle65"><span style="span">He's probably at home polishing his EGOT.</span></p>
+<p begin="1392500000t" end="1407916667t" region="bottom" xml:id="subtitle66"><span style="span">Is that what he calls his penis?</span></p>
+<p begin="1431250000t" end="1454166667t" region="bottom" xml:id="subtitle67"><span style="span">Between Two Ferns: The Movie.</span><br/><span style="span">Is this going to be in--</span></p>
+<p begin="1455000000t" end="1468750000t" region="bottom" xml:id="subtitle68"><span style="span">Is it going to be in theaters?</span></p>
+<p begin="1470833334t" end="1480416667t" region="bottom" xml:id="subtitle69"><span style="span">Not in theaters?</span></p>
+<p begin="1489166667t" end="1497916667t" region="bottom" xml:id="subtitle70"><span style="span">Not in theaters!</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="49265049t" end="69305069t" region="bottom" xml:id="subtitle0"><span style="span">HOSTAGE 2:</span><br/><span style="span">Please! Help, help, help!</span></p>
+<p begin="146125146t" end="161990162t" region="bottom" xml:id="subtitle1"><span style="span">[POWERS UP]</span></p>
+<p begin="210002709t" end="223362723t" region="bottom" xml:id="subtitle2"><span style="span">[GUNSHOT]</span></p>
+<p begin="247995247t" end="258432758t" region="bottom" xml:id="subtitle3"><span style="span">Sorry.</span></p>
+</div>
+</body>
+</tt>

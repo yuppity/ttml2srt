@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="20000000t" end="41250000t" region="bottom" xml:id="subtitle0"><span style="span">I don't want to give it away.</span><br/><span style="span">It was the butler.</span></p>
+<p begin="42083334t" end="51250000t" region="bottom" xml:id="subtitle1"><span style="span">The butler did it.</span></p>
+<p begin="52083334t" end="80416667t" region="bottom" xml:id="subtitle2"><span style="span">[sighs] Just leave my books alone, okay?</span><br/><span style="span">Just let me read.</span></p>
+<p begin="81250000t" end="90833334t" region="bottom" xml:id="subtitle3"><span style="span">Timber.</span></p>
+<p begin="131250000t" end="152083334t" region="bottom" xml:id="subtitle4"><span style="span">-What brings you across the pond?</span><br/><span style="span">-It's my honeymoon.</span></p>
+<p begin="152916667t" end="167083334t" region="bottom" xml:id="subtitle5"><span style="span">-Where's your husband?</span><br/><span style="span">-Dead.</span></p>
+<p begin="167916667t" end="179583334t" region="bottom" xml:id="subtitle6"><span style="span">[snoring] </span></p>
+<p begin="180416667t" end="205833334t" region="bottom" xml:id="subtitle7"><span style="span">Uh, asleep. He's dead, dead asleep.</span></p>
+<p begin="206666667t" end="215416667t" region="bottom" xml:id="subtitle8"><span style="span">[Audrey giggling] </span></p>
+<p begin="216250000t" end="233750000t" region="bottom" xml:id="subtitle9"><span style="span">Sir, if you don't return to your seat,</span></p>
+<p begin="234583334t" end="248750000t" region="bottom" xml:id="subtitle10"><span style="span">-I'm going to have to call--</span><br/><span style="span">-The cops.</span></p>
+<p begin="254583334t" end="268333334t" region="bottom" xml:id="subtitle11"><span style="span">[Audrey] Hey! Hi, honey.</span></p>
+<p begin="269166667t" end="287916667t" region="bottom" xml:id="subtitle12"><span style="span">We've actually been married for 15 years,</span></p>
+<p begin="288750000t" end="320833334t" region="bottom" xml:id="subtitle13"><span style="span">but we've just been </span><br/><span style="span">very, very, very, very busy.</span></p>
+<p begin="325000000t" end="334166667t" region="bottom" xml:id="subtitle14"><span style="span">I'm flossing.</span></p>
+<p begin="335833334t" end="348333334t" region="bottom" xml:id="subtitle15"><span style="span">I can see that.</span></p>
+<p begin="358750000t" end="374166667t" region="bottom" xml:id="subtitle16"><span style="span">You're doing it extra hard tonight.</span></p>
+<p begin="396666667t" end="409583334t" region="bottom" xml:id="subtitle17"><span style="span">[Audrey]</span><span style="italic"> Charles is inviting us</span></p>
+<p begin="410416667t" end="427916667t" region="bottom" xml:id="subtitle18"><span style="italic">to spend the weekend</span><br/><span style="italic">with him on a yacht.</span></p>
+<p begin="434166667t" end="454583334t" region="bottom" xml:id="subtitle19"><span style="span">Crashing the party with civilians.</span></p>
+<p begin="459166667t" end="477916667t" region="bottom" xml:id="subtitle20"><span style="span">-You're an actress, right?</span><br/><span style="span">-Grace Ballard.</span></p>
+<p begin="478750000t" end="494583334t" region="bottom" xml:id="subtitle21"><span style="span">Oh! [laughing]</span></p>
+<p begin="495416667t" end="507083334t" region="bottom" xml:id="subtitle22"><span style="span">I am Nick Spitz.</span></p>
+<p begin="507916667t" end="528750000t" region="bottom" xml:id="subtitle23"><span style="span">-This is my wife, Allison.</span><br/><span style="span">-I'm...</span></p>
+<p begin="532083334t" end="550000000t" region="bottom" xml:id="subtitle24"><span style="span">-I can't believe--</span><br/><span style="span">-Aud... Audrey.</span></p>
+<p begin="550833334t" end="562500000t" region="bottom" xml:id="subtitle25"><span style="span">-I'm Audrey.</span><br/><span style="span">-I said Audrey!</span></p>
+<p begin="582500000t" end="597916667t" region="bottom" xml:id="subtitle26"><span style="span">[Nick] </span><span style="italic">Did you ever fool around on a boat?</span></p>
+<p begin="598750000t" end="624166667t" region="bottom" xml:id="subtitle27"><span style="span">I just lay here</span><br/><span style="span">and the boat does all the work--</span></p>
+<p begin="625000000t" end="644583334t" region="bottom" xml:id="subtitle28"><span style="span">[woman screaming]</span></p>
+<p begin="645416667t" end="654166667t" region="bottom" xml:id="subtitle29"><span style="span">[man] </span><span style="italic">There's been a murder!</span></p>
+<p begin="675833334t" end="697083334t" region="bottom" xml:id="subtitle30"><span style="span">-Should we pull it out?</span><br/><span style="span">-No, it's a foot-long knife.</span></p>
+<p begin="697916667t" end="706666667t" region="bottom" xml:id="subtitle31"><span style="span">-Ah! </span><br/><span style="span">-[crowd gasps]</span></p>
+<p begin="707500000t" end="725416667t" region="bottom" xml:id="subtitle32"><span style="span">Will you listen to my husband?</span><br/><span style="span">He's a detective!</span></p>
+<p begin="726250000t" end="740833334t" region="bottom" xml:id="subtitle33"><span style="span">-I'll put it back.</span><br/><span style="span">-Don't put it back.</span></p>
+<p begin="741666667t" end="764583334t" region="bottom" xml:id="subtitle34"><span style="span">-[all whimpering]</span><br/><span style="span">-Don't!</span></p>
+<p begin="765416667t" end="773750000t" region="bottom" xml:id="subtitle35"><span style="span">Oh! </span></p>
+<p begin="782916667t" end="791250000t" region="bottom" xml:id="subtitle36"><span style="span">[sirens blaring]</span></p>
+<p begin="802500000t" end="826250000t" region="bottom" xml:id="subtitle37"><span style="span">My name is Inspector Laurent Delacroix.</span></p>
+<p begin="827083334t" end="850000000t" region="bottom" xml:id="subtitle38"><span style="span">I will now summon you for questioning.</span></p>
+<p begin="850833334t" end="859583334t" region="bottom" xml:id="subtitle39"><span style="span">[blows]</span></p>
+<p begin="867500000t" end="890833334t" region="bottom" xml:id="subtitle40"><span style="span">Why is that smoke ring so good?</span><br/><span style="span">How did he do that?</span></p>
+<p begin="898750000t" end="919583334t" region="bottom" xml:id="subtitle41"><span style="span">Did you notice anything</span><br/><span style="span">out of the ordinary?</span></p>
+<p begin="920416667t" end="934583334t" region="bottom" xml:id="subtitle42"><span style="span">[all] The Americans.</span></p>
+<p begin="939166667t" end="950000000t" region="bottom" xml:id="subtitle43"><span style="span">But we didn't do this.</span></p>
+<p begin="950833334t" end="964583334t" region="bottom" xml:id="subtitle44"><span style="span">[Nick]</span><span style="italic"> Someone's trying to frame us.</span></p>
+<p begin="972500000t" end="1002500000t" region="bottom" xml:id="subtitle45"><span style="span">We do things together, </span><br/><span style="span">so can we please just figure this out?</span></p>
+<p begin="1003333334t" end="1011666667t" region="bottom" xml:id="subtitle46"><span style="span">-[gun shot] </span><br/><span style="span">-[yelping]</span></p>
+<p begin="1012500000t" end="1041666667t" region="bottom" xml:id="subtitle47"><span style="span">-It's just like </span><span style="italic">Death in the Library</span><br/><span style="span">-What happens in </span><span style="italic">Death in the Library?</span></p>
+<p begin="1046250000t" end="1055000000t" region="bottom" xml:id="subtitle48"><span style="span">They died.</span></p>
+<p begin="1055833334t" end="1070416667t" region="bottom" xml:id="subtitle49"><span style="span">It's why it's called </span><span style="italic">Death in the Library.</span></p>
+<p begin="1071250000t" end="1081250000t" region="bottom" xml:id="subtitle50"><span style="span">[Audrey yells] </span></p>
+<p begin="1094166667t" end="1114166667t" region="bottom" xml:id="subtitle51"><span style="italic">♪ Ooh, look what you made me do ♪</span></p>
+<p begin="1115000000t" end="1140833334t" region="bottom" xml:id="subtitle52"><span style="span">You guys are all over the news!</span><br/><span style="span">They said you killed someone.</span></p>
+<p begin="1141666667t" end="1160000000t" region="bottom" xml:id="subtitle53"><span style="span">-Do you think that's possible?</span><br/><span style="span">-With your aim...</span></p>
+<p begin="1168333334t" end="1192500000t" region="bottom" xml:id="subtitle54"><span style="span">[gun shots] </span></p>
+<p begin="1193333334t" end="1206666667t" region="bottom" xml:id="subtitle55"><span style="span">-[glass shattering]</span><br/><span style="span">-Shoot </span><span style="italic">at </span><span style="span">him!</span></p>
+<p begin="1207500000t" end="1227916667t" region="bottom" xml:id="subtitle56"><span style="span">Those were warning shots, honey!</span></p>
+<p begin="1242916667t" end="1262500000t" region="bottom" xml:id="subtitle57"><span style="span">If we're gonna do this,</span><br/><span style="span">we gotta look confident.</span></p>
+<p begin="1300416667t" end="1318750000t" region="bottom" xml:id="subtitle58"><span style="span">-Boom.</span><br/><span style="span">-[Audrey] Go, go, go!</span></p>
+<p begin="1332083334t" end="1348333334t" region="bottom" xml:id="subtitle59"><span style="span">-Ferrari! Testarossa!</span><br/><span style="span">-What?</span></p>
+<p begin="1349166667t" end="1378333334t" region="bottom" xml:id="subtitle60"><span style="span">-</span><span style="italic">Magnum, P.I.! </span><span style="span">It's a fantasy!</span><br/><span style="span">-Okay! Stop it!</span></p>
+<p begin="1387083334t" end="1395416667t" region="bottom" xml:id="subtitle61"><span style="span">What the...</span></p>
+<p begin="1400416667t" end="1417500000t" region="bottom" xml:id="subtitle62"><span style="span">-Are you kidding me?</span><br/><span style="span">-I'm so sorry.</span></p>
+<p begin="1418333334t" end="1431666667t" region="bottom" xml:id="subtitle63"><span style="span">-I don't know what to say.</span><br/><span style="span">-Oh, go, go!</span></p>
+<p begin="1452916667t" end="1477500000t" region="bottom" xml:id="subtitle64"><span style="italic">♪ Ooh, look what you made me do ♪</span></p>
+<p begin="1478333334t" end="1497916667t" region="bottom" xml:id="subtitle65"><span style="span">Do you have any idea</span><br/><span style="span">how gorgeous you look?</span></p>
+<p begin="1507916667t" end="1516666667t" region="bottom" xml:id="subtitle66"><span style="span">Hit the brakes!</span></p>
+<p begin="1536666667t" end="1548750000t" region="bottom" xml:id="subtitle67"><span style="span">I love you. That was sweet.</span></p>
+<p begin="1549583334t" end="1567500000t" region="bottom" xml:id="subtitle68"><span style="italic">♪ Look what you just made me do ♪</span></p>
+</div>
+</body>
+</tt>

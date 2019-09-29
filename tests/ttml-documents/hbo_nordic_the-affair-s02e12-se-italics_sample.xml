@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="sv"
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  ttp:frameRate="25" ttp:markerMode="continuous" ttp:timeBase="smpte">
+
+	<head>
+		<styling>
+			<style id="Swift" tts:color="white" tts:textAlign="left" tts:extent="720px 576px" tts:fontFamily="Arial" tts:fontSize="36"/>
+		</styling>
+	</head>
+	<body>
+		<div style="Swift">
+			<p xml:id="411" xml:space="preserve" begin="00:56:21.920" end="00:56:26.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Varför kommer du undan med allt<br/>men inte jag?</p>
+			<p xml:id="412" xml:space="preserve" begin="00:56:28.040" end="00:56:34.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Varför får du fortsätta leva ditt<br/>perfekta liv medan du förstör mitt?</p>
+			<p xml:id="413" xml:space="preserve" begin="00:56:36.880" end="00:56:40.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Okej, Scotty...<br/>-Nej, nej, nej.</p>
+			<p xml:id="414" xml:space="preserve" begin="00:56:52.360" end="00:56:55.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag vill inte ligga i roddbåten.</p>
+			<p xml:id="415" xml:space="preserve" begin="00:57:00.720" end="00:57:03.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag vill ligga med dig.</p>
+			<p xml:id="416" xml:space="preserve" begin="00:57:05.400" end="00:57:08.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad fan gör du?<br/>-Kom hit.</p>
+			<p xml:id="417" xml:space="preserve" begin="00:57:08.640" end="00:57:11.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Släpp mig, för fan.<br/>-Kom igen, Ali.</p>
+			<p xml:id="418" xml:space="preserve" begin="00:57:11.960" end="00:57:19.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Du har ju knullat alla andra i stan.<br/>-Dra åt helvete! Dra åt helvete!</p>
+			<p xml:id="419" xml:space="preserve" begin="00:57:45.840" end="00:57:49.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Skit också! Åh nej...</p>
+			<p xml:id="420" xml:space="preserve" begin="00:57:50.840" end="00:57:53.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Skit!</p>
+			<p xml:id="421" xml:space="preserve" begin="00:58:09.720" end="00:58:13.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag knuffade honom,<br/>jag knuffade honom.</p>
+			<p xml:id="422" xml:space="preserve" begin="00:59:21.920" end="00:59:26.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det känns som om vi har varit här<br/>hur länge som helst.</p>
+			<p xml:id="423" xml:space="preserve" begin="01:00:13.000" end="01:00:16.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kom och dansa med mig.</p>
+			<p xml:id="424" xml:space="preserve" begin="01:00:40.240" end="01:00:44.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Blev det några skador på bilen?<br/>-Inga stora.</p>
+			<p xml:id="425" xml:space="preserve" begin="01:00:47.320" end="01:00:50.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag lämnade den hos en mekaniker.</p>
+		</div>
+	</body>
+</tt>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="9175834t" end="20437084t" region="bottom" xml:id="subtitle0"><span style="span">[man]</span><span style="italic"> Migration is on.</span></p>
+<p begin="34200834t" end="53803750t" region="bottom" xml:id="subtitle1"><span style="italic">The border wall is no barrier to birds.</span></p>
+<p begin="56723334t" end="91341250t" region="bottom" xml:id="subtitle2"><span style="italic">I think birds bring people together</span><br/><span style="italic">from both sides of the Rio Grande.</span></p>
+<p begin="93843750t" end="111778334t" region="bottom" xml:id="subtitle3"><span style="span">[man, in Spanish] </span><br/><span style="italic">Because of the geography,</span></p>
+<p begin="115532084t" end="143476667t" region="bottom" xml:id="subtitle4"><span style="italic">they cross the river from North to South.</span></p>
+<p begin="150150000t" end="177260417t" region="bottom" xml:id="subtitle5"><span style="span">[man 2] </span><span style="italic">Animals don't know anything</span><br/><span style="italic">about borders.</span></p>
+<p begin="183516667t" end="203536667t" region="bottom" xml:id="subtitle6"><span style="span">[birdcalling]</span></p>
+<p begin="211878334t" end="228144584t" region="bottom" xml:id="subtitle7"><span style="span">[woman]</span><br/><span style="italic">There's always danger for the birds,</span></p>
+<p begin="228978750t" end="252752500t" region="bottom" xml:id="subtitle8"><span style="span">but sometimes it's man-made</span><br/><span style="span">and we can do something about it.</span></p>
+<p begin="260260000t" end="278194584t" region="bottom" xml:id="subtitle9"><span style="italic">Vegetation means wild life.</span></p>
+<p begin="280697084t" end="316566250t" region="bottom" xml:id="subtitle10"><span style="italic">If that's destroyed,</span><br/><span style="italic">then their habitat is gone.</span></p>
+<p begin="318651667t" end="357023334t" region="bottom" xml:id="subtitle11"><span style="span">[man, in Spanish] </span><span style="italic">They flee from </span><br/><span style="italic">the inclemency of the weather, the snow.</span></p>
+<p begin="358274584t" end="369952917t" region="bottom" xml:id="subtitle12"><span style="span">[man] </span><span style="italic">One of the reasons that we band</span></p>
+<p begin="370787084t" end="403319584t" region="bottom" xml:id="subtitle13"><span style="italic">is to put a value on areas</span><br/><span style="italic">birds use every year.</span></p>
+<p begin="407490417t" end="422922500t" region="bottom" xml:id="subtitle14"><span style="italic">And try to conserve them.</span></p>
+<p begin="432098334t" end="452118334t" region="bottom" xml:id="subtitle15"><span style="span">He's just wanting to bite me again.</span></p>
+<p begin="458374584t" end="472555417t" region="bottom" xml:id="subtitle16"><span style="span">[woman, in Spanish]</span><br/><span style="italic">The birds are beautiful,</span></p>
+<p begin="473389584t" end="519685834t" region="bottom" xml:id="subtitle17"><span style="italic">but they are also markers</span><br/><span style="italic">of the state of an ecosystem.</span></p>
+<p begin="538871667t" end="555555000t" region="bottom" xml:id="subtitle18"><span style="span">[woman]</span><br/><span style="italic">Those birds use both our countries.</span></p>
+<p begin="565147917t" end="585167917t" region="bottom" xml:id="subtitle19"><span style="italic">They need to migrate back and forth.</span></p>
+<p begin="588504584t" end="609775834t" region="bottom" xml:id="subtitle20"><span style="span">[woman, in Spanish]</span><br/><span style="italic">If they give us so much,</span></p>
+<p begin="610610000t" end="643559584t" region="bottom" xml:id="subtitle21"><span style="italic">why not protect and preserve them?</span></p>
+<p begin="689438750t" end="704036667t" region="bottom" xml:id="subtitle22"><span style="span">[tweeting]</span></p>
+</div>
+</body>
+</tt>

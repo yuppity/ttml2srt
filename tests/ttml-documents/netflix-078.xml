@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="8758750t" end="22939584t" region="bottom" xml:id="subtitle0"><span style="span">Sergeant Hugo Stiglitz?</span></p>
+<p begin="53386667t" end="80080000t" region="bottom" xml:id="subtitle1"><span style="span">Lieutenant Aldo Raine.</span><br/><span style="span">These are the Basterds.</span></p>
+<p begin="82582500t" end="92592500t" region="bottom" xml:id="subtitle2"><span style="span">Ever heard of us?</span></p>
+<p begin="118451667t" end="143059584t" region="bottom" xml:id="subtitle3"><span style="span">We just want to say</span><br/><span style="span">we're a big fan of your work.</span></p>
+<p begin="145145000t" end="161828334t" region="bottom" xml:id="subtitle4"><span style="span">When it comes to killing Nazis...</span></p>
+<p begin="188938750t" end="206873334t" region="bottom" xml:id="subtitle5"><span style="span">I think you show great talent.</span></p>
+<p begin="212295417t" end="242742500t" region="bottom" xml:id="subtitle6"><span style="span">And I pride myself for having an eye</span><br/><span style="span">for that kind of talent.</span></p>
+<p begin="283616667t" end="316149167t" region="bottom" xml:id="subtitle7"><span style="span">But your status as a Nazi killer</span><br/><span style="span">is still amateur.</span></p>
+<p begin="327827500t" end="353686667t" region="bottom" xml:id="subtitle8"><span style="span">We all come here to see</span><br/><span style="span">if you want to go pro.</span></p>
+</div>
+</body>
+</tt>

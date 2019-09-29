@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="16686669t" end="26696669t" region="bottomCenter" style="s1" xml:id="subtitle0">HOLLY: <span style="s1_1">Before we begin,</span></p>
+<p begin="27527499t" end="55054999t" region="bottomCenter" style="s1" xml:id="subtitle1"><span style="s1_1">I want to make one thing</span><br/><span style="s1_1">perfectly clear to all of you.</span></p>
+<p begin="55885829t" end="80500420t" region="bottomCenter" style="s1" xml:id="subtitle2">The information you're about to hear<br/>is top secret.</p>
+<p begin="81331250t" end="109279169t" region="bottomCenter" style="s1" xml:id="subtitle3">Unauthorized publication<br/>or "leaking" of this information</p>
+<p begin="110109999t" end="125545419t" region="bottomCenter" style="s1" xml:id="subtitle4">would be an act of high treason,</p>
+<p begin="126376249t" end="159329170t" region="bottomCenter" style="s1" xml:id="subtitle5">for which you would be tried and convicted<br/>by a secret military tribunal</p>
+<p begin="160160000t" end="171000830t" region="bottomCenter" style="s1" xml:id="subtitle6">and summarily executed.</p>
+<p begin="171841670t" end="204784580t" region="bottomCenter" style="s1" xml:id="subtitle7">So, no, Ms. Poovey, I don't think<br/>a selfie would be appropriate.</p>
+<p begin="205625420t" end="229399169t" region="bottomCenter" style="s1" xml:id="subtitle8">-(CAMERA CLICKING)<br/>-Okay, I'm not. Jesus.</p>
+<p begin="230229999t" end="252752499t" region="bottomCenter" style="s1" xml:id="subtitle9">Why is she even in this briefing?</p>
+<p begin="253583329t" end="272772500t" region="bottomCenter" style="s1" xml:id="subtitle10">She's not allowed to go on missions.</p>
+<p begin="273603330t" end="292792500t" region="bottomCenter" style="s1" xml:id="subtitle11">Because she always stows away somehow,</p>
+<p begin="293623330t" end="336165830t" region="bottomCenter" style="s1" xml:id="subtitle12">as do Figgis and Dr. Krieger,<br/>and Julia Gluey-Dreyfus over there.</p>
+<p begin="337006670t" end="366195830t" region="bottomCenter" style="s1" xml:id="subtitle13">So this time they're going on the mission,<br/>so we can contain them.</p>
+<p begin="367036670t" end="409579170t" region="bottomCenter" style="s1" xml:id="subtitle14">Well, unless the mission is a softball<br/>game against Gary's Olde Town Tavern...</p>
+<p begin="410410000t" end="434604169t" region="bottomCenter" style="s1" xml:id="subtitle15">-No, it's...<br/>-In which case I nominate Ray pitcher.</p>
+<p begin="435434999t" end="453783329t" region="bottomCenter" style="s1" xml:id="subtitle16">-You know what?<br/>-Not because it's black.</p>
+<p begin="454624169t" end="464634169t" region="bottomCenter" style="s1" xml:id="subtitle17">You know what?</p>
+<p begin="465464999t" end="492161669t" region="bottomCenter" style="s1" xml:id="subtitle18">Lana, he's the one ashamed<br/>of his hand's heritage, not me.</p>
+<p begin="492992499t" end="518848329t" region="bottomCenter" style="s1" xml:id="subtitle19">I'm not ashamed. (CRYING)</p>
+<p begin="524273749t" end="539288750t" region="bottomCenter" style="s1" xml:id="subtitle20">CHERYL: (WHISPERS) Psst, Ray.</p>
+<p begin="540119580t" end="559729170t" region="bottomCenter" style="s1" xml:id="subtitle21">(GAGGING) Call me.</p>
+<p begin="560560000t" end="586836250t" region="bottomCenter" style="s1" xml:id="subtitle22">Ooh, a little "handingo" action.</p>
+<p begin="587667080t" end="609779170t" region="bottomCenter" style="s1" xml:id="subtitle23">(CLEARS THROAT)<br/>Time is a bit of a factor here,</p>
+<p begin="610610000t" end="638968330t" region="bottomCenter" style="s1" xml:id="subtitle24">so as much as I'd like to spend<br/>the day murdering all of you,</p>
+<p begin="639809170t" end="651480830t" region="bottomCenter" style="s1" xml:id="subtitle25">I'm afraid we need to press on.</p>
+<p begin="652321670t" end="682351670t" region="bottomCenter" style="s1" xml:id="subtitle26">To wit, this is Dr. Zoltan Kovacs.</p>
+<p begin="683182500t" end="708207500t" region="bottomCenter" style="s1" xml:id="subtitle27">Last night in Paris, someone,<br/>we suspect the Russians,</p>
+<p begin="709038330t" end="723222500t" region="bottomCenter" style="s1" xml:id="subtitle28">attempted to abduct him.</p>
+<p begin="724053330t" end="745324580t" region="bottomCenter" style="s1" xml:id="subtitle29">A high-speed chase ended in a crash,</p>
+<p begin="746165420t" end="777026250t" region="bottomCenter" style="s1" xml:id="subtitle30">which left him in a coma<br/>with a blood clot in his brain.</p>
+<p begin="777857080t" end="792461670t" region="bottomCenter" style="s1" xml:id="subtitle31">Which matters, because...</p>
+<p begin="793292500t" end="816235420t" region="bottomCenter" style="s1" xml:id="subtitle32">Because since defecting<br/>to the West 20 years ago,</p>
+<p begin="817066250t" end="847927079t" region="bottomCenter" style="s1" xml:id="subtitle33">Dr. Kovacs has been<br/>developing a top-secret process</p>
+<p begin="848767919t" end="864193329t" region="bottomCenter" style="s1" xml:id="subtitle34">for molecular miniaturization.</p>
+<p begin="865034169t" end="881300419t" region="bottomCenter" style="s1" xml:id="subtitle35">(CHUCKLES) Aren't they<br/>already pretty small?</p>
+<p begin="882131249t" end="908407499t" region="bottomCenter" style="s1" xml:id="subtitle36">It doesn't miniaturize molecules.</p>
+<p begin="909238329t" end="940109169t" region="bottomCenter" style="s1" xml:id="subtitle37">The process can miniaturize anything<br/>down to sub-microscopic size,</p>
+<p begin="940939999t" end="983482499t" region="bottomCenter" style="s1" xml:id="subtitle38">robotics, computers, video cameras,<br/>vehicles, even human beings.</p>
+<p begin="984313329t" end="1001830829t" region="bottomCenter" style="s1" xml:id="subtitle39">-But...<br/>-KRIEGER: You maniacs!</p>
+<p begin="1002671669t" end="1029778749t" region="bottomCenter" style="s1" xml:id="subtitle40">You stole it! You stole my idea!</p>
+<p begin="1030609579t" end="1046044999t" region="bottomCenter" style="s1" xml:id="subtitle41">(ALL SPEAKING INDISTINCTLY)</p>
+<p begin="1046875829t" end="1070239169t" region="bottomCenter" style="s1" xml:id="subtitle42">I've been working<br/>on miniaturization for years,</p>
+<p begin="1071069999t" end="1084002920t" region="bottomCenter" style="s1" xml:id="subtitle43">damn you, years!</p>
+<p begin="1084833750t" end="1105274170t" region="bottomCenter" style="s1" xml:id="subtitle44">Krieger, those were Shrinky Dinks.</p>
+<p begin="1106105000t" end="1129878750t" region="bottomCenter" style="s1" xml:id="subtitle45">(SOBBING) It's the same principle!</p>
+<p begin="1130709580t" end="1159077920t" region="bottomCenter" style="s1" xml:id="subtitle46">(SIGHS) It is absolutely<br/>not the same principle.</p>
+<p begin="1161160000t" end="1187015830t" region="bottomCenter" style="s1" xml:id="subtitle47">Well... (SNIFFLES)<br/>Then I've wasted my life.</p>
+<p begin="1187856670t" end="1207035830t" region="bottomCenter" style="s1" xml:id="subtitle48">And all of my good markers.</p>
+<p begin="1207876670t" end="1245824580t" region="bottomCenter" style="s1" xml:id="subtitle49">But how does it work, this process?</p>
+<p begin="1246665420t" end="1283362080t" region="bottomCenter" style="s1" xml:id="subtitle50">You'll be given a cursory explanation<br/>at the CIA laboratory in New Mexico.</p>
+<p begin="1284202920t" end="1297966670t" region="bottomCenter" style="s1" xml:id="subtitle51">-Why?<br/>-Well, I assume</p>
+<p begin="1298797500t" end="1332160830t" region="bottomCenter" style="s1" xml:id="subtitle52">they needed a large building in a remote<br/>location with plenty of parking,</p>
+<p begin="1333001670t" end="1353432080t" region="bottomCenter" style="s1" xml:id="subtitle53">and real estate is a lot<br/>cheaper out in the desert.</p>
+<p begin="1354272920t" end="1378457080t" region="bottomCenter" style="s1" xml:id="subtitle54">No, not why is the lab in New Mexico.</p>
+<p begin="1379297920t" end="1391390000t" region="bottomCenter" style="s1" xml:id="subtitle55">Why are you going to tell us</p>
+<p begin="1392220830t" end="1414332920t" region="bottomCenter" style="s1" xml:id="subtitle56">how this super top-secret<br/>shrink ray works?</p>
+<p begin="1415163750t" end="1444362920t" region="bottomCenter" style="s1" xml:id="subtitle57">Because in less than 14 hours,</p>
+<p begin="1445193750t" end="1481059580t" region="bottomCenter" style="s1" xml:id="subtitle58">you're all going to be miniaturized<br/>down to the size of bacteria</p>
+<p begin="1481900420t" end="1505674170t" region="bottomCenter" style="s1" xml:id="subtitle59">and injected into Dr. Kovacs.</p>
+<p begin="1506505000t" end="1525694170t" region="bottomCenter" style="s1" xml:id="subtitle60">-Wait, what!<br/>-(ALL EXCLAIMING)</p>
+<p begin="1526525000t" end="1554052500t" region="bottomCenter" style="s1" xml:id="subtitle61">What if we don't consent<br/>to be Dr. Shrinkered?</p>
+<p begin="1554883330t" end="1572821250t" region="bottomCenter" style="s1" xml:id="subtitle62">Well, there's a carrot and a stick here,</p>
+<p begin="1573652080t" end="1610358750t" region="bottomCenter" style="s1" xml:id="subtitle63">the carrot being a one-time payment<br/>of $1,000,000 each.</p>
+<p begin="1611189580t" end="1626625000t" region="bottomCenter" style="s1" xml:id="subtitle64">(ALL SPEAKING INDISTINCTLY)</p>
+<p begin="1627455830t" end="1638717080t" region="bottomCenter" style="s1" xml:id="subtitle65">And the stick?</p>
+<p begin="1639557920t" end="1673341670t" region="bottomCenter" style="s1" xml:id="subtitle66">The stick is this is your last chance.</p>
+<p begin="1674172500t" end="1700869169t" region="bottomCenter" style="s1" xml:id="subtitle67">You people have bungled every assignment<br/>the CIA has given you,</p>
+<p begin="1701699999t" end="1723802079t" region="bottomCenter" style="s1" xml:id="subtitle68">so if you refuse or fail this mission,</p>
+<p begin="1724642919t" end="1772190419t" region="bottomCenter" style="s1" xml:id="subtitle69">I will personally ensure that none of you<br/>ever works in espionage again.</p>
+<p begin="1773021249t" end="1790959169t" region="bottomCenter" style="s1" xml:id="subtitle70">-(ALL EXCLAIMING)<br/>-I'm just an assistant.</p>
+<p begin="1791789999t" end="1815984169t" region="bottomCenter" style="s1" xml:id="subtitle71">-No likey.<br/>-Well, it's normally the other way around,</p>
+<p begin="1816814999t" end="1848927079t" region="bottomCenter" style="s1" xml:id="subtitle72">but this time,<br/>I think I definitely prefer the carrot.</p>
+<p begin="1849767919t" end="1877295419t" region="bottomCenter" style="s1" xml:id="subtitle73">Not dick, Pam, stick.</p>
+<p begin="1878126249t" end="1889387499t" region="bottomCenter" style="s1" xml:id="subtitle74">Carrot and stick.</p>
+<p begin="1897725829t" end="1910658749t" region="bottomCenter" style="s1" xml:id="subtitle75">Yeah, I know.</p>
+<p begin="1923171249t" end="1943191249t" region="bottomCenter" style="s1" xml:id="subtitle76">(THEME MUSIC PLAYING)</p>
+<p begin="2339006670t" end="2353601250t" region="bottomCenter" style="s1" xml:id="subtitle77">HOLLY: <span style="s1_1">Okay, people, listen up.</span></p>
+<p begin="2359857500t" end="2385302920t" region="bottomCenter" style="s1" xml:id="subtitle78">We've got an enormous amount<br/>of information to cover</p>
+<p begin="2386133750t" end="2399897500t" region="bottomCenter" style="s1" xml:id="subtitle79">and a very short time in which to do it,</p>
+<p begin="2400728330t" end="2423250830t" region="bottomCenter" style="s1" xml:id="subtitle80">so your undivided attention<br/>is of the utmost.</p>
+<p begin="2424091670t" end="2442440000t" region="bottomCenter" style="s1" xml:id="subtitle81">Mr. Figgis, may I help you?</p>
+<p begin="2443691250t" end="2470387920t" region="bottomCenter" style="s1" xml:id="subtitle82">Uh, yeah, is there any reason<br/>why you can't just do</p>
+<p begin="2471218750t" end="2496664170t" region="bottomCenter" style="s1" xml:id="subtitle83">regular brain surgery<br/>without a shrink ray?</p>
+<p begin="2497495000t" end="2511679170t" region="bottomCenter" style="s1" xml:id="subtitle84">Yes, there is.</p>
+<p begin="2512510000t" end="2536704170t" region="bottomCenter" style="s1" xml:id="subtitle85">And, Mr. Archer, may I help you?</p>
+<p begin="2537535000t" end="2550047500t" region="bottomCenter" style="s1" xml:id="subtitle86">(BUZZES)</p>
+<p begin="2550878330t" end="2576744170t" region="bottomCenter" style="s1" xml:id="subtitle87">Yeah, why the hell<br/>would this guy have an oil can in his...</p>
+<p begin="2577575000t" end="2593010420t" region="bottomCenter" style="s1" xml:id="subtitle88">-Elbow grease.<br/>-(CHUCKLES)</p>
+<p begin="2593841250t" end="2618866250t" region="bottomCenter" style="s1" xml:id="subtitle89">Wow, it's pun for the whole family.</p>
+<p begin="2619697080t" end="2630958330t" region="bottomCenter" style="s1" xml:id="subtitle90">-(ALL YELLING)<br/>-That's racist!</p>
+<p begin="2631799170t" end="2661408750t" region="bottomCenter" style="s1" xml:id="subtitle91">-You know what I don't have time for?<br/>-Hmm, shopping for clothes?</p>
+<p begin="2662239580t" end="2680177500t" region="bottomCenter" style="s1" xml:id="subtitle92">Your particular brand of bullshit.</p>
+<p begin="2681008330t" end="2721468750t" region="bottomCenter" style="s1" xml:id="subtitle93">I was trying to familiarize myself<br/>with the human body, Slater.</p>
+<p begin="2722299580t" end="2736904170t" region="bottomCenter" style="s1" xml:id="subtitle94">Yeah, you know what this is?</p>
+<p begin="2737735000t" end="2758585830t" region="bottomCenter" style="s1" xml:id="subtitle95">-Your best gal?<br/>-You son of a...</p>
+<p begin="2759426670t" end="2797795000t" region="bottomCenter" style="s1" xml:id="subtitle96">Slater! We do not have time for this.</p>
+<p begin="2804051250t" end="2829907080t" region="bottomCenter" style="s1" xml:id="subtitle97">After this is over, you and me.</p>
+<p begin="2837004170t" end="2854521670t" region="bottomCenter" style="s1" xml:id="subtitle98">-Boop.<br/>-(SIGHS)</p>
+<p begin="2859526670t" end="2886213330t" region="bottomCenter" style="s1" xml:id="subtitle99">Why do you constantly antagonize him?</p>
+<p begin="2887054170t" end="2915412500t" region="bottomCenter" style="s1" xml:id="subtitle100">I... Oh, my God, Cyril, are you jealous?</p>
+<p begin="2916243330t" end="2941268330t" region="bottomCenter" style="s1" xml:id="subtitle101">-No, I'm...<br/>-I'm going to make it up to you, buddy.</p>
+<p begin="2942109170t" end="2955452500t" region="bottomCenter" style="s1" xml:id="subtitle102">-Oh, please don't.<br/>-HOLLY: Archer!</p>
+<p begin="2956283330t" end="2981728750t" region="bottomCenter" style="s1" xml:id="subtitle103">If you're done trying to win<br/>votes for Class Clown...</p>
+<p begin="2982559580t" end="3000077080t" region="bottomCenter" style="s1" xml:id="subtitle104">More like Most Handsome.</p>
+<p begin="3000917920t" end="3022599580t" region="bottomCenter" style="s1" xml:id="subtitle105">-I was voted Best Milker.<br/>-Me, too.</p>
+<p begin="3023440420t" end="3033450420t" region="bottomCenter" style="s1" xml:id="subtitle106">ALL: Ew.</p>
+<p begin="3034281250t" end="3079326250t" region="bottomCenter" style="s1" xml:id="subtitle107">Please direct your attention to<br/>Dr. Kovacs' assistant, Dr. Sklodowska.</p>
+<p begin="3080157080t" end="3103930830t" region="bottomCenter" style="s1" xml:id="subtitle108">-It's Sk-wuh-doh-fska.<br/>-I'm sorry. What'd I say?</p>
+<p begin="3104771670t" end="3120197080t" region="bottomCenter" style="s1" xml:id="subtitle109">I don't know. Something else.</p>
+<p begin="3121037920t" end="3133960830t" region="bottomCenter" style="s1" xml:id="subtitle110">Welcome, all of you,</p>
+<p begin="3134801670t" end="3157734580t" region="bottomCenter" style="s1" xml:id="subtitle111">and thank you for volunteering<br/>for this mission.</p>
+<p begin="3158575420t" end="3175252080t" region="bottomCenter" style="s1" xml:id="subtitle112">Albeit under threat of death.</p>
+<p begin="3176092920t" end="3186933750t" region="bottomCenter" style="s1" xml:id="subtitle113">Due to boredom.</p>
+<p begin="3187764580t" end="3214040830t" region="bottomCenter" style="s1" xml:id="subtitle114">Come on. Let's get shrunked up already.</p>
+<p begin="3214881670t" end="3231147920t" region="bottomCenter" style="s1" xml:id="subtitle115">First, we need to cover some basics.</p>
+<p begin="3231978750t" end="3249075830t" region="bottomCenter" style="s1" xml:id="subtitle116">Now, as you may or may not know,</p>
+<p begin="3249916670t" end="3272439170t" region="bottomCenter" style="s1" xml:id="subtitle117">Dr. Kovacs and I are lovers.</p>
+<p begin="3273270000t" end="3290787500t" region="bottomCenter" style="s1" xml:id="subtitle118">If that is shocking to you, so be it.</p>
+<p begin="3291618330t" end="3311638330t" region="bottomCenter" style="s1" xml:id="subtitle119">-(ALL SPEAKING INDISTINCTLY)<br/>-That's not shocking at all.</p>
+<p begin="3314140830t" end="3332499170t" region="bottomCenter" style="s1" xml:id="subtitle120">SKLODOWSKA: This is Dr. Kovacs' brain,</p>
+<p begin="3333330000t" end="3360857500t" region="bottomCenter" style="s1" xml:id="subtitle121">home to the greatest mind<br/>in the history of mankind,</p>
+<p begin="3361688330t" end="3376292919t" region="bottomCenter" style="s1" xml:id="subtitle122">if not the universe.</p>
+<p begin="3377123749t" end="3408825419t" region="bottomCenter" style="s1" xml:id="subtitle123">This is the blood clot<br/>that threatens to destroy that brain.</p>
+<p begin="3409656249t" end="3441768329t" region="bottomCenter" style="s1" xml:id="subtitle124">But we will destroy the clot<br/>with the <span style="s1_1">Nereus.</span></p>
+<p begin="3442609169t" end="3459285829t" region="bottomCenter" style="s1" xml:id="subtitle125">Dibs on captain. Dibs on driving.</p>
+<p begin="3460126669t" end="3475972499t" region="bottomCenter" style="s1" xml:id="subtitle126">You have dibs on neither.</p>
+<p begin="3476803329t" end="3497664169t" region="bottomCenter" style="s1" xml:id="subtitle127">Mr. Gillette, who is a licensed pilot,</p>
+<p begin="3498494999t" end="3511427919t" region="bottomCenter" style="s1" xml:id="subtitle128">will be piloting the <span style="s1_1">Nereus.</span></p>
+<p begin="3512258749t" end="3534781249t" region="bottomCenter" style="s1" xml:id="subtitle129">Oh, so I'm good enough<br/>to drive y'all around?</p>
+<p begin="3535612079t" end="3569395829t" region="bottomCenter" style="s1" xml:id="subtitle130">Great. Maybe on the way,<br/>we can stop off down the Piggly Wiggly.</p>
+<p begin="3570236669t" end="3580246669t" region="bottomCenter" style="s1" xml:id="subtitle131">When this is over,</p>
+<p begin="3581077499t" end="3602348749t" region="bottomCenter" style="s1" xml:id="subtitle132">I really think you and I<br/>should have a nice, long talk.</p>
+<p begin="3604020419t" end="3623619999t" region="bottomCenter" style="s1" xml:id="subtitle133">I'm sorry. Am I forgetting my place?</p>
+<p begin="3624450829t" end="3634460829t" region="bottomCenter" style="s1" xml:id="subtitle134">Little bit.</p>
+<p begin="3635301669t" end="3661988329t" region="bottomCenter" style="s1" xml:id="subtitle135">After being miniaturized,<br/>the <span style="s1_1">Nereus</span> and its crew will...</p>
+<p begin="3662829169t" end="3681177499t" region="bottomCenter" style="s1" xml:id="subtitle136">(SIGHS) Yes, Mr. Archer?</p>
+<p begin="3682008329t" end="3702448749t" region="bottomCenter" style="s1" xml:id="subtitle137">Yeah, I think I should<br/>at least be co-captain.</p>
+<p begin="3703279579t" end="3717884169t" region="bottomCenter" style="s1" xml:id="subtitle138">I've had astronaut training.</p>
+<p begin="3718714999t" end="3734560829t" region="bottomCenter" style="s1" xml:id="subtitle139">So what? So did I.</p>
+<p begin="3735401669t" end="3745822079t" region="bottomCenter" style="s1" xml:id="subtitle140">So did most of us.</p>
+<p begin="3746662919t" end="3759585829t" region="bottomCenter" style="s1" xml:id="subtitle141">Yeah, but you sucked at it.</p>
+<p begin="3760426669t" end="3783779999t" region="bottomCenter" style="s1" xml:id="subtitle142">-You kept puking your guts out on the...<br/>-(RETCHES)</p>
+<p begin="3784610829t" end="3796292499t" region="bottomCenter" style="s1" xml:id="subtitle143">-The...<br/>-Don't say it.</p>
+<p begin="3797123329t" end="3817143329t" region="bottomCenter" style="s1" xml:id="subtitle144">-(CHUCKLING) The Vomit Comet.<br/>-(RETCHING)</p>
+<p begin="3817984169t" end="3843009169t" region="bottomCenter" style="s1" xml:id="subtitle145">But I kicked total ass in zero gravity,</p>
+<p begin="3843839999t" end="3858854999t" region="bottomCenter" style="s1" xml:id="subtitle146">so I think I should be in charge.</p>
+<p begin="3859685829t" end="3872618749t" region="bottomCenter" style="s1" xml:id="subtitle147">What the hell are you talking about?</p>
+<p begin="3873449579t" end="3895561669t" region="bottomCenter" style="s1" xml:id="subtitle148">I know how to do it, be weightless.</p>
+<p begin="3897223329t" end="3915161249t" region="bottomCenter" style="s1" xml:id="subtitle149">-So?<br/>-So when we're floating around</p>
+<p begin="3915992079t" end="3937683749t" region="bottomCenter" style="s1" xml:id="subtitle150">in this Kovacs guy, in the submarine...</p>
+<p begin="3938514579t" end="3956872919t" region="bottomCenter" style="s1" xml:id="subtitle151">Have you ever seen a submarine movie?</p>
+<p begin="3957703749t" end="3972718749t" region="bottomCenter" style="s1" xml:id="subtitle152">(CHUCKLES) Oh, my God,</p>
+<p begin="3973549579t" end="4004830829t" region="bottomCenter" style="s1" xml:id="subtitle153"><span style="s1_1">Operation Petticoat, Das Boot,</span><br/><span style="s1_1">The Enemy Below,</span></p>
+<p begin="4005671669t" end="4034860829t" region="bottomCenter" style="s1" xml:id="subtitle154"><span style="s1_1">Run Silent Run Deep, Gray Lady Down...</span></p>
+<p begin="4035701669t" end="4059885829t" region="bottomCenter" style="s1" xml:id="subtitle155">-Ooh, <span style="s1_1">Yellow Sub...</span><br/><span style="s1_1">-Yellow Submarine,</span> yes!</p>
+<p begin="4060726669t" end="4084079999t" region="bottomCenter" style="s1" xml:id="subtitle156">Wow, there's so many submarine movies.</p>
+<p begin="4084910829t" end="4129955829t" region="bottomCenter" style="s1" xml:id="subtitle157">And in any of them was anyone on board<br/>any submarine weightless?</p>
+<p begin="4141217079t" end="4159985829t" region="bottomCenter" style="s1" xml:id="subtitle158">-(ALL SPEAKING INDISTINCTLY)<br/>-Was that a fat joke?</p>
+<p begin="4160826669t" end="4184600419t" region="bottomCenter" style="s1" xml:id="subtitle159">Yeah, plus that time<br/>we were all on a submarine</p>
+<p begin="4185431249t" end="4202528329t" region="bottomCenter" style="s1" xml:id="subtitle160">and were not weightless?</p>
+<p begin="4203369169t" end="4240486249t" region="bottomCenter" style="s1" xml:id="subtitle161">Oh, right.<br/>Uh, but this time we're gonna be tiny.</p>
+<p begin="4241317079t" end="4251327079t" region="bottomCenter" style="s1" xml:id="subtitle162">(SKLODOWSKA CLEARS THROAT)</p>
+<p begin="4252167919t" end="4287202919t" region="bottomCenter" style="s1" xml:id="subtitle163">After being miniaturized, the <span style="s1_1">Nereus,</span><br/>with the mission team on board,</p>
+<p begin="4288033749t" end="4313058750t" region="bottomCenter" style="s1" xml:id="subtitle164">will be injected into Dr. Kovacs here,</p>
+<p begin="4313889580t" end="4334750420t" region="bottomCenter" style="s1" xml:id="subtitle165">as close to the blood clot as possible.</p>
+<p begin="4336001670t" end="4365190830t" region="bottomCenter" style="s1" xml:id="subtitle166">This is because we only<br/>have exactly 60 minutes</p>
+<p begin="4366031670t" end="4396061670t" region="bottomCenter" style="s1" xml:id="subtitle167">before the process wears off<br/>and we revert to normal size.</p>
+<p begin="4396892500t" end="4413158750t" region="bottomCenter" style="s1" xml:id="subtitle168">Sixty minutes exactly?</p>
+<p begin="4413989580t" end="4434009580t" region="bottomCenter" style="s1" xml:id="subtitle169">Yes, I feel like I was very clear on that.</p>
+<p begin="4434850420t" end="4468634170t" region="bottomCenter" style="s1" xml:id="subtitle170">Our progress will be tracked in real time<br/>on a 3-D map of the human body...</p>
+<p begin="4469465000t" end="4486151670t" region="bottomCenter" style="s1" xml:id="subtitle171">-Ta-da!<br/>-(ALL EXCLAIMING)</p>
+<p begin="4486982500t" end="4502828330t" region="bottomCenter" style="s1" xml:id="subtitle172">Oh, my God, Slim Goodbody.</p>
+<p begin="4503669170t" end="4544119580t" region="bottomCenter" style="s1" xml:id="subtitle173">No! No, this is absolutely not<br/>that trademark character.</p>
+<p begin="4544960420t" end="4571236670t" region="bottomCenter" style="s1" xml:id="subtitle174">-This is...<br/>-Michael? Oh, my God.</p>
+<p begin="4572067500t" end="4610025420t" region="bottomCenter" style="s1" xml:id="subtitle175">...just a unitard with the systems<br/>of the human body on it.</p>
+<p begin="4614189580t" end="4640886250t" region="bottomCenter" style="s1" xml:id="subtitle176">-On a guy.<br/>-On a guy named TV's Michael Gray.</p>
+<p begin="4641717080t" end="4657152500t" region="bottomCenter" style="s1" xml:id="subtitle177">-What?<br/>-(ALL CLAMORING)</p>
+<p begin="4657983330t" end="4672167500t" region="bottomCenter" style="s1" xml:id="subtitle178">Ear balls! Jesus!</p>
+<p begin="4672998330t" end="4695520830t" region="bottomCenter" style="s1" xml:id="subtitle179">I see I have some fans in the audience.</p>
+<p begin="4696361670t" end="4717212500t" region="bottomCenter" style="s1" xml:id="subtitle180">-(CHUCKLES) Are you kidding?<br/>-Are you?</p>
+<p begin="4718043330t" end="4738063330t" region="bottomCenter" style="s1" xml:id="subtitle181">Lana, it's TV's Michael Gray.</p>
+<p begin="4738904170t" end="4763929170t" region="bottomCenter" style="s1" xml:id="subtitle182">Billy Batson, from <span style="s1_1">The Shazam/Isis Hour?</span></p>
+<p begin="4764760000t" end="4780605830t" region="bottomCenter" style="s1" xml:id="subtitle183">Well, and <span style="s1_1">The Brian Keith Show.</span></p>
+<p begin="4781446670t" end="4805220420t" region="bottomCenter" style="s1" xml:id="subtitle184">Obviously in <span style="s1_1">The Brian Keith Show.</span></p>
+<p begin="4806051250t" end="4836081250t" region="bottomCenter" style="s1" xml:id="subtitle185">-Who is Brian Keith?<br/>-Now you're just trying to piss me off.</p>
+<p begin="4838163330t" end="4857352500t" region="bottomCenter" style="s1" xml:id="subtitle186">So what's up? What have you been doing?</p>
+<p begin="4858183330t" end="4879044170t" region="bottomCenter" style="s1" xml:id="subtitle187">As you see, my good sir.</p>
+<p begin="4879875000t" end="4901977080t" region="bottomCenter" style="s1" xml:id="subtitle188">Uh, CIA puppet shows?</p>
+<p begin="4903228330t" end="4929094170t" region="bottomCenter" style="s1" xml:id="subtitle189">Acting, you philistine.</p>
+<p begin="4929925000t" end="4956201250t" region="bottomCenter" style="s1" xml:id="subtitle190">-Michael, what are you doing here?<br/>-I...</p>
+<p begin="4957032080t" end="4977892920t" region="bottomCenter" style="s1" xml:id="subtitle191">How did he even get on the base?</p>
+<p begin="4978723750t" end="4988733750t" region="bottomCenter" style="s1" xml:id="subtitle192">He said he knew you.</p>
+<p begin="4989564580t" end="5018343330t" region="bottomCenter" style="s1" xml:id="subtitle193">You let an unauthorized civilian<br/>onto a CIA black site</p>
+<p begin="5019184170t" end="5035860830t" region="bottomCenter" style="s1" xml:id="subtitle194">just because he said he knew me?</p>
+<p begin="5036701670t" end="5061306250t" region="bottomCenter" style="s1" xml:id="subtitle195">Well, plus, he is TV's Michael Gray.</p>
+<p begin="5062137080t" end="5084249170t" region="bottomCenter" style="s1" xml:id="subtitle196">(SIGHS) And as you may or may not know,</p>
+<p begin="5085080000t" end="5104269170t" region="bottomCenter" style="s1" xml:id="subtitle197">TV's Michael Gray and I were lovers.</p>
+<p begin="5105100000t" end="5122617500t" region="bottomCenter" style="s1" xml:id="subtitle198">If that is shocking to you, so be it.</p>
+<p begin="5123448330t" end="5139304170t" region="bottomCenter" style="s1" xml:id="subtitle199">-(ALL DISAGREEING)<br/>-I get it.</p>
+<p begin="5140135000t" end="5156821670t" region="bottomCenter" style="s1" xml:id="subtitle200">I think maybe you're confusing</p>
+<p begin="5157652500t" end="5178503330t" region="bottomCenter" style="s1" xml:id="subtitle201">-the word "shocking" with the word...<br/>-This!</p>
+<p begin="5181005830t" end="5208122920t" region="bottomCenter" style="s1" xml:id="subtitle202">-This is shocking!<br/>-No, that's just gross.</p>
+<p begin="5208953750t" end="5243988750t" region="bottomCenter" style="s1" xml:id="subtitle203">Which is also the word I think you're<br/>looking for with your old man fetish.</p>
+<p begin="5244819580t" end="5274849580t" region="bottomCenter" style="s1" xml:id="subtitle204">-Aw, come on, they're not so...<br/>-That one doesn't even have skin!</p>
+<p begin="5275690420t" end="5286531250t" region="bottomCenter" style="s1" xml:id="subtitle205">SKLODOWSKA: (SIGHING) Okay.</p>
+<p begin="5287362080t" end="5311135830t" region="bottomCenter" style="s1" xml:id="subtitle206">If everyone will follow me<br/>into the miniaturization chamber,</p>
+<p begin="5311976670t" end="5328242920t" region="bottomCenter" style="s1" xml:id="subtitle207">we will now begin boarding the <span style="s1_1">Nereus.</span></p>
+<p begin="5329073750t" end="5346170830t" region="bottomCenter" style="s1" xml:id="subtitle208">Whoa. Wait. Already?</p>
+<p begin="5347011670t" end="5376200830t" region="bottomCenter" style="s1" xml:id="subtitle209">Yeah. Shouldn't we learn a little more<br/>about the mission parameters?</p>
+<p begin="5377041670t" end="5392467080t" region="bottomCenter" style="s1" xml:id="subtitle210">Oh, you absolutely should!</p>
+<p begin="5393307920t" end="5433758330t" region="bottomCenter" style="s1" xml:id="subtitle211">-But we're behind schedule, thanks to...<br/>-TV's Michael Gray.</p>
+<p begin="5434599170t" end="5444609170t" region="bottomCenter" style="s1" xml:id="subtitle212">ARCHER: Whoo!</p>
+<p begin="5445440000t" end="5486310830t" region="bottomCenter" style="s1" xml:id="subtitle213">-And...<br/>-Scene! Yes. We get it, Michael.</p>
+<p begin="5487151670t" end="5502577080t" region="bottomCenter" style="s1" xml:id="subtitle214">Scene!</p>
+<p begin="5503417920t" end="5530525000t" region="bottomCenter" style="s1" xml:id="subtitle215">No, you ruined it.</p>
+<p begin="5556380830t" end="5600174580t" region="bottomCenter" style="s1" xml:id="subtitle216">MISSION CONTROL:<br/><span style="s1_1">Miniaturization will begin in 60 minutes.</span></p>
+<p begin="5601015420t" end="5616440830t" region="bottomCenter" style="s1" xml:id="subtitle217">SLATER: Okay, people, you heard the lady.</p>
+<p begin="5617281670t" end="5638552920t" region="bottomCenter" style="s1" xml:id="subtitle218">We've got no time to lose,<br/>so here are your mission assignments.</p>
+<p begin="5639383750t" end="5649393750t" region="bottomCenter" style="s1" xml:id="subtitle219">-Archer...<br/>-ARCHER: Captain!</p>
+<p begin="5650224580t" end="5682757080t" region="bottomCenter" style="s1" xml:id="subtitle220">No, you're not. Gillette is the pilot,<br/>and Cyril is the co-pilot.</p>
+<p begin="5683597920t" end="5698192500t" region="bottomCenter" style="s1" xml:id="subtitle221">ARCHER: Well, we'll see about that.</p>
+<p begin="5699023330t" end="5711956250t" region="bottomCenter" style="s1" xml:id="subtitle222">Go see about that.</p>
+<p begin="5712787080t" end="5729473750t" region="bottomCenter" style="s1" xml:id="subtitle223">Okay. Pam and Crazy Glue,</p>
+<p begin="5730304580t" end="5747822080t" region="bottomCenter" style="s1" xml:id="subtitle224">your job is to stay out<br/>of everybody's way,</p>
+<p begin="5748662920t" end="5769093330t" region="bottomCenter" style="s1" xml:id="subtitle225">so maybe go do that in the rear.</p>
+<p begin="5769934170t" end="5784949170t" region="bottomCenter" style="s1" xml:id="subtitle226">(SCOFFS) What? Like, butt sex?</p>
+<p begin="5785780000t" end="5798292500t" region="bottomCenter" style="s1" xml:id="subtitle227">Of the ship.</p>
+<p begin="5799123330t" end="5815389580t" region="bottomCenter" style="s1" xml:id="subtitle228">Well, let's keep an open mind.</p>
+<p begin="5816230420t" end="5831655830t" region="bottomCenter" style="s1" xml:id="subtitle229">And a closed mouth. How about that?</p>
+<p begin="5832496670t" end="5854178330t" region="bottomCenter" style="s1" xml:id="subtitle230">-Mmm.<br/>-Just go.</p>
+<p begin="5855019170t" end="5887131250t" region="bottomCenter" style="s1" xml:id="subtitle231">Okay. Lana, you think you can help<br/>Dr. Sklodowska with the navigation?</p>
+<p begin="5887962080t" end="5911735830t" region="bottomCenter" style="s1" xml:id="subtitle232">Well, I did get an A in college biology.</p>
+<p begin="5912576670t" end="5927171250t" region="bottomCenter" style="s1" xml:id="subtitle233">Oh, wow, great.</p>
+<p begin="5928002080t" end="5951365420t" region="bottomCenter" style="s1" xml:id="subtitle234">So when we're traversing<br/>the occipital lobe,</p>
+<p begin="5952196250t" end="5978472500t" region="bottomCenter" style="s1" xml:id="subtitle235">you'll know what to do<br/>if the ship is in imminent danger</p>
+<p begin="5979303330t" end="6013507500t" region="bottomCenter" style="s1" xml:id="subtitle236">of phagocytosis<br/>by polymorphonuclear leukocytes?</p>
+<p begin="6024348330t" end="6044368330t" region="bottomCenter" style="s1" xml:id="subtitle237">-It actually might've been an A-minus.<br/>-Ugh!</p>
+<p begin="6058552500t" end="6086500420t" region="bottomCenter" style="s1" xml:id="subtitle238">Okay. Maybe just help Archer<br/>with the laser, if he ever gets...</p>
+<p begin="6087331250t" end="6100264170t" region="bottomCenter" style="s1" xml:id="subtitle239">-(ARCHER GROANS)<br/>-...out here.</p>
+<p begin="6101095000t" end="6131125000t" region="bottomCenter" style="s1" xml:id="subtitle240">You two head up to the laser turret<br/>and get acquainted with that bad boy.</p>
+<p begin="6131955830t" end="6141965830t" region="bottomCenter" style="s1" xml:id="subtitle241">Pew! Pew!</p>
+<p begin="6142806670t" end="6156980830t" region="bottomCenter" style="s1" xml:id="subtitle242">ARCHER: Jesus H. Christ, Ray!</p>
+<p begin="6157821670t" end="6211205000t" region="bottomCenter" style="s1" xml:id="subtitle243">Speaking of H, do you see me in a sort of<br/>Leonard H. "Bones" McCoy type role, or...</p>
+<p begin="6212456250t" end="6235809580t" region="bottomCenter" style="s1" xml:id="subtitle244">-Meaning?<br/>-Irascible on-board medical officer.</p>
+<p begin="6236650420t" end="6262085830t" region="bottomCenter" style="s1" xml:id="subtitle245">Hmm, yeah, I wouldn't say on-board.</p>
+<p begin="6262926670t" end="6277941670t" region="bottomCenter" style="s1" xml:id="subtitle246">Oh, man!</p>
+<p begin="6281275000t" end="6305048750t" region="bottomCenter" style="s1" xml:id="subtitle247">-(EKG BEEPING)<br/>-So not only am I not going to Tiny Town,</p>
+<p begin="6305879580t" end="6321735420t" region="bottomCenter" style="s1" xml:id="subtitle248">now I have to execute a guy?</p>
+<p begin="6322986670t" end="6333407080t" region="bottomCenter" style="s1" xml:id="subtitle249">What are you talking about?</p>
+<p begin="6334247920t" end="6348011670t" region="bottomCenter" style="s1" xml:id="subtitle250">This big, meaty bastard right here.</p>
+<p begin="6348842500t" end="6364277920t" region="bottomCenter" style="s1" xml:id="subtitle251">What are we doing? Lethal injection?</p>
+<p begin="6365108750t" end="6388462080t" region="bottomCenter" style="s1" xml:id="subtitle252">Are you... This is Dr. Kovacs.</p>
+<p begin="6389302920t" end="6408071670t" region="bottomCenter" style="s1" xml:id="subtitle253">This is? Are you sure?</p>
+<p begin="6408902500t" end="6418912500t" region="bottomCenter" style="s1" xml:id="subtitle254">Yes.</p>
+<p begin="6419743330t" end="6453947500t" region="bottomCenter" style="s1" xml:id="subtitle255">Because even a first-year phrenology<br/>student could see that this man</p>
+<p begin="6454778330t" end="6480644170t" region="bottomCenter" style="s1" xml:id="subtitle256">is a cold-blooded murderer.</p>
+<p begin="6491064580t" end="6519843330t" region="bottomCenter" style="s1" xml:id="subtitle257">Phrenology? Who are you? George Combe?</p>
+<p begin="6520684170t" end="6536530000t" region="bottomCenter" style="s1" xml:id="subtitle258">(SCOFFS) Man, I wish.</p>
+<p begin="6537360830t" end="6562385830t" region="bottomCenter" style="s1" xml:id="subtitle259">ARCHER: Because now<br/>I probably have nerve damage.</p>
+<p begin="6571985420t" end="6601174580t" region="bottomCenter" style="s1" xml:id="subtitle260">Uh, I've decided to let Ray drive.</p>
+<p begin="6602015420t" end="6624948330t" region="bottomCenter" style="s1" xml:id="subtitle261">(LOUDLY) With his<br/>racist robot monster hand!</p>
+<p begin="6627871250t" end="6669993330t" region="bottomCenter" style="s1" xml:id="subtitle262">(CRYING) Hand, legs, feet. I am a monster.</p>
+<p begin="6670834170t" end="6704197500t" region="bottomCenter" style="s1" xml:id="subtitle263">Oh, now, come on. You're not a monster,</p>
+<p begin="6705028330t" end="6715458750t" region="bottomCenter" style="s1" xml:id="subtitle264">you're just different.</p>
+<p begin="6717961250t" end="6732145419t" region="bottomCenter" style="s1" xml:id="subtitle265">Come on. It could be a lot worse.</p>
+<p begin="6732976249t" end="6751744999t" region="bottomCenter" style="s1" xml:id="subtitle266">-How?<br/>-Well, I guess the hand,</p>
+<p begin="6752575829t" end="6780944169t" region="bottomCenter" style="s1" xml:id="subtitle267">or the tissue covering the bionic part,<br/>it would be, I guess.</p>
+<p begin="6781774999t" end="6801374579t" region="bottomCenter" style="s1" xml:id="subtitle268">You know,<br/>could've come from a serial killer.</p>
+<p begin="6802215419t" end="6829322499t" region="bottomCenter" style="s1" xml:id="subtitle269">And then one day soon,<br/>maybe you're shaving,</p>
+<p begin="6830153329t" end="6855178329t" region="bottomCenter" style="s1" xml:id="subtitle270">and you find out it has a mind of its own.</p>
+<p begin="6856019169t" end="6874367499t" region="bottomCenter" style="s1" xml:id="subtitle271">It's a force of pure evil,</p>
+<p begin="6875198329t" end="6902725829t" region="bottomCenter" style="s1" xml:id="subtitle272">and it starts dragging you out<br/>into the city at night.</p>
+<p begin="6903566669t" end="6915658749t" region="bottomCenter" style="s1" xml:id="subtitle273">Just cats at first.</p>
+<p begin="6916489579t" end="6935678749t" region="bottomCenter" style="s1" xml:id="subtitle274">But once the hand<br/>gets a taste for killing,</p>
+<p begin="6936509579t" end="6955698749t" region="bottomCenter" style="s1" xml:id="subtitle275">it's only a matter of time<br/>before you're out there</p>
+<p begin="6956529579t" end="6992815829t" region="bottomCenter" style="s1" xml:id="subtitle276">strangling male prostitutes,<br/>and then posing them in grotesque</p>
+<p begin="6993656669t" end="7018681669t" region="bottomCenter" style="s1" xml:id="subtitle277">and horrific parodies of Mentos ads.</p>
+<p begin="7020343329t" end="7045368329t" region="bottomCenter" style="s1" xml:id="subtitle278">You know, the freshmaker.</p>
+<p begin="7056629579t" end="7099172079t" region="bottomCenter" style="s1" xml:id="subtitle279">In which case, I guess try<br/>to remember I was always kind to you.</p>
+<p begin="7102515419t" end="7126289169t" region="bottomCenter" style="s1" xml:id="subtitle280">-Not always.<br/>-(NERVOUS CHUCKLE)</p>
+<p begin="7127119999t" end="7137550419t" region="bottomCenter" style="s1" xml:id="subtitle281">Ah!</p>
+<p begin="7138381249t" end="7172995829t" region="bottomCenter" style="s1" xml:id="subtitle282">MISSION CONTROL:<br/><span style="s1_1">Miniaturization will begin in 30 minutes.</span></p>
+<p begin="7173836669t" end="7203866669t" region="bottomCenter" style="s1" xml:id="subtitle283">And besides, I don't think Ray's hand<br/>is the one that's racist.</p>
+<p begin="7204697499t" end="7218461249t" region="bottomCenter" style="s1" xml:id="subtitle284">-Shock. Nothing.<br/>-What?</p>
+<p begin="7219292079t" end="7237650419t" region="bottomCenter" style="s1" xml:id="subtitle285">(SIGHS) So, listen.</p>
+<p begin="7238481249t" end="7259752499t" region="bottomCenter" style="s1" xml:id="subtitle286">ARCHER: I can't. I'm swiveling.</p>
+<p begin="7260583329t" end="7273936669t" region="bottomCenter" style="s1" xml:id="subtitle287">LANA: Yes, you can, Archer.</p>
+<p begin="7274767499t" end="7293536249t" region="bottomCenter" style="s1" xml:id="subtitle288">I need to talk to you<br/>about something important.</p>
+<p begin="7294367079t" end="7323986669t" region="bottomCenter" style="s1" xml:id="subtitle289">Lana, what's more important than<br/>blasting imaginary womp rats</p>
+<p begin="7324817499t" end="7349011669t" region="bottomCenter" style="s1" xml:id="subtitle290">in my imaginary T-16 back home?</p>
+<p begin="7349842499t" end="7371113749t" region="bottomCenter" style="s1" xml:id="subtitle291">Uh... Your infant daughter.</p>
+<p begin="7371944579t" end="7391554169t" region="bottomCenter" style="s1" xml:id="subtitle292">Oh, right. Sorry. What's up?</p>
+<p begin="7392384999t" end="7432424999t" region="bottomCenter" style="s1" xml:id="subtitle293">Well, A, this mission feels fairly<br/>dangerous and totally half-cocked.</p>
+<p begin="7433255829t" end="7458280829t" region="bottomCenter" style="s1" xml:id="subtitle294">-(CHUCKLES) That's normally cock aplenty.<br/>-Shut up.</p>
+<p begin="7459121669t" end="7472885419t" region="bottomCenter" style="s1" xml:id="subtitle295">And what if Kovacs dies,</p>
+<p begin="7473716249t" end="7489151669t" region="bottomCenter" style="s1" xml:id="subtitle296">and the CIA disavows us,</p>
+<p begin="7489982499t" end="7508751249t" region="bottomCenter" style="s1" xml:id="subtitle297">and we're blacklisted<br/>from intelligence work?</p>
+<p begin="7509582079t" end="7522094579t" region="bottomCenter" style="s1" xml:id="subtitle298">I'd have a lot more free time?</p>
+<p begin="7522935419t" end="7570062499t" region="bottomCenter" style="s1" xml:id="subtitle299">So your entire career, your entire<br/>personal identity as a spy, gone?</p>
+<p begin="7570893329t" end="7590502919t" region="bottomCenter" style="s1" xml:id="subtitle300">Maybe I finally learn to fly-fish.</p>
+<p begin="7591333749t" end="7614687079t" region="bottomCenter" style="s1" xml:id="subtitle301">That's great, Archer. What if we die?</p>
+<p begin="7615527919t" end="7638460829t" region="bottomCenter" style="s1" xml:id="subtitle302">I'd have a lot more free time?</p>
+<p begin="7639301669t" end="7667239579t" region="bottomCenter" style="s1" xml:id="subtitle303">Well, if we do die,<br/>I just want to reiterate</p>
+<p begin="7668080419t" end="7704777079t" region="bottomCenter" style="s1" xml:id="subtitle304">that my parents are gonna be<br/>A.J.'s legal guardians, not Malory.</p>
+<p begin="7705617919t" end="7746488749t" region="bottomCenter" style="s1" xml:id="subtitle305">(SIGHS) Okay. A, you've made that<br/>hurtfully clear about a jillion times.</p>
+<p begin="7747319579t" end="7779852079t" region="bottomCenter" style="s1" xml:id="subtitle306">B, Abbiejean could do<br/>a lot worse for a guardian.</p>
+<p begin="7791113329t" end="7801123329t" region="bottomCenter" style="s1" xml:id="subtitle307">Really?</p>
+<p begin="7809051249t" end="7828240419t" region="bottomCenter" style="s1" xml:id="subtitle308">-(BABBLES)<br/>-MAN: Jesus Christ!</p>
+<p begin="7829071249t" end="7847419579t" region="bottomCenter" style="s1" xml:id="subtitle309">I'm sorry. I didn't see the child.</p>
+<p begin="7848260419t" end="7878290419t" region="bottomCenter" style="s1" xml:id="subtitle310">Hmm? Oh, she's fine. She's used to it.</p>
+<p begin="7879121249t" end="7889131249t" region="bottomCenter" style="s1" xml:id="subtitle311">Really?</p>
+<p begin="7889962079t" end="7908320419t" region="bottomCenter" style="s1" xml:id="subtitle312">"Then the mama bear said,</p>
+<p begin="7909151249t" end="7937929999t" region="bottomCenter" style="s1" xml:id="subtitle313">"'Well, somebody's been<br/>eating my porridge.'</p>
+<p begin="7938760829t" end="7975887919t" region="bottomCenter" style="s1" xml:id="subtitle314">-"And then the baby bear said..."<br/>-Are you out of your goddamn mind?</p>
+<p begin="7976718749t" end="7987979999t" region="bottomCenter" style="s1" xml:id="subtitle315">-What?<br/>-What?</p>
+<p begin="7988810829t" end="8007169169t" region="bottomCenter" style="s1" xml:id="subtitle316">I just had the drapes cleaned!</p>
+<p begin="8007999999t" end="8028850829t" region="bottomCenter" style="s1" xml:id="subtitle317">"And then Papa Bear said, 'Yeah?</p>
+<p begin="8029691669t" end="8050962919t" region="bottomCenter" style="s1" xml:id="subtitle318">"'You just keep it up,<br/>because this town is crawling</p>
+<p begin="8051793749t" end="8087659579t" region="bottomCenter" style="s1" xml:id="subtitle319">"'with Goldilockses with hot, young bodies<br/>and daddy issues.'"</p>
+<p begin="8088500419t" end="8108099999t" region="topCenter" style="s1" xml:id="subtitle320">-(BABBLES)<br/>-Exactly.</p>
+<p begin="8108930829t" end="8126448329t" region="topCenter" style="s1" xml:id="subtitle321">Like what's-her-face at work.</p>
+<p begin="8127289169t" end="8145637499t" region="topCenter" style="s1" xml:id="subtitle322">(CHUCKLES) Debbie, yeah.</p>
+<p begin="8146468329t" end="8156478329t" region="topCenter" style="s1" xml:id="subtitle323">(BABBLES)</p>
+<p begin="8157319169t" end="8173995829t" region="bottomCenter" style="s1" xml:id="subtitle324">And as far as I'm concerned,</p>
+<p begin="8174836669t" end="8196518329t" region="bottomCenter" style="s1" xml:id="subtitle325">the sooner she learns<br/>about cigarettes, the better.</p>
+<p begin="8197359169t" end="8229891669t" region="bottomCenter" style="s1" xml:id="subtitle326">This little pudge-pop's going<br/>to need all the help she can get</p>
+<p begin="8230722499t" end="8246568329t" region="bottomCenter" style="s1" xml:id="subtitle327">in the battle of the bulge.</p>
+<p begin="8247409169t" end="8257419169t" region="bottomCenter" style="s1" xml:id="subtitle328">(BABBLES)</p>
+<p begin="8258249999t" end="8293284999t" region="bottomCenter" style="s1" xml:id="subtitle329">ARCHER: And C, even if, God forbid,<br/>something happens to you,</p>
+<p begin="8294115829t" end="8305797499t" region="bottomCenter" style="s1" xml:id="subtitle330">I'm gonna be fine.</p>
+<p begin="8306628329t" end="8337499169t" region="bottomCenter" style="s1" xml:id="subtitle331">So if, say, there's a malfunction<br/>with the shrink ray</p>
+<p begin="8338329999t" end="8365857499t" region="bottomCenter" style="s1" xml:id="subtitle332">and the ship and everything in it<br/>gets vaporized?</p>
+<p begin="8366688329t" end="8382954579t" region="bottomCenter" style="s1" xml:id="subtitle333">I'd just jump out at the last second.</p>
+<p begin="8383795419t" end="8408399999t" region="bottomCenter" style="s1" xml:id="subtitle334">While every single atom<br/>and molecule in your body</p>
+<p begin="8409230829t" end="8421743329t" region="bottomCenter" style="s1" xml:id="subtitle335">is being destroyed?</p>
+<p begin="8422994579t" end="8440932499t" region="bottomCenter" style="s1" xml:id="subtitle336">Uh, no. I already jumped out.</p>
+<p begin="8441763329t" end="8473464999t" region="bottomCenter" style="s1" xml:id="subtitle337">It's this new thing<br/>called cat-like reflexes.</p>
+<p begin="8474295829t" end="8509330829t" region="bottomCenter" style="s1" xml:id="subtitle338">So can you seriously not even grasp<br/>the concept of your own mortality?</p>
+<p begin="8510171669t" end="8538529999t" region="bottomCenter" style="s1" xml:id="subtitle339">-Lana, nobody can.<br/>-Really?</p>
+<p begin="8539360829t" end="8558129579t" region="bottomCenter" style="s1" xml:id="subtitle340">-Except maybe bears.<br/>-(SCOFFS)</p>
+<p begin="8558970419t" end="8589410829t" region="bottomCenter" style="s1" xml:id="subtitle341">So will you do everyone a favor<br/>and relax for once?</p>
+<p begin="8590251670t" end="8607348750t" region="bottomCenter" style="s1" xml:id="subtitle342">-Nothing bad's gonna...<br/>-(BOTH YELP)</p>
+<p begin="8608179580t" end="8619861250t" region="bottomCenter" style="s1" xml:id="subtitle343">(ELECTRICITY ZAPPING)</p>
+<p begin="8625286670t" end="8641963330t" region="bottomCenter" style="s1" xml:id="subtitle344">ARCHER: Sorry, gang!</p>
+<p begin="8642804170t" end="8652814170t" region="bottomCenter" style="s1" xml:id="subtitle345">My bad.</p>
+<p begin="8653645000t" end="8664485830t" region="bottomCenter" style="s1" xml:id="subtitle346">That was on me.</p>
+<p begin="8665326670t" end="8681172500t" region="bottomCenter" style="s1" xml:id="subtitle347">Hey, somebody roll that guy around.</p>
+<p begin="8682003330t" end="8697018330t" region="bottomCenter" style="s1" xml:id="subtitle348">He's smoldering.</p>
+<p begin="8697859170t" end="8711622920t" region="bottomCenter" style="s1" xml:id="subtitle349">MISSION CONTROL: <span style="s1_1">Miniaturization in...</span></p>
+<p begin="8712453750t" end="8731222500t" region="bottomCenter" style="s1" xml:id="subtitle350">-You were saying?<br/>-I don't know.</p>
+<p begin="8732053330t" end="8746657920t" region="bottomCenter" style="s1" xml:id="subtitle351"><span style="s1_1">...10 minutes.</span></p>
+<p begin="8749160420t" end="8767088330t" region="bottomCenter" style="s1" xml:id="subtitle352">Probably something about bears.</p>
+<p begin="8798790000t" end="8832153330t" region="bottomCenter" style="s1" xml:id="subtitle353">MISSION CONTROL:<br/><span style="s1_1">Miniaturization in five minutes.</span></p>
+<p begin="8833825000t" end="8845917080t" region="bottomCenter" style="s1" xml:id="subtitle354">SKLODOWSKA: <span style="s1_1">Roger that, Mission Control.</span></p>
+<p begin="8846757920t" end="8884295420t" region="bottomCenter" style="s1" xml:id="subtitle355">Navigation systems are online.<br/>We are ready for miniaturization process.</p>
+<p begin="8885126250t" end="8898469580t" region="bottomCenter" style="s1" xml:id="subtitle356">SLATER ON RADIO: <span style="s1_1">Copy that, Navigation.</span></p>
+<p begin="8899310420t" end="8931422500t" region="bottomCenter" style="s1" xml:id="subtitle357">Bridge is online and we are ready<br/>for miniaturization process, over.</p>
+<p begin="8932253330t" end="8944355420t" region="bottomCenter" style="s1" xml:id="subtitle358">ARCHER: Said your dick.</p>
+<p begin="8945186250t" end="8966457500t" region="bottomCenter" style="s1" xml:id="subtitle359">SLATER ON RADIO:<br/><span style="s1_1">That would mean it's too big, dummy,</span></p>
+<p begin="8967288330t" end="8989400420t" region="bottomCenter" style="s1" xml:id="subtitle360"><span style="s1_1">and so it's ready to be made smaller.</span></p>
+<p begin="8990231250t" end="9000241250t" region="bottomCenter" style="s1" xml:id="subtitle361">Damn it.</p>
+<p begin="9001072080t" end="9024845830t" region="bottomCenter" style="s1" xml:id="subtitle362">Turret, are you ready<br/>to begin miniaturization? Over.</p>
+<p begin="9025686670t" end="9051962920t" region="bottomCenter" style="s1" xml:id="subtitle363">Yes, if... Lana, you good?</p>
+<p begin="9056127080t" end="9066557500t" region="bottomCenter" style="s1" xml:id="subtitle364">(EXHALES)</p>
+<p begin="9069890830t" end="9096167080t" region="bottomCenter" style="s1" xml:id="subtitle365">-Yes.<br/>-We'll be fine, all right?</p>
+<p begin="9097007920t" end="9111182080t" region="bottomCenter" style="s1" xml:id="subtitle366">A.J. will be fine.</p>
+<p begin="9112022920t" end="9134545420t" region="bottomCenter" style="s1" xml:id="subtitle367">Just remember what we talked about.</p>
+<p begin="9147888750t" end="9166657500t" region="bottomCenter" style="s1" xml:id="subtitle368">You already forgot.</p>
+<p begin="9167488330t" end="9178749580t" region="bottomCenter" style="s1" xml:id="subtitle369">(CHUCKLES) Bears.</p>
+<p begin="9179590420t" end="9199610420t" region="bottomCenter" style="s1" xml:id="subtitle370">-Turret ready.<br/>-Roger that, stupid.</p>
+<p begin="9200441250t" end="9226717500t" region="bottomCenter" style="s1" xml:id="subtitle371">-You guys ready to make history?<br/>-I'm ready to make a million dollars.</p>
+<p begin="9227548330t" end="9237558330t" region="bottomCenter" style="s1" xml:id="subtitle372">Close enough.</p>
+<p begin="9238399170t" end="9255075830t" region="bottomCenter" style="s1" xml:id="subtitle373">Okay, let's light this candle.</p>
+<p begin="9255916670t" end="9279270000t" region="bottomCenter" style="s1" xml:id="subtitle374">What are you doing?</p>
+<p begin="9282192920t" end="9295115830t" region="bottomCenter" style="s1" xml:id="subtitle375">He said light the candle.</p>
+<p begin="9295956670t" end="9310971670t" region="bottomCenter" style="s1" xml:id="subtitle376">Not an ear candle!</p>
+<p begin="9311802500t" end="9335155830t" region="bottomCenter" style="s1" xml:id="subtitle377">Well, you won't bleed him,<br/>you won't cup him,</p>
+<p begin="9335996670t" end="9348919580t" region="bottomCenter" style="s1" xml:id="subtitle378">you won't divine his humors.</p>
+<p begin="9349760420t" end="9392713330t" region="bottomCenter" style="s1" xml:id="subtitle379">For all you charlatans know, this poor man<br/>is both phlegmatic and bilious.</p>
+<p begin="9397307920t" end="9408148750t" region="bottomCenter" style="s1" xml:id="subtitle380">Get out.</p>
+<p begin="9408979580t" end="9418989580t" region="bottomCenter" style="s1" xml:id="subtitle381">Gladly.</p>
+<p begin="9431922500t" end="9461952500t" region="bottomCenter" style="s1" xml:id="subtitle382">So, hey, do I need to<br/>swipe a keycard, or...</p>
+<p begin="9462783330t" end="9479470000t" region="bottomCenter" style="s1" xml:id="subtitle383">Ow!</p>
+<p begin="9484475000t" end="9506577080t" region="bottomCenter" style="s1" xml:id="subtitle384">Paging Dr. Dickwads.</p>
+<p begin="9509500000t" end="9522012500t" region="bottomCenter" style="s1" xml:id="subtitle385">(ALARM BLARING)</p>
+<p begin="9549119580t" end="9561632080t" region="bottomCenter" style="s1" xml:id="subtitle386">MISSION CONTROL: <span style="s1_1">All clear.</span></p>
+<p begin="9562883330t" end="9583323750t" region="bottomCenter" style="s1" xml:id="subtitle387"><span style="s1_1">Commence initialization sequence.</span></p>
+<p begin="9584154580t" end="9595415830t" region="bottomCenter" style="s1" xml:id="subtitle388"><span style="s1_1">All clear.</span></p>
+<p begin="9596256670t" end="9608348750t" region="bottomCenter" style="s1" xml:id="subtitle389">(BLARING CONTINUES)</p>
+<p begin="9632542920t" end="9648809170t" region="bottomCenter" style="s1" xml:id="subtitle390">SKLODOWSKA ON RADIO:<br/><span style="s1_1">Mission control, this is</span> Nereus.</p>
+<p begin="9649640000t" end="9667577920t" region="bottomCenter" style="s1" xml:id="subtitle391">We are ready for miniaturization, over.</p>
+<p begin="9668408750t" end="9695515830t" region="bottomCenter" style="s1" xml:id="subtitle392">Speak for yourself, holy shrink-snacks.</p>
+<p begin="9696356670t" end="9716376670t" region="bottomCenter" style="s1" xml:id="subtitle393">Yeah, this is kind of terrifying.</p>
+<p begin="9717207500t" end="9737647920t" region="bottomCenter" style="s1" xml:id="subtitle394">So why are you messing around<br/>with this crazy shrink ray?</p>
+<p begin="9738478750t" end="9755575830t" region="bottomCenter" style="s1" xml:id="subtitle395">It's not like you need a million bucks.</p>
+<p begin="9756416670t" end="9775185420t" region="bottomCenter" style="s1" xml:id="subtitle396">What? Are you kidding?</p>
+<p begin="9776016250t" end="9788949170t" region="bottomCenter" style="s1" xml:id="subtitle397">It's not about the money.</p>
+<p begin="9789780000t" end="9822312500t" region="bottomCenter" style="s1" xml:id="subtitle398">Pam, we are going<br/>on a voyage of medical discovery</p>
+<p begin="9823143330t" end="9851922080t" region="bottomCenter" style="s1" xml:id="subtitle399">unparalleled in not only<br/>the history of mankind,</p>
+<p begin="9852762920t" end="9874444580t" region="bottomCenter" style="s1" xml:id="subtitle400">but also, perhaps, its future.</p>
+<p begin="9875285420t" end="9909069170t" region="bottomCenter" style="s1" xml:id="subtitle401">Hippocrates, Galen, Percival, Sharp.</p>
+<p begin="9909900000t" end="9924084170t" region="bottomCenter" style="s1" xml:id="subtitle402">For thousands of years,</p>
+<p begin="9924915000t" end="9945355420t" region="bottomCenter" style="s1" xml:id="subtitle403">physicians have dreamed<br/>of having the power</p>
+<p begin="9946186250t" end="9969539580t" region="bottomCenter" style="s1" xml:id="subtitle404">to see what we've been given the chance to</p>
+<p begin="9970380420t" end="10003743750t" region="bottomCenter" style="s1" xml:id="subtitle405">through this truly awe-inspiring<br/>process of miniaturization,</p>
+<p begin="10004574580t" end="10016676670t" region="bottomCenter" style="s1" xml:id="subtitle406">which I think you'll agree,</p>
+<p begin="10017507500t" end="10049209170t" region="bottomCenter" style="s1" xml:id="subtitle407">is the very embodiment<br/>of Arthur C. Clarke's Third Law,</p>
+<p begin="10050040000t" end="10080900830t" region="bottomCenter" style="s1" xml:id="subtitle408">which states that any<br/>sufficiently advanced technology</p>
+<p begin="10081741670t" end="10102592500t" region="bottomCenter" style="s1" xml:id="subtitle409">is indistinguishable from magic.</p>
+<p begin="10103423330t" end="10131791670t" region="bottomCenter" style="s1" xml:id="subtitle410">Or, if you like, a miracle.</p>
+<p begin="10141381250t" end="10159319170t" region="bottomCenter" style="s1" xml:id="subtitle411">-I...<br/>-Plus, I'm going to use the money</p>
+<p begin="10160150000t" end="10183092920t" region="bottomCenter" style="s1" xml:id="subtitle412">to buy an orphanage, and then bulldoze it.</p>
+<p begin="10183923750t" end="10216456250t" region="bottomCenter" style="s1" xml:id="subtitle413">-Why?<br/>-Shits and grins and screams.</p>
+<p begin="10217287080t" end="10253573330t" region="bottomCenter" style="s1" xml:id="subtitle414">Wah, porridge, wah, ah!</p>
+<p begin="10254414170t" end="10267757500t" region="bottomCenter" style="s1" xml:id="subtitle415">(EVIL LAUGH)</p>
+<p begin="10270680420t" end="10285695420t" region="bottomCenter" style="s1" xml:id="subtitle416">Well, maybe she'll die.</p>
+<p begin="10286526250t" end="10312802500t" region="bottomCenter" style="s1" xml:id="subtitle417">MISSION CONTROL:<br/><span style="s1_1">Commence miniaturization in 10...</span></p>
+<p begin="10313633330t" end="10338658330t" region="bottomCenter" style="s1" xml:id="subtitle418">-(LANA BREATHING HEAVILY)<br/><span style="s1_1">-...nine, eight...</span></p>
+<p begin="10339499170t" end="10368277920t" region="bottomCenter" style="s1" xml:id="subtitle419">-Lana? Lana, calm down.<br/><span style="s1_1">-...seven, six,</span></p>
+<p begin="10369108750t" end="10390380000t" region="bottomCenter" style="s1" xml:id="subtitle420"><span style="s1_1">-five, four...</span><br/>-You're making me really hard.</p>
+<p begin="10391210830t" end="10411230830t" region="bottomCenter" style="s1" xml:id="subtitle421"><span style="s1_1">-...three, two...</span><br/>-Goddamn, dude.</p>
+<p begin="10412071670t" end="10422081670t" region="bottomCenter" style="s1" xml:id="subtitle422"><span style="s1_1">...one.</span></p>
+<p begin="10432922500t" end="10450019580t" region="bottomCenter" style="s1" xml:id="subtitle423">(ALL SCREAMING)</p>
+<p begin="10497567080t" end="10513833330t" region="bottomCenter" style="s1" xml:id="subtitle424">(NERVOUS LAUGHTER)</p>
+<p begin="10544283750t" end="10558467920t" region="bottomCenter" style="s1" xml:id="subtitle425">Wait. What happened?</p>
+<p begin="10596415830t" end="10621861250t" region="bottomCenter" style="s1" xml:id="subtitle426">-It... It's gone.<br/>-Hang on.</p>
+<p begin="10645635000t" end="10661480830t" region="bottomCenter" style="s1" xml:id="subtitle427">Mission Control to <span style="s1_1">Nereus,</span> over.</p>
+<p begin="10662321670t" end="10688597920t" region="bottomCenter" style="s1" xml:id="subtitle428">-(STATIC)<br/>-SLATER ON RADIO: <span style="s1_1">This is</span> Nereus, <span style="s1_1">Control.</span></p>
+<p begin="10689428750t" end="10707366670t" region="bottomCenter" style="s1" xml:id="subtitle429">-(CHEERING)<br/>-How wonderful.</p>
+<p begin="10708197500t" end="10724043330t" region="bottomCenter" style="s1" xml:id="subtitle430">Miniaturization complete, over.</p>
+<p begin="10724884170t" end="10736555830t" region="bottomCenter" style="s1" xml:id="subtitle431">ARCHER: <span style="s1_1">Whoo!</span></p>
+<p begin="10737396670t" end="10760750000t" region="bottomCenter" style="s1" xml:id="subtitle432">-Oh, my God.<br/>-(CLANKING)</p>
+<p begin="10772431670t" end="10782852080t" region="bottomCenter" style="s1" xml:id="subtitle433">(SIGHS)</p>
+<p begin="10783692920t" end="10794113330t" region="bottomCenter" style="s1" xml:id="subtitle434">SKLODOWSKA: Time.</p>
+<p begin="10794954170t" end="10824984170t" region="bottomCenter" style="s1" xml:id="subtitle435">Okay, people, we have<br/>one hour to save Dr. Kovacs.</p>
+<p begin="10825815000t" end="10850840000t" region="bottomCenter" style="s1" xml:id="subtitle436">And then hopefully a lifetime<br/>to be with him.</p>
+<p begin="10851670830t" end="10865855000t" region="bottomCenter" style="s1" xml:id="subtitle437">Once he leaves Hilda.</p>
+<p begin="10880870000t" end="10911320420t" region="bottomCenter" style="s1" xml:id="subtitle438">SLATER: Control, I think we're ready<br/>to start transport and injection, over.</p>
+<p begin="10912151250t" end="10927166250t" region="bottomCenter" style="s1" xml:id="subtitle439">HOLLY: <span style="s1_1">Roger that,</span> Nereus.</p>
+<p begin="10945935000t" end="10978887920t" region="bottomCenter" style="s1" xml:id="subtitle440">-So, uh, should we be steering, or...<br/>-(SHUSHES)</p>
+<p begin="10980139170t" end="11021840830t" region="bottomCenter" style="s1" xml:id="subtitle441">Okay. Now the submarine<br/>is in a saline solution in the syringe,</p>
+<p begin="11022681670t" end="11062721670t" region="bottomCenter" style="s1" xml:id="subtitle442">which the robot will now gently transport<br/>into the surgical theater,</p>
+<p begin="11063552500t" end="11108177080t" region="bottomCenter" style="s1" xml:id="subtitle443">where it will prepare to inject<br/>the solution into the cerebrospinal fluid</p>
+<p begin="11109017920t" end="11126115000t" region="bottomCenter" style="s1" xml:id="subtitle444">at the base of Dr. Kovacs' skull.</p>
+<p begin="11134042920t" end="11161980830t" region="bottomCenter" style="s1" xml:id="subtitle445">We're not weightless!</p>
+<p begin="11162821670t" end="11174082920t" region="bottomCenter" style="s1" xml:id="subtitle446">Why not?</p>
+<p begin="11174913750t" end="11196185000t" region="bottomCenter" style="s1" xml:id="subtitle447">And since we only have...</p>
+<p begin="11199938750t" end="11239147920t" region="bottomCenter" style="s1" xml:id="subtitle448">59 minutes-ish until the <span style="s1_1">Nereus</span><br/>reverts to normal size,</p>
+<p begin="11239978750t" end="11282941670t" region="bottomCenter" style="s1" xml:id="subtitle449">it is crucial that the injection be<br/>as close to the blood clot as humanly...</p>
+<p begin="11285023750t" end="11305874580t" region="bottomCenter" style="s1" xml:id="subtitle450">Well, robotically possible, I guess.</p>
+<p begin="11306715420t" end="11322981670t" region="bottomCenter" style="s1" xml:id="subtitle451">We're looking good down here, Control.</p>
+<p begin="11323812500t" end="11339658330t" region="bottomCenter" style="s1" xml:id="subtitle452">All lined up on the injection site.</p>
+<p begin="11340499170t" end="11360519170t" region="bottomCenter" style="s1" xml:id="subtitle453">HOLLY: <span style="s1_1">Roger that.</span> Nereus, <span style="s1_1">are you ready?</span></p>
+<p begin="11361350000t" end="11386375000t" region="bottomCenter" style="s1" xml:id="subtitle454">-(CLANKING ON RADIO)<br/>-LANA ON RADIO: <span style="s1_1">Ugh! Yes!</span></p>
+<p begin="11387205830t" end="11402220830t" region="bottomCenter" style="s1" xml:id="subtitle455"><span style="s1_1">Let's get this over with!</span></p>
+<p begin="11403061670t" end="11422661250t" region="bottomCenter" style="s1" xml:id="subtitle456">HOLLY: You are a go for injection, Doctor.</p>
+<p begin="11473542080t" end="11487305830t" region="bottomCenter" style="s1" xml:id="subtitle457">DOCTOR: <span style="s1_1">Preparing to inject.</span></p>
+<p begin="11488146670t" end="11501069580t" region="bottomCenter" style="s1" xml:id="subtitle458">(SCREAMING)</p>
+<p begin="11501910420t" end="11527766250t" region="bottomCenter" style="s1" xml:id="subtitle459">So should there be screaming?</p>
+<p begin="11528597080t" end="11553211670t" region="bottomCenter" style="s1" xml:id="subtitle460">Shh! Control,<br/>we're hearing some screaming.</p>
+<p begin="11561550000t" end="11573642080t" region="bottomCenter" style="s1" xml:id="subtitle461"><span style="s1_1">Which, uh...</span></p>
+<p begin="11574482920t" end="11589908330t" region="bottomCenter" style="s1" xml:id="subtitle462"><span style="s1_1">What's the story on that?</span></p>
+<p begin="11593251670t" end="11637876250t" region="bottomCenter" style="s1" xml:id="subtitle463">What in the name of sweet Jiminy Christ<br/>do you think you're doing?</p>
+<p begin="11638707080t" end="11657475830t" region="bottomCenter" style="s1" xml:id="subtitle464">Standing up for myself!</p>
+<p begin="11658316670t" end="11703772080t" region="bottomCenter" style="s1" xml:id="subtitle465">Because maybe I didn't go to some<br/>fancy-pantsy Ivy League med school,</p>
+<p begin="11704612920t" end="11731720000t" region="bottomCenter" style="s1" xml:id="subtitle466">and maybe I didn't go to<br/>some other med school,</p>
+<p begin="11732550830t" end="11768006250t" region="bottomCenter" style="s1" xml:id="subtitle467">even the one down in Grenada,<br/>which was my fallback, but whatever.</p>
+<p begin="11768837080t" end="11795533750t" region="bottomCenter" style="s1" xml:id="subtitle468">That doesn't give you<br/>the right to bully me.</p>
+<p begin="11796364580t" end="11814722920t" region="bottomCenter" style="s1" xml:id="subtitle469">I have had it!</p>
+<p begin="11815553750t" end="11841830000t" region="bottomCenter" style="s1" xml:id="subtitle470">Oh, and by the way,</p>
+<p begin="11842660830t" end="11874362500t" region="bottomCenter" style="s1" xml:id="subtitle471">if I was a clone of Adolf goddamn Hitler,</p>
+<p begin="11875193330t" end="11907725830t" region="bottomCenter" style="s1" xml:id="subtitle472">wouldn't I look like Adolf goddamn Hitler?</p>
+<p begin="11911900000t" end="11930248330t" region="bottomCenter" style="s1" xml:id="subtitle473">Huh. I never thought about that.</p>
+<p begin="11931089170t" end="11941099170t" region="bottomCenter" style="s1" xml:id="subtitle474">-Doctor?<br/>-What?</p>
+<p begin="11941930000t" end="11951940000t" region="bottomCenter" style="s1" xml:id="subtitle475">HOLLY: Not you.</p>
+<p begin="11952770830t" end="11984052080t" region="bottomCenter" style="s1" xml:id="subtitle476">Doctor, please tell me that <span style="s1_1">Nereus</span><br/>was injected into Kovacs?</p>
+<p begin="11984892920t" end="12005743750t" region="bottomCenter" style="s1" xml:id="subtitle477">-It was.<br/>-Phew, okay.</p>
+<p begin="12006574580t" end="12018676670t" region="bottomCenter" style="s1" xml:id="subtitle478">So we're still okay.</p>
+<p begin="12019507500t" end="12036194170t" region="bottomCenter" style="s1" xml:id="subtitle479">I'm sorry.<br/>I should've finished that thought.</p>
+<p begin="12037025000t" end="12057875830t" region="bottomCenter" style="s1" xml:id="subtitle480">It was injected into Dr. Kovacs,</p>
+<p begin="12058716670t" end="12077065000t" region="bottomCenter" style="s1" xml:id="subtitle481">but not at the injection site.</p>
+<p begin="12077895830t" end="12097085000t" region="bottomCenter" style="s1" xml:id="subtitle482">What? Well, then where is it?</p>
+<p begin="12103341250t" end="12113351250t" region="bottomCenter" style="s1" xml:id="subtitle483">His foot.</p>
+<p begin="12114182080t" end="12142960830t" region="bottomCenter" style="s1" xml:id="subtitle484">Wow. Now I feel like Dr. Dickwads.</p>
+<p begin="12143801670t" end="12156724580t" region="bottomCenter" style="s1" xml:id="subtitle485">MALORY: Krieger, shut up!</p>
+<p begin="12157565420t" end="12185923750t" region="bottomCenter" style="s1" xml:id="subtitle486">-And you, get them out of there.<br/>-(SIGHS) We can't.</p>
+<p begin="12186754580t" end="12200518330t" region="bottomCenter" style="s1" xml:id="subtitle487">They're way too small.</p>
+<p begin="12201359170t" end="12225132920t" region="bottomCenter" style="s1" xml:id="subtitle488">They'll just have to make it to<br/>his tear duct like we planned.</p>
+<p begin="12225963750t" end="12243901670t" region="bottomCenter" style="s1" xml:id="subtitle489">Is there enough time<br/>to make it to the clot,</p>
+<p begin="12244732500t" end="12258075830t" region="bottomCenter" style="s1" xml:id="subtitle490">laser it, and still escape?</p>
+<p begin="12258916670t" end="12283100830t" region="bottomCenter" style="s1" xml:id="subtitle491">I mean, it will be close, but maybe.</p>
+<p begin="12283941670t" end="12299787500t" region="bottomCenter" style="s1" xml:id="subtitle492">Damn it! (SIGHS)</p>
+<p begin="12307295000t" end="12351919580t" region="bottomCenter" style="s1" xml:id="subtitle493">-So do we tell them?<br/>-Well, they'll find out soon enough.</p>
+<p begin="12354422080t" end="12396964580t" region="bottomCenter" style="s1" xml:id="subtitle494">And in the meantime, I'm sure<br/>Sterling has everything well in hand.</p>
+<p begin="12397805420t" end="12419076670t" region="bottomCenter" style="s1" xml:id="subtitle495">(CLANKING ON RADIO)</p>
+<p begin="12427415000t" end="12443260830t" region="bottomCenter" style="s1" xml:id="subtitle496">ARCHER: <span style="s1_1">God damn it.</span></p>
+</div>
+</body>
+</tt>

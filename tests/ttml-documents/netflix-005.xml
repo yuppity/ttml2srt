@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="5422084t" end="24190834t" region="bottom" xml:id="subtitle0"><span style="span">-[man] </span><span style="italic">Bill Gates, favorite animal?</span><br/><span style="italic">-Dog.</span></p>
+<p begin="25025000t" end="39622917t" region="bottom" xml:id="subtitle1"><span style="span">-[man] </span><span style="italic">Your favorite food?</span><br/><span style="italic">-Hamburger.</span></p>
+<p begin="40457084t" end="55889167t" region="bottom" xml:id="subtitle2"><span style="italic">-What do you eat for breakfast?</span><br/><span style="italic">-Nothing.</span></p>
+<p begin="56723334t" end="68818750t" region="bottom" xml:id="subtitle3"><span style="italic">What is your worst fear?</span></p>
+<p begin="83833750t" end="109692917t" region="bottom" xml:id="subtitle4"><span style="span">I don't want my brain to stop working.</span></p>
+<p begin="110527084t" end="125125000t" region="bottom" xml:id="subtitle5"><span style="span">[dramatic instrumental music plays]</span></p>
+<p begin="133466667t" end="150984167t" region="bottom" xml:id="subtitle6"><span style="span">[woman] </span><span style="italic">Bill is a multiprocessor.</span></p>
+<p begin="157240417t" end="186019167t" region="bottom" xml:id="subtitle7"><span style="italic">He'll be reading something else,</span><br/><span style="italic">but then processing at the same time.</span></p>
+<p begin="192275417t" end="200617084t" region="bottom" xml:id="subtitle8"><span style="span">It's chaos.</span></p>
+<p begin="211461250t" end="233983750t" region="bottom" xml:id="subtitle9"><span style="italic">He just thrives on complexity.</span></p>
+<p begin="234817917t" end="251084167t" region="bottom" xml:id="subtitle10"><span style="italic">He makes a framework in his mind,</span></p>
+<p begin="251918334t" end="281531250t" region="bottom" xml:id="subtitle11"><span style="italic">and then he starts slotting in</span><br/><span style="italic">the information.</span></p>
+<p begin="289038750t" end="318234584t" region="bottom" xml:id="subtitle12"><span style="span">[woman 2] </span><span style="italic">If something doesn't line up,</span><br/><span style="italic">he gets really frustrated.</span></p>
+<p begin="319068750t" end="331164167t" region="bottom" xml:id="subtitle13"><span style="italic">It's scary.</span></p>
+<p begin="339922917t" end="359108750t" region="bottom" xml:id="subtitle14"><span style="italic">But when Bill stills himself,</span></p>
+<p begin="359942917t" end="387470417t" region="bottom" xml:id="subtitle15"><span style="italic">he can pull ideas together</span><br/><span style="italic">that other people can't see.</span></p>
+<p begin="411244167t" end="433766667t" region="bottom" xml:id="subtitle16"><span style="span">[Gates]</span><br/><span style="italic">At Microsoft I worked night and day,</span></p>
+<p begin="434600834t" end="455037917t" region="bottom" xml:id="subtitle17"><span style="italic">and that was how I made sure</span><br/><span style="italic">Microsoft stayed ahead.</span></p>
+<p begin="459208750t" end="472555417t" region="bottom" xml:id="subtitle18"><span style="italic">I could be so extreme.</span></p>
+<p begin="473389584t" end="497163334t" region="bottom" xml:id="subtitle19"><span style="span">You never understood</span><br/><span style="span">the first thing about this.</span></p>
+<p begin="497997500t" end="524273750t" region="bottom" xml:id="subtitle20"><span style="span">[woman] </span><span style="italic">Microsoft hit</span><br/><span style="italic">a new record high on Wall Street.</span></p>
+<p begin="535535000t" end="549298750t" region="bottom" xml:id="subtitle21"><span style="span">[man] </span><span style="italic">Rivals paint a dark picture.</span></p>
+<p begin="550132917t" end="580997084t" region="top" xml:id="subtitle22"><span style="span">He'll do whatever he can to capture</span><br/><span style="span">more of the market.</span></p>
+<p begin="586002084t" end="621871250t" region="bottom" xml:id="subtitle23"><span style="span">Our mother wanted him</span><br/><span style="span">to focus on community and family.</span></p>
+<p begin="626876250t" end="656072084t" region="top" xml:id="subtitle24"><span style="span">[Gates] </span><span style="italic">I gave my mom a hard time,</span><br/><span style="italic">not following what she wanted.</span></p>
+<p begin="659825834t" end="689855834t" region="bottom" xml:id="subtitle25"><span style="span">[woman 3] </span><span style="italic">You don't raise a family</span><br/><span style="italic">hyper-focused in your head.</span></p>
+<p begin="693609584t" end="712378334t" region="bottom" xml:id="subtitle26"><span style="span">Each one of us has to start out</span></p>
+<p begin="713212500t" end="751584167t" region="bottom" xml:id="subtitle27"><span style="span">with developing</span><br/><span style="span">his or her own definition of success.</span></p>
+<p begin="782865417t" end="802051250t" region="bottom" xml:id="subtitle28"><span style="span">I had the wrong way</span><br/><span style="span">of looking at things.</span></p>
+<p begin="823322500t" end="855020834t" region="bottom" xml:id="subtitle29"><span style="span">[Gates] </span><span style="italic">In life you have to decide</span><br/><span style="italic">what's important in the world.</span></p>
+<p begin="866699167t" end="887136250t" region="bottom" xml:id="subtitle30"><span style="italic">I will look at energy, climate change,</span></p>
+<p begin="897980417t" end="917583334t" region="bottom" xml:id="subtitle31"><span style="italic">and disease eradication.</span></p>
+<p begin="918417500t" end="968884584t" region="bottom" xml:id="subtitle32"><span style="italic">It's important that we start</span><br/><span style="italic">deploying solutions unnaturally fast.</span></p>
+<p begin="983482500t" end="1002668334t" region="bottom" xml:id="subtitle33"><span style="span">[man 2]</span><br/><span style="italic">We are running out of time here.</span></p>
+<p begin="1018100417t" end="1045210834t" region="bottom" xml:id="subtitle34"><span style="span">[man 3] </span><span style="italic">He tends to look at problems</span><br/><span style="italic">from unusual angles.</span></p>
+<p begin="1046045000t" end="1079411667t" region="bottom" xml:id="subtitle35"><span style="span">[man2 ] </span><span style="italic">There hasn't been innovation</span><br/><span style="italic">in nuclear energy for 25 years.</span></p>
+<p begin="1101934167t" end="1121954167t" region="bottom" xml:id="subtitle36"><span style="span">What are the odds</span><br/><span style="span">of getting the job done?</span></p>
+<p begin="1126959167t" end="1146979167t" region="bottom" xml:id="subtitle37"><span style="span">[Gates]</span><br/><span style="span">If you want to make a dent in this,</span></p>
+<p begin="1147813334t" end="1174089584t" region="bottom" xml:id="subtitle38"><span style="span">you better think in wholesale magnitudes.</span></p>
+<p begin="1174923750t" end="1210375834t" region="bottom" xml:id="subtitle39"><span style="span">[man 4] </span><span style="italic">He's at his best when the deck</span><br/><span style="italic">is stacked against him.</span></p>
+<p begin="1222471250t" end="1257506250t" region="bottom" xml:id="subtitle40"><span style="span">There's many challenges.</span><br/><span style="span">This is harder than I expected.</span></p>
+<p begin="1260842917t" end="1286285000t" region="bottom" xml:id="subtitle41"><span style="span">[woman 2]</span><br/><span style="italic">Ultimately, it's not what you get.</span></p>
+<p begin="1320485834t" end="1332998334t" region="bottom" xml:id="subtitle42"><span style="italic">It's what you become.</span></p>
+</div>
+</body>
+</tt>

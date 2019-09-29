@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="9185009t" end="17535017t" region="bottom" xml:id="subtitle0"><span style="span">Aye.</span></p>
+<p begin="31312531t" end="65547566t" region="bottom" xml:id="subtitle1"><span style="span">Your brother, Lord Melton,</span><br/><span style="span">was an honorable gentleman.</span></p>
+<p begin="68470068t" end="92267592t" region="bottom" xml:id="subtitle2"><span style="span">And my family debt to you</span><br/><span style="span">has been discharged.</span></p>
+<p begin="96442596t" end="111890112t" region="bottom" xml:id="subtitle3"><span style="span">But not yer promise.</span></p>
+<p begin="133600133t" end="143620143t" region="bottom" xml:id="subtitle4"><span style="span">Promise?</span></p>
+<p begin="148630148t" end="165747666t" region="bottom" xml:id="subtitle5"><span style="span">When last we parted...</span></p>
+<p begin="241732741t" end="254257753t" region="bottom" xml:id="subtitle6"><span style="span">you vowed...</span></p>
+<p begin="265530264t" end="279307778t" region="bottom" xml:id="subtitle7"><span style="span">I owe you my life.</span></p>
+<p begin="284317783t" end="305192804t" region="bottom" xml:id="subtitle8"><span style="span">I should hope to discharge</span><br/><span style="span">that debt in the future.</span></p>
+<p begin="309367808t" end="351952851t" region="bottom" xml:id="subtitle9"><span style="span">And once it is discharged,</span><br/><span style="span">I will kill you.</span></p>
+<p begin="385352884t" end="394955394t" region="bottom" xml:id="subtitle10"><span style="span">Well, sir...</span></p>
+<p begin="475532974t" end="486387986t" region="bottom" xml:id="subtitle11"><span style="span">here I am.</span></p>
+</div>
+</body>
+</tt>

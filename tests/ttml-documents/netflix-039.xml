@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2400000t" end="36400000t" region="bottom" xml:id="subtitle0"><span style="span">I really wanted to get Michael out here</span><br/><span style="span">and try and sell America to him</span></p>
+<p begin="37200000t" end="52800000t" region="bottom" xml:id="subtitle1"><span style="span">in the hope that he might move here.</span></p>
+<p begin="53600000t" end="69600000t" region="bottom" xml:id="subtitle2"><span style="span">There's a lot that might appeal to him.</span></p>
+<p begin="70400000t" end="80800000t" region="bottom" xml:id="subtitle3"><span style="span">[Michael] Oh, my God.</span></p>
+<p begin="81600000t" end="90400000t" region="bottom" xml:id="subtitle4"><span style="span">-Daddy--</span><br/><span style="span">-[Michael] No.</span></p>
+<p begin="91200000t" end="107200000t" region="bottom" xml:id="subtitle5"><span style="span">[Jack] Daddy,</span><br/><span style="span">should we write on the wall?</span></p>
+<p begin="108000000t" end="120800000t" region="bottom" xml:id="subtitle6"><span style="span">Put what you're grateful for.</span></p>
+<p begin="121600000t" end="148000000t" region="bottom" xml:id="subtitle7"><span style="span">-[Michael] So what have you put?</span><br/><span style="span">-[Jack] Family.</span></p>
+<p begin="148800000t" end="168000000t" region="bottom" xml:id="subtitle8"><span style="span">-[Michael] That's very sweet of you.</span><br/><span style="span">-No.</span></p>
+<p begin="168800000t" end="178400000t" region="bottom" xml:id="subtitle9"><span style="span">[Michael] What?</span></p>
+<p begin="179200001t" end="187600001t" region="bottom" xml:id="subtitle10"><span style="span">[Jack] "Brexit"?</span></p>
+<p begin="192800000t" end="224000000t" region="bottom" xml:id="subtitle11"><span style="span">Also, did you have to put "Brexit"</span><br/><span style="span">above "My immigrant family"?</span></p>
+<p begin="230400000t" end="244400000t" region="bottom" xml:id="subtitle12"><span style="span">I didn't actually look at that.</span></p>
+<p begin="245200000t" end="287200000t" region="bottom" xml:id="subtitle13"><span style="span">This is a slightly more mature audience</span><br/><span style="span">than I am used to.</span></p>
+<p begin="288000000t" end="307200000t" region="bottom" xml:id="subtitle14"><span style="span">I see an ocean of gray hair.</span></p>
+<p begin="308000000t" end="321200000t" region="bottom" xml:id="subtitle15"><span style="span">Fifty shades of gray.</span></p>
+<p begin="325200001t" end="364800000t" region="bottom" xml:id="subtitle16"><span style="span">I am a huge fan of gangsta rap.</span></p>
+<p begin="365600000t" end="384000000t" region="bottom" xml:id="subtitle17"><span style="span">You used to be obsessed</span><br/><span style="span">with the Spice Girls.</span></p>
+<p begin="384800000t" end="396000000t" region="bottom" xml:id="subtitle18"><span style="span">[laughs]</span></p>
+<p begin="400400000t" end="421200000t" region="bottom" xml:id="subtitle19"><span style="span">[Jack] Locked in the loo, 62!</span></p>
+<p begin="422000000t" end="445600000t" region="bottom" xml:id="subtitle20"><span style="span">But most of the time in close quarters,</span><br/><span style="span">I just use the knife.</span></p>
+<p begin="446400000t" end="455200001t" region="bottom" xml:id="subtitle21"><span style="span">[bleep] hell.</span></p>
+<p begin="456000000t" end="476800000t" region="bottom" xml:id="subtitle22"><span style="span">Legal in France, 15!</span></p>
+<p begin="477600000t" end="503200000t" region="bottom" xml:id="subtitle23"><span style="span">-Netflix and chill, 69!</span><br/><span style="span">-[crowd murmurs]</span></p>
+<p begin="508400001t" end="529200000t" region="bottom" xml:id="subtitle24"><span style="span">[Jack] Today, I'm going to fulfill</span><br/><span style="span">a lifelong dream,</span></p>
+<p begin="530000000t" end="547600000t" region="bottom" xml:id="subtitle25"><span style="span">an amateur wrestling company.</span></p>
+<p begin="548400000t" end="556800000t" region="bottom" xml:id="subtitle26"><span style="span">Hit me in the face.</span></p>
+<p begin="561200000t" end="573600000t" region="bottom" xml:id="subtitle27"><span style="span">-Harder than that.</span><br/><span style="span">-Anger me.</span></p>
+<p begin="580000000t" end="593600000t" region="bottom" xml:id="subtitle28"><span style="span">Your father's funnier than you.</span></p>
+<p begin="603200000t" end="618400000t" region="bottom" xml:id="subtitle29"><span style="span">-Oof!</span><br/><span style="span">-[laughter]</span></p>
+<p begin="619200000t" end="630400000t" region="bottom" xml:id="subtitle30"><span style="span">-Oh!</span><br/><span style="span">-That was real.</span></p>
+<p begin="634800000t" end="655200000t" region="bottom" xml:id="subtitle31"><span style="span">-[Michael] Go in here?</span><br/><span style="span">-[Jack] Okay, careful, stop.</span></p>
+<p begin="656000000t" end="667200000t" region="bottom" xml:id="subtitle32"><span style="span">Brake, brake, brake, brake!</span></p>
+<p begin="677600000t" end="688000000t" region="bottom" xml:id="subtitle33"><span style="span">Oh, for [bleep] sake.</span></p>
+<p begin="688800000t" end="697200000t" region="bottom" xml:id="subtitle34"><span style="span">[horn honking]</span></p>
+<p begin="698000000t" end="707600000t" region="bottom" xml:id="subtitle35"><span style="span">-[honks]</span><br/><span style="span">-Kill me now.</span></p>
+<p begin="713200000t" end="734800000t" region="bottom" xml:id="subtitle36"><span style="span">There is a lady waiting up for you</span><br/><span style="span">in the room.</span></p>
+<p begin="746800001t" end="764000000t" region="bottom" xml:id="subtitle37"><span style="span">-Mother!</span><br/><span style="span">-Hello, stranger.</span></p>
+<p begin="775200000t" end="783600000t" region="bottom" xml:id="subtitle38"><span style="span">Why is she here?</span></p>
+<p begin="784400000t" end="796800001t" region="bottom" xml:id="subtitle39"><span style="span">I just brought her out.</span></p>
+<p begin="797600000t" end="828000000t" region="bottom" xml:id="subtitle40"><span style="span">This is a lads and dads trip to Vegas.</span><br/><span style="span">Not lads and dads and Mommy.</span></p>
+<p begin="828800000t" end="850000000t" region="bottom" xml:id="subtitle41"><span style="span">[Michael] One thing I'd be up for doing</span><br/><span style="span">is </span><span style="italic">Magic Mike.</span></p>
+<p begin="850800000t" end="862400000t" region="bottom" xml:id="subtitle42"><span style="span">I quite like magicians.</span></p>
+<p begin="863200000t" end="902400000t" region="bottom" xml:id="subtitle43"><span style="span">It's about to be a hot guy buffet in here!</span></p>
+<p begin="903200000t" end="926800001t" region="bottom" xml:id="subtitle44"><span style="span">-[cheering]</span><br/><span style="span">-You told me it was a magic show.</span></p>
+<p begin="927600000t" end="947600000t" region="bottom" xml:id="subtitle45"><span style="span">-I never said a magic show.</span><br/><span style="span">-Jokes and handkerchiefs</span></p>
+<p begin="948400000t" end="968400000t" region="bottom" xml:id="subtitle46"><span style="span">-coming out of the--</span><br/><span style="span">-I said the show was </span><span style="italic">magical.</span></p>
+<p begin="977200000t" end="988800000t" region="bottom" xml:id="subtitle47"><span style="span">[tires skid]</span></p>
+<p begin="1002400000t" end="1020800000t" region="bottom" xml:id="subtitle48"><span style="span">[screaming]</span></p>
+<p begin="1021600000t" end="1044000000t" region="bottom" xml:id="subtitle49"><span style="span">-Nice shootin', cowboys.</span><br/><span style="span">-You touch me like that again,</span></p>
+<p begin="1044800000t" end="1064800000t" region="bottom" xml:id="subtitle50"><span style="span">I'll give you the business end</span><br/><span style="span">of this shotgun, boy.</span></p>
+<p begin="1065600000t" end="1074000000t" region="bottom" xml:id="subtitle51"><span style="span">Sorry.</span></p>
+<p begin="1086000000t" end="1107600000t" region="bottom" xml:id="subtitle52"><span style="span">When you are ready to order,</span><br/><span style="span">you can say, "I am,"</span></p>
+<p begin="1108400000t" end="1124000000t" region="bottom" xml:id="subtitle53"><span style="span">then you follow it by the affirmation.</span></p>
+<p begin="1124800000t" end="1144800000t" region="bottom" xml:id="subtitle54"><span style="span">Instead of saying,</span><br/><span style="span">"Can I get the macrobiotic bowl?"</span></p>
+<p begin="1145600000t" end="1156000000t" region="bottom" xml:id="subtitle55"><span style="span">you'll say, "I am whole."</span></p>
+<p begin="1156800000t" end="1185200000t" region="bottom" xml:id="subtitle56"><span style="span">I am losing the will to live,</span><br/><span style="span">to be honest.</span></p>
+<p begin="1192000000t" end="1208800000t" region="bottom" xml:id="subtitle57"><span style="span">That's not one of the options.</span></p>
+</div>
+</body>
+</tt>

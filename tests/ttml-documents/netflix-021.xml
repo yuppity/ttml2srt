@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="7916667t" end="34166667t" region="bottom" xml:id="subtitle0"><span style="span">Ardan... he is back in Frankfurt.</span></p>
+<p begin="46666667t" end="76666667t" region="bottom" xml:id="subtitle1"><span style="italic">Ardan is like a legend.</span><br/><span style="italic">He was with the brigade.</span></p>
+<p begin="86666667t" end="110000000t" region="bottom" xml:id="subtitle2"><span style="span">Ardan's brother is Kalifa, the rapper.</span></p>
+<p begin="125416667t" end="138333334t" region="bottom" xml:id="subtitle3"><span style="span">I don't like rap.</span></p>
+<p begin="139583334t" end="154166667t" region="bottom" xml:id="subtitle4"><span style="span">A NETFLIX ORIGINAL</span></p>
+<p begin="192916667t" end="224583334t" region="bottom" xml:id="subtitle5"><span style="span">We built Skyline Records</span><br/><span style="span">from the ground up and look at it now.</span></p>
+<p begin="230000000t" end="242083334t" region="bottom" xml:id="subtitle6"><span style="span">We need to be careful.</span></p>
+<p begin="246666667t" end="261666667t" region="bottom" xml:id="subtitle7"><span style="span">All of this could vanish.</span></p>
+<p begin="264583334t" end="274583334t" region="bottom" xml:id="subtitle8"><span style="span">You make great beats.</span></p>
+<p begin="279166667t" end="306250000t" region="bottom" xml:id="subtitle9"><span style="span">You need people who can help you</span><br/><span style="span">get to the next level.</span></p>
+<p begin="311250000t" end="339166667t" region="bottom" xml:id="subtitle10"><span style="span">Exclusive producer's contract?</span><br/><span style="span">What about Momo?</span></p>
+<p begin="340000000t" end="354583334t" region="bottom" xml:id="subtitle11"><span style="italic">What do you want from me?</span></p>
+<p begin="356666667t" end="377500000t" region="bottom" xml:id="subtitle12"><span style="italic">But this is about loyalty.</span></p>
+<p begin="386250000t" end="395833334t" region="bottom" xml:id="subtitle13"><span style="span">Oh, so loyalty.</span></p>
+<p begin="412500000t" end="444583334t" region="bottom" xml:id="subtitle14"><span style="span">You're nothing to them. Get it?</span><br/><span style="span">You're weak. You're just a little rat!</span></p>
+<p begin="445416667t" end="461250000t" region="bottom" xml:id="subtitle15"><span style="span">-Shut up!</span><br/><span style="span">-Aziz!</span></p>
+<p begin="462083334t" end="488333334t" region="bottom" xml:id="subtitle16"><span style="span">-What are you selling?</span><br/><span style="span">-I give people what they need.</span></p>
+<p begin="499166667t" end="527500000t" region="bottom" xml:id="subtitle17"><span style="span">Are you trying to negotiate with me?</span><br/><span style="span">What do I look like?</span></p>
+<p begin="534583334t" end="550833334t" region="bottom" xml:id="subtitle18"><span style="span">Skyline is a legal enterprise.</span></p>
+<p begin="563750000t" end="575000000t" region="bottom" xml:id="subtitle19"><span style="span">You can't give up now.</span></p>
+<p begin="590416667t" end="615833334t" region="bottom" xml:id="subtitle20"><span style="span">I married a lion, not a sheep.</span></p>
+<p begin="636666667t" end="656250000t" region="bottom" xml:id="subtitle21"><span style="span">I helped you make your dream come true.</span></p>
+<p begin="669166667t" end="682083334t" region="bottom" xml:id="subtitle22"><span style="span">Now you will help me...</span></p>
+<p begin="685000000t" end="695416667t" region="bottom" xml:id="subtitle23"><span style="span">with mine.</span></p>
+<p begin="708333334t" end="716666667t" region="bottom" xml:id="subtitle24"><span style="span">EVERYBODY</span></p>
+<p begin="717500000t" end="734166667t" region="bottom" xml:id="subtitle25"><span style="span">I want there to be less fear.</span></p>
+<p begin="737916667t" end="746250000t" region="bottom" xml:id="subtitle26"><span style="span">WANTS</span></p>
+<p begin="748333334t" end="758333334t" region="bottom" xml:id="subtitle27"><span style="span">Trust me.</span></p>
+<p begin="766250000t" end="774583334t" region="bottom" xml:id="subtitle28"><span style="span">TO GET</span></p>
+<p begin="775416667t" end="792916667t" region="bottom" xml:id="subtitle29"><span style="span">-Insider trading?</span><br/><span style="span">-Are you blackmailing me?</span></p>
+<p begin="793750000t" end="802083334t" region="bottom" xml:id="subtitle30"><span style="span">TO THE TOP</span></p>
+<p begin="865000000t" end="879166667t" region="bottom" xml:id="subtitle31"><span style="span">I'll screw you up!</span></p>
+<p begin="906666667t" end="920833334t" region="bottom" xml:id="subtitle32"><span style="span">Are you scared?</span></p>
+</div>
+</body>
+</tt>

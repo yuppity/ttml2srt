@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="90090000t" end="129299169t" region="bottomCenter" style="s1" xml:id="subtitle0"><span style="s1_1">People disappear all the time.</span></p>
+<p begin="130129999t" end="157657500t" region="bottomCenter" style="s1" xml:id="subtitle1"><span style="s1_1">Young girls run away from home.</span></p>
+<p begin="158488330t" end="199369170t" region="bottomCenter" style="s1" xml:id="subtitle2"><span style="s1_1">Children stray from their parents</span><br/><span style="s1_1">and are never seen again.</span></p>
+<p begin="200200000t" end="252752499t" region="bottomCenter" style="s1" xml:id="subtitle3"><span style="s1_1">Housewives take the grocery money</span><br/><span style="s1_1">and a taxi to the train station.</span></p>
+<p begin="253583329t" end="281110830t" region="bottomCenter" style="s1" xml:id="subtitle4"><span style="s1_1">Most are found, eventually.</span></p>
+<p begin="281951670t" end="331160830t" region="bottomCenter" style="s1" xml:id="subtitle5"><span style="s1_1">Disappearances, after all,</span><br/><span style="s1_1">have explanations.</span></p>
+<p begin="332001670t" end="347016670t" region="bottomCenter" style="s1" xml:id="subtitle6"><span style="s1_1">Usually.</span></p>
+<p begin="398728330t" end="424173749t" region="bottomCenter" style="s1" xml:id="subtitle7"><span style="s1_1">Strange, the things you remember.</span></p>
+<p begin="425004579t" end="460880419t" region="bottomCenter" style="s1" xml:id="subtitle8"><span style="s1_1">Single images and feelings</span><br/><span style="s1_1">that stay with you down through the years.</span></p>
+<p begin="477146669t" end="519689169t" region="bottomCenter" style="s1" xml:id="subtitle9"><span style="s1_1">Like the moment I'd realized,</span><br/><span style="s1_1">I'd never owned a vase.</span></p>
+<p begin="520519999t" end="544293750t" region="bottomCenter" style="s1" xml:id="subtitle10"><span style="s1_1">That I'd never lived</span><br/><span style="s1_1">in any place long enough</span></p>
+<p begin="545124580t" end="567236670t" region="bottomCenter" style="s1" xml:id="subtitle11"><span style="s1_1">to justify having such a simple thing.</span></p>
+<p begin="591841250t" end="613112500t" region="bottomCenter" style="s1" xml:id="subtitle12"><span style="s1_1">And how at that moment,</span></p>
+<p begin="613943330t" end="657326670t" region="bottomCenter" style="s1" xml:id="subtitle13"><span style="s1_1">I wanted nothing so much in all the world</span><br/><span style="s1_1">as to have a vase of my very own.</span></p>
+<p begin="697366670t" end="721550830t" region="bottomCenter" style="s1" xml:id="subtitle14"><span style="s1_1">It was a Tuesday afternoon,</span></p>
+<p begin="722391670t" end="742411670t" region="bottomCenter" style="s1" xml:id="subtitle15"><span style="s1_1">six months after the end of the war.</span></p>
+<p begin="826655830t" end="843342499t" region="bottomCenter" style="s1" xml:id="subtitle16">Oh, God!</p>
+<p begin="844173329t" end="854183329t" region="bottomCenter" style="s1" xml:id="subtitle17">Hold him.</p>
+<p begin="855024169t" end="867947079t" region="bottomCenter" style="s1" xml:id="subtitle18">Hold him right now! You hear me?</p>
+<p begin="868787919t" end="880049169t" region="bottomCenter" style="s1" xml:id="subtitle19">Jesus Christ!</p>
+<p begin="898397499t" end="910079169t" region="bottomCenter" style="s1" xml:id="subtitle20">You're going home, right?</p>
+<p begin="921340419t" end="931350419t" region="bottomCenter" style="s1" xml:id="subtitle21">Here, quickly!</p>
+<p begin="962631669t" end="977226249t" region="bottomCenter" style="s1" xml:id="subtitle22">Doctor, doctor!</p>
+<p begin="979308329t" end="990159169t" region="bottomCenter" style="s1" xml:id="subtitle23">Oh, God!</p>
+<p begin="990989999t" end="1016845829t" region="bottomCenter" style="s1" xml:id="subtitle24">I'll have to clamp the femoral artery<br/>before he bleeds out!</p>
+<p begin="1017686669t" end="1041039999t" region="bottomCenter" style="s1" xml:id="subtitle25">It's all right, Jackie boy. You're going<br/>home, mate. You're going home.</p>
+<p begin="1041870829t" end="1056475419t" region="bottomCenter" style="s1" xml:id="subtitle26">Oh, my God!</p>
+<p begin="1114443330t" end="1125294170t" region="bottomCenter" style="s1" xml:id="subtitle27">Jesus!</p>
+<p begin="1126125000t" end="1138217080t" region="bottomCenter" style="s1" xml:id="subtitle28">Move.</p>
+<p begin="1187436250t" end="1199528330t" region="bottomCenter" style="s1" xml:id="subtitle29">We've got him now, nurse.</p>
+<p begin="1239988750t" end="1252501250t" region="bottomCenter" style="s1" xml:id="subtitle30">Scalpel!</p>
+<p begin="1462290830t" end="1488156670t" region="bottomCenter" style="s1" xml:id="subtitle31">Claire! Did you hear? It's over!</p>
+<p begin="1488987500t" end="1509427920t" region="bottomCenter" style="s1" xml:id="subtitle32">It's really, finally over!</p>
+<p begin="1531530000t" end="1541540000t" region="bottomCenter" style="s1" xml:id="subtitle33">Hi!</p>
+<p begin="1856854999t" end="1896064169t" region="bottomCenter" style="s1" xml:id="subtitle34"><span style="s1_1">Somehow, in my mind, V-E Day,</span></p>
+<p begin="1896894999t" end="1941519579t" region="bottomCenter" style="s1" xml:id="subtitle35"><span style="s1_1">the end of the bloodiest</span><br/><span style="s1_1">and most terrible war in human history,</span></p>
+<p begin="1942360419t" end="1964882919t" region="bottomCenter" style="s1" xml:id="subtitle36"><span style="s1_1">grows fainter with each passing day.</span></p>
+<p begin="1985313329t" end="2013681669t" region="bottomCenter" style="s1" xml:id="subtitle37"><span style="s1_1">But I can still recall every detail</span><br/><span style="s1_1">of the day,</span></p>
+<p begin="2014512499t" end="2056224169t" region="bottomCenter" style="s1" xml:id="subtitle38"><span style="s1_1">when I saw the life I wanted</span><br/><span style="s1_1">sitting in a window.</span></p>
+<p begin="2057054999t" end="2074152079t" region="bottomCenter" style="s1" xml:id="subtitle39"><span style="s1_1">I sometimes wonder</span><br/><span style="s1_1">what would have happened</span></p>
+<p begin="2074992919t" end="2111279169t" region="bottomCenter" style="s1" xml:id="subtitle40"><span style="s1_1">if I'd bought that vase</span><br/><span style="s1_1">and made a home for it.</span></p>
+<p begin="2112109999t" end="2132550419t" region="bottomCenter" style="s1" xml:id="subtitle41"><span style="s1_1">Would that have changed things?</span></p>
+<p begin="2142970829t" end="2161739580t" region="bottomCenter" style="s1" xml:id="subtitle42"><span style="s1_1">Would I have been happy?</span></p>
+<p begin="2162580420t" end="2180928750t" region="bottomCenter" style="s1" xml:id="subtitle43"><span style="s1_1">Who can say?</span></p>
+<p begin="2181759580t" end="2198025830t" region="bottomCenter" style="s1" xml:id="subtitle44"><span style="s1_1">I do know this.</span></p>
+<p begin="2198866670t" end="2227225000t" region="bottomCenter" style="s1" xml:id="subtitle45"><span style="s1_1">Even now, after all the pain and death</span></p>
+<p begin="2228055830t" end="2247665420t" region="bottomCenter" style="s1" xml:id="subtitle46"><span style="s1_1">and heartbreak that followed,</span></p>
+<p begin="2248496250t" end="2271439170t" region="bottomCenter" style="s1" xml:id="subtitle47"><span style="s1_1">I still would make the same choice.</span></p>
+<p begin="3308725420t" end="3347514170t" region="bottomCenter" style="s1" xml:id="subtitle48"><span style="s1_1">We were in Scotland</span><br/><span style="s1_1">on our second honeymoon.</span></p>
+<p begin="3348345000t" end="3372118749t" region="bottomCenter" style="s1" xml:id="subtitle49"><span style="s1_1">Or at least that's what Frank called it.</span></p>
+<p begin="3372949579t" end="3415081669t" region="bottomCenter" style="s1" xml:id="subtitle50"><span style="s1_1">A way to celebrate the end</span><br/><span style="s1_1">of the war years and begin our lives anew.</span></p>
+<p begin="3445522079t" end="3470967499t" region="bottomCenter" style="s1" xml:id="subtitle51"><span style="s1_1">But it was more than that.</span></p>
+<p begin="3471798329t" end="3504751249t" region="bottomCenter" style="s1" xml:id="subtitle52"><span style="s1_1">I think we both felt a holiday</span><br/><span style="s1_1">would be a convenient masquerade</span></p>
+<p begin="3505582079t" end="3540206669t" region="bottomCenter" style="s1" xml:id="subtitle53"><span style="s1_1">for the real business of getting to know</span><br/><span style="s1_1">the people we'd become</span></p>
+<p begin="3541037499t" end="3559806249t" region="bottomCenter" style="s1" xml:id="subtitle54"><span style="s1_1">after five years apart.</span></p>
+<p begin="3614440829t" end="3631958329t" region="bottomCenter" style="s1" xml:id="subtitle55">-What do you suppose that is?<br/>-Huh?</p>
+<p begin="3638214579t" end="3657824169t" region="bottomCenter" style="s1" xml:id="subtitle56">Oh, good Lord. Blood.</p>
+<p begin="3659075419t" end="3673669999t" region="bottomCenter" style="s1" xml:id="subtitle57">Are you sure?</p>
+<p begin="3683679999t" end="3707453749t" region="bottomCenter" style="s1" xml:id="subtitle58">I think I should know<br/>the look of blood by now.</p>
+<p begin="3708704999t" end="3734560829t" region="bottomCenter" style="s1" xml:id="subtitle59">There's a stain just like it<br/>on the house next door.</p>
+<p begin="3751247499t" end="3771687919t" region="bottomCenter" style="s1" xml:id="subtitle60">There's two more over there.</p>
+<p begin="3815892079t" end="3851767919t" region="bottomCenter" style="s1" xml:id="subtitle61">We seem to be surrounded<br/>by homes marked with blood.</p>
+<p begin="3852598749t" end="3871367499t" region="bottomCenter" style="s1" xml:id="subtitle62">Perhaps Pharaoh has refused Moses,</p>
+<p begin="3872198329t" end="3905571669t" region="bottomCenter" style="s1" xml:id="subtitle63">and the spirit of death will travel<br/>the streets of Inverness tonight,</p>
+<p begin="3906402499t" end="3931847919t" region="bottomCenter" style="s1" xml:id="subtitle64">sparing only those who mark<br/>their doors with lamb's blood.</p>
+<p begin="3932678749t" end="3954780829t" region="bottomCenter" style="s1" xml:id="subtitle65">You may be closer than you think.</p>
+<p begin="3955621669t" end="3974800829t" region="bottomCenter" style="s1" xml:id="subtitle66">Could well be<br/>some sort of sacrificial ritual,</p>
+<p begin="3975641669t" end="4000666669t" region="bottomCenter" style="s1" xml:id="subtitle67">but I suspect pagan<br/>rather than Hebrew.</p>
+<p begin="4009004999t" end="4040706669t" region="bottomCenter" style="s1" xml:id="subtitle68">I had no idea Inverness was such<br/>a hotbed of contemporary paganism.</p>
+<p begin="4041537499t" end="4057383329t" region="bottomCenter" style="s1" xml:id="subtitle69">Well, my dear, there's no place on earth</p>
+<p begin="4058224169t" end="4081577499t" region="bottomCenter" style="s1" xml:id="subtitle70">with more magic and superstition<br/>mixed into its daily life</p>
+<p begin="4082408329t" end="4092418329t" region="bottomCenter" style="s1" xml:id="subtitle71">than the Scottish Highlands.</p>
+<p begin="4110776669t" end="4126622499t" region="bottomCenter" style="s1" xml:id="subtitle72">Shall we?</p>
+<p begin="4127453329t" end="4141217079t" region="bottomCenter" style="s1" xml:id="subtitle73">Lead on.</p>
+<p begin="4254249999t" end="4281357079t" region="bottomCenter" style="s1" xml:id="subtitle74">The blood you saw<br/>is that of a black cockerel.</p>
+<p begin="4284279999t" end="4304720420t" region="bottomCenter" style="s1" xml:id="subtitle75">It's an old custom at this time of year</p>
+<p begin="4305551250t" end="4339755420t" region="bottomCenter" style="s1" xml:id="subtitle76">to make such a sacrifice<br/>to honor Saint Odhran.</p>
+<p begin="4340586250t" end="4374790420t" region="bottomCenter" style="s1" xml:id="subtitle77">Odhran,<br/>he was sainted in the eighth century?</p>
+<p begin="4382708330t" end="4396061670t" region="bottomCenter" style="s1" xml:id="subtitle78">You know yer history.</p>
+<p begin="4396892500t" end="4423168750t" region="bottomCenter" style="s1" xml:id="subtitle79">I'm afraid my husband is a historian,<br/>Mrs. Baird.</p>
+<p begin="4424420000t" end="4447362920t" region="bottomCenter" style="s1" xml:id="subtitle80">He'd quite happily stand here<br/>holding forth for hours</p>
+<p begin="4448193750t" end="4459875420t" region="bottomCenter" style="s1" xml:id="subtitle81">if you encourage him.</p>
+<p begin="4460706250t" end="4476552080t" region="bottomCenter" style="s1" xml:id="subtitle82">Hardly.</p>
+<p begin="4477392920t" end="4502828330t" region="bottomCenter" style="s1" xml:id="subtitle83">Highland folklore<br/>is far from my specialty,</p>
+<p begin="4503669170t" end="4523689170t" region="bottomCenter" style="s1" xml:id="subtitle84">but am I right in thinking there's an...</p>
+<p begin="4524940420t" end="4549965420t" region="bottomCenter" style="s1" xml:id="subtitle85">Is there an old saying<br/>associated with Saint Odhran?</p>
+<p begin="4587913330t" end="4617532920t" region="bottomCenter" style="s1" xml:id="subtitle86">Yes. "The Earth went over Odhran's eyes."</p>
+<p begin="4632547920t" end="4662577920t" region="bottomCenter" style="s1" xml:id="subtitle87">He was buried alive voluntarily.</p>
+<p begin="4663408750t" end="4673839170t" region="bottomCenter" style="s1" xml:id="subtitle88">Charming.</p>
+<p begin="4680926250t" end="4699274580t" region="bottomCenter" style="s1" xml:id="subtitle89">Are ye a professor then, Mr. Randall?</p>
+<p begin="4700115420t" end="4716381670t" region="bottomCenter" style="s1" xml:id="subtitle90">I will be soon.</p>
+<p begin="4717212500t" end="4746822080t" region="bottomCenter" style="s1" xml:id="subtitle91">He's accepted a post at Oxford<br/>beginning in two weeks.</p>
+<p begin="4747662920t" end="4764339580t" region="bottomCenter" style="s1" xml:id="subtitle92">Then this is a last holiday</p>
+<p begin="4765180420t" end="4795210420t" region="bottomCenter" style="s1" xml:id="subtitle93">before settling down<br/>to a workaday life again, is it?</p>
+<p begin="4796041250t" end="4831496670t" region="bottomCenter" style="s1" xml:id="subtitle94">Well, you've picked a bonnie time<br/>to be here, just nigh on Samhain.</p>
+<p begin="4832327500t" end="4855270420t" region="bottomCenter" style="s1" xml:id="subtitle95">I take it that's Gaelic for Halloween?</p>
+<p begin="4856101250t" end="4879454580t" region="bottomCenter" style="s1" xml:id="subtitle96">Well, Halloween is derived from Samhain.</p>
+<p begin="4893218330t" end="4934509580t" region="bottomCenter" style="s1" xml:id="subtitle97">The Church often took pagan holidays<br/>and renamed them for their own purposes.</p>
+<p begin="4935350420t" end="4958283330t" region="bottomCenter" style="s1" xml:id="subtitle98">Samhain became Halloween,</p>
+<p begin="4959124170t" end="4982477500t" region="bottomCenter" style="s1" xml:id="subtitle99">Yule became Christmas, and so on...</p>
+<p begin="4983308330t" end="5010425420t" region="bottomCenter" style="s1" xml:id="subtitle100">Well, you're both welcome at the festival,<br/>of course.</p>
+<p begin="5011256250t" end="5045460420t" region="bottomCenter" style="s1" xml:id="subtitle101">Mind you,<br/>ghosts are freed on the feast days,</p>
+<p begin="5046291250t" end="5060055000t" region="bottomCenter" style="s1" xml:id="subtitle102">and they'll be wandering about,</p>
+<p begin="5061726670t" end="5083828750t" region="bottomCenter" style="s1" xml:id="subtitle103">free to do good or ill as they please.</p>
+<p begin="5085080000t" end="5110105000t" region="bottomCenter" style="s1" xml:id="subtitle104">Of course. What would Halloween...</p>
+<p begin="5111356250t" end="5134709580t" region="bottomCenter" style="s1" xml:id="subtitle105">Samhain be without a good ghost story?</p>
+<p begin="5135550420t" end="5157652500t" region="bottomCenter" style="s1" xml:id="subtitle106">And we have those for sure.</p>
+<p begin="5158483330t" end="5172667500t" region="bottomCenter" style="s1" xml:id="subtitle107">I'll show you to your room.</p>
+<p begin="5241906670t" end="5274018750t" region="bottomCenter" style="s1" xml:id="subtitle108"><span style="s1_1">Before the war, we were inseparable.</span></p>
+<p begin="5274849580t" end="5321566250t" region="bottomCenter" style="s1" xml:id="subtitle109"><span style="s1_1">But for the next five years, we saw</span><br/><span style="s1_1">each other a grand total of 10 days.</span></p>
+<p begin="5322397080t" end="5340755420t" region="bottomCenter" style="s1" xml:id="subtitle110">It's not without its charms.</p>
+<p begin="5352847500t" end="5377041670t" region="bottomCenter" style="s1" xml:id="subtitle111">Beats an army tent and a cot in the mud.</p>
+<p begin="5377872500t" end="5389133750t" region="bottomCenter" style="s1" xml:id="subtitle112">Indeed.</p>
+<p begin="5457121670t" end="5471295830t" region="bottomCenter" style="s1" xml:id="subtitle113"><span style="s1_1">When the war ended,</span></p>
+<p begin="5472136670t" end="5507582080t" region="bottomCenter" style="s1" xml:id="subtitle114"><span style="s1_1">we both thought things would</span><br/><span style="s1_1">return to the way they once were,</span></p>
+<p begin="5508833330t" end="5524268750t" region="bottomCenter" style="s1" xml:id="subtitle115"><span style="s1_1">but they hadn't.</span></p>
+<p begin="5573487920t" end="5584749170t" region="bottomCenter" style="s1" xml:id="subtitle116">Gosh!</p>
+<p begin="5596841250t" end="5615610000t" region="bottomCenter" style="s1" xml:id="subtitle117">So much for marital privacy.</p>
+<p begin="5616440830t" end="5632296670t" region="bottomCenter" style="s1" xml:id="subtitle118">Do you think the sound carries?</p>
+<p begin="5638132500t" end="5653147500t" region="bottomCenter" style="s1" xml:id="subtitle119">Well, I think it's fair to say</p>
+<p begin="5653978330t" end="5691515830t" region="bottomCenter" style="s1" xml:id="subtitle120">Mrs. Baird will be kept apprised<br/>of any renewed attempt to start a family.</p>
+<p begin="5779103330t" end="5796210420t" region="bottomCenter" style="s1" xml:id="subtitle121">Lazybones.</p>
+<p begin="5808722920t" end="5828322500t" region="bottomCenter" style="s1" xml:id="subtitle122">You'll never manage<br/>the next branch on your family tree</p>
+<p begin="5829153330t" end="5845009170t" region="bottomCenter" style="s1" xml:id="subtitle123">if you don't show more industry than that.</p>
+<p begin="5845840000t" end="5859603750t" region="bottomCenter" style="s1" xml:id="subtitle124">Really?</p>
+<p begin="5900895000t" end="5914658750t" region="bottomCenter" style="s1" xml:id="subtitle125">What are you doing?</p>
+<p begin="5917992080t" end="5943857920t" region="bottomCenter" style="s1" xml:id="subtitle126">-Come on.<br/>-Mrs. Randall,</p>
+<p begin="5944688750t" end="5960955000t" region="bottomCenter" style="s1" xml:id="subtitle127">what am I to do with you?</p>
+<p begin="5979303330t" end="5990564580t" region="bottomCenter" style="s1" xml:id="subtitle128">Right.</p>
+<p begin="6017681670t" end="6039363330t" region="bottomCenter" style="s1" xml:id="subtitle129">What are you doing?<br/>You're gonna break the bed.</p>
+<p begin="6181175000t" end="6200774580t" region="bottomCenter" style="s1" xml:id="subtitle130">You know, one of those things</p>
+<p begin="6201615420t" end="6235809580t" region="bottomCenter" style="s1" xml:id="subtitle131">I used to try<br/>and remember lying in my cot,</p>
+<p begin="6236650420t" end="6260424170t" region="bottomCenter" style="s1" xml:id="subtitle132">was the sound of my husband's laugh.</p>
+<p begin="6271685420t" end="6297961670t" region="bottomCenter" style="s1" xml:id="subtitle133">I couldn't conjure it<br/>no matter what I did.</p>
+<p begin="6302966670t" end="6348842500t" region="bottomCenter" style="s1" xml:id="subtitle134">I couldn't hear it even though<br/>I'd heard it a million times before.</p>
+<p begin="6384297920t" end="6411405000t" region="bottomCenter" style="s1" xml:id="subtitle135">-It's the strangest thing.<br/>-I know.</p>
+<p begin="6443517080t" end="6458532080t" region="bottomCenter" style="s1" xml:id="subtitle136">I used to...</p>
+<p begin="6481475000t" end="6496069580t" region="bottomCenter" style="s1" xml:id="subtitle137">I used to sketch this.</p>
+<p begin="6496910420t" end="6518181670t" region="bottomCenter" style="s1" xml:id="subtitle138">-My hand?<br/>-Well...</p>
+<p begin="6519432920t" end="6535278750t" region="bottomCenter" style="s1" xml:id="subtitle139">The lines, really.</p>
+<p begin="6548211670t" end="6562385830t" region="bottomCenter" style="s1" xml:id="subtitle140">Why exactly, I'm not sure,</p>
+<p begin="6563226670t" end="6597420830t" region="bottomCenter" style="s1" xml:id="subtitle141">but I had a very clear memory<br/>of this... This pattern.</p>
+<p begin="6603266670t" end="6622866250t" region="bottomCenter" style="s1" xml:id="subtitle142">Made little doodles everywhere.</p>
+<p begin="6641635000t" end="6660824170t" region="bottomCenter" style="s1" xml:id="subtitle143">There was...</p>
+<p begin="6661655000t" end="6674998330t" region="bottomCenter" style="s1" xml:id="subtitle144">A brigadier once dressed me down</p>
+<p begin="6675839170t" end="6706279580t" region="bottomCenter" style="s1" xml:id="subtitle145">because I drew it in the margin<br/>of a report for the minister.</p>
+<p begin="6722545830t" end="6734647919t" region="bottomCenter" style="s1" xml:id="subtitle146">Yeah.</p>
+<p begin="6888551669t" end="6900643749t" region="bottomCenter" style="s1" xml:id="subtitle147">Claire...</p>
+<p begin="7376539169t" end="7388631249t" region="bottomCenter" style="s1" xml:id="subtitle148">Happy?</p>
+<p begin="7389462079t" end="7402815419t" region="bottomCenter" style="s1" xml:id="subtitle149">Yes.</p>
+<p begin="7433255829t" end="7446609169t" region="bottomCenter" style="s1" xml:id="subtitle150"><span style="s1_1">Frank's passion for history</span></p>
+<p begin="7447439999t" end="7474967499t" region="bottomCenter" style="s1" xml:id="subtitle151"><span style="s1_1">was another reason</span><br/><span style="s1_1">for choosing the Highlands.</span></p>
+<p begin="7475798329t" end="7492484999t" region="bottomCenter" style="s1" xml:id="subtitle152">You see up there?</p>
+<p begin="7493315829t" end="7515007499t" region="bottomCenter" style="s1" xml:id="subtitle153">The top there, that's Cocknammon Rock.</p>
+<p begin="7515838329t" end="7533776249t" region="bottomCenter" style="s1" xml:id="subtitle154">And in the 17th and 18th centuries,</p>
+<p begin="7534607079t" end="7560052499t" region="bottomCenter" style="s1" xml:id="subtitle155">you'd have often found<br/>a British Army patrol up there</p>
+<p begin="7560883329t" end="7589662079t" region="bottomCenter" style="s1" xml:id="subtitle156">lying in wait for Scottish rebels<br/>and brigands.</p>
+<p begin="7596759169t" end="7628040419t" region="bottomCenter" style="s1" xml:id="subtitle157">Can you see how it commands<br/>the high ground in every direction?</p>
+<p begin="7628871249t" end="7660152499t" region="bottomCenter" style="s1" xml:id="subtitle158">It was a perfect position for an ambush.</p>
+<p begin="7660983329t" end="7680172499t" region="bottomCenter" style="s1" xml:id="subtitle159"><span style="s1_1">Not that I minded.</span></p>
+<p begin="7681003329t" end="7712284579t" region="bottomCenter" style="s1" xml:id="subtitle160"><span style="s1_1">I was raised by my uncle</span><br/><span style="s1_1">after the death of my parents.</span></p>
+<p begin="7774847079t" end="7798620829t" region="bottomCenter" style="s1" xml:id="subtitle161"><span style="s1_1">Uncle Lamb was an archeologist,</span></p>
+<p begin="7799461669t" end="7825737919t" region="bottomCenter" style="s1" xml:id="subtitle162"><span style="s1_1">so, I'd spent the balance</span><br/><span style="s1_1">of my formative years</span></p>
+<p begin="7826568749t" end="7842834999t" region="bottomCenter" style="s1" xml:id="subtitle163"><span style="s1_1">traipsing through dusty ruins</span></p>
+<p begin="7843665829t" end="7871613749t" region="bottomCenter" style="s1" xml:id="subtitle164"><span style="s1_1">and various excavations</span><br/><span style="s1_1">throughout the world.</span></p>
+<p begin="7872444579t" end="7901223329t" region="bottomCenter" style="s1" xml:id="subtitle165"><span style="s1_1">I'd learned to dig latrines</span><br/><span style="s1_1">and boil water,</span></p>
+<p begin="7902064169t" end="7917079169t" region="bottomCenter" style="s1" xml:id="subtitle166"><span style="s1_1">and to do a number of other things</span></p>
+<p begin="7917909999t" end="7940852919t" region="bottomCenter" style="s1" xml:id="subtitle167"><span style="s1_1">not suitable</span><br/><span style="s1_1">for a young lady of gentle birth.</span></p>
+<p begin="7941683749t" end="7961283329t" region="bottomCenter" style="s1" xml:id="subtitle168">-Uncle?<br/>-Yes.</p>
+<p begin="7970042079t" end="7985477499t" region="bottomCenter" style="s1" xml:id="subtitle169">The very thought.</p>
+<p begin="8181503329t" end="8211953749t" region="bottomCenter" style="s1" xml:id="subtitle170"><span style="s1_1">Frank's new-found passion was genealogy.</span></p>
+<p begin="8212784579t" end="8234055829t" region="bottomCenter" style="s1" xml:id="subtitle171"><span style="s1_1">His personal genealogy, that is.</span></p>
+<p begin="8244486249t" end="8260332079t" region="bottomCenter" style="s1" xml:id="subtitle172"><span style="s1_1">Mine was botany.</span></p>
+<p begin="8261172919t" end="8277018749t" region="bottomCenter" style="s1" xml:id="subtitle173"><span style="s1_1">I'd developed a keen interest</span></p>
+<p begin="8277849579t" end="8309551249t" region="bottomCenter" style="s1" xml:id="subtitle174"><span style="s1_1">in the use of plants and herbs</span><br/><span style="s1_1">for medicinal purposes.</span></p>
+<p begin="8342504169t" end="8356267919t" region="bottomCenter" style="s1" xml:id="subtitle175">So, from what I can gather,</p>
+<p begin="8357098749t" end="8381292919t" region="bottomCenter" style="s1" xml:id="subtitle176">Castle Leoch was the ancestral home</p>
+<p begin="8382123749t" end="8402974579t" region="bottomCenter" style="s1" xml:id="subtitle177">of the Laird of the MacKenzie clan</p>
+<p begin="8403815419t" end="8422163749t" region="bottomCenter" style="s1" xml:id="subtitle178">until midway through the 19th century.</p>
+<p begin="8433845419t" end="8447609169t" region="bottomCenter" style="s1" xml:id="subtitle179">Here, take a look.</p>
+<p begin="8615687080t" end="8644886250t" region="bottomCenter" style="s1" xml:id="subtitle180"><span style="s1_1">In a way,</span><br/><span style="s1_1">burying himself in the distant past</span></p>
+<p begin="8645717080t" end="8671162500t" region="bottomCenter" style="s1" xml:id="subtitle181"><span style="s1_1">gave Frank an ability</span><br/><span style="s1_1">to escape the recent.</span></p>
+<p begin="8683675000t" end="8714956250t" region="bottomCenter" style="s1" xml:id="subtitle182"><span style="s1_1">While I was in the army,</span><br/><span style="s1_1">Frank had served in London.</span></p>
+<p begin="8715787080t" end="8741652920t" region="bottomCenter" style="s1" xml:id="subtitle183"><span style="s1_1">Intelligence, overseeing spies</span></p>
+<p begin="8742483750t" end="8764585830t" region="bottomCenter" style="s1" xml:id="subtitle184"><span style="s1_1">and running covert operations.</span></p>
+<p begin="8765426670t" end="8787108330t" region="bottomCenter" style="s1" xml:id="subtitle185">So, I think this might<br/>have been the kitchen.</p>
+<p begin="8787949170t" end="8806297500t" region="bottomCenter" style="s1" xml:id="subtitle186">Really?</p>
+<p begin="8807128330t" end="8827989170t" region="bottomCenter" style="s1" xml:id="subtitle187">I would say that's probably a hearth.</p>
+<p begin="8875116250t" end="8887208330t" region="bottomCenter" style="s1" xml:id="subtitle188">Yeah.</p>
+<p begin="8920161250t" end="8938099170t" region="bottomCenter" style="s1" xml:id="subtitle189">Strange.</p>
+<p begin="8938930000t" end="8972293330t" region="bottomCenter" style="s1" xml:id="subtitle190">I have no evidence<br/>that my ancestor visited this castle,</p>
+<p begin="8973134170t" end="8998159170t" region="bottomCenter" style="s1" xml:id="subtitle191">but it was within his operational sphere.</p>
+<p begin="8998990000t" end="9049870830t" region="bottomCenter" style="s1" xml:id="subtitle192">So, it is just possible<br/>that he walked these very halls.</p>
+<p begin="9086577500t" end="9126197080t" region="bottomCenter" style="s1" xml:id="subtitle193"><span style="s1_1">He'd sent dozens of men</span><br/><span style="s1_1">behind the lines on secret missions,</span></p>
+<p begin="9127037920t" end="9147468330t" region="bottomCenter" style="s1" xml:id="subtitle194"><span style="s1_1">and most never came back.</span></p>
+<p begin="9162072920t" end="9189600420t" region="bottomCenter" style="s1" xml:id="subtitle195"><span style="s1_1">He didn't talk about it very often,</span></p>
+<p begin="9190431250t" end="9210871670t" region="bottomCenter" style="s1" xml:id="subtitle196"><span style="s1_1">but I knew it preyed on him.</span></p>
+<p begin="9559550000t" end="9571231670t" region="bottomCenter" style="s1" xml:id="subtitle197">It won't open.</p>
+<p begin="9581241670t" end="9593333750t" region="bottomCenter" style="s1" xml:id="subtitle198">Come on.</p>
+<p begin="9604174580t" end="9629199580t" region="bottomCenter" style="s1" xml:id="subtitle199">Three, two, one...</p>
+<p begin="9973293330t" end="9992482500t" region="bottomCenter" style="s1" xml:id="subtitle200">What do you think this was used for?</p>
+<p begin="9997067080t" end="10021681670t" region="bottomCenter" style="s1" xml:id="subtitle201">From the lack of proper lighting<br/>and ventilation,</p>
+<p begin="10022512500t" end="10067137080t" region="bottomCenter" style="s1" xml:id="subtitle202">I would say province of the castle hermit.</p>
+<p begin="10075065000t" end="10093833750t" region="bottomCenter" style="s1" xml:id="subtitle203">Or perhaps a troll or two.</p>
+<p begin="10122612500t" end="10137207080t" region="bottomCenter" style="s1" xml:id="subtitle204">I don't think trolls live in pairs.</p>
+<p begin="10155145000t" end="10176836670t" region="bottomCenter" style="s1" xml:id="subtitle205">Solitary creatures, they.</p>
+<p begin="10198107920t" end="10210620420t" region="bottomCenter" style="s1" xml:id="subtitle206">It's a pity.</p>
+<p begin="10227297080t" end="10248988750t" region="bottomCenter" style="s1" xml:id="subtitle207">All this,</p>
+<p begin="10249819580t" end="10268588330t" region="bottomCenter" style="s1" xml:id="subtitle208">and no one to share it with.</p>
+<p begin="10320730420t" end="10332402080t" region="bottomCenter" style="s1" xml:id="subtitle209">You'll get dirty.</p>
+<p begin="10347417080t" end="10365355000t" region="bottomCenter" style="s1" xml:id="subtitle210">You can give me a bath.</p>
+<p begin="10553873330t" end="10578067500t" region="bottomCenter" style="s1" xml:id="subtitle211">Why, Mrs. Randall,</p>
+<p begin="10578898330t" end="10604343750t" region="bottomCenter" style="s1" xml:id="subtitle212">I do believe you've left<br/>your undergarments at home.</p>
+<p begin="10985975000t" end="11008077080t" region="bottomCenter" style="s1" xml:id="subtitle213">Yes! Yes, yes, yes.</p>
+<p begin="11008917920t" end="11026015000t" region="bottomCenter" style="s1" xml:id="subtitle214">-I found him.<br/>-Indeed.</p>
+<p begin="11026845830t" end="11042281250t" region="bottomCenter" style="s1" xml:id="subtitle215">Let us have a look.</p>
+<p begin="11043112080t" end="11068557500t" region="bottomCenter" style="s1" xml:id="subtitle216">Him? Is it Walter?</p>
+<p begin="11069388330t" end="11102761670t" region="bottomCenter" style="s1" xml:id="subtitle217">No, darling, Jonathan.<br/>Jonathan Wolverton Randall. Finally.</p>
+<p begin="11106095000t" end="11143632500t" region="bottomCenter" style="s1" xml:id="subtitle218">Captain of dragoons in the British army,</p>
+<p begin="11144463330t" end="11159478330t" region="bottomCenter" style="s1" xml:id="subtitle219">and your direct ancestor.</p>
+<p begin="11160319170t" end="11171990830t" region="bottomCenter" style="s1" xml:id="subtitle220">Exactly.</p>
+<p begin="11172831670t" end="11189097920t" region="bottomCenter" style="s1" xml:id="subtitle221">Otherwise known as "Black Jack."</p>
+<p begin="11189928750t" end="11208277080t" region="bottomCenter" style="s1" xml:id="subtitle222">A rather dashing nickname</p>
+<p begin="11209117920t" end="11234973750t" region="bottomCenter" style="s1" xml:id="subtitle223">that he probably acquired<br/>while he was stationed here in the 1740s.</p>
+<p begin="11235804580t" end="11259167920t" region="bottomCenter" style="s1" xml:id="subtitle224">The Reverend has found<br/>a series of army dispatches</p>
+<p begin="11259998750t" end="11283352080t" region="bottomCenter" style="s1" xml:id="subtitle225">-that mention the Captain by name.<br/>-How exciting.</p>
+<p begin="11284192920t" end="11296705420t" region="bottomCenter" style="s1" xml:id="subtitle226">It is.</p>
+<p begin="11297536250t" end="11322561250t" region="bottomCenter" style="s1" xml:id="subtitle227">Good to see all your sleuthing<br/>over the past week has paid off.</p>
+<p begin="11334653330t" end="11350088750t" region="bottomCenter" style="s1" xml:id="subtitle228">Yes, I was beginning to wonder.</p>
+<p begin="11350919580t" end="11368857500t" region="bottomCenter" style="s1" xml:id="subtitle229">It appears Black Jack<br/>commanded the garrison</p>
+<p begin="11369688330t" end="11394713330t" region="bottomCenter" style="s1" xml:id="subtitle230">at Fort William for four years or so.</p>
+<p begin="11398467080t" end="11412230830t" region="bottomCenter" style="s1" xml:id="subtitle231">Seems to have spent quite a bit<br/>of his time</p>
+<p begin="11413071670t" end="11426835420t" region="bottomCenter" style="s1" xml:id="subtitle232">harassing the Scottish countryside</p>
+<p begin="11427666250t" end="11441009580t" region="bottomCenter" style="s1" xml:id="subtitle233">on behalf of the Crown.</p>
+<p begin="11441850420t" end="11468537080t" region="bottomCenter" style="s1" xml:id="subtitle234">Well, he was hardly alone<br/>in that endeavor.</p>
+<p begin="11469377920t" end="11480639170t" region="bottomCenter" style="s1" xml:id="subtitle235">The English were deeply unpopular</p>
+<p begin="11481470000t" end="11499407920t" region="bottomCenter" style="s1" xml:id="subtitle236">throughout the Highlands<br/>in the 18th century.</p>
+<p begin="11500659170t" end="11521510000t" region="bottomCenter" style="s1" xml:id="subtitle237">And well into the 20th, it would seem.</p>
+<p begin="11522340830t" end="11547365830t" region="bottomCenter" style="s1" xml:id="subtitle238">I distinctly heard the barman<br/>at that pub last night</p>
+<p begin="11548206670t" end="11573231670t" region="bottomCenter" style="s1" xml:id="subtitle239">refer to us as "Sassenachs."</p>
+<p begin="11580739170t" end="11599087500t" region="bottomCenter" style="s1" xml:id="subtitle240">I hope you didn't take offense.</p>
+<p begin="11599918330t" end="11625363750t" region="bottomCenter" style="s1" xml:id="subtitle241">It only means "Englishman," after all,</p>
+<p begin="11626194580t" end="11654142500t" region="bottomCenter" style="s1" xml:id="subtitle242">or at worst, "Outlander."</p>
+<p begin="11663321670t" end="11687926250t" region="bottomCenter" style="s1" xml:id="subtitle243">I've brought you a wee bit of refreshment,<br/>gentlemen.</p>
+<p begin="11688757080t" end="11707525830t" region="bottomCenter" style="s1" xml:id="subtitle244">I've brought but the two cups,</p>
+<p begin="11708366670t" end="11740899170t" region="bottomCenter" style="s1" xml:id="subtitle245">for I thought perhaps Mrs. Randall<br/>might care to join me in the kitchen...</p>
+<p begin="11741730000t" end="11776765000t" region="bottomCenter" style="s1" xml:id="subtitle246">Yes. Yes, absolutely. Thank you.</p>
+<p begin="11805123330t" end="11820138330t" region="bottomCenter" style="s1" xml:id="subtitle247">See you later.</p>
+<p begin="11866024170t" end="11881870000t" region="bottomCenter" style="s1" xml:id="subtitle248">This person here...</p>
+<p begin="11900638750t" end="11928166250t" region="bottomCenter" style="s1" xml:id="subtitle249">It's been so long<br/>since I've had a good cup of oolong.</p>
+<p begin="11928997080t" end="11961529580t" region="bottomCenter" style="s1" xml:id="subtitle250">Aye, I couldn't get it during the war.</p>
+<p begin="11982390420t" end="12001990000t" region="bottomCenter" style="s1" xml:id="subtitle251">It's the best for the readings, though.</p>
+<p begin="12004072080t" end="12029097080t" region="bottomCenter" style="s1" xml:id="subtitle252">I had a terrible time with that Earl Grey.</p>
+<p begin="12029937920t" end="12068726670t" region="bottomCenter" style="s1" xml:id="subtitle253">The leaves fall apart so fast,<br/>it's hard to tell anything at all.</p>
+<p begin="12107095000t" end="12126694580t" region="bottomCenter" style="s1" xml:id="subtitle254">So, you read tea leaves, then?</p>
+<p begin="12127945830t" end="12151309170t" region="bottomCenter" style="s1" xml:id="subtitle255">Like my grandmother taught me.</p>
+<p begin="12152560420t" end="12172160000t" region="bottomCenter" style="s1" xml:id="subtitle256">And her grandmother before that.</p>
+<p begin="12180498330t" end="12205943750t" region="bottomCenter" style="s1" xml:id="subtitle257">Drink up your cup.<br/>Let's see what we've got there.</p>
+<p begin="12334402080t" end="12364852500t" region="bottomCenter" style="s1" xml:id="subtitle258">Well, am I going to meet a tall,<br/>dark stranger</p>
+<p begin="12365683330t" end="12381949580t" region="bottomCenter" style="s1" xml:id="subtitle259">and take a trip across the sea?</p>
+<p begin="12382790420t" end="12394462080t" region="bottomCenter" style="s1" xml:id="subtitle260">Could be.</p>
+<p begin="12402810420t" end="12417405000t" region="bottomCenter" style="s1" xml:id="subtitle261">Or could not.</p>
+<p begin="12443260830t" end="12473290830t" region="bottomCenter" style="s1" xml:id="subtitle262">Everything in it is contradictory.</p>
+<p begin="12474131670t" end="12503320830t" region="bottomCenter" style="s1" xml:id="subtitle263">There's a curved leaf,<br/>which indicates a journey,</p>
+<p begin="12504161670t" end="12530437920t" region="bottomCenter" style="s1" xml:id="subtitle264">but it's crossed by a broken one,</p>
+<p begin="12531268750t" end="12550037500t" region="bottomCenter" style="s1" xml:id="subtitle265">which means staying put.</p>
+<p begin="12575893330t" end="12608015420t" region="bottomCenter" style="s1" xml:id="subtitle266">And there are strangers there,<br/>to be sure, several of them.</p>
+<p begin="12610928330t" end="12643881250t" region="bottomCenter" style="s1" xml:id="subtitle267">And one of them's your husband,<br/>if I read the leaves all right.</p>
+<p begin="12665572920t" end="12678916250t" region="bottomCenter" style="s1" xml:id="subtitle268">Show me your hand, dear.</p>
+<p begin="12748155420t" end="12758165420t" region="bottomCenter" style="s1" xml:id="subtitle269">Odd.</p>
+<p begin="12765672920t" end="12785272500t" region="bottomCenter" style="s1" xml:id="subtitle270">Most hands have a likeness to them.</p>
+<p begin="12786103330t" end="12801959170t" region="bottomCenter" style="s1" xml:id="subtitle271">There are patterns, you know?</p>
+<p begin="12824481670t" end="12844501670t" region="bottomCenter" style="s1" xml:id="subtitle272">But this is a pattern<br/>I've not seen before.</p>
+<p begin="12894551670t" end="12914982080t" region="bottomCenter" style="s1" xml:id="subtitle273">The large thumb, now.</p>
+<p begin="12915822920t" end="12962950000t" region="bottomCenter" style="s1" xml:id="subtitle274">It means that you're strong-minded,<br/>and you have a will not easily crossed.</p>
+<p begin="12973380420t" end="12998815830t" region="bottomCenter" style="s1" xml:id="subtitle275">And this is your Mount of Venus.</p>
+<p begin="13018005000t" end="13038445420t" region="bottomCenter" style="s1" xml:id="subtitle276">In a man, it means he likes the lasses,</p>
+<p begin="13039276250t" end="13063050000t" region="bottomCenter" style="s1" xml:id="subtitle277">but it is a bit different for a woman.</p>
+<p begin="13065132080t" end="13084321250t" region="bottomCenter" style="s1" xml:id="subtitle278">To be polite about it,</p>
+<p begin="13085152080t" end="13116433330t" region="bottomCenter" style="s1" xml:id="subtitle279">your husband is not likely<br/>to stray far from your bed.</p>
+<p begin="13172739580t" end="13204441250t" region="bottomCenter" style="s1" xml:id="subtitle280">The lifeline's interrupted,</p>
+<p begin="13205272080t" end="13231968750t" region="bottomCenter" style="s1" xml:id="subtitle281">all bits and pieces.</p>
+<p begin="13254911670t" end="13289946670t" region="bottomCenter" style="s1" xml:id="subtitle282">The marriage line's divided.<br/>Means two marriages.</p>
+<p begin="13304961670t" end="13315382080t" region="bottomCenter" style="s1" xml:id="subtitle283">But...</p>
+<p begin="13329986670t" end="13360016670t" region="bottomCenter" style="s1" xml:id="subtitle284">Most divided lines are broken.</p>
+<p begin="13387544170t" end="13403390000t" region="bottomCenter" style="s1" xml:id="subtitle285">Yours is...</p>
+<p begin="13424240830t" end="13436753330t" region="bottomCenter" style="s1" xml:id="subtitle286">Forked.</p>
+<p begin="13475131669t" end="13512669169t" region="bottomCenter" style="s1" xml:id="subtitle287">But I suspect your ancestor had a patron.</p>
+<p begin="13513499999t" end="13532689169t" region="bottomCenter" style="s1" xml:id="subtitle288">A prominent and powerful man</p>
+<p begin="13533519999t" end="13556042499t" region="bottomCenter" style="s1" xml:id="subtitle289">who could protect him<br/>from the censure of his superiors.</p>
+<p begin="13556873329t" end="13577734169t" region="bottomCenter" style="s1" xml:id="subtitle290">Possibly, but it would have to<br/>have been someone</p>
+<p begin="13578564999t" end="13596082499t" region="bottomCenter" style="s1" xml:id="subtitle291">very high up in the hierarchy of the day</p>
+<p begin="13596913329t" end="13613179579t" region="bottomCenter" style="s1" xml:id="subtitle292">to exert that kind of influence.</p>
+<p begin="13619856249t" end="13634450829t" region="bottomCenter" style="s1" xml:id="subtitle293">The Duke of Sandringham.</p>
+<p begin="13643629999t" end="13659475829t" region="bottomCenter" style="s1" xml:id="subtitle294">The Duke of Sandringham?</p>
+<p begin="13660316669t" end="13672829169t" region="bottomCenter" style="s1" xml:id="subtitle295">Hold on.</p>
+<p begin="13673659999t" end="13699105419t" region="bottomCenter" style="s1" xml:id="subtitle296">Wasn't Sandringham<br/>a suspected Jacobite himself?</p>
+<p begin="13702438749t" end="13719125419t" region="bottomCenter" style="s1" xml:id="subtitle297">Aye. You know, I believe you're right.</p>
+<p begin="13725381669t" end="13748734999t" region="bottomCenter" style="s1" xml:id="subtitle298">And the duke died<br/>under very suspicious circumstances</p>
+<p begin="13749565829t" end="13762919169t" region="bottomCenter" style="s1" xml:id="subtitle299">just before the battle of...</p>
+<p begin="13763749999t" end="13776262499t" region="bottomCenter" style="s1" xml:id="subtitle300">None of that, none of that!</p>
+<p begin="13777093329t" end="13793779999t" region="bottomCenter" style="s1" xml:id="subtitle301">Stand away before you do<br/>some permanent damage.</p>
+<p begin="13794610829t" end="13809215419t" region="bottomCenter" style="s1" xml:id="subtitle302">I think we're getting somewhere at last.</p>
+<p begin="13810046249t" end="13851757919t" region="bottomCenter" style="s1" xml:id="subtitle303">I'm really glad to hear it,<br/>but I think I shall take my leave.</p>
+<p begin="13852588749t" end="13870937079t" region="bottomCenter" style="s1" xml:id="subtitle304">-So soon?<br/>-Yes.</p>
+<p begin="13871777919t" end="13897633749t" region="bottomCenter" style="s1" xml:id="subtitle305">I feel a bath is in order.</p>
+<p begin="13898464579t" end="13910977079t" region="bottomCenter" style="s1" xml:id="subtitle306">Aye, of course.</p>
+<p begin="13911817919t" end="13937673749t" region="bottomCenter" style="s1" xml:id="subtitle307">Well, I hope you will join us<br/>for Samhain tomorrow night.</p>
+<p begin="13938504579t" end="13955191249t" region="bottomCenter" style="s1" xml:id="subtitle308">What? The pagan festival?</p>
+<p begin="13956022079t" end="13975211249t" region="bottomCenter" style="s1" xml:id="subtitle309">Reverend Wakefield, you do astonish me.</p>
+<p begin="13988974999t" end="14011497499t" region="bottomCenter" style="s1" xml:id="subtitle310">I love a good ghost story<br/>as much as the next fellow.</p>
+<p begin="14019425419t" end="14049455419t" region="bottomCenter" style="s1" xml:id="subtitle311">All right. Take your time, darling.</p>
+<p begin="14050286249t" end="14066132079t" region="bottomCenter" style="s1" xml:id="subtitle312">Do try to get home<br/>before the storm breaks.</p>
+<p begin="14066972919t" end="14079064999t" region="bottomCenter" style="s1" xml:id="subtitle313">I will.</p>
+<p begin="14172488329t" end="14196682499t" region="bottomCenter" style="s1" xml:id="subtitle314"><span style="s1_1">I'd never put any stock in superstition.</span></p>
+<p begin="14197513329t" end="14232968749t" region="bottomCenter" style="s1" xml:id="subtitle315"><span style="s1_1">And my Catholicism was nominal at best.</span></p>
+<p begin="14233799579t" end="14251737499t" region="bottomCenter" style="s1" xml:id="subtitle316"><span style="s1_1">However, I couldn't shake the feeling</span></p>
+<p begin="14252568329t" end="14284269999t" region="bottomCenter" style="s1" xml:id="subtitle317"><span style="s1_1">that Mrs. Graham's words</span><br/><span style="s1_1">had a ring of prophecy.</span></p>
+<p begin="14300956669t" end="14324730419t" region="bottomCenter" style="s1" xml:id="subtitle318"><span style="s1_1">The war had taught me</span><br/><span style="s1_1">to cherish the present</span></p>
+<p begin="14325561249t" end="14353088749t" region="bottomCenter" style="s1" xml:id="subtitle319"><span style="s1_1">because tomorrow might not</span><br/><span style="s1_1">ever come to pass.</span></p>
+<p begin="14362678329t" end="14386452079t" region="bottomCenter" style="s1" xml:id="subtitle320"><span style="s1_1">But what I didn't know at the time</span></p>
+<p begin="14387292919t" end="14416902499t" region="bottomCenter" style="s1" xml:id="subtitle321"><span style="s1_1">was that tomorrow</span><br/><span style="s1_1">would prove less important</span></p>
+<p begin="14417733329t" end="14433168749t" region="bottomCenter" style="s1" xml:id="subtitle322"><span style="s1_1">than yesterday.</span></p>
+<p begin="14492397919t" end="14522007499t" region="bottomCenter" style="s1" xml:id="subtitle323">Jesus H. Roosevelt Christ!</p>
+<p begin="14903218329t" end="14939924999t" region="bottomCenter" style="s1" xml:id="subtitle324">Excuse me, can I help you with something?</p>
+<p begin="15188923749t" end="15214369169t" region="bottomCenter" style="s1" xml:id="subtitle325">Frank, I was hoping<br/>to have the whole place lit up</p>
+<p begin="15215199999t" end="15234389169t" region="bottomCenter" style="s1" xml:id="subtitle326">by the time you got back.</p>
+<p begin="15250234999t" end="15275259999t" region="bottomCenter" style="s1" xml:id="subtitle327">Darling, what's the matter?</p>
+<p begin="15311546249t" end="15321976669t" region="bottomCenter" style="s1" xml:id="subtitle328">Frank?</p>
+<p begin="15350334999t" end="15370775419t" region="bottomCenter" style="s1" xml:id="subtitle329">You look like you've seen a ghost.</p>
+<p begin="15405810419t" end="15428743329t" region="bottomCenter" style="s1" xml:id="subtitle330">I'm not at all sure that I haven't.</p>
+<p begin="15445009579t" end="15469624169t" region="bottomCenter" style="s1" xml:id="subtitle331">When he pushed past me,<br/>he was close enough</p>
+<p begin="15470454999t" end="15493397919t" region="bottomCenter" style="s1" xml:id="subtitle332">that I should have<br/>felt him brush my sleeve as he passed,</p>
+<p begin="15494228749t" end="15520504999t" region="bottomCenter" style="s1" xml:id="subtitle333">but I... I didn't.</p>
+<p begin="15527181669t" end="15549283749t" region="bottomCenter" style="s1" xml:id="subtitle334">And then I turned around to say something,</p>
+<p begin="15550114579t" end="15567221669t" region="bottomCenter" style="s1" xml:id="subtitle335">and he had gone.</p>
+<p begin="15568052499t" end="15579734169t" region="bottomCenter" style="s1" xml:id="subtitle336">He just vanished.</p>
+<p begin="15580564999t" end="15593908329t" region="bottomCenter" style="s1" xml:id="subtitle337">That's when I</p>
+<p begin="15594749169t" end="15613097499t" region="bottomCenter" style="s1" xml:id="subtitle338">felt a chill down my spine.</p>
+<p begin="15670654999t" end="15702356669t" region="bottomCenter" style="s1" xml:id="subtitle339">Did you have many Scots<br/>in your charge during the war?</p>
+<p begin="15714028329t" end="15747812079t" region="bottomCenter" style="s1" xml:id="subtitle340">Yes, there was quite a few.</p>
+<p begin="15754068329t" end="15780764999t" region="bottomCenter" style="s1" xml:id="subtitle341">There was one in particular.</p>
+<p begin="15783267499t" end="15806620829t" region="bottomCenter" style="s1" xml:id="subtitle342">He was a piper in the Third Seaforths.</p>
+<p begin="15807461669t" end="15836650829t" region="bottomCenter" style="s1" xml:id="subtitle343">He couldn't stand<br/>being stuck with a needle.</p>
+<p begin="15837491669t" end="15852086249t" region="bottomCenter" style="s1" xml:id="subtitle344">It was...</p>
+<p begin="15870854999t" end="15885039169t" region="bottomCenter" style="s1" xml:id="subtitle345">All right.</p>
+<p begin="15964278329t" end="15994728749t" region="bottomCenter" style="s1" xml:id="subtitle346">What is it exactly, that,</p>
+<p begin="15995559579t" end="16012666669t" region="bottomCenter" style="s1" xml:id="subtitle347">you're asking me, Frank?</p>
+<p begin="16025589579t" end="16051034999t" region="bottomCenter" style="s1" xml:id="subtitle348">When I saw that chap staring up at you,</p>
+<p begin="16071054999t" end="16091495419t" region="bottomCenter" style="s1" xml:id="subtitle349">I thought he might be<br/>someone you had nursed.</p>
+<p begin="16092326249t" end="16117771669t" region="bottomCenter" style="s1" xml:id="subtitle350">Someone who might be looking for you now</p>
+<p begin="16124858749t" end="16140294169t" region="bottomCenter" style="s1" xml:id="subtitle351">to reconnect.</p>
+<p begin="16182416249t" end="16197851669t" region="bottomCenter" style="s1" xml:id="subtitle352">To "reconnect?"</p>
+<p begin="16210364169t" end="16229543329t" region="bottomCenter" style="s1" xml:id="subtitle353">It wouldn't be unusual.</p>
+<p begin="16237050829t" end="16267501249t" region="bottomCenter" style="s1" xml:id="subtitle354">I mean, it wouldn't be surprising<br/>if you had sought some...</p>
+<p begin="16268332079t" end="16284598329t" region="bottomCenter" style="s1" xml:id="subtitle355">Comfort, or...</p>
+<p begin="16297110829t" end="16338402079t" region="bottomCenter" style="s1" xml:id="subtitle356">Are you asking me if I've been unfaithful?</p>
+<p begin="16339653329t" end="16351334999t" region="bottomCenter" style="s1" xml:id="subtitle357">Claire.</p>
+<p begin="16353006669t" end="16368021669t" region="bottomCenter" style="s1" xml:id="subtitle358">Is that what you think of me, Frank?</p>
+<p begin="16376780419t" end="16390123749t" region="bottomCenter" style="s1" xml:id="subtitle359">No, darling. No.</p>
+<p begin="16390954579t" end="16432666249t" region="bottomCenter" style="s1" xml:id="subtitle360">No. All I meant was that even if you had,</p>
+<p begin="16434337919t" end="16456439999t" region="bottomCenter" style="s1" xml:id="subtitle361">it will make no difference to me.<br/>I love you.</p>
+<p begin="16458111669t" end="16488141669t" region="bottomCenter" style="s1" xml:id="subtitle362">And nothing you could ever do<br/>could stop my loving you.</p>
+<p begin="16557370829t" end="16569052499t" region="bottomCenter" style="s1" xml:id="subtitle363">Forgive me.</p>
+<p begin="16589072499t" end="16601164579t" region="bottomCenter" style="s1" xml:id="subtitle364">Forgive me?</p>
+<p begin="16641204579t" end="16653306669t" region="bottomCenter" style="s1" xml:id="subtitle365">Of course.</p>
+<p begin="16942755829t" end="16972375419t" region="bottomCenter" style="s1" xml:id="subtitle366"><span style="s1_1">Sex was our bridge back to one another.</span></p>
+<p begin="16973206249t" end="17004067079t" region="bottomCenter" style="s1" xml:id="subtitle367"><span style="s1_1">The one place where we always met.</span></p>
+<p begin="17004907919t" end="17046199169t" region="bottomCenter" style="s1" xml:id="subtitle368"><span style="s1_1">Whatever obstacles presented</span><br/><span style="s1_1">themselves during the day or night,</span></p>
+<p begin="17047029999t" end="17078731669t" region="bottomCenter" style="s1" xml:id="subtitle369"><span style="s1_1">we could seek out</span><br/><span style="s1_1">and find each other again in bed.</span></p>
+<p begin="17087069999t" end="17111264169t" region="bottomCenter" style="s1" xml:id="subtitle370"><span style="s1_1">As long as we had that,</span></p>
+<p begin="17112094999t" end="17136699579t" region="bottomCenter" style="s1" xml:id="subtitle371"><span style="s1_1">I had faith everything would work out.</span></p>
+<p begin="17345658330t" end="17380282920t" region="bottomCenter" style="s1" xml:id="subtitle372">That reminds me, I want to set an alarm.</p>
+<p begin="17381113750t" end="17394046670t" region="bottomCenter" style="s1" xml:id="subtitle373">No.</p>
+<p begin="17402385000t" end="17426158750t" region="bottomCenter" style="s1" xml:id="subtitle374">I thought we weren't<br/>setting alarms on this trip.</p>
+<p begin="17464947500t" end="17481634170t" region="bottomCenter" style="s1" xml:id="subtitle375">I want to see the witches.</p>
+<p begin="17482465000t" end="17497480000t" region="bottomCenter" style="s1" xml:id="subtitle376">Must I ask?</p>
+<p begin="17507490000t" end="17537099580t" region="bottomCenter" style="s1" xml:id="subtitle377">Apparently,<br/>there's a circle of standing stones</p>
+<p begin="17537940420t" end="17555037500t" region="bottomCenter" style="s1" xml:id="subtitle378">on a hill just outside the village,</p>
+<p begin="17555868330t" end="17596749170t" region="bottomCenter" style="s1" xml:id="subtitle379">and there's a local group<br/>who still observe rituals there.</p>
+<p begin="17597580000t" end="17617179580t" region="bottomCenter" style="s1" xml:id="subtitle380">Well, they're not actually witches.</p>
+<p begin="17618020420t" end="17633445830t" region="bottomCenter" style="s1" xml:id="subtitle381">This lot are meant to be druids.</p>
+<p begin="17634286670t" end="17664727080t" region="bottomCenter" style="s1" xml:id="subtitle382">Sadly, I don't think there'll be<br/>a coven of devil-worshippers.</p>
+<p begin="17665567920t" end="17684747080t" region="bottomCenter" style="s1" xml:id="subtitle383">Well, it's a pity.</p>
+<p begin="17685587920t" end="17715197500t" region="bottomCenter" style="s1" xml:id="subtitle384">Can't imagine anything I'd rather do.</p>
+<p begin="17716028330t" end="17726458750t" region="bottomCenter" style="s1" xml:id="subtitle385">Liar.</p>
+<p begin="17734386670t" end="17759822080t" region="bottomCenter" style="s1" xml:id="subtitle386">Where will we be watching this spectacle?</p>
+<p begin="17761493750t" end="17776929170t" region="bottomCenter" style="s1" xml:id="subtitle387">A place called Craigh na Dun.</p>
+<p begin="17890372500t" end="17913725830t" region="bottomCenter" style="s1" xml:id="subtitle388">So, according to local folklore,</p>
+<p begin="17914566670t" end="17939171250t" region="bottomCenter" style="s1" xml:id="subtitle389">these stones were carried here from Africa</p>
+<p begin="17940002080t" end="17959611670t" region="bottomCenter" style="s1" xml:id="subtitle390">by a race of Celtic giants.</p>
+<p begin="17960442500t" end="17999651670t" region="bottomCenter" style="s1" xml:id="subtitle391">I wasn't aware that Celts<br/>made a lot of trips to Africa.</p>
+<p begin="18000482500t" end="18018000000t" region="bottomCenter" style="s1" xml:id="subtitle392">Only the giant ones.</p>
+<p begin="18047199170t" end="18066378330t" region="bottomCenter" style="s1" xml:id="subtitle393">Is that Inverness?</p>
+<p begin="18067219170t" end="18082644580t" region="bottomCenter" style="s1" xml:id="subtitle394">Yes, it must be.</p>
+<p begin="18111423330t" end="18123935830t" region="bottomCenter" style="s1" xml:id="subtitle395">Someone's coming.</p>
+<p begin="18500151670t" end="18516417920t" region="bottomCenter" style="s1" xml:id="subtitle396">Is that Mrs. Graham?</p>
+<p begin="18527258750t" end="18543104580t" region="bottomCenter" style="s1" xml:id="subtitle397">I think it is.</p>
+<p begin="18543945420t" end="18561873330t" region="bottomCenter" style="s1" xml:id="subtitle398">The Reverend's housekeeper is a witch.</p>
+<p begin="18573134580t" end="18595246670t" region="bottomCenter" style="s1" xml:id="subtitle399">Not a witch. Druid, remember?</p>
+<p begin="18816717920t" end="18840902080t" region="bottomCenter" style="s1" xml:id="subtitle400"><span style="s1_1">They should have been ridiculous,</span></p>
+<p begin="18841742920t" end="18855917080t" region="bottomCenter" style="s1" xml:id="subtitle401"><span style="s1_1">and perhaps they were.</span></p>
+<p begin="18862173330t" end="18892203330t" region="bottomCenter" style="s1" xml:id="subtitle402"><span style="s1_1">Parading in circles on top of a hill.</span></p>
+<p begin="18893044170t" end="18928910000t" region="bottomCenter" style="s1" xml:id="subtitle403"><span style="s1_1">But the hairs on the back of my neck</span><br/><span style="s1_1">prickled at the sight,</span></p>
+<p begin="18935586670t" end="18960191250t" region="bottomCenter" style="s1" xml:id="subtitle404"><span style="s1_1">and some small voice inside warned me</span></p>
+<p begin="18967698750t" end="18990641670t" region="bottomCenter" style="s1" xml:id="subtitle405"><span style="s1_1">I wasn't supposed to be here.</span></p>
+<p begin="19001902920t" end="19050701670t" region="bottomCenter" style="s1" xml:id="subtitle406"><span style="s1_1">I was an unwelcome voyeur</span><br/><span style="s1_1">to something ancient and powerful.</span></p>
+<p begin="20567216670t" end="20579308750t" region="bottomCenter" style="s1" xml:id="subtitle407">Wait for me!</p>
+<p begin="20580139580t" end="20600159580t" region="bottomCenter" style="s1" xml:id="subtitle408">I'm caught on something.<br/>I'll be there in a minute.</p>
+<p begin="20615595000t" end="20635615000t" region="bottomCenter" style="s1" xml:id="subtitle409">Claire, someone's coming.</p>
+<p begin="20984293330t" end="20994303330t" region="bottomCenter" style="s1" xml:id="subtitle410">We should go.</p>
+<p begin="21152801670t" end="21171980830t" region="bottomCenter" style="s1" xml:id="subtitle411">What have you got there?</p>
+<p begin="21172821670t" end="21187416250t" region="bottomCenter" style="s1" xml:id="subtitle412">I'm looking for that plant.</p>
+<p begin="21188247080t" end="21211190000t" region="bottomCenter" style="s1" xml:id="subtitle413">I think it's a forget-me-not,<br/>but I'm not sure.</p>
+<p begin="21212020830t" end="21227035830t" region="bottomCenter" style="s1" xml:id="subtitle414">Why don't you pop back and get it?</p>
+<p begin="21228287080t" end="21250399170t" region="bottomCenter" style="s1" xml:id="subtitle415">I was considering it.</p>
+<p begin="21251230000t" end="21268747500t" region="bottomCenter" style="s1" xml:id="subtitle416">Would you care to go with me?</p>
+<p begin="21269578330t" end="21288347080t" region="bottomCenter" style="s1" xml:id="subtitle417">Darling, I'd love to,</p>
+<p begin="21289187920t" end="21307956670t" region="bottomCenter" style="s1" xml:id="subtitle418">but I've got an appointment<br/>with the Reverend.</p>
+<p begin="21308787500t" end="21327976670t" region="bottomCenter" style="s1" xml:id="subtitle419">He found a box of materials last night.</p>
+<p begin="21328807500t" end="21348827500t" region="bottomCenter" style="s1" xml:id="subtitle420">Bills of sale<br/>from Black Jack's quartermaster.</p>
+<p begin="21361340000t" end="21376355000t" region="bottomCenter" style="s1" xml:id="subtitle421">That sounds terribly exciting.</p>
+<p begin="21381780420t" end="21393872500t" region="bottomCenter" style="s1" xml:id="subtitle422">Are you laughing at me?</p>
+<p begin="21401380000t" end="21413061670t" region="bottomCenter" style="s1" xml:id="subtitle423">Never.</p>
+<p begin="21424733330t" end="21448096670t" region="bottomCenter" style="s1" xml:id="subtitle424">-Shall I meet you for dinner later?<br/>-Yes.</p>
+<p begin="21456014580t" end="21469367920t" region="bottomCenter" style="s1" xml:id="subtitle425">-Love you.<br/>-Love you.</p>
+<p begin="21489798330t" end="21501900420t" region="bottomCenter" style="s1" xml:id="subtitle426">Come here.</p>
+<p begin="22640948330t" end="22665142500t" region="bottomCenter" style="s1" xml:id="subtitle427"><span style="s1_1">Once, traveling at night,</span></p>
+<p begin="22665973330t" end="22690587920t" region="bottomCenter" style="s1" xml:id="subtitle428"><span style="s1_1">I fell asleep in the passenger seat</span><br/><span style="s1_1">of a moving car,</span></p>
+<p begin="22708515830t" end="22747725000t" region="bottomCenter" style="s1" xml:id="subtitle429"><span style="s1_1">lulled by the noise and the motion</span><br/><span style="s1_1">into an illusion of serene weightlessness.</span></p>
+<p begin="22763570830t" end="22785682920t" region="bottomCenter" style="s1" xml:id="subtitle430"><span style="s1_1">Then the driver took a bridge too fast.</span></p>
+<p begin="22794852080t" end="22841148330t" region="bottomCenter" style="s1" xml:id="subtitle431"><span style="s1_1">And I woke to see the world</span><br/><span style="s1_1">spinning outside the car windows,</span></p>
+<p begin="22841989170t" end="22878275420t" region="bottomCenter" style="s1" xml:id="subtitle432"><span style="s1_1">and the sickening sensation</span><br/><span style="s1_1">of falling at high speed.</span></p>
+<p begin="22886193330t" end="22926233330t" region="bottomCenter" style="s1" xml:id="subtitle433"><span style="s1_1">That is as close as I can come to</span><br/><span style="s1_1">describing what I experienced,</span></p>
+<p begin="22939586670t" end="22962940000t" region="bottomCenter" style="s1" xml:id="subtitle434"><span style="s1_1">but it falls woefully short.</span></p>
+<p begin="23436332920t" end="23448845420t" region="bottomCenter" style="s1" xml:id="subtitle435">What?</p>
+<p begin="24145791670t" end="24168314170t" region="bottomCenter" style="s1" xml:id="subtitle436"><span style="s1_1">When confronted with the impossible,</span></p>
+<p begin="24169145000t" end="24189165000t" region="bottomCenter" style="s1" xml:id="subtitle437"><span style="s1_1">the rational mind</span><br/><span style="s1_1">will grope for the logical.</span></p>
+<p begin="24239215000t" end="24266742500t" region="bottomCenter" style="s1" xml:id="subtitle438"><span style="s1_1">Perhaps I had stumbled onto</span><br/><span style="s1_1">the set of a cinema company</span></p>
+<p begin="24267573330t" end="24292187920t" region="bottomCenter" style="s1" xml:id="subtitle439"><span style="s1_1">filming a costume drama of some sort.</span></p>
+<p begin="24470696250t" end="24489044580t" region="bottomCenter" style="s1" xml:id="subtitle440"><span style="s1_1">But there was no logical reason</span></p>
+<p begin="24489885420t" end="24511156670t" region="bottomCenter" style="s1" xml:id="subtitle441"><span style="s1_1">for actors to fire live ammunition.</span></p>
+<p begin="25053358330t" end="25070465420t" region="bottomCenter" style="s1" xml:id="subtitle442">Frank?</p>
+<p begin="25074629580t" end="25093818750t" region="bottomCenter" style="s1" xml:id="subtitle443">What the devil are you doing?</p>
+<p begin="25168893750t" end="25181826670t" region="bottomCenter" style="s1" xml:id="subtitle444">You're not Frank.</p>
+<p begin="25187242080t" end="25203928750t" region="bottomCenter" style="s1" xml:id="subtitle445">No, madam. I am not.</p>
+<p begin="25220615420t" end="25235210000t" region="bottomCenter" style="s1" xml:id="subtitle446">Who the bloody hell are you?</p>
+<p begin="25293598330t" end="25316961670t" region="bottomCenter" style="s1" xml:id="subtitle447">I am Jonathan Randall Esquire,</p>
+<p begin="25317792500t" end="25339484170t" region="bottomCenter" style="s1" xml:id="subtitle448">Captain of His Majesty's Eighth Dragoons.</p>
+<p begin="25371175830t" end="25386611250t" region="bottomCenter" style="s1" xml:id="subtitle449">At your service.</p>
+<p begin="25492547080t" end="25502557080t" region="bottomCenter" style="s1" xml:id="subtitle450">Who are you?</p>
+<p begin="25503397920t" end="25521746250t" region="bottomCenter" style="s1" xml:id="subtitle451">My husband is expecting me.</p>
+<p begin="25522577080t" end="25543437920t" region="bottomCenter" style="s1" xml:id="subtitle452">He'll come looking for me<br/>if I'm not back in 10 minutes.</p>
+<p begin="25544268750t" end="25566791250t" region="bottomCenter" style="s1" xml:id="subtitle453">Your husband? What's his name?</p>
+<p begin="25582637080t" end="25595990420t" region="bottomCenter" style="s1" xml:id="subtitle454">What is his name?</p>
+<p begin="25613918330t" end="25642286670t" region="bottomCenter" style="s1" xml:id="subtitle455">-Frank.<br/>-Frank what?</p>
+<p begin="25661886250t" end="25687331670t" region="bottomCenter" style="s1" xml:id="subtitle456">Frank Beauchamp. He's a teacher.</p>
+<p begin="25694839170t" end="25734879170t" region="bottomCenter" style="s1" xml:id="subtitle457">Well, it's a pleasure to meet you,<br/>Mrs. Frank Beauchamp, a teacher's wife.</p>
+<p begin="25740715000t" end="25758232500t" region="bottomCenter" style="s1" xml:id="subtitle458">You must think me the fool.</p>
+<p begin="25759063330t" end="25783257500t" region="bottomCenter" style="s1" xml:id="subtitle459">You'll be well advised<br/>to tell me exactly who you are</p>
+<p begin="25784088330t" end="25797441670t" region="bottomCenter" style="s1" xml:id="subtitle460">and why you're here.</p>
+<p begin="25798692920t" end="25826630830t" region="bottomCenter" style="s1" xml:id="subtitle461">Madam, you'll find<br/>my patience is not infinite.</p>
+<p begin="25832476670t" end="25847902080t" region="bottomCenter" style="s1" xml:id="subtitle462">Get off me, you bastard.</p>
+<p begin="25882526670t" end="25900875000t" region="bottomCenter" style="s1" xml:id="subtitle463">The speech of a lady.</p>
+<p begin="25901705830t" end="25919223330t" region="bottomCenter" style="s1" xml:id="subtitle464">The language of a whore.</p>
+<p begin="25924228330t" end="25939243330t" region="bottomCenter" style="s1" xml:id="subtitle465">I choose the whore.</p>
+<p begin="25998892920t" end="26008902920t" region="bottomCenter" style="s1" xml:id="subtitle466">Druid!</p>
+<p begin="26009733750t" end="26025169170t" region="bottomCenter" style="s1" xml:id="subtitle467">-What?<br/>-Druid!</p>
+<p begin="26041845830t" end="26054358330t" region="bottomCenter" style="s1" xml:id="subtitle468">Who are you?</p>
+<p begin="26055199170t" end="26076050000t" region="bottomCenter" style="s1" xml:id="subtitle469">Where are we going? Where are we go...</p>
+<p begin="26087311250t" end="26099403330t" region="bottomCenter" style="s1" xml:id="subtitle470">Over here!</p>
+<p begin="26112756670t" end="26130684580t" region="bottomCenter" style="s1" xml:id="subtitle471">You men over there! Quickly!</p>
+<p begin="26181155000t" end="26201595420t" region="bottomCenter" style="s1" xml:id="subtitle472"><span style="s1_1">I wanted it to be a dream,</span></p>
+<p begin="26202426250t" end="26218272080t" region="bottomCenter" style="s1" xml:id="subtitle473"><span style="s1_1">but I knew it wasn't.</span></p>
+<p begin="26274998750t" end="26293767500t" region="bottomCenter" style="s1" xml:id="subtitle474"><span style="s1_1">If nothing else,</span></p>
+<p begin="26294598330t" end="26320464170t" region="bottomCenter" style="s1" xml:id="subtitle475"><span style="s1_1">my erstwhile savior fairly reeked of odors</span></p>
+<p begin="26321295000t" end="26357160830t" region="bottomCenter" style="s1" xml:id="subtitle476"><span style="s1_1">too foul to be part of any dream</span><br/><span style="s1_1">I was likely to conjure up.</span></p>
+<p begin="26648291670t" end="26666219580t" region="bottomCenter" style="s1" xml:id="subtitle477">Let's have a look at you then, lass.</p>
+<p begin="26699172500t" end="26714187500t" region="bottomCenter" style="s1" xml:id="subtitle478">I trust you're able to see me now?</p>
+<p begin="26715018330t" end="26727951250t" region="bottomCenter" style="s1" xml:id="subtitle479">What's your name?</p>
+<p begin="26733376670t" end="26763406670t" region="bottomCenter" style="s1" xml:id="subtitle480"><span style="s1_1">I decided</span><br/><span style="s1_1">to continue using my maiden name.</span></p>
+<p begin="26764237500t" end="26798852080t" region="bottomCenter" style="s1" xml:id="subtitle481"><span style="s1_1">If they intended to ransom me,</span><br/><span style="s1_1">I didn't want to lead them back to Frank.</span></p>
+<p begin="26803446670t" end="26822215420t" region="bottomCenter" style="s1" xml:id="subtitle482">Claire.</p>
+<p begin="26823046250t" end="26833476670t" region="bottomCenter" style="s1" xml:id="subtitle483">Claire Beauchamp.</p>
+<p begin="26836810000t" end="26849742920t" region="bottomCenter" style="s1" xml:id="subtitle484">Claire Beauchamp.</p>
+<p begin="26861835000t" end="26878101250t" region="bottomCenter" style="s1" xml:id="subtitle485">That's right.<br/>And just what the hell do you think...</p>
+<p begin="26878932080t" end="26891034170t" region="bottomCenter" style="s1" xml:id="subtitle486">You said you found her?</p>
+<p begin="26891865000t" end="26906049169t" region="bottomCenter" style="s1" xml:id="subtitle487">Aye.</p>
+<p begin="26906879999t" end="26934407499t" region="bottomCenter" style="s1" xml:id="subtitle488">She was havin' words<br/>with a certain Captain of dragoons</p>
+<p begin="26935238329t" end="26949422499t" region="bottomCenter" style="s1" xml:id="subtitle489">with whom we are acquainted.</p>
+<p begin="26950253329t" end="26961514579t" region="bottomCenter" style="s1" xml:id="subtitle490">There seemed to be some question</p>
+<p begin="26962355419t" end="26984877919t" region="bottomCenter" style="s1" xml:id="subtitle491">as to whether the lady<br/>was or was not a whore.</p>
+<p begin="26988211249t" end="27011564579t" region="bottomCenter" style="s1" xml:id="subtitle492">And what was the lady's position<br/>in this discussion?</p>
+<p begin="27033256249t" end="27045348329t" region="bottomCenter" style="s1" xml:id="subtitle493">I am not.</p>
+<p begin="27046189169t" end="27062034999t" region="bottomCenter" style="s1" xml:id="subtitle494">We could put her to the test.</p>
+<p begin="27071624579t" end="27086639579t" region="bottomCenter" style="s1" xml:id="subtitle495">I don't hold with rape.</p>
+<p begin="27100403329t" end="27117510419t" region="bottomCenter" style="s1" xml:id="subtitle496">And we've not the time for it, anyway.</p>
+<p begin="27127099999t" end="27157129999t" region="bottomCenter" style="s1" xml:id="subtitle497">Dougal, I've no idea<br/>what she might be or who,</p>
+<p begin="27163806669t" end="27182154999t" region="bottomCenter" style="s1" xml:id="subtitle498">but I'll stake my best shot<br/>she's not a whore.</p>
+<p begin="27212184999t" end="27225528329t" region="bottomCenter" style="s1" xml:id="subtitle499">We'll puzzle it out later.</p>
+<p begin="27231374169t" end="27250142919t" region="bottomCenter" style="s1" xml:id="subtitle500">We've got a good distance to go tonight.</p>
+<p begin="27250973749t" end="27268911669t" region="bottomCenter" style="s1" xml:id="subtitle501">And we must do something<br/>about Jamie first.</p>
+<p begin="27273916669t" end="27294767499t" region="bottomCenter" style="s1" xml:id="subtitle502"><span style="s1_1">Escape was my chief concern,</span></p>
+<p begin="27295598329t" end="27318541249t" region="bottomCenter" style="s1" xml:id="subtitle503"><span style="s1_1">but I had no idea where I was.</span></p>
+<p begin="27319372079t" end="27349402079t" region="bottomCenter" style="s1" xml:id="subtitle504"><span style="s1_1">And trying to find the road back</span><br/><span style="s1_1">to Inverness in the gathering darkness</span></p>
+<p begin="27350242919t" end="27367339999t" region="bottomCenter" style="s1" xml:id="subtitle505"><span style="s1_1">felt like a fool's errand.</span></p>
+<p begin="27372344999t" end="27393616249t" region="bottomCenter" style="s1" xml:id="subtitle506">Out o' joint, poor bugger.</p>
+<p begin="27394447079t" end="27414467079t" region="bottomCenter" style="s1" xml:id="subtitle507">You can't ride with it like that,<br/>can you, lad?</p>
+<p begin="27415307919t" end="27431574169t" region="bottomCenter" style="s1" xml:id="subtitle508">Hurts bad enough sitting still.</p>
+<p begin="27432404999t" end="27444917499t" region="bottomCenter" style="s1" xml:id="subtitle509">I couldna manage a horse.</p>
+<p begin="27449091669t" end="27462855419t" region="bottomCenter" style="s1" xml:id="subtitle510">I don't mean to be leaving him behind.</p>
+<p begin="27463686249t" end="27484957499t" region="bottomCenter" style="s1" xml:id="subtitle511">There's no help for it, then.</p>
+<p begin="27485788329t" end="27500803329t" region="bottomCenter" style="s1" xml:id="subtitle512">I'll have to force the joint back.</p>
+<p begin="27509562079t" end="27541684169t" region="bottomCenter" style="s1" xml:id="subtitle513"><span style="s1_1">The wisest course of action</span><br/><span style="s1_1">would have been to keep my head down,</span></p>
+<p begin="27542514999t" end="27555447919t" region="bottomCenter" style="s1" xml:id="subtitle514"><span style="s1_1">my mouth shut,</span></p>
+<p begin="27556278749t" end="27588390829t" region="bottomCenter" style="s1" xml:id="subtitle515"><span style="s1_1">and wait for the search parties</span><br/><span style="s1_1">Frank must have called out by now.</span></p>
+<p begin="27594236669t" end="27604246669t" region="bottomCenter" style="s1" xml:id="subtitle516">Here, lad.</p>
+<p begin="27718941249t" end="27730622919t" region="bottomCenter" style="s1" xml:id="subtitle517">Hold him.</p>
+<p begin="27762314579t" end="27772744999t" region="bottomCenter" style="s1" xml:id="subtitle518">Don't you dare!</p>
+<p begin="27786508749t" end="27798190419t" region="bottomCenter" style="s1" xml:id="subtitle519">Stand aside at once.</p>
+<p begin="27810702919t" end="27830722919t" region="bottomCenter" style="s1" xml:id="subtitle520">You'll break his arm<br/>if you do it like that.</p>
+<p begin="27851153329t" end="27871593749t" region="bottomCenter" style="s1" xml:id="subtitle521">You have to get the bone<br/>of the upper arm in the correct position</p>
+<p begin="27872424579t" end="27894116249t" region="bottomCenter" style="s1" xml:id="subtitle522">before it slips back into joint.</p>
+<p begin="28042184169t" end="28052194169t" region="bottomCenter" style="s1" xml:id="subtitle523">Hold him steady.</p>
+<p begin="28186488329t" end="28196918749t" region="bottomCenter" style="s1" xml:id="subtitle524">This is the worst part.</p>
+<p begin="28366668329t" end="28380852499t" region="bottomCenter" style="s1" xml:id="subtitle525">It doesn't hurt anymore!</p>
+<p begin="28381683329t" end="28394195829t" region="bottomCenter" style="s1" xml:id="subtitle526">It will.</p>
+<p begin="28395036669t" end="28412964579t" region="bottomCenter" style="s1" xml:id="subtitle527">It will be tender for about a week.</p>
+<p begin="28413805419t" end="28426728329t" region="bottomCenter" style="s1" xml:id="subtitle528">You'll need a sling.</p>
+<p begin="28436738329t" end="28466768329t" region="bottomCenter" style="s1" xml:id="subtitle529">You, fetch me a long piece of cloth<br/>or a belt.</p>
+<p begin="28471773329t" end="28503474999t" region="bottomCenter" style="s1" xml:id="subtitle530">"Fetch me," she says.<br/>Do ye hear that, lads?</p>
+<p begin="28504305829t" end="28517659169t" region="bottomCenter" style="s1" xml:id="subtitle531">Give her yer belt.</p>
+<p begin="28570211669t" end="28583975419t" region="bottomCenter" style="s1" xml:id="subtitle532">I'm taking a guess<br/>you've done this before.</p>
+<p begin="28584806249t" end="28594816249t" region="bottomCenter" style="s1" xml:id="subtitle533">I'm a nurse.</p>
+<p begin="28611502919t" end="28628599999t" region="bottomCenter" style="s1" xml:id="subtitle534">Not a wet nurse.</p>
+<p begin="28666968329t" end="28689911249t" region="bottomCenter" style="s1" xml:id="subtitle535">You mustn't move the joint<br/>for two or three days.</p>
+<p begin="28694916249t" end="28729530829t" region="bottomCenter" style="s1" xml:id="subtitle536">When you begin to use it again,<br/>go very slowly at first.</p>
+<p begin="28737038329t" end="28759560829t" region="bottomCenter" style="s1" xml:id="subtitle537">Stop at once if it hurts,</p>
+<p begin="28764565829t" end="28787088329t" region="bottomCenter" style="s1" xml:id="subtitle538">and use warm compresses on it daily.</p>
+<p begin="28800441669t" end="28832553749t" region="bottomCenter" style="s1" xml:id="subtitle539">All right, how does that feel?</p>
+<p begin="28847989169t" end="28868839999t" region="bottomCenter" style="s1" xml:id="subtitle540">Better. Thank ye.</p>
+<p begin="28886357499t" end="28897198329t" region="bottomCenter" style="s1" xml:id="subtitle541">Can you ride?</p>
+<p begin="28905126249t" end="28924725829t" region="bottomCenter" style="s1" xml:id="subtitle542">-Aye.<br/>-Good. We're leaving.</p>
+<p begin="29165806669t" end="29183324169t" region="bottomCenter" style="s1" xml:id="subtitle543">Where is it?</p>
+<p begin="29184154999t" end="29204595419t" region="bottomCenter" style="s1" xml:id="subtitle544">Where's the city?<br/>It should be visible from here.</p>
+<p begin="29219610419t" end="29233374169t" region="bottomCenter" style="s1" xml:id="subtitle545">Inverness?</p>
+<p begin="29244214999t" end="29261732499t" region="bottomCenter" style="s1" xml:id="subtitle546">You're looking straight at it.</p>
+<p begin="29293434169t" end="29330551249t" region="bottomCenter" style="s1" xml:id="subtitle547"><span style="s1_1">There were no electric lights</span><br/><span style="s1_1">as far as the eye could see.</span></p>
+<p begin="29331382079t" end="29368509169t" region="bottomCenter" style="s1" xml:id="subtitle548"><span style="s1_1">So, as much as my rational mind</span><br/><span style="s1_1">rebelled against the idea,</span></p>
+<p begin="29369339999t" end="29408128749t" region="bottomCenter" style="s1" xml:id="subtitle549"><span style="s1_1">I knew in my heart</span><br/><span style="s1_1">I was no longer in the 20th century.</span></p>
+<p begin="29448999579t" end="29462763329t" region="bottomCenter" style="s1" xml:id="subtitle550">Get yourself up.</p>
+<p begin="29471111669t" end="29490711249t" region="bottomCenter" style="s1" xml:id="subtitle551">You be sure to stay close<br/>to the rest of us.</p>
+<p begin="29491962499t" end="29525325829t" region="bottomCenter" style="s1" xml:id="subtitle552">And should ye try anythin' else,<br/>I shall slit your throat for you.</p>
+<p begin="29526166669t" end="29540761249t" region="bottomCenter" style="s1" xml:id="subtitle553">Do you understand me?</p>
+<p begin="29549099579t" end="29566206669t" region="bottomCenter" style="s1" xml:id="subtitle554">Gimme your foot. Give it to me.</p>
+<p begin="29667968329t" end="29679649999t" region="bottomCenter" style="s1" xml:id="subtitle555">Careful!</p>
+<p begin="29680480829t" end="29691331669t" region="bottomCenter" style="s1" xml:id="subtitle556">What are you trying to do?</p>
+<p begin="29698418749t" end="29725525829t" region="bottomCenter" style="s1" xml:id="subtitle557">I'll get my plaid loose to cover ye.</p>
+<p begin="29726366669t" end="29737207499t" region="bottomCenter" style="s1" xml:id="subtitle558">You're shivering.</p>
+<p begin="29775996249t" end="29790180419t" region="bottomCenter" style="s1" xml:id="subtitle559">Thank you, but I'm fine, really.</p>
+<p begin="29799769999t" end="29819789999t" region="bottomCenter" style="s1" xml:id="subtitle560">You're shaking so hard,<br/>it's making my teeth rattle.</p>
+<p begin="29828548749t" end="29854824999t" region="bottomCenter" style="s1" xml:id="subtitle561">The plaid will keep us both warm,</p>
+<p begin="29855655829t" end="29870670829t" region="bottomCenter" style="s1" xml:id="subtitle562">but I canna do it one-handed.</p>
+<p begin="29871511669t" end="29884854999t" region="bottomCenter" style="s1" xml:id="subtitle563">Can ye reach?</p>
+<p begin="29999969999t" end="30014984999t" region="bottomCenter" style="s1" xml:id="subtitle564">We don't want you to freeze before sun-up.</p>
+<p begin="30033333329t" end="30049189169t" region="bottomCenter" style="s1" xml:id="subtitle565">Sun-up?</p>
+<p begin="30050019999t" end="30067957919t" region="bottomCenter" style="s1" xml:id="subtitle566">You mean we'll be riding all night?</p>
+<p begin="30071291249t" end="30085054999t" region="bottomCenter" style="s1" xml:id="subtitle567">All night,</p>
+<p begin="30086306249t" end="30102992919t" region="bottomCenter" style="s1" xml:id="subtitle568">and the next one, too, I reckon.</p>
+<p begin="30120089999t" end="30140109999t" region="bottomCenter" style="s1" xml:id="subtitle569">Fine time of year for a ride, though.</p>
+<p begin="30148037919t" end="30158047919t" region="bottomCenter" style="s1" xml:id="subtitle570">Druid.</p>
+<p begin="30890859999t" end="30903792919t" region="bottomCenter" style="s1" xml:id="subtitle571">You see up there?</p>
+<p begin="30922561669t" end="30939238329t" region="bottomCenter" style="s1" xml:id="subtitle572">I know this place.</p>
+<p begin="30950919999t" end="30969688749t" region="bottomCenter" style="s1" xml:id="subtitle573">Been through here before, have ye?</p>
+<p begin="30978027079t" end="30988457499t" region="bottomCenter" style="s1" xml:id="subtitle574">Yes.</p>
+<p begin="30989288329t" end="31003052079t" region="bottomCenter" style="s1" xml:id="subtitle575">The 17th and 18th centuries,</p>
+<p begin="31003892919t" end="31030169169t" region="bottomCenter" style="s1" xml:id="subtitle576">you'd have often found<br/>a British Army patrol up there.</p>
+<p begin="31041009999t" end="31056024999t" region="bottomCenter" style="s1" xml:id="subtitle577">I recognize that rock.</p>
+<p begin="31056855829t" end="31080629579t" region="bottomCenter" style="s1" xml:id="subtitle578">The one that looks like a cock's tail.</p>
+<p begin="31081470419t" end="31098147079t" region="bottomCenter" style="s1" xml:id="subtitle579">It has a name.</p>
+<p begin="31124843749t" end="31141530419t" region="bottomCenter" style="s1" xml:id="subtitle580">Cocknammon Rock.</p>
+<p begin="31154453329t" end="31179478329t" region="bottomCenter" style="s1" xml:id="subtitle581">The English, they used it for ambushes!</p>
+<p begin="31182821669t" end="31202421249t" region="bottomCenter" style="s1" xml:id="subtitle582">They could be lying in wait right now.</p>
+<p begin="31209097919t" end="31236204999t" region="bottomCenter" style="s1" xml:id="subtitle583">It's a bonnie place<br/>for an ambush, right enough.</p>
+<p begin="31261229999t" end="31271660419t" region="bottomCenter" style="s1" xml:id="subtitle584">Dougal.</p>
+<p begin="31299598329t" end="31315033749t" region="bottomCenter" style="s1" xml:id="subtitle585">Dougal. Dougal.</p>
+<p begin="31488957499t" end="31517315829t" region="bottomCenter" style="s1" xml:id="subtitle586">Now, you'll be telling me<br/>exactly how and why</p>
+<p begin="31518156669t" end="31545263749t" region="bottomCenter" style="s1" xml:id="subtitle587">you come to know<br/>there's an ambush up ahead.</p>
+<p begin="31546094579t" end="31560699169t" region="bottomCenter" style="s1" xml:id="subtitle588">I don't know,</p>
+<p begin="31561529999t" end="31580298749t" region="bottomCenter" style="s1" xml:id="subtitle589">but I heard the redcoats<br/>use Cocknammon...</p>
+<p begin="31581129579t" end="31591559999t" region="bottomCenter" style="s1" xml:id="subtitle590">Where did you hear?</p>
+<p begin="31619087499t" end="31629097499t" region="bottomCenter" style="s1" xml:id="subtitle591">In the village.</p>
+<p begin="31825964169t" end="31838887079t" region="bottomCenter" style="s1" xml:id="subtitle592">Hide yourself!</p>
+<p begin="32464101669t" end="32475773329t" region="bottomCenter" style="s1" xml:id="subtitle593">Lost yer way?</p>
+<p begin="32549186669t" end="32567955419t" region="bottomCenter" style="s1" xml:id="subtitle594">Hope you haven't been<br/>misusing that shoulder.</p>
+<p begin="32585052499t" end="32595482919t" region="bottomCenter" style="s1" xml:id="subtitle595">You're hurt!</p>
+<p begin="32599647079t" end="32627174579t" region="bottomCenter" style="s1" xml:id="subtitle596">This lot isn't my blood.</p>
+<p begin="32628015419t" end="32640938329t" region="bottomCenter" style="s1" xml:id="subtitle597">Not much of it anyway.</p>
+<p begin="32682649999t" end="32718515829t" region="bottomCenter" style="s1" xml:id="subtitle598">Dougal and the others<br/>will be waiting further up the stream.</p>
+<p begin="32735622919t" end="32748135419t" region="bottomCenter" style="s1" xml:id="subtitle599">We should go.</p>
+<p begin="32761899169t" end="32788585829t" region="bottomCenter" style="s1" xml:id="subtitle600">-I'm not going with you!<br/>-Yes, you are.</p>
+<p begin="32789426669t" end="32816954169t" region="bottomCenter" style="s1" xml:id="subtitle601">What? Are you going to<br/>cut my throat if I don't?</p>
+<p begin="32817784999t" end="32832379579t" region="bottomCenter" style="s1" xml:id="subtitle602">Why, no?</p>
+<p begin="32839887079t" end="32850317499t" region="bottomCenter" style="s1" xml:id="subtitle603">But...</p>
+<p begin="32851148329t" end="32869506669t" region="bottomCenter" style="s1" xml:id="subtitle604">You don't look that heavy.</p>
+<p begin="32884521669t" end="32901618749t" region="bottomCenter" style="s1" xml:id="subtitle605">Now if ye won't walk,</p>
+<p begin="32911208329t" end="32937904999t" region="bottomCenter" style="s1" xml:id="subtitle606">I shall pick you up<br/>and throw you over my shoulder.</p>
+<p begin="32959176249t" end="32973770829t" region="bottomCenter" style="s1" xml:id="subtitle607">Do ye want me to do that?</p>
+<p begin="32987954999t" end="33000467499t" region="bottomCenter" style="s1" xml:id="subtitle608">No!</p>
+<p begin="33016733749t" end="33028825829t" region="bottomCenter" style="s1" xml:id="subtitle609">Well, then,</p>
+<p begin="33045932919t" end="33068034999t" region="bottomCenter" style="s1" xml:id="subtitle610">I suppose<br/>that means you're coming with me.</p>
+<p begin="33207754579t" end="33217764579t" region="bottomCenter" style="s1" xml:id="subtitle611">Serves you right.</p>
+<p begin="33218605419t" end="33240287079t" region="bottomCenter" style="s1" xml:id="subtitle612">Probably torn muscles as well as bruising.</p>
+<p begin="33241538329t" end="33268234999t" region="bottomCenter" style="s1" xml:id="subtitle613">Well, it wasn't much of a choice.</p>
+<p begin="33278244999t" end="33289926669t" region="bottomCenter" style="s1" xml:id="subtitle614">If I'd not moved my shoulder,</p>
+<p begin="33290757499t" end="33312028749t" region="bottomCenter" style="s1" xml:id="subtitle615">I'd never have moved<br/>anything else ever again.</p>
+<p begin="33319956669t" end="33346232919t" region="bottomCenter" style="s1" xml:id="subtitle616">I can handle a single redcoat<br/>with one hand,</p>
+<p begin="33347063749t" end="33361658329t" region="bottomCenter" style="s1" xml:id="subtitle617">maybe even two.</p>
+<p begin="33362499169t" end="33375842499t" region="bottomCenter" style="s1" xml:id="subtitle618">But not three.</p>
+<p begin="33384601249t" end="33401287919t" region="bottomCenter" style="s1" xml:id="subtitle619">Besides, ye can fix it for me again</p>
+<p begin="33402118749t" end="33415051669t" region="bottomCenter" style="s1" xml:id="subtitle620">when we get to where we're going.</p>
+<p begin="33415882499t" end="33430066669t" region="bottomCenter" style="s1" xml:id="subtitle621">That's what you think.</p>
+<p begin="33431317919t" end="33456753329t" region="bottomCenter" style="s1" xml:id="subtitle622">You have. Here's to you, lass.</p>
+<p begin="33457594169t" end="33477614169t" region="bottomCenter" style="s1" xml:id="subtitle623">For tipping us<br/>to the villains in the rocks</p>
+<p begin="33478444999t" end="33498464999t" region="bottomCenter" style="s1" xml:id="subtitle624">and giving us a wee bit o' fun!</p>
+<p begin="33587724169t" end="33600647079t" region="bottomCenter" style="s1" xml:id="subtitle625">Have a wee nip.</p>
+<p begin="33610246669t" end="33643609999t" region="bottomCenter" style="s1" xml:id="subtitle626">It willna fill your belly,<br/>but it will make ye forget you're hungry.</p>
+<p begin="34082378329t" end="34094059999t" region="bottomCenter" style="s1" xml:id="subtitle627">Stop!</p>
+<p begin="34104069999t" end="34122838749t" region="bottomCenter" style="s1" xml:id="subtitle628">Help! He's going over!</p>
+<p begin="34170806669t" end="34184980829t" region="bottomCenter" style="s1" xml:id="subtitle629">Help me get him up!</p>
+<p begin="34192908749t" end="34207092919t" region="bottomCenter" style="s1" xml:id="subtitle630">Come on.</p>
+<p begin="34219184999t" end="34229194999t" region="bottomCenter" style="s1" xml:id="subtitle631">Take it easy.</p>
+<p begin="34237533329t" end="34247543329t" region="bottomCenter" style="s1" xml:id="subtitle632">Easy now.</p>
+<p begin="34316782499t" end="34328464169t" region="bottomCenter" style="s1" xml:id="subtitle633">Gunshot wound.</p>
+<p begin="34329294999t" end="34344730419t" region="bottomCenter" style="s1" xml:id="subtitle634">The idiot could've said something.</p>
+<p begin="34345561249t" end="34360155830t" region="bottomCenter" style="s1" xml:id="subtitle635">It's a clean exit.</p>
+<p begin="34360996670t" end="34381016670t" region="bottomCenter" style="s1" xml:id="subtitle636">I think the round's gone<br/>straight through the muscle.</p>
+<p begin="34383098750t" end="34408544170t" region="bottomCenter" style="s1" xml:id="subtitle637">I don't think it's serious,<br/>but he's lost a lot of blood.</p>
+<p begin="34416462080t" end="34443989580t" region="bottomCenter" style="s1" xml:id="subtitle638">It'll need to be disinfected<br/>before I can dress it properly.</p>
+<p begin="34444830420t" end="34459004580t" region="bottomCenter" style="s1" xml:id="subtitle639">Disinfect?</p>
+<p begin="34471517080t" end="34485280830t" region="bottomCenter" style="s1" xml:id="subtitle640">Yes, it must be cleaned of dirt</p>
+<p begin="34486121670t" end="34499465000t" region="bottomCenter" style="s1" xml:id="subtitle641">to protect it from germs.</p>
+<p begin="34500716250t" end="34511146670t" region="bottomCenter" style="s1" xml:id="subtitle642">Germs?</p>
+<p begin="34527412920t" end="34543258750t" region="bottomCenter" style="s1" xml:id="subtitle643">Just get me some iodine.</p>
+<p begin="34572037500t" end="34582047500t" region="bottomCenter" style="s1" xml:id="subtitle644">Merthiolate?</p>
+<p begin="34606652080t" end="34617913330t" region="bottomCenter" style="s1" xml:id="subtitle645">Alcohol?</p>
+<p begin="34645440830t" end="34659625000t" region="bottomCenter" style="s1" xml:id="subtitle646">Here you go.</p>
+<p begin="34728864170t" end="34738874170t" region="bottomCenter" style="s1" xml:id="subtitle647">Welcome back.</p>
+<p begin="34747212500t" end="34762227500t" region="bottomCenter" style="s1" xml:id="subtitle648">I'm all right, just a wee bit dizzy.</p>
+<p begin="34763058330t" end="34775991250t" region="bottomCenter" style="s1" xml:id="subtitle649">You are not all right.</p>
+<p begin="34776822080t" end="34796842080t" region="bottomCenter" style="s1" xml:id="subtitle650">Didn't you tell<br/>how badly you were bleeding?</p>
+<p begin="34797682920t" end="34811446670t" region="bottomCenter" style="s1" xml:id="subtitle651">You're lucky you're not dead,</p>
+<p begin="34812277500t" end="34831877080t" region="bottomCenter" style="s1" xml:id="subtitle652">brawling and fighting<br/>and throwing yourself off horses.</p>
+<p begin="34848984170t" end="34865250420t" region="bottomCenter" style="s1" xml:id="subtitle653">All right, I need a sterile bandage</p>
+<p begin="34866081250t" end="34882347500t" region="bottomCenter" style="s1" xml:id="subtitle654">and some clean cloth.</p>
+<p begin="34929895000t" end="34948663750t" region="bottomCenter" style="s1" xml:id="subtitle655">Jesus H. Roosevelt Christ.</p>
+<p begin="35036251250t" end="35046261250t" region="bottomCenter" style="s1" xml:id="subtitle656">Hold still.</p>
+<p begin="35077122080t" end="35089224170t" region="bottomCenter" style="s1" xml:id="subtitle657">Easy.</p>
+<p begin="35115080000t" end="35125920830t" region="bottomCenter" style="s1" xml:id="subtitle658">Lift him up.</p>
+<p begin="35187232080t" end="35216010830t" region="bottomCenter" style="s1" xml:id="subtitle659">Come on, you goddamn bloody bastard.</p>
+<p begin="35216851670t" end="35246461250t" region="bottomCenter" style="s1" xml:id="subtitle660">I've never heard a woman<br/>use such language in my life.</p>
+<p begin="35247292080t" end="35268152920t" region="bottomCenter" style="s1" xml:id="subtitle661">Your husband should tan your hide<br/>for ye, woman.</p>
+<p begin="35268983750t" end="35288172920t" region="bottomCenter" style="s1" xml:id="subtitle662">St. Paul says,<br/>"Let a woman be silent, and..."</p>
+<p begin="35289003750t" end="35320705420t" region="bottomCenter" style="s1" xml:id="subtitle663">You can mind your own bloody<br/>business and so can St. Paul!</p>
+<p begin="35377011670t" end="35399113750t" region="bottomCenter" style="s1" xml:id="subtitle664">And if you move so much as a single muscle</p>
+<p begin="35399944580t" end="35411205830t" region="bottomCenter" style="s1" xml:id="subtitle665">while I'm tying this bandage,</p>
+<p begin="35412046670t" end="35429564170t" region="bottomCenter" style="s1" xml:id="subtitle666">I'll bloody throttle you.</p>
+<p begin="35430395000t" end="35457922500t" region="bottomCenter" style="s1" xml:id="subtitle667">Threats, is it?</p>
+<p begin="35458753330t" end="35474609170t" region="bottomCenter" style="s1" xml:id="subtitle668">And after I shared my drink with ye.</p>
+<p begin="35475440000t" end="35497131670t" region="bottomCenter" style="s1" xml:id="subtitle669">We have 15 miles to go yet.</p>
+<p begin="35497962500t" end="35521315830t" region="bottomCenter" style="s1" xml:id="subtitle670">Five hours, at the least, if not seven.</p>
+<p begin="35522156670t" end="35545930420t" region="bottomCenter" style="s1" xml:id="subtitle671">We'll stay long enough for ye<br/>to stem the bleeding and dress his wound.</p>
+<p begin="35546761250t" end="35558853330t" region="bottomCenter" style="s1" xml:id="subtitle672">No more than that.</p>
+<p begin="35583878330t" end="35598062500t" region="bottomCenter" style="s1" xml:id="subtitle673">He needs rest.</p>
+<p begin="35613908330t" end="35633517920t" region="bottomCenter" style="s1" xml:id="subtitle674">-Did you hear me?<br/>-Randall...</p>
+<p begin="35676470830t" end="35696911250t" region="bottomCenter" style="s1" xml:id="subtitle675">The officer ye encountered,</p>
+<p begin="35720685000t" end="35736951250t" region="bottomCenter" style="s1" xml:id="subtitle676">he won't give up so easily.</p>
+<p begin="35747792080t" end="35765730000t" region="bottomCenter" style="s1" xml:id="subtitle677">He commands the redcoats hereabouts</p>
+<p begin="35781575830t" end="35811195420t" region="bottomCenter" style="s1" xml:id="subtitle678">and he's sent patrols out<br/>in every direction by now.</p>
+<p begin="35828712920t" end="35844138330t" region="bottomCenter" style="s1" xml:id="subtitle679">We canna stay here long.</p>
+<p begin="35853737920t" end="35870835000t" region="bottomCenter" style="s1" xml:id="subtitle680">You know Randall?</p>
+<p begin="35871665830t" end="35883767920t" region="bottomCenter" style="s1" xml:id="subtitle681">Black Jack Randall, that is?</p>
+<p begin="35907541670t" end="35917551670t" region="bottomCenter" style="s1" xml:id="subtitle682">Aye.</p>
+<p begin="35951335420t" end="35994708750t" region="bottomCenter" style="s1" xml:id="subtitle683">I won't risk you or anyone else<br/>being taken prisoner by that man.</p>
+<p begin="36005970000t" end="36030995000t" region="bottomCenter" style="s1" xml:id="subtitle684">If ye canna fix me up well enough to ride,</p>
+<p begin="36031825830t" end="36054348330t" region="bottomCenter" style="s1" xml:id="subtitle685">you'll be leaving me here<br/>with a loaded pistol</p>
+<p begin="36059353330t" end="36077711670t" region="bottomCenter" style="s1" xml:id="subtitle686">so I may determine my own fate.</p>
+<p begin="36120664580t" end="36140684580t" region="bottomCenter" style="s1" xml:id="subtitle687">You might've well told me you were shot</p>
+<p begin="36141525420t" end="36157791670t" region="bottomCenter" style="s1" xml:id="subtitle688">before you fell off the horse.</p>
+<p begin="36167801670t" end="36183647500t" region="bottomCenter" style="s1" xml:id="subtitle689">Didn't hurt much at the time.</p>
+<p begin="36197831670t" end="36209923750t" region="bottomCenter" style="s1" xml:id="subtitle690">Does it hurt now?</p>
+<p begin="36224938750t" end="36235779580t" region="bottomCenter" style="s1" xml:id="subtitle691">Aye.</p>
+<p begin="36246210000t" end="36257891670t" region="bottomCenter" style="s1" xml:id="subtitle692">Good.</p>
+<p begin="36267060830t" end="36282916670t" region="bottomCenter" style="s1" xml:id="subtitle693">That's about all I can do.</p>
+<p begin="36287921670t" end="36306690420t" region="bottomCenter" style="s1" xml:id="subtitle694">The rest is up to you.</p>
+<p begin="36468101670t" end="36479773330t" region="bottomCenter" style="s1" xml:id="subtitle695">Thank you, Sassenach.</p>
+<p begin="36491455000t" end="36503967500t" region="bottomCenter" style="s1" xml:id="subtitle696">Truly.</p>
+<p begin="36536500000t" end="36555689170t" region="bottomCenter" style="s1" xml:id="subtitle697">All right, on your horse, soldier.</p>
+<p begin="36906870000t" end="36921464580t" region="bottomCenter" style="s1" xml:id="subtitle698"><span style="s1_1">Castle Leoch.</span></p>
+<p begin="36945238330t" end="36970683750t" region="bottomCenter" style="s1" xml:id="subtitle699"><span style="s1_1">I'd been here with Frank two days ago.</span></p>
+<p begin="36985698750t" end="37002385420t" region="bottomCenter" style="s1" xml:id="subtitle700"><span style="s1_1">Or was that in the future?</span></p>
+<p begin="37025738750t" end="37058271250t" region="bottomCenter" style="s1" xml:id="subtitle701"><span style="s1_1">How could I remember</span><br/><span style="s1_1">something that hadn't happened yet?</span></p>
+<p begin="37103316250t" end="37125838750t" region="bottomCenter" style="s1" xml:id="subtitle702"><span style="s1_1">So far, I'd been assaulted,</span></p>
+<p begin="37126669580t" end="37160042920t" region="bottomCenter" style="s1" xml:id="subtitle703"><span style="s1_1">threatened, kidnapped and nearly raped.</span></p>
+<p begin="37160873750t" end="37205087920t" region="bottomCenter" style="s1" xml:id="subtitle704"><span style="s1_1">And somehow, I knew</span><br/><span style="s1_1">that my journey had only just begun.</span></p>
+</div>
+</body>
+</tt>

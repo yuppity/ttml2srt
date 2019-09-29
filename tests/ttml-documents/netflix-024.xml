@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_1"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="9592916t" end="59642916t" region="region.after" style="defaultStyle" xml:id="subtitle0">[acoustic guitar plays country music]</p>
+<p begin="67150416t" end="103436666t" region="region.after" style="defaultStyle" xml:id="subtitle1">[man]<span style="defaultStyle_1"> You know, when I was your age,</span><br/><span style="defaultStyle_1">the only thing I had was right here.</span></p>
+<p begin="117200416t" end="151818332t" region="region.after" style="defaultStyle" xml:id="subtitle2"><span style="defaultStyle_1">But I knew who I was. I was a rancher.</span></p>
+<p begin="168918750t" end="196029166t" region="region.after" style="defaultStyle" xml:id="subtitle3"><span style="defaultStyle_1">I'm not smart enough</span><br/><span style="defaultStyle_1">to tell you how to live your life.</span></p>
+<p begin="212712499t" end="227727499t" region="region.after" style="defaultStyle" xml:id="subtitle4"><span style="defaultStyle_1">That's for you to figure out.</span></p>
+<p begin="247330416t" end="272772500t" region="region.after" style="defaultStyle" xml:id="subtitle5"><span style="defaultStyle_1">But I do believe that one of these days,</span><br/><span style="defaultStyle_1">you're going to wake up</span></p>
+<p begin="273606666t" end="291124166t" region="region.after" style="defaultStyle" xml:id="subtitle6"><span style="defaultStyle_1">and know exactly who you are.</span></p>
+<p begin="311144166t" end="369952916t" region="region.after" style="defaultStyle" xml:id="subtitle7">Or... you wake up one day<br/>and find yourself eating quinoa.</p>
+<p begin="375792082t" end="392058332t" region="region.after" style="defaultStyle" xml:id="subtitle8">Whatever in the... that is.</p>
+<p begin="392892500t" end="401234166t" region="region.after" style="defaultStyle" xml:id="subtitle9">[rock music plays]</p>
+<p begin="402068332t" end="427510416t" region="region.after" style="defaultStyle" xml:id="subtitle10">-Rooster, go long.<br/>-I thought you were a linebacker, Dad.</p>
+<p begin="428344582t" end="453369582t" region="region.after" style="defaultStyle" xml:id="subtitle11">In my day, we did it all.<br/>Played both ways.</p>
+<p begin="454203749t" end="475057916t" region="region.after" style="defaultStyle" xml:id="subtitle12">Yeah, that means something<br/>different nowadays, Dad.</p>
+<p begin="495912082t" end="526776249t" region="region.after" style="defaultStyle" xml:id="subtitle13">Colt Bennett, crazy seeing you.<br/>Hey, what are you up to?</p>
+<p begin="527610416t" end="546796250t" region="region.after" style="defaultStyle" xml:id="subtitle14">[Colt]<span style="defaultStyle_1"> Dad called and said he needed</span><br/><span style="defaultStyle_1">some help at home.</span></p>
+<p begin="547630416t" end="582665416t" region="region.after" style="defaultStyle" xml:id="subtitle15">So, I decided it was time to be<br/>MVP of life and not just football.</p>
+<p begin="588504582t" end="601851250t" region="region.after" style="defaultStyle" xml:id="subtitle16">Still full of... , huh?</p>
+<p begin="629378750t" end="651484166t" region="region.after" style="defaultStyle" xml:id="subtitle17">-What are you doing here?<br/>-I got a tryout.</p>
+<p begin="652318332t" end="694443750t" region="region.after" style="defaultStyle" xml:id="subtitle18">Are you kidding me? Are you still<br/>chasing this dream? You're 34.</p>
+<p begin="695277916t" end="734066666t" region="region.after" style="defaultStyle" xml:id="subtitle19">This is getting good. I'm gonna grab<br/>a beer, but no punches until I get back.</p>
+<p begin="735735000t" end="775775000t" region="region.after" style="defaultStyle" xml:id="subtitle20">[woman]<span style="defaultStyle_1"> You stay healthy, you're looking</span><br/><span style="defaultStyle_1">at another 30 years of waking up at dawn</span></p>
+<p begin="776609166t" end="796629166t" region="region.after" style="defaultStyle" xml:id="subtitle21">and working that ranch with your sons.</p>
+<p begin="817066250t" end="843759582t" region="region.after" style="defaultStyle" xml:id="subtitle22">Oh, sweet Jesus. Take me now.</p>
+<p begin="844593749t" end="868367499t" region="region.after" style="defaultStyle" xml:id="subtitle23">[rock music continues]</p>
+<p begin="907156249t" end="930095832t" region="region.after" style="defaultStyle" xml:id="subtitle24">When I sit on the porch<br/>and drink alone, I'm an alcoholic.</p>
+<p begin="930929999t" end="957206249t" region="region.after" style="defaultStyle" xml:id="subtitle25">But when you're here,<br/>it's just two brothers bonding.</p>
+<p begin="962211249t" end="1000165832t" region="region.after" style="defaultStyle" xml:id="subtitle26">These last few days have been some<br/>of the best days we've ever had.</p>
+<p begin="1000999999t" end="1026024999t" region="region.after" style="defaultStyle" xml:id="subtitle27">Maybe I'm the good-luck charm<br/>this family needs.</p>
+<p begin="1026859166t" end="1049381666t" region="region.after" style="defaultStyle" xml:id="subtitle28">[thunder crashes]</p>
+<p begin="1062728332t" end="1080245832t" region="region.after" style="defaultStyle" xml:id="subtitle29">Hell, the barn's on fire.</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="1251250t" end="26276250t" region="bottom" xml:id="subtitle0"><span style="italic">You are more handsome</span><br/><span style="italic">in your photos.</span></p>
+<p begin="27110417t" end="48381667t" region="bottom" xml:id="subtitle1"><span style="span">Yeah, talk to me about handsome.</span></p>
+<p begin="49215834t" end="73406667t" region="bottom" xml:id="subtitle2"><span style="span">And you have no trace</span><br/><span style="span">of Cuban accent.</span></p>
+<p begin="74240834t" end="102185417t" region="bottom" xml:id="subtitle3"><span style="span">Yeah, it's called tradecraft, genius.</span><br/><span style="span">I blend.</span></p>
+<p begin="103019584t" end="121371250t" region="bottom" xml:id="subtitle4"><span style="span">Just shut up and get the plans.</span></p>
+<p begin="122205417t" end="142642500t" region="bottom" xml:id="subtitle5"><span style="span">-You shut up and get the plans.</span><br/><span style="span">-What?</span></p>
+<p begin="143476667t" end="172672500t" region="bottom" xml:id="subtitle6"><span style="span">I mean, give me those plans, now.</span><br/><span style="span">Give me those plans.</span></p>
+<p begin="173506667t" end="203953750t" region="bottom" xml:id="subtitle7"><span style="span">You may have them once I confirm</span><br/><span style="span">the balance in my Swiss account.</span></p>
+<p begin="204787917t" end="223139584t" region="bottom" xml:id="subtitle8"><span style="span">-Tell them not to bother.</span><br/><span style="span">-What?</span></p>
+<p begin="223973750t" end="238154584t" region="bottom" xml:id="subtitle9"><span style="italic">Wait, what are we doing?</span></p>
+<p begin="251918334t" end="261928334t" region="bottom" xml:id="subtitle10"><span style="italic">Conway!</span></p>
+</div>
+</body>
+</tt>

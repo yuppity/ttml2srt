@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="20833334t" end="45000000t" region="bottom" xml:id="subtitle0"><span style="span">These are Indian agents.</span></p>
+<p begin="49583334t" end="62083334t" region="bottom" xml:id="subtitle1"><span style="span">They said...</span></p>
+<p begin="77916667t" end="93750000t" region="bottom" xml:id="subtitle2"><span style="span">that they will fight us.</span></p>
+<p begin="100000000t" end="140416667t" region="bottom" xml:id="subtitle3"><span style="span">But can they beat the divine army?</span></p>
+<p begin="141250000t" end="163750000t" region="bottom" xml:id="subtitle4"><span style="span">No!</span></p>
+<p begin="165000000t" end="189166667t" region="bottom" xml:id="subtitle5"><span style="span">Our boys are in great danger.</span></p>
+<p begin="195833334t" end="207916667t" region="bottom" xml:id="subtitle6"><span style="span">Get Adonis for me.</span></p>
+<p begin="222500000t" end="239166667t" region="bottom" xml:id="subtitle7"><span style="span">What is the real name of Adonis?</span></p>
+<p begin="246666667t" end="259166667t" region="bottom" xml:id="subtitle8"><span style="span">Kabir Anand.</span></p>
+<p begin="285416667t" end="315833334t" region="bottom" xml:id="subtitle9"><span style="span">They told you my name, but not my job.</span></p>
+<p begin="420000000t" end="440000000t" region="bottom" xml:id="subtitle10"><span style="span">I didn't think he'll ever be seen again.</span></p>
+<p begin="451666667t" end="470833334t" region="bottom" xml:id="subtitle11"><span style="span">I broke his courage so bad...</span></p>
+<p begin="480833334t" end="497500000t" region="bottom" xml:id="subtitle12"><span style="span">that they ruined his career.</span></p>
+<p begin="509583334t" end="539166667t" region="bottom" xml:id="subtitle13"><span style="span">It's time that we take action together.</span></p>
+<p begin="554166667t" end="563333334t" region="bottom" xml:id="subtitle14"><span style="span">I have a plan.</span></p>
+<p begin="581666667t" end="609166667t" region="bottom" xml:id="subtitle15"><span style="span">Are you ready for the mission...</span><br/><span style="span">off the books?</span></p>
+<p begin="650000000t" end="669166667t" region="bottom" xml:id="subtitle16"><span style="span">It is an in-and-out job.</span></p>
+<p begin="755416667t" end="792500000t" region="bottom" xml:id="subtitle17"><span style="span">-Sir, we should follow the protocol.</span><br/><span style="span">-There's no protocol in this mission.</span></p>
+<p begin="834166667t" end="847916667t" region="bottom" xml:id="subtitle18"><span style="span">We're supposed to be a team, right?</span></p>
+<p begin="848750000t" end="881250000t" region="bottom" xml:id="subtitle19"><span style="span">These last-minute improvisations</span><br/><span style="span">is not smartness. It's cheating.</span></p>
+<p begin="922083334t" end="940833334t" region="bottom" xml:id="subtitle20"><span style="span">I just want to go back home.</span></p>
+<p begin="945000000t" end="953750000t" region="bottom" xml:id="subtitle21"><span style="span">You will. </span></p>
+<p begin="961250000t" end="988333334t" region="bottom" xml:id="subtitle22"><span style="span">Whether alive or in a body bag,</span><br/><span style="span">it is up to you.</span></p>
+<p begin="1049166667t" end="1094166667t" region="bottom" xml:id="subtitle23"><span style="span">It is the sound of... an upcoming storm.</span></p>
+<p begin="1135416667t" end="1151666667t" region="bottom" xml:id="subtitle24"><span style="span">Kill them, Muzraf.</span></p>
+<p begin="1186666667t" end="1206666667t" region="bottom" xml:id="subtitle25"><span style="span">Why dig up old graves, Kabir?</span></p>
+<p begin="1227083334t" end="1245416667t" region="bottom" xml:id="subtitle26"><span style="span">To bury my past once and for all.</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="3336667t" end="21271250t" region="bottom" xml:id="subtitle0"><span style="span">[woman 1] </span><span style="italic">Do you know</span><br/><span style="italic">who you're gonna race?</span></p>
+<p begin="26276250t" end="39622917t" region="bottom" xml:id="subtitle1"><span style="span">[man 1] </span><span style="italic">Two other sleepers...</span></p>
+<p begin="46713334t" end="55055000t" region="bottom" xml:id="subtitle2"><span style="span">[tires squeal]</span></p>
+<p begin="76743334t" end="86336250t" region="bottom" xml:id="subtitle3"><span style="italic">and a supercar.</span></p>
+<p begin="91758334t" end="110527084t" region="bottom" xml:id="subtitle4"><span style="span">[man 2] </span><span style="italic">I purchased it for $900.</span></p>
+<p begin="111361250t" end="135552084t" region="bottom" xml:id="subtitle5"><span style="span">[man 3] </span><span style="italic">We built something out of nothing</span><br/><span style="italic">but junkyard parts.</span></p>
+<p begin="136386250t" end="152235417t" region="bottom" xml:id="subtitle6"><span style="span">[man 4] </span><span style="italic">Doesn't look like it has a bunch,</span></p>
+<p begin="153069584t" end="178094584t" region="bottom" xml:id="subtitle7"><span style="italic">but looking under the hood,</span><br/><span style="italic">it's got serious stuff going on.</span></p>
+<p begin="184350834t" end="201868334t" region="bottom" xml:id="subtitle8"><span style="span">[man 5] </span><span style="italic">My crew, that's who my family is.</span></p>
+<p begin="202702500t" end="230230000t" region="bottom" xml:id="subtitle9"><span style="italic">I think if they saw me beat a supercar,</span><br/><span style="italic">they'd be pretty proud.</span></p>
+<p begin="231064167t" end="253586667t" region="bottom" xml:id="subtitle10"><span style="span">[man 6] </span><span style="italic">You don't have to make a lot</span><br/><span style="italic">of money to do this.</span></p>
+<p begin="254420834t" end="274440834t" region="bottom" xml:id="subtitle11"><span style="span">I've never gotten along </span><br/><span style="span">with people with money.</span></p>
+<p begin="275275000t" end="297380417t" region="bottom" xml:id="subtitle12"><span style="span">-They think they got one over on you.</span><br/><span style="span">-Well, don't they?</span></p>
+<p begin="306139167t" end="322405417t" region="bottom" xml:id="subtitle13"><span style="span">[tires squeal]</span></p>
+<p begin="329078750t" end="351601250t" region="bottom" xml:id="subtitle14"><span style="italic">♪ Strip down, turn around</span><br/><span style="italic">Show me what it is ♪</span></p>
+<p begin="352435417t" end="380380000t" region="bottom" xml:id="subtitle15"><span style="span">I'm not living this life for me.</span><br/><span style="span">This is about my two kids.</span></p>
+<p begin="381214167t" end="419168750t" region="bottom" xml:id="subtitle16"><span style="span">I eat, sleep, and breathe it. It's all</span><br/><span style="span">I've known since I was 15 years old.</span></p>
+<p begin="420002917t" end="436686250t" region="bottom" xml:id="subtitle17"><span style="span">[woman 2] </span><span style="italic">When you're racing all males,</span></p>
+<p begin="437520417t" end="462545417t" region="bottom" xml:id="subtitle18"><span style="span">-</span><span style="italic">you want to be the best.</span><br/><span style="span">-[man 6] </span><span style="italic">We got a little work to do.</span></p>
+<p begin="463379584t" end="486736250t" region="bottom" xml:id="subtitle19"><span style="span">-Do we know what the cars are?</span><br/><span style="span">-It's a 675LT.</span></p>
+<p begin="504670834t" end="513429584t" region="bottom" xml:id="subtitle20"><span style="span">Oh, [bleep].</span></p>
+<p begin="523439584t" end="542625417t" region="bottom" xml:id="subtitle21"><span style="span">[man 7] </span><span style="italic">I will do</span><br/><span style="italic">whatever I have to do to win.</span></p>
+<p begin="543459584t" end="564313750t" region="bottom" xml:id="subtitle22"><span style="span">[man 8] </span><span style="italic">We're not here to lose </span><br/><span style="italic">to a damn supercar.</span></p>
+<p begin="568901667t" end="585585000t" region="bottom" xml:id="subtitle23"><span style="span">[woman 2] </span><span style="italic">This is what we live for.</span></p>
+<p begin="586419167t" end="602268334t" region="bottom" xml:id="subtitle24"><span style="span">[revving]</span></p>
+<p begin="603102500t" end="618117500t" region="bottom" xml:id="subtitle25"><span style="span">-[screams]</span><br/><span style="span">-[woman 2] </span><span style="italic">Is he okay?</span></p>
+</div>
+</body>
+</tt>

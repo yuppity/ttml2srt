@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="835001t" end="30477531t" region="bottom" xml:id="subtitle0"><span style="span">Why would I believe</span><br/><span style="span">Phones over here heard</span><br/><span style="span">a goddamn word you said?</span></p>
+<p begin="31730032t" end="59285059t" region="bottom" xml:id="subtitle1"><span style="span">You laid down</span><br/><span style="span">your whole play.</span><br/><span style="span">He ain't even listening.</span></p>
+<p begin="74732574t" end="86005086t" region="bottom" xml:id="subtitle2"><span style="span">Baby?</span></p>
+<p begin="143620143t" end="160320160t" region="bottom" xml:id="subtitle3"><span style="span">The target is an armored truck</span></p>
+<p begin="161572661t" end="173262673t" region="bottom" xml:id="subtitle4"><span style="span">at Perimeter Trust</span><br/><span style="span">in Dunwoody,</span><br/><span style="span">10:00 a.m. sharp.</span></p>
+<p begin="174515174t" end="189127688t" region="bottom" xml:id="subtitle5"><span style="span">We have</span><br/><span style="span">the details of the route</span></p>
+<p begin="190380190t" end="210837711t" region="bottom" xml:id="subtitle6"><span style="span">because someone at the depot</span><br/><span style="span">has a nasal problem.</span></p>
+<p begin="212090212t" end="227120227t" region="bottom" xml:id="subtitle7"><span style="span">The bank itself</span><br/><span style="span">is right near</span><br/><span style="span">the Buford Highway,</span></p>
+<p begin="228372728t" end="239227738t" region="bottom" xml:id="subtitle8"><span style="span">so we should be able</span><br/><span style="span">to hit the ramp</span></p>
+<p begin="240480239t" end="250917751t" region="bottom" xml:id="subtitle9"><span style="span">within 60 seconds</span><br/><span style="span">of getting out.</span></p>
+<p begin="252170252t" end="267617767t" region="bottom" xml:id="subtitle10"><span style="span">We also have a diversion crew.</span></p>
+<p begin="268870268t" end="287657787t" region="bottom" xml:id="subtitle11"><span style="span">They're gonna blow up</span><br/><span style="span">a bread truck a ways away,</span></p>
+<p begin="288910288t" end="306445306t" region="bottom" xml:id="subtitle12"><span style="span">keep the fuzz busy.</span></p>
+<p begin="307697807t" end="327737827t" region="bottom" xml:id="subtitle13"><span style="span">The dress code</span><br/><span style="span">is the Michael Myers</span><br/><span style="span">Halloween mask,</span></p>
+<p begin="328990328t" end="357380357t" region="bottom" xml:id="subtitle14"><span style="span">but don't all buy your masks</span><br/><span style="span">at the same time.</span><br/><span style="span">It looks suspicious.</span></p>
+<p begin="358632858t" end="376167876t" region="bottom" xml:id="subtitle15"><span style="span">The switch car is ready,</span></p>
+<p begin="377420377t" end="389110388t" region="bottom" xml:id="subtitle16"><span style="span">but you want me to hit</span><br/><span style="span">the long-stay</span><br/><span style="span">parking structure</span></p>
+<p begin="390362889t" end="404557903t" region="bottom" xml:id="subtitle17"><span style="span">at Hartsfield-Jackson</span></p>
+<p begin="405810405t" end="421675421t" region="bottom" xml:id="subtitle18"><span style="span">to get a heist vehicle</span><br/><span style="span">that stays colder longer.</span></p>
+<p begin="422927922t" end="441715441t" region="bottom" xml:id="subtitle19"><span style="span">Boost a commuter car,</span><br/><span style="span">a family car,</span></p>
+</div>
+</body>
+</tt>

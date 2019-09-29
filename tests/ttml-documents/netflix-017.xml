@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2502500t" end="45045000t" region="bottom" xml:id="subtitle0"><span style="span">Your brain is an association machine.</span><br/><span style="span">It connects things together.</span></p>
+<p begin="83833750t" end="105522084t" region="bottom" xml:id="subtitle1"><span style="span">[Emma] </span><span style="italic">Why are memories so unreliable?</span></p>
+<p begin="106356250t" end="130130000t" region="bottom" xml:id="subtitle2"><span style="span">About 50% of the details of that memory</span><br/><span style="span">change in a year,</span></p>
+<p begin="130964167t" end="163913750t" region="bottom" xml:id="subtitle3"><span style="span">even though most people are convinced</span><br/><span style="span">they're 100% right.</span></p>
+<p begin="174340834t" end="186436250t" region="bottom" xml:id="subtitle4"><span style="span">[Emma]</span><span style="italic"> For thousands of years,</span></p>
+<p begin="187270417t" end="223139584t" region="bottom" xml:id="subtitle5"><span style="italic">humans have seen dreams as some kind</span><br/><span style="italic">of window into our deeper selves.</span></p>
+<p begin="223973750t" end="254003750t" region="bottom" xml:id="subtitle6"><span style="span">The brain in REM sleep</span><br/><span style="span">looks uniquely different</span></p>
+<p begin="254837917t" end="270687084t" region="bottom" xml:id="subtitle7"><span style="span">from any other time.</span></p>
+<p begin="280697084t" end="307807500t" region="bottom" xml:id="subtitle8"><span style="span">[Emma] </span><span style="italic">We keep inventing</span><br/><span style="italic">new reasons to be anxious.</span></p>
+<p begin="308641667t" end="350767084t" region="bottom" xml:id="subtitle9"><span style="span">Anxiety is the most common mental illness.</span></p>
+<p begin="351601250t" end="369535834t" region="bottom" xml:id="subtitle10"><span style="span">[Emma] </span><span style="italic">Why do so many of us feel this way?</span></p>
+<p begin="370370000t" end="392058334t" region="bottom" xml:id="subtitle11"><span style="italic">And what can we do about it?</span></p>
+<p begin="414580834t" end="444610834t" region="bottom" xml:id="subtitle12"><span style="span">Noticing the mind is lost,</span><br/><span style="span">it's a moment of awakening.</span></p>
+<p begin="456289167t" end="482982500t" region="bottom" xml:id="subtitle13"><span style="span">[Emma] </span><span style="italic">How can a brief encounter</span><br/><span style="italic">with a psychedelic drug</span></p>
+<p begin="483816667t" end="508007500t" region="bottom" xml:id="subtitle14"><span style="italic">have such dramatic and varied effects?</span></p>
+<p begin="508841667t" end="532198334t" region="bottom" xml:id="subtitle15"><span style="italic">And what does that tell us about the mind?</span></p>
+<p begin="533032500t" end="550967084t" region="bottom" xml:id="subtitle16"><span style="span">[echoing] </span><span style="italic">Mind, mind, mind...</span></p>
+</div>
+</body>
+</tt>

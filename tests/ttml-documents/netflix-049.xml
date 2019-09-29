@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="417501t" end="29225029t" region="bottom" xml:id="subtitle0"><span style="span">The default rates are already</span><br/><span style="span">up from 1% to 4%, fellas.</span></p>
+<p begin="30477531t" end="59285059t" region="bottom" xml:id="subtitle1"><span style="span">And if they rise to 8%,</span><br/><span style="span">and they will,</span></p>
+<p begin="60537561t" end="82665082t" region="bottom" xml:id="subtitle2"><span style="span">a lot of these BBB's</span><br/><span style="span">are going to zero, too.</span></p>
+<p begin="83917583t" end="98112598t" region="bottom" xml:id="subtitle3"><span style="span">And that... You're too close.</span></p>
+<p begin="111472611t" end="120657621t" region="bottom" xml:id="subtitle4"><span style="span">...is an opportunity.</span></p>
+<p begin="128590128t" end="145290145t" region="bottom" xml:id="subtitle5"><span style="span">[EXHALES]</span><br/><span style="span">MARK: Okay.</span></p>
+<p begin="146542646t" end="172845172t" region="bottom" xml:id="subtitle6"><span style="span">You're saying that</span><br/><span style="span">at 8% the bonds fail</span><br/><span style="span">and we are already at 4%?</span></p>
+<p begin="174097673t" end="182865182t" region="bottom" xml:id="subtitle7"><span style="span">That's right.</span></p>
+<p begin="184117683t" end="202070202t" region="bottom" xml:id="subtitle8"><span style="span">If they go to 8%,</span><br/><span style="span">it's Armageddon?</span></p>
+<p begin="203322703t" end="213342713t" region="bottom" xml:id="subtitle9"><span style="span">Yeah. That's right.</span></p>
+<p begin="214595214t" end="231295231t" region="bottom" xml:id="subtitle10"><span style="span">How come nobody's</span><br/><span style="span">talking about this?</span></p>
+<p begin="232547732t" end="253840253t" region="bottom" xml:id="subtitle11"><span style="span">You're completely</span><br/><span style="span">sure of the math?</span></p>
+<p begin="255092754t" end="280142779t" region="bottom" xml:id="subtitle12"><span style="span">Look at him. That's my quant.</span></p>
+<p begin="281395281t" end="291415291t" region="bottom" xml:id="subtitle13"><span style="span">MARK: Your what?</span></p>
+<p begin="292667792t" end="310202809t" region="bottom" xml:id="subtitle14"><span style="span">My quantitative!</span></p>
+<p begin="311455311t" end="338175337t" region="bottom" xml:id="subtitle15"><span style="span">My math specialist.</span><br/><span style="span">Look at him.</span></p>
+<p begin="339427838t" end="361972861t" region="bottom" xml:id="subtitle16"><span style="span">You notice anything</span><br/><span style="span">different about him?</span><br/><span style="span">Look at his face.</span></p>
+<p begin="363225362t" end="374915374t" region="bottom" xml:id="subtitle17"><span style="span">MARK: That's pretty racist.</span></p>
+<p begin="376167876t" end="400382899t" region="bottom" xml:id="subtitle18"><span style="span">JARED: Look at his eyes!</span><br/><span style="span">I'll give you a hint.</span></p>
+<p begin="401635401t" end="412907912t" region="bottom" xml:id="subtitle19"><span style="span">His name's Yang!</span></p>
+<p begin="427937927t" end="461337961t" region="bottom" xml:id="subtitle20"><span style="span">He won a national</span><br/><span style="span">math competition in China!</span></p>
+<p begin="462590462t" end="487222986t" region="bottom" xml:id="subtitle21"><span style="span">He doesn't even speak English!</span></p>
+<p begin="488475487t" end="505593004t" region="bottom" xml:id="subtitle22"><span style="span">Yeah, I'm sure of the math.</span></p>
+<p begin="521040519t" end="559450558t" region="bottom" xml:id="subtitle23"><span style="span">Actually, my name's Jiang</span><br/><span style="span">and I do speak English.</span></p>
+<p begin="560703059t" end="575315574t" region="bottom" xml:id="subtitle24"><span style="span">Jared likes to say</span><br/><span style="span">I don't because he thinks</span></p>
+<p begin="576568076t" end="594103093t" region="bottom" xml:id="subtitle25"><span style="span">it makes me seem</span><br/><span style="span">more authentic.</span></p>
+<p begin="595355594t" end="625415624t" region="bottom" xml:id="subtitle26"><span style="span">And I got second in that</span><br/><span style="span">national math competition.</span></p>
+<p begin="626668126t" end="675098173t" region="bottom" xml:id="subtitle27"><span style="span">So you're offering</span><br/><span style="span">us a chance to short</span><br/><span style="span">this pile of blocks? How?</span></p>
+<p begin="676350675t" end="697643196t" region="bottom" xml:id="subtitle28"><span style="span">With something called</span><br/><span style="span">a credit default swap.</span></p>
+<p begin="698895697t" end="712673211t" region="bottom" xml:id="subtitle29"><span style="span">[CLAPS HANDS]</span></p>
+<p begin="713925712t" end="738558237t" region="bottom" xml:id="subtitle30"><span style="span">It's like</span><br/><span style="span">insurance on the bond,</span><br/><span style="span">and if it goes bust</span></p>
+<p begin="739810738t" end="770705769t" region="bottom" xml:id="subtitle31"><span style="span">you can make 10-to-1,</span><br/><span style="span">even 20-to-1 return.</span></p>
+<p begin="771958271t" end="795755794t" region="bottom" xml:id="subtitle32"><span style="span">And it's already</span><br/><span style="span">slowly going bust!</span></p>
+</div>
+</body>
+</tt>

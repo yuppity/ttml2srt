@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="en-US" ttp:frameRate="25" ttp:timeBase="smpte" ttp:markerMode="continuous" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <styling>
+      <style xml:id="Swift" tts:color="white" tts:textAlign="center" tts:extent="720px 576px" tts:fontFamily="Arial" tts:fontSize="36px" />
+    </styling>
+  </head>
+  <body>
+    <div style="Swift">
+      <p xml:id="0" xml:space="preserve" begin="00:00:38:00" end="00:00:39:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Where am I?</p>
+      <p xml:id="1" xml:space="preserve" begin="00:00:49:17" end="00:00:51:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Where the fuck am I?</p>
+      <p xml:id="2" xml:space="preserve" begin="00:01:02:04" end="00:01:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jesus.</p>
+      <p xml:id="3" xml:space="preserve" begin="00:01:14:17" end="00:01:16:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan?</p>
+      <p xml:id="4" xml:space="preserve" begin="00:01:17:22" end="00:01:19:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan?</p>
+      <p xml:id="5" xml:space="preserve" begin="00:01:20:18" end="00:01:22:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan, where are you?</p>
+      <p xml:id="6" xml:space="preserve" begin="00:01:24:15" end="00:01:27:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Logan!<br />- Oh, fuck.</p>
+      <p xml:id="7" xml:space="preserve" begin="00:01:28:00" end="00:01:31:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Where am I?<br />- It's OK.</p>
+      <p xml:id="8" xml:space="preserve" begin="00:01:31:10" end="00:01:33:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">We're in the new place.</p>
+      <p xml:id="9" xml:space="preserve" begin="00:01:34:16" end="00:01:36:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm sorry.<br />- It's OK.</p>
+      <p xml:id="10" xml:space="preserve" begin="00:01:49:09" end="00:01:52:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mm! Yeah!</p>
+      <p xml:id="11" xml:space="preserve" begin="00:01:52:12" end="00:01:54:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah! Yeah! Yeah!</p>
+      <p xml:id="12" xml:space="preserve" begin="00:01:54:10" end="00:01:56:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">Brooklyn, Bronx,</span><br /><span tts:fontStyle="italic">Queens and Staten</span></p>
+      <p xml:id="13" xml:space="preserve" begin="00:01:56:23" end="00:01:59:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">From the Battery</span><br /><span tts:fontStyle="italic">to the top of Manhattan</span></p>
+      <p xml:id="14" xml:space="preserve" begin="00:01:59:10" end="00:02:01:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">Asian, Middle-Eastern</span><br /><span tts:fontStyle="italic">and Latin</span></p>
+      <p xml:id="15" xml:space="preserve" begin="00:02:01:21" end="00:02:04:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">Black, white,</span><br /><span tts:fontStyle="italic">New York, you make it happen</span></p>
+      <p xml:id="16" xml:space="preserve" begin="00:02:04:09" end="00:02:06:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">Brownstones, water towers,</span><br /><span tts:fontStyle="italic">trees, skyscrapers</span></p>
+      <p xml:id="17" xml:space="preserve" begin="00:02:07:03" end="00:02:09:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">Prize fighters</span><br /><span tts:fontStyle="italic">and Wall Street traders</span></p>
+      <p xml:id="18" xml:space="preserve" begin="00:02:09:12" end="00:02:11:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span tts:fontStyle="italic">We come together</span><br /><span tts:fontStyle="italic">on the subway cars</span></p>
+      <p xml:id="19" xml:space="preserve" begin="00:02:11:18" end="00:02:13:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's that, man?</p>
+      <p xml:id="20" xml:space="preserve" begin="00:02:13:17" end="00:02:15:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We're here, Mr. Roy.<br />- This is it.</p>
+      <p xml:id="21" xml:space="preserve" begin="00:02:15:22" end="00:02:18:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">This is the day<br />we make it happen, Fikret.</p>
+      <p xml:id="22" xml:space="preserve" begin="00:02:18:09" end="00:02:20:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're the man, Mr. Roy.<br />You're the man.</p>
+      <p xml:id="23" xml:space="preserve" begin="00:04:21:10" end="00:04:22:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">We good?</p>
+      <p xml:id="24" xml:space="preserve" begin="00:04:22:22" end="00:04:24:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jesus Christ.</p>
+      <p xml:id="25" xml:space="preserve" begin="00:04:24:18" end="00:04:28:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, hey, hey, buddy.<br />Good to see you.</p>
+      <p xml:id="26" xml:space="preserve" begin="00:04:28:05" end="00:04:31:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, are we ready<br />to fuck or what?</p>
+      <p xml:id="27" xml:space="preserve" begin="00:04:31:20" end="00:04:34:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah... OK.</p>
+      <p xml:id="28" xml:space="preserve" begin="00:04:34:08" end="00:04:36:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Look, I-I'm really sorry,</p>
+      <p xml:id="29" xml:space="preserve" begin="00:04:36:07" end="00:04:38:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">but it looks like<br />there's an issue.</p>
+      <p xml:id="30" xml:space="preserve" begin="00:04:39:01" end="00:04:41:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Come on, I came<br />all the way up here, dude.</p>
+      <p xml:id="31" xml:space="preserve" begin="00:04:41:17" end="00:04:44:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, I'm sorry..</p>
+      <p xml:id="32" xml:space="preserve" begin="00:04:44:14" end="00:04:45:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">uh, dude.</p>
+      <p xml:id="33" xml:space="preserve" begin="00:04:48:16" end="00:04:52:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK. Listen, you know I love<br />what you do, right?</p>
+      <p xml:id="34" xml:space="preserve" begin="00:04:53:02" end="00:04:55:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'd love to keep you and<br />your team in place, Lawrence.</p>
+      <p xml:id="35" xml:space="preserve" begin="00:04:55:22" end="00:04:57:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I think Vaulter is the shiz.</p>
+      <p xml:id="36" xml:space="preserve" begin="00:04:57:17" end="00:05:00:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We're the shiz?<br />- Yeah.</p>
+      <p xml:id="37" xml:space="preserve" begin="00:05:00:20" end="00:05:02:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's it gonna take?</p>
+      <p xml:id="38" xml:space="preserve" begin="00:05:02:13" end="00:05:06:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You want me to send a vintage Jaguar<br />over to your house today? I'll do it.</p>
+      <p xml:id="39" xml:space="preserve" begin="00:05:07:23" end="00:05:10:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Um, s-sure. Look, um...</p>
+      <p xml:id="40" xml:space="preserve" begin="00:05:10:19" end="00:05:12:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I just think bottom line,</p>
+      <p xml:id="41" xml:space="preserve" begin="00:05:12:13" end="00:05:15:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I can deliver a lot more value<br />for our shareholders.</p>
+      <p xml:id="42" xml:space="preserve" begin="00:05:15:21" end="00:05:18:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I hope we haven't<br />inconvenienced you.</p>
+      <p xml:id="43" xml:space="preserve" begin="00:05:18:20" end="00:05:21:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I see you.<br />I see this.</p>
+      <p xml:id="44" xml:space="preserve" begin="00:05:22:00" end="00:05:25:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We appreciate your interest<br />in our little outfit,</p>
+      <p xml:id="45" xml:space="preserve" begin="00:05:25:16" end="00:05:27:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">but I think that's it.</p>
+      <p xml:id="46" xml:space="preserve" begin="00:05:29:18" end="00:05:31:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Come on. That's it?</p>
+      <p xml:id="47" xml:space="preserve" begin="00:05:31:22" end="00:05:34:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That's not it.<br />What the fuck happened?</p>
+      <p xml:id="48" xml:space="preserve" begin="00:05:36:20" end="00:05:38:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yo, hang on.</p>
+      <p xml:id="49" xml:space="preserve" begin="00:05:40:20" end="00:05:42:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hold up, hold up.</p>
+      <p xml:id="50" xml:space="preserve" begin="00:05:44:20" end="00:05:47:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You get the message?<br />- What?</p>
+      <p xml:id="51" xml:space="preserve" begin="00:05:47:05" end="00:05:50:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm not letting you Neanderthals in<br />to rape my company. Ever.</p>
+      <p xml:id="52" xml:space="preserve" begin="00:05:50:15" end="00:05:52:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm sorry?<br />- You're a bunch of bloated dinosaurs</p>
+      <p xml:id="53" xml:space="preserve" begin="00:05:53:03" end="00:05:55:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">who didn't even notice<br />the monkeys swinging by till yesterday.</p>
+      <p xml:id="54" xml:space="preserve" begin="00:05:55:11" end="00:05:57:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, fuck you,<br />daddy's boy.</p>
+      <p xml:id="55" xml:space="preserve" begin="00:05:59:14" end="00:06:02:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, come on.<br />Don't blow this up.</p>
+      <p xml:id="56" xml:space="preserve" begin="00:06:02:07" end="00:06:03:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I got a track record from founding</p>
+      <p xml:id="57" xml:space="preserve" begin="00:06:04:01" end="00:06:07:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">one of the most exciting<br />new media brands in the world.</p>
+      <p xml:id="58" xml:space="preserve" begin="00:06:07:07" end="00:06:11:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And what do you got?<br />Track marks from shooting junk?</p>
+      <p xml:id="59" xml:space="preserve" begin="00:06:11:10" end="00:06:13:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Thanks for coming down.<br />It was great to meet you.</p>
+      <p xml:id="60" xml:space="preserve" begin="00:06:13:11" end="00:06:16:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sorry this isn't<br />going to work out.</p>
+      <p xml:id="61" xml:space="preserve" begin="00:06:16:08" end="00:06:17:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No, it's gonna work out.</p>
+      <p xml:id="62" xml:space="preserve" begin="00:06:19:16" end="00:06:20:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No, it isn't.</p>
+      <p xml:id="63" xml:space="preserve" begin="00:06:28:20" end="00:06:30:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Take care, dude.</p>
+      <p xml:id="64" xml:space="preserve" begin="00:06:34:05" end="00:06:36:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fuck. What the fuck, Frank?</p>
+      <p xml:id="65" xml:space="preserve" begin="00:06:36:24" end="00:06:39:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I--<br />- How can we salvage this?</p>
+      <p xml:id="66" xml:space="preserve" begin="00:06:39:20" end="00:06:41:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You still want to pursue this?<br />- Yeah, of course I wanna pursue.</p>
+      <p xml:id="67" xml:space="preserve" begin="00:06:41:22" end="00:06:43:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I wanna announce.<br />This is part of the whole thing.</p>
+      <p xml:id="68" xml:space="preserve" begin="00:06:43:19" end="00:06:46:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- This is the secret sauce.<br />- Do we need to sweeten the offer?</p>
+      <p xml:id="69" xml:space="preserve" begin="00:06:46:10" end="00:06:48:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You wanna bump the offer another point?</p>
+      <p xml:id="70" xml:space="preserve" begin="00:06:49:19" end="00:06:51:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Do you wanna call your dad?</p>
+      <p xml:id="71" xml:space="preserve" begin="00:06:52:14" end="00:06:56:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do I wanna call my dad?<br />No, I don't wanna call my dad.</p>
+      <p xml:id="72" xml:space="preserve" begin="00:06:57:14" end="00:06:58:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Do you wanna call your dad?</p>
+      <p xml:id="73" xml:space="preserve" begin="00:07:00:04" end="00:07:01:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- No.<br />- No?</p>
+      <p xml:id="74" xml:space="preserve" begin="00:07:01:18" end="00:07:04:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do you wanna call your dad?<br />Does anybody wanna call their dad?</p>
+      <p xml:id="75" xml:space="preserve" begin="00:07:04:04" end="00:07:06:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK, nobody wants to talk<br />to their fucking dad.</p>
+      <p xml:id="76" xml:space="preserve" begin="00:07:06:10" end="00:07:09:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, we've started, so let's<br />buy this fucking company.</p>
+      <p xml:id="77" xml:space="preserve" begin="00:07:09:11" end="00:07:10:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm pushing the bid to 120. OK?</p>
+      <p xml:id="78" xml:space="preserve" begin="00:07:10:24" end="00:07:12:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK.</p>
+      <p xml:id="79" xml:space="preserve" begin="00:07:19:00" end="00:07:20:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">How's it going?</p>
+      <p xml:id="80" xml:space="preserve" begin="00:07:20:17" end="00:07:23:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Yeah, I'm right in the middle, Dad.<br />- Did you close?</p>
+      <p xml:id="81" xml:space="preserve" begin="00:07:23:14" end="00:07:26:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, it's OK.<br />We're not quite closed.</p>
+      <p xml:id="82" xml:space="preserve" begin="00:07:26:20" end="00:07:28:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm going to 120.</p>
+      <p xml:id="83" xml:space="preserve" begin="00:07:32:17" end="00:07:35:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, that's good.</p>
+      <p xml:id="84" xml:space="preserve" begin="00:07:35:11" end="00:07:36:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uh...</p>
+      <p xml:id="85" xml:space="preserve" begin="00:07:36:23" end="00:07:39:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and are we still good<br />for the announcement?</p>
+      <p xml:id="86" xml:space="preserve" begin="00:07:39:21" end="00:07:41:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uh-huh.</p>
+      <p xml:id="87" xml:space="preserve" begin="00:07:41:16" end="00:07:43:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Great, 'cause obviously<br />I'm soft floating</p>
+      <p xml:id="88" xml:space="preserve" begin="00:07:44:03" end="00:07:45:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">to, like,<br />Frank and Rava,</p>
+      <p xml:id="89" xml:space="preserve" begin="00:07:46:00" end="00:07:47:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and there's gossip<br />getting soft floated.</p>
+      <p xml:id="90" xml:space="preserve" begin="00:07:48:01" end="00:07:51:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- By who?<br />- Uh, by the ether.</p>
+      <p xml:id="91" xml:space="preserve" begin="00:07:51:08" end="00:07:52:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I don't know.</p>
+      <p xml:id="92" xml:space="preserve" begin="00:07:53:23" end="00:07:56:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, hey, happy birthday,<br />you old geezer.</p>
+      <p xml:id="93" xml:space="preserve" begin="00:07:56:24" end="00:07:59:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Look, it's exciting.<br />This is gonna be great for you, Dad.</p>
+      <p xml:id="94" xml:space="preserve" begin="00:07:59:10" end="00:08:01:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mm-hmm. I'm excited.</p>
+      <p xml:id="95" xml:space="preserve" begin="00:08:30:05" end="00:08:32:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Waystar Royco is a family.</p>
+      <p xml:id="96" xml:space="preserve" begin="00:08:32:06" end="00:08:35:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">A family that spans<br />four continents,</p>
+      <p xml:id="97" xml:space="preserve" begin="00:08:35:11" end="00:08:37:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">50 countries,<br />three divisions:</p>
+      <p xml:id="98" xml:space="preserve" begin="00:08:38:02" end="00:08:40:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entertainment,<br />News and Resorts.</p>
+      <p xml:id="99" xml:space="preserve" begin="00:08:41:03" end="00:08:42:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Working together</p>
+      <p xml:id="100" xml:space="preserve" begin="00:08:42:15" end="00:08:44:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">to provide a net<br />that can hold the world,</p>
+      <p xml:id="101" xml:space="preserve" begin="00:08:45:01" end="00:08:47:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">or catapult it forward</p>
+      <p xml:id="102" xml:space="preserve" begin="00:08:47:13" end="00:08:49:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">to the next adventure!</p>
+      <p xml:id="103" xml:space="preserve" begin="00:08:49:15" end="00:08:51:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Joining Waystar Royco,<br />you're joining one of the most dynamic</p>
+      <p xml:id="104" xml:space="preserve" begin="00:08:52:01" end="00:08:54:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">news and entertainment companies<br />in the world.</p>
+      <p xml:id="105" xml:space="preserve" begin="00:08:54:17" end="00:08:56:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Feel it!</p>
+      <p xml:id="106" xml:space="preserve" begin="00:08:56:19" end="00:08:58:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK, how's everyone feeling?</p>
+      <p xml:id="107" xml:space="preserve" begin="00:08:58:06" end="00:08:59:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Great!<br />- Great!</p>
+      <p xml:id="108" xml:space="preserve" begin="00:08:59:18" end="00:09:01:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Excellent!</p>
+      <p xml:id="109" xml:space="preserve" begin="00:09:01:06" end="00:09:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey. You in the room?</p>
+      <p xml:id="110" xml:space="preserve" begin="00:09:05:23" end="00:09:07:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK. Well, let's go out<br />and give these kids</p>
+      <p xml:id="111" xml:space="preserve" begin="00:09:07:24" end="00:09:09:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">the best day<br />of their lives, huh?</p>
+      <p xml:id="112" xml:space="preserve" begin="00:09:09:17" end="00:09:11:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Feel it!</p>
+      <p xml:id="113" xml:space="preserve" begin="00:09:11:09" end="00:09:12:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Feel it!<br />- Feel it!</p>
+      <p xml:id="114" xml:space="preserve" begin="00:09:15:07" end="00:09:16:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hi!</p>
+      <p xml:id="115" xml:space="preserve" begin="00:09:16:19" end="00:09:18:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hi, Doderick!</p>
+      <p xml:id="116" xml:space="preserve" begin="00:09:18:14" end="00:09:20:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whoo ooh ooh!</p>
+      <p xml:id="117" xml:space="preserve" begin="00:09:20:18" end="00:09:22:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Woo woo woo woo woo!</p>
+      <p xml:id="118" xml:space="preserve" begin="00:09:23:00" end="00:09:24:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hi!</p>
+      <p xml:id="119" xml:space="preserve" begin="00:09:24:12" end="00:09:27:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good morning!</p>
+      <p xml:id="120" xml:space="preserve" begin="00:09:27:07" end="00:09:31:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's Doderick!<br />- Whoo! It's me, Doderick!</p>
+      <p xml:id="121" xml:space="preserve" begin="00:09:31:09" end="00:09:33:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey, happy birthday!</p>
+      <p xml:id="122" xml:space="preserve" begin="00:09:33:06" end="00:09:35:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Don't pull on my tail!</p>
+      <p xml:id="123" xml:space="preserve" begin="00:09:35:17" end="00:09:37:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Don't hit Doderick!</p>
+      <p xml:id="124" xml:space="preserve" begin="00:09:37:21" end="00:09:39:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey!</p>
+      <p xml:id="125" xml:space="preserve" begin="00:09:39:09" end="00:09:40:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Quit it!</p>
+      <p xml:id="126" xml:space="preserve" begin="00:09:40:21" end="00:09:42:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whoa, whoa, whoa, whoa, whoa!</p>
+      <p xml:id="127" xml:space="preserve" begin="00:09:44:13" end="00:09:47:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Wait, OK. Please get off.</p>
+      <p xml:id="128" xml:space="preserve" begin="00:09:47:07" end="00:09:48:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Can you fuck off?</p>
+      <p xml:id="129" xml:space="preserve" begin="00:09:48:20" end="00:09:50:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Can you just get the fuck off?</p>
+      <p xml:id="130" xml:space="preserve" begin="00:09:56:16" end="00:09:59:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ew!<br />He's puking out of his eyes!</p>
+      <p xml:id="131" xml:space="preserve" begin="00:10:01:01" end="00:10:02:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Protein spill.</p>
+      <p xml:id="132" xml:space="preserve" begin="00:10:04:07" end="00:10:06:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK, this way, this way.<br />Come on.</p>
+      <p xml:id="133" xml:space="preserve" begin="00:10:15:10" end="00:10:16:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Greg?</p>
+      <p xml:id="134" xml:space="preserve" begin="00:10:16:22" end="00:10:18:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hi, Mom.</p>
+      <p xml:id="135" xml:space="preserve" begin="00:10:19:03" end="00:10:21:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">How-- Are you OK?<br />How's it going?</p>
+      <p xml:id="136" xml:space="preserve" begin="00:10:22:03" end="00:10:24:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mom, sorry,<br />but I sort of screwed up.</p>
+      <p xml:id="137" xml:space="preserve" begin="00:10:24:19" end="00:10:27:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, not me, actually,<br />but this kid.</p>
+      <p xml:id="138" xml:space="preserve" begin="00:10:27:19" end="00:10:29:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Greg.</p>
+      <p xml:id="139" xml:space="preserve" begin="00:10:29:06" end="00:10:31:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, this kid smoked a joint<br />in my car.</p>
+      <p xml:id="140" xml:space="preserve" begin="00:10:31:10" end="00:10:32:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">A kid.</p>
+      <p xml:id="141" xml:space="preserve" begin="00:10:32:22" end="00:10:35:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Like this hitchhiker kid that</p>
+      <p xml:id="142" xml:space="preserve" begin="00:10:35:06" end="00:10:36:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I picked up this morning,<br />like earlier this morning.</p>
+      <p xml:id="143" xml:space="preserve" begin="00:10:37:00" end="00:10:39:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">'Cause it was raining<br />and I didn't want...</p>
+      <p xml:id="144" xml:space="preserve" begin="00:10:39:10" end="00:10:41:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I didn't want him<br />to get sexually assaulted?</p>
+      <p xml:id="145" xml:space="preserve" begin="00:10:41:20" end="00:10:43:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Greg.<br />- Before I could even say anything...</p>
+      <p xml:id="146" xml:space="preserve" begin="00:10:43:19" end="00:10:45:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What the fuck?</p>
+      <p xml:id="147" xml:space="preserve" begin="00:10:45:07" end="00:10:46:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">...aggressively takes out--</p>
+      <p xml:id="148" xml:space="preserve" begin="00:10:47:00" end="00:10:49:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Have you ever seen, like,<br />so, a doobie?</p>
+      <p xml:id="149" xml:space="preserve" begin="00:10:49:20" end="00:10:52:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And the car<br />smelled like skunk weed.</p>
+      <p xml:id="150" xml:space="preserve" begin="00:10:52:08" end="00:10:53:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And then I guess<br />I smelled like it.</p>
+      <p xml:id="151" xml:space="preserve" begin="00:10:53:21" end="00:10:55:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And then<br />they were just like,</p>
+      <p xml:id="152" xml:space="preserve" begin="00:10:55:22" end="00:10:57:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Get all your stuff and go."</p>
+      <p xml:id="153" xml:space="preserve" begin="00:10:57:20" end="00:10:59:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Greg.</p>
+      <p xml:id="154" xml:space="preserve" begin="00:10:59:07" end="00:11:01:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Did you even think for one second<br />to tell them who you are?</p>
+      <p xml:id="155" xml:space="preserve" begin="00:11:02:03" end="00:11:05:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No, I thought-- I didn't wanna be<br />an asshole or get into it all.</p>
+      <p xml:id="156" xml:space="preserve" begin="00:11:05:19" end="00:11:07:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- OK.<br />- I don't know.</p>
+      <p xml:id="157" xml:space="preserve" begin="00:11:07:06" end="00:11:08:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Here's what you're gonna do.</p>
+      <p xml:id="158" xml:space="preserve" begin="00:11:08:18" end="00:11:10:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're gonna get a plane ticket<br />to New York.</p>
+      <p xml:id="159" xml:space="preserve" begin="00:11:10:10" end="00:11:12:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's your Uncle--<br />your Great-Uncle Logan's birthday,</p>
+      <p xml:id="160" xml:space="preserve" begin="00:11:13:01" end="00:11:14:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">and they're having a big party.</p>
+      <p xml:id="161" xml:space="preserve" begin="00:11:14:21" end="00:11:16:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'll call Marcia<br />and tell her you're coming.</p>
+      <p xml:id="162" xml:space="preserve" begin="00:11:16:12" end="00:11:18:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's his birthday?<br />- You're gonna go to the party.</p>
+      <p xml:id="163" xml:space="preserve" begin="00:11:19:01" end="00:11:20:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You're gonna get him a nice gift.</p>
+      <p xml:id="164" xml:space="preserve" begin="00:11:20:22" end="00:11:22:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And you're gonna look nice.</p>
+      <p xml:id="165" xml:space="preserve" begin="00:11:22:17" end="00:11:25:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">In a grown-up shirt<br />and a grown-up blazer.</p>
+      <p xml:id="166" xml:space="preserve" begin="00:11:25:13" end="00:11:27:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">A blazer?</p>
+      <p xml:id="167" xml:space="preserve" begin="00:11:27:15" end="00:11:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll let you know.</p>
+      <p xml:id="168" xml:space="preserve" begin="00:11:29:21" end="00:11:32:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">They're not gonna budge unless<br />it gets to be a stupid number.</p>
+      <p xml:id="169" xml:space="preserve" begin="00:11:32:12" end="00:11:33:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's a stupid number?</p>
+      <p xml:id="170" xml:space="preserve" begin="00:11:33:24" end="00:11:35:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What's stupid?<br />A "badillion"? I don't know.</p>
+      <p xml:id="171" xml:space="preserve" begin="00:11:35:20" end="00:11:38:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Because 120 is stupid. Am I wrong?<br />120 is a stupid number.</p>
+      <p xml:id="172" xml:space="preserve" begin="00:11:38:24" end="00:11:40:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But it's not really<br />a money thing right now.</p>
+      <p xml:id="173" xml:space="preserve" begin="00:11:40:18" end="00:11:42:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Mr. Roy, someone's here to see you.<br />- OK. Who's this?</p>
+      <p xml:id="174" xml:space="preserve" begin="00:11:42:18" end="00:11:44:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hi, Kendall Roy?<br />- Yeah, hi.</p>
+      <p xml:id="175" xml:space="preserve" begin="00:11:44:21" end="00:11:49:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I was sent by Roman<br />to burn some sage.</p>
+      <p xml:id="176" xml:space="preserve" begin="00:11:49:04" end="00:11:50:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Excuse me?</p>
+      <p xml:id="177" xml:space="preserve" begin="00:11:50:16" end="00:11:53:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's auspicious.<br />I'm a business alchemist.</p>
+      <p xml:id="178" xml:space="preserve" begin="00:11:53:18" end="00:11:56:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's a gift, from your brother.<br />- Will it set off the smoke alarms?</p>
+      <p xml:id="179" xml:space="preserve" begin="00:11:56:19" end="00:11:58:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Not usually.<br />- Not usually?</p>
+      <p xml:id="180" xml:space="preserve" begin="00:11:58:23" end="00:12:01:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey, hey, motherfuckers!</p>
+      <p xml:id="181" xml:space="preserve" begin="00:12:02:15" end="00:12:04:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Roman.<br />- My guy?</p>
+      <p xml:id="182" xml:space="preserve" begin="00:12:04:17" end="00:12:06:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Are you saging?</p>
+      <p xml:id="183" xml:space="preserve" begin="00:12:06:04" end="00:12:08:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, we're concerned<br />about the alarms.</p>
+      <p xml:id="184" xml:space="preserve" begin="00:12:08:07" end="00:12:09:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ooh, right, yeah,<br />the bad juju.</p>
+      <p xml:id="185" xml:space="preserve" begin="00:12:10:00" end="00:12:12:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Now, I can use essential oils.</p>
+      <p xml:id="186" xml:space="preserve" begin="00:12:12:10" end="00:12:14:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, I think<br />just fuck off, thanks.</p>
+      <p xml:id="187" xml:space="preserve" begin="00:12:14:15" end="00:12:15:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">How ya doing?</p>
+      <p xml:id="188" xml:space="preserve" begin="00:12:16:02" end="00:12:18:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good. Good. Just finessing.</p>
+      <p xml:id="189" xml:space="preserve" begin="00:12:18:16" end="00:12:21:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mm. Finessing. Nice.</p>
+      <p xml:id="190" xml:space="preserve" begin="00:12:21:13" end="00:12:24:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bye.<br />He's good.</p>
+      <p xml:id="191" xml:space="preserve" begin="00:12:24:09" end="00:12:25:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You OK, man?</p>
+      <p xml:id="192" xml:space="preserve" begin="00:12:26:03" end="00:12:28:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK? Yes, I'm OK. Obviously.</p>
+      <p xml:id="193" xml:space="preserve" begin="00:12:29:01" end="00:12:30:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Why would you even ask that?</p>
+      <p xml:id="194" xml:space="preserve" begin="00:12:30:13" end="00:12:32:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I don't know.<br />Just, you know.</p>
+      <p xml:id="195" xml:space="preserve" begin="00:12:32:24" end="00:12:36:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Here? Man, I'm so over it.<br />I was a bad fit.</p>
+      <p xml:id="196" xml:space="preserve" begin="00:12:36:14" end="00:12:38:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I was never a corporate<br />cock-suck anyway.</p>
+      <p xml:id="197" xml:space="preserve" begin="00:12:39:03" end="00:12:41:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Besides, I never made it this<br />high in the fucking building!</p>
+      <p xml:id="198" xml:space="preserve" begin="00:12:41:06" end="00:12:43:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">They stuck me in LA<br />with Old Father Time right here.</p>
+      <p xml:id="199" xml:space="preserve" begin="00:12:43:06" end="00:12:45:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We were the pool boys, right, Frank?<br />Fuckin' banana cabana?</p>
+      <p xml:id="200" xml:space="preserve" begin="00:12:45:24" end="00:12:47:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good times.</p>
+      <p xml:id="201" xml:space="preserve" begin="00:12:49:13" end="00:12:51:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, what's the bid?</p>
+      <p xml:id="202" xml:space="preserve" begin="00:12:51:09" end="00:12:53:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What's the bid?<br />- Mm-hmm.</p>
+      <p xml:id="203" xml:space="preserve" begin="00:12:53:16" end="00:12:54:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Well...</p>
+      <p xml:id="204" xml:space="preserve" begin="00:12:56:09" end="00:12:58:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What?<br />That's commercially sensitive?</p>
+      <p xml:id="205" xml:space="preserve" begin="00:12:58:13" end="00:13:00:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm still on the board, man.</p>
+      <p xml:id="206" xml:space="preserve" begin="00:13:00:14" end="00:13:01:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Going 125.</p>
+      <p xml:id="207" xml:space="preserve" begin="00:13:02:01" end="00:13:04:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- One-twenty-five?<br />- What?</p>
+      <p xml:id="208" xml:space="preserve" begin="00:13:04:05" end="00:13:06:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Fuck!<br />- What? High or low?</p>
+      <p xml:id="209" xml:space="preserve" begin="00:13:06:10" end="00:13:08:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You're laughing. What?<br />- No.</p>
+      <p xml:id="210" xml:space="preserve" begin="00:13:08:14" end="00:13:09:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- For Vaulter, right?<br />- Yeah.</p>
+      <p xml:id="211" xml:space="preserve" begin="00:13:10:03" end="00:13:12:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bit of content<br />and a brand name?</p>
+      <p xml:id="212" xml:space="preserve" begin="00:13:12:09" end="00:13:14:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bit of content and a brand name<br />kinda's the whole game. Isn't it?</p>
+      <p xml:id="213" xml:space="preserve" begin="00:13:14:11" end="00:13:16:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Mm-hmm.<br />- What are you laughing at?</p>
+      <p xml:id="214" xml:space="preserve" begin="00:13:17:01" end="00:13:18:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I don't know what I'm talking about.</p>
+      <p xml:id="215" xml:space="preserve" begin="00:13:18:13" end="00:13:20:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're gonna be captain of the ship<br />soon enough. So I don't--</p>
+      <p xml:id="216" xml:space="preserve" begin="00:13:20:17" end="00:13:23:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Shh.<br />- Oh, shit.</p>
+      <p xml:id="217" xml:space="preserve" begin="00:13:23:13" end="00:13:26:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sorry. Fuck you, man.</p>
+      <p xml:id="218" xml:space="preserve" begin="00:13:26:06" end="00:13:28:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Every intern on the street<br />knows that you're stepping up.</p>
+      <p xml:id="219" xml:space="preserve" begin="00:13:28:07" end="00:13:30:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Seriously, congrats.</p>
+      <p xml:id="220" xml:space="preserve" begin="00:13:30:21" end="00:13:34:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm just so pleased to be out of here.<br />This place was essentially a cage to me.</p>
+      <p xml:id="221" xml:space="preserve" begin="00:13:35:01" end="00:13:37:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I should take off. Fuck it.<br />Hey, congrats, man.</p>
+      <p xml:id="222" xml:space="preserve" begin="00:13:37:16" end="00:13:39:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Thanks for coming by.<br />- Mm-hmm.</p>
+      <p xml:id="223" xml:space="preserve" begin="00:13:39:11" end="00:13:40:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mwah.</p>
+      <p xml:id="224" xml:space="preserve" begin="00:13:43:05" end="00:13:45:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Look at all this fuckin' bullshit!</p>
+      <p xml:id="225" xml:space="preserve" begin="00:13:46:20" end="00:13:49:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mm, yes, mm, very serious, mm.</p>
+      <p xml:id="226" xml:space="preserve" begin="00:13:51:10" end="00:13:53:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Love you, brother.</p>
+      <p xml:id="227" xml:space="preserve" begin="00:14:18:02" end="00:14:19:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good.</p>
+      <p xml:id="228" xml:space="preserve" begin="00:14:21:24" end="00:14:23:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Right.</p>
+      <p xml:id="229" xml:space="preserve" begin="00:14:23:11" end="00:14:25:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Just keep everything<br />straight, OK?</p>
+      <p xml:id="230" xml:space="preserve" begin="00:14:28:05" end="00:14:29:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good. Right.</p>
+      <p xml:id="231" xml:space="preserve" begin="00:14:45:13" end="00:14:47:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">By the way, we need<br />another setting.</p>
+      <p xml:id="232" xml:space="preserve" begin="00:14:47:22" end="00:14:49:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Another family member<br />is coming.</p>
+      <p xml:id="233" xml:space="preserve" begin="00:14:56:23" end="00:14:58:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Marcy.<br />- What?</p>
+      <p xml:id="234" xml:space="preserve" begin="00:14:58:21" end="00:15:00:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm heading out,</p>
+      <p xml:id="235" xml:space="preserve" begin="00:15:00:08" end="00:15:02:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">as ordered.</p>
+      <p xml:id="236" xml:space="preserve" begin="00:15:02:05" end="00:15:04:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Great. Till 1:00--</p>
+      <p xml:id="237" xml:space="preserve" begin="00:15:04:20" end="00:15:06:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fine. But in here, yeah?</p>
+      <p xml:id="238" xml:space="preserve" begin="00:15:06:20" end="00:15:08:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I don't want a fuckin' heart attack<br />from the surprise.</p>
+      <p xml:id="239" xml:space="preserve" begin="00:15:09:03" end="00:15:11:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And I don't want anyone in my face<br />when I come out of the elevator.</p>
+      <p xml:id="240" xml:space="preserve" begin="00:15:11:21" end="00:15:13:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Right. Distance.</p>
+      <p xml:id="241" xml:space="preserve" begin="00:15:13:17" end="00:15:15:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Have them here.<br />And, uh...</p>
+      <p xml:id="242" xml:space="preserve" begin="00:15:15:23" end="00:15:18:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What?<br />- Not too loud.</p>
+      <p xml:id="243" xml:space="preserve" begin="00:15:18:13" end="00:15:22:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do you want me to email you<br />the exact details of the surprise?</p>
+      <p xml:id="244" xml:space="preserve" begin="00:15:23:15" end="00:15:24:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah?</p>
+      <p xml:id="245" xml:space="preserve" begin="00:15:25:19" end="00:15:27:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'll see you later.<br />- Yeah.</p>
+      <p xml:id="246" xml:space="preserve" begin="00:15:27:11" end="00:15:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Right. Get your coat.<br />- Yeah, yeah.</p>
+      <p xml:id="247" xml:space="preserve" begin="00:15:30:19" end="00:15:33:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Richard, get him his coat.<br />- Of course.</p>
+      <p xml:id="248" xml:space="preserve" begin="00:15:33:18" end="00:15:36:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Just double-check.<br />- OK.</p>
+      <p xml:id="249" xml:space="preserve" begin="00:15:36:22" end="00:15:38:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">When were you<br />gonna look at that speech?</p>
+      <p xml:id="250" xml:space="preserve" begin="00:15:39:01" end="00:15:41:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'll be back by Sunday night so I'll<br />look at his speech with him then, OK?</p>
+      <p xml:id="251" xml:space="preserve" begin="00:15:41:17" end="00:15:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK, but his office wants<br />the poll numbers by the preekend.</p>
+      <p xml:id="252" xml:space="preserve" begin="00:15:43:14" end="00:15:45:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">The "preekend"?<br />What the fuck's a "preekend"?</p>
+      <p xml:id="253" xml:space="preserve" begin="00:15:45:17" end="00:15:47:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Preekend is Friday.</p>
+      <p xml:id="254" xml:space="preserve" begin="00:15:47:04" end="00:15:48:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">If he wants them by Friday,<br />can he not say Friday?</p>
+      <p xml:id="255" xml:space="preserve" begin="00:15:49:00" end="00:15:51:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Thursday lunch through Friday afternoon<br />is the preekend.</p>
+      <p xml:id="256" xml:space="preserve" begin="00:15:51:09" end="00:15:53:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, fine. Get Rennie<br />to look at the numbers.</p>
+      <p xml:id="257" xml:space="preserve" begin="00:15:53:17" end="00:15:55:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Shiv.</p>
+      <p xml:id="258" xml:space="preserve" begin="00:15:55:04" end="00:15:58:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">This is a fuckin' disaster.<br />I got to strategize my gift.</p>
+      <p xml:id="259" xml:space="preserve" begin="00:15:58:15" end="00:16:01:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What can I get him he'll love?<br />- I don't know.</p>
+      <p xml:id="260" xml:space="preserve" begin="00:16:01:06" end="00:16:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- My dad doesn't really like things.<br />- He doesn't like things?</p>
+      <p xml:id="261" xml:space="preserve" begin="00:16:03:17" end="00:16:05:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No, not really.</p>
+      <p xml:id="262" xml:space="preserve" begin="00:16:05:04" end="00:16:08:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It needs to say that "I respect you,<br />but I'm not awed by you.</p>
+      <p xml:id="263" xml:space="preserve" begin="00:16:08:04" end="00:16:10:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And that I-- I like you,</p>
+      <p xml:id="264" xml:space="preserve" begin="00:16:10:07" end="00:16:13:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">but I need you to like me<br />before I can love you."</p>
+      <p xml:id="265" xml:space="preserve" begin="00:16:13:20" end="00:16:15:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- So what says that?<br />- Just, look,</p>
+      <p xml:id="266" xml:space="preserve" begin="00:16:15:14" end="00:16:17:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">everything that you get him<br />will mean an equal amount of nothing,</p>
+      <p xml:id="267" xml:space="preserve" begin="00:16:17:24" end="00:16:20:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">so make sure it looks like<br />10 to 15 grand's worth and you're good.</p>
+      <p xml:id="268" xml:space="preserve" begin="00:16:20:12" end="00:16:22:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Will you come in here and help me?<br />- Yes.</p>
+      <p xml:id="269" xml:space="preserve" begin="00:16:22:10" end="00:16:25:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Please help me.<br />- Yes. Get him a watch.</p>
+      <p xml:id="270" xml:space="preserve" begin="00:16:25:15" end="00:16:27:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">If we go stupid on the stock,</p>
+      <p xml:id="271" xml:space="preserve" begin="00:16:27:11" end="00:16:30:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">what does a really sexy package<br />look like? Hmm?</p>
+      <p xml:id="272" xml:space="preserve" begin="00:16:30:19" end="00:16:34:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He's probably illiquid, right? So, what,<br />we throw in another ten million?</p>
+      <p xml:id="273" xml:space="preserve" begin="00:16:34:15" end="00:16:36:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Might need<br />to throw in a blow job, too.</p>
+      <p xml:id="274" xml:space="preserve" begin="00:16:36:16" end="00:16:38:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll throw in a blow job.</p>
+      <p xml:id="275" xml:space="preserve" begin="00:16:38:14" end="00:16:40:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll throw in a blow job.</p>
+      <p xml:id="276" xml:space="preserve" begin="00:16:40:17" end="00:16:42:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll throw in a reach-around.</p>
+      <p xml:id="277" xml:space="preserve" begin="00:16:42:07" end="00:16:44:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hell, I'll even cup his balls.</p>
+      <p xml:id="278" xml:space="preserve" begin="00:16:46:16" end="00:16:47:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dad.</p>
+      <p xml:id="279" xml:space="preserve" begin="00:16:48:03" end="00:16:50:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I thought you'd be in St. Barts by now.</p>
+      <p xml:id="280" xml:space="preserve" begin="00:16:53:04" end="00:16:55:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How's it goin'?<br />- Good.</p>
+      <p xml:id="281" xml:space="preserve" begin="00:16:55:11" end="00:16:57:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Uh, yeah.<br />Fine. Good.</p>
+      <p xml:id="282" xml:space="preserve" begin="00:16:58:00" end="00:16:59:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uh, why are you...</p>
+      <p xml:id="283" xml:space="preserve" begin="00:17:01:09" end="00:17:04:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Are we OK?<br />- Yeah, it's just some paperwork.</p>
+      <p xml:id="284" xml:space="preserve" begin="00:17:04:06" end="00:17:06:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What, ahead of the announcement?</p>
+      <p xml:id="285" xml:space="preserve" begin="00:17:06:05" end="00:17:10:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Putting Marcy on the trust.<br />It's...bullshit.</p>
+      <p xml:id="286" xml:space="preserve" begin="00:17:10:05" end="00:17:13:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I, uh, I just felt<br />like checkin' in.</p>
+      <p xml:id="287" xml:space="preserve" begin="00:17:13:10" end="00:17:15:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh. Yeah, fine.</p>
+      <p xml:id="288" xml:space="preserve" begin="00:17:15:08" end="00:17:17:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- So this is just the trust?<br />- Yeah.</p>
+      <p xml:id="289" xml:space="preserve" begin="00:17:17:24" end="00:17:19:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Doesn't affect me stepping up?</p>
+      <p xml:id="290" xml:space="preserve" begin="00:17:19:21" end="00:17:22:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No, no, no, no, no.<br />I think I told you about it.</p>
+      <p xml:id="291" xml:space="preserve" begin="00:17:23:21" end="00:17:25:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Is that--</p>
+      <p xml:id="292" xml:space="preserve" begin="00:17:25:08" end="00:17:27:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sorry, Dad, I'm kind of<br />in the middle of--</p>
+      <p xml:id="293" xml:space="preserve" begin="00:17:27:21" end="00:17:30:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do you need--<br />Do I need to lawyer all this?</p>
+      <p xml:id="294" xml:space="preserve" begin="00:17:30:09" end="00:17:32:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It's housekeeping.</p>
+      <p xml:id="295" xml:space="preserve" begin="00:17:39:17" end="00:17:42:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Fine. Yeah. Yeah.<br />Marcy's fine by me.</p>
+      <p xml:id="296" xml:space="preserve" begin="00:17:42:13" end="00:17:47:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I mean, the others<br />might not feel the same, but...</p>
+      <p xml:id="297" xml:space="preserve" begin="00:17:47:13" end="00:17:48:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll deal with that.</p>
+      <p xml:id="298" xml:space="preserve" begin="00:17:50:21" end="00:17:55:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, I'll see you in...</p>
+      <p xml:id="299" xml:space="preserve" begin="00:17:55:23" end="00:17:58:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, look, Dad, on lunch.</p>
+      <p xml:id="300" xml:space="preserve" begin="00:17:58:18" end="00:18:01:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I really want to be with you,<br />but the deal--</p>
+      <p xml:id="301" xml:space="preserve" begin="00:18:01:12" end="00:18:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Son.<br />- You know.</p>
+      <p xml:id="302" xml:space="preserve" begin="00:18:04:20" end="00:18:06:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It's your call.</p>
+      <p xml:id="303" xml:space="preserve" begin="00:18:06:19" end="00:18:08:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Just priorities.</p>
+      <p xml:id="304" xml:space="preserve" begin="00:18:08:20" end="00:18:10:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">There'll be plenty more.</p>
+      <p xml:id="305" xml:space="preserve" begin="00:18:10:08" end="00:18:12:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uh-oh. Wheat.</p>
+      <p xml:id="306" xml:space="preserve" begin="00:18:14:22" end="00:18:16:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bye, Frank.</p>
+      <p xml:id="307" xml:space="preserve" begin="00:18:16:18" end="00:18:18:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">All right, amigo.</p>
+      <p xml:id="308" xml:space="preserve" begin="00:18:20:12" end="00:18:23:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I have five farms,<br />and underneath all my farms</p>
+      <p xml:id="309" xml:space="preserve" begin="00:18:24:03" end="00:18:27:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">runs a big, giant aquifer<br />that's like an underground lake.</p>
+      <p xml:id="310" xml:space="preserve" begin="00:18:27:07" end="00:18:29:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- That's so cool!<br />- I have pumping rights.</p>
+      <p xml:id="311" xml:space="preserve" begin="00:18:29:15" end="00:18:30:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">That means I get to take the water.</p>
+      <p xml:id="312" xml:space="preserve" begin="00:18:31:03" end="00:18:32:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- That's so cool!<br />- And it's very important</p>
+      <p xml:id="313" xml:space="preserve" begin="00:18:32:16" end="00:18:34:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">because someday water's gonna be<br />more precious than gold</p>
+      <p xml:id="314" xml:space="preserve" begin="00:18:34:17" end="00:18:36:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and people are gonna kill each other<br />to try to get that water.</p>
+      <p xml:id="315" xml:space="preserve" begin="00:18:36:15" end="00:18:38:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, hey, hey,<br />Tom, don't, don't.</p>
+      <p xml:id="316" xml:space="preserve" begin="00:18:38:21" end="00:18:40:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Don't listen to him.<br />- Right, right, sorry.</p>
+      <p xml:id="317" xml:space="preserve" begin="00:18:41:00" end="00:18:43:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But I'm gonna have the water.<br />And I'll share with you.</p>
+      <p xml:id="318" xml:space="preserve" begin="00:18:43:11" end="00:18:45:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hi.<br />- Hi.</p>
+      <p xml:id="319" xml:space="preserve" begin="00:18:45:24" end="00:18:47:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How are you?<br />- Good.</p>
+      <p xml:id="320" xml:space="preserve" begin="00:18:47:11" end="00:18:49:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How are you?<br />- Good. You look great.</p>
+      <p xml:id="321" xml:space="preserve" begin="00:18:49:13" end="00:18:51:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What a beautiful color.<br />- Thanks. Same.</p>
+      <p xml:id="322" xml:space="preserve" begin="00:18:52:00" end="00:18:53:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Thank you.<br />- Love that.</p>
+      <p xml:id="323" xml:space="preserve" begin="00:18:53:12" end="00:18:54:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Thanks.</p>
+      <p xml:id="324" xml:space="preserve" begin="00:18:54:24" end="00:18:56:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hi, Tom.<br />- Hey, Marcia, how are you?</p>
+      <p xml:id="325" xml:space="preserve" begin="00:18:56:11" end="00:18:57:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Nice to see you.<br />- Nice to see you.</p>
+      <p xml:id="326" xml:space="preserve" begin="00:18:57:23" end="00:18:59:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How are you?<br />- Very good.</p>
+      <p xml:id="327" xml:space="preserve" begin="00:18:59:10" end="00:19:01:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, Global Tom. How you shaking?<br />You still fucking shit up for us?</p>
+      <p xml:id="328" xml:space="preserve" begin="00:19:02:00" end="00:19:05:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Still cleaning up your mess, pal.<br />- Yeah, right.</p>
+      <p xml:id="329" xml:space="preserve" begin="00:19:05:14" end="00:19:07:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hey, sis.<br />- Hi.</p>
+      <p xml:id="330" xml:space="preserve" begin="00:19:07:09" end="00:19:08:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Politics still boring<br />the living shit out of you?</p>
+      <p xml:id="331" xml:space="preserve" begin="00:19:09:00" end="00:19:11:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, you know, I'm burying the bodies,<br />counting the cash.</p>
+      <p xml:id="332" xml:space="preserve" begin="00:19:11:07" end="00:19:14:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Look at you. You look like, you know,<br />an actual human person.</p>
+      <p xml:id="333" xml:space="preserve" begin="00:19:14:09" end="00:19:16:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Well, thanks, buddy.<br />- Mm-hmm.</p>
+      <p xml:id="334" xml:space="preserve" begin="00:19:16:09" end="00:19:17:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hi.<br />- Oh, what is that?</p>
+      <p xml:id="335" xml:space="preserve" begin="00:19:17:21" end="00:19:21:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Date Rape by Calvin Klein?<br />- Yeah, you wish.</p>
+      <p xml:id="336" xml:space="preserve" begin="00:19:21:04" end="00:19:23:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"You wish"?</p>
+      <p xml:id="337" xml:space="preserve" begin="00:19:25:02" end="00:19:26:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Mr. Roy!<br />- Mr. Roy, please!</p>
+      <p xml:id="338" xml:space="preserve" begin="00:19:26:22" end="00:19:28:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mr. Roy. Over here. One shot, please.</p>
+      <p xml:id="339" xml:space="preserve" begin="00:19:28:13" end="00:19:29:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Say, guys,<br />can we back off?</p>
+      <p xml:id="340" xml:space="preserve" begin="00:19:30:03" end="00:19:32:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How 'bout a smile?<br />- Guys, back off. Private event.</p>
+      <p xml:id="341" xml:space="preserve" begin="00:19:32:08" end="00:19:35:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Logan, Logan, you going today?<br />Is that right? Is that right?</p>
+      <p xml:id="342" xml:space="preserve" begin="00:19:35:21" end="00:19:37:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Back off, please.<br />- Fuck off.</p>
+      <p xml:id="343" xml:space="preserve" begin="00:19:38:00" end="00:19:40:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Handle that, will ya?<br />- Just one shot!</p>
+      <p xml:id="344" xml:space="preserve" begin="00:19:41:15" end="00:19:42:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mr. Roy.</p>
+      <p xml:id="345" xml:space="preserve" begin="00:19:43:03" end="00:19:45:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hi. Hello. Hello there.</p>
+      <p xml:id="346" xml:space="preserve" begin="00:19:45:09" end="00:19:46:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whoa. Can I help you, sir?</p>
+      <p xml:id="347" xml:space="preserve" begin="00:19:47:02" end="00:19:49:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, I'm actually--<br />I'm actually here to see you.</p>
+      <p xml:id="348" xml:space="preserve" begin="00:19:50:02" end="00:19:51:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Whoa, whoa, whoa,<br />whoa, whoa!</p>
+      <p xml:id="349" xml:space="preserve" begin="00:19:51:19" end="00:19:54:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Get your hands back!</p>
+      <p xml:id="350" xml:space="preserve" begin="00:19:54:04" end="00:19:57:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Who are you? What are you doing?<br />- Greg! I'm Greg!</p>
+      <p xml:id="351" xml:space="preserve" begin="00:19:57:23" end="00:20:01:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm Marianne's Greg.<br />Your nephew?</p>
+      <p xml:id="352" xml:space="preserve" begin="00:20:01:05" end="00:20:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You know this guy?<br />- My Mom called Marcia</p>
+      <p xml:id="353" xml:space="preserve" begin="00:20:03:17" end="00:20:07:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and I talked to that guy<br />and he said that I could go up.</p>
+      <p xml:id="354" xml:space="preserve" begin="00:20:07:07" end="00:20:09:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We're good?<br />- Right.</p>
+      <p xml:id="355" xml:space="preserve" begin="00:20:09:07" end="00:20:11:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I didn't know you were coming.<br />- Yeah, you did.</p>
+      <p xml:id="356" xml:space="preserve" begin="00:20:11:14" end="00:20:13:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sorry about that, guy.</p>
+      <p xml:id="357" xml:space="preserve" begin="00:20:13:14" end="00:20:15:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I think you did.<br />- You all right?</p>
+      <p xml:id="358" xml:space="preserve" begin="00:20:16:01" end="00:20:17:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Sorry about that.<br />- I hope it's OK.</p>
+      <p xml:id="359" xml:space="preserve" begin="00:20:17:19" end="00:20:19:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I wanted to say happy birth--</p>
+      <p xml:id="360" xml:space="preserve" begin="00:20:20:01" end="00:20:22:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Happy birthday and many happy returns.<br />- Oh, thank you.</p>
+      <p xml:id="361" xml:space="preserve" begin="00:20:25:01" end="00:20:26:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I suppose you better come up.</p>
+      <p xml:id="362" xml:space="preserve" begin="00:20:28:10" end="00:20:30:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He's a very good bodyguard.</p>
+      <p xml:id="363" xml:space="preserve" begin="00:20:31:22" end="00:20:33:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Folks, he's back!</p>
+      <p xml:id="364" xml:space="preserve" begin="00:20:33:15" end="00:20:36:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He's back. Find a place.<br />Hide for the surprise. Come on.</p>
+      <p xml:id="365" xml:space="preserve" begin="00:20:36:05" end="00:20:38:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Oh, we're not surprising him, are we?<br />- Yeah.</p>
+      <p xml:id="366" xml:space="preserve" begin="00:20:38:06" end="00:20:40:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, he's gonna love this.</p>
+      <p xml:id="367" xml:space="preserve" begin="00:20:40:17" end="00:20:43:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Think last time I surprised him,<br />he took a swing at me.</p>
+      <p xml:id="368" xml:space="preserve" begin="00:20:44:01" end="00:20:48:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You might know this,<br />but I got a little bit of help,</p>
+      <p xml:id="369" xml:space="preserve" begin="00:20:48:05" end="00:20:50:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and I got onto the international<br />management training program?</p>
+      <p xml:id="370" xml:space="preserve" begin="00:20:50:14" end="00:20:54:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">The theme park tour?<br />And I was very into it?</p>
+      <p xml:id="371" xml:space="preserve" begin="00:20:55:23" end="00:20:58:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And...I got sick.</p>
+      <p xml:id="372" xml:space="preserve" begin="00:20:59:01" end="00:21:01:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Out of Doderick's eyeholes.</p>
+      <p xml:id="373" xml:space="preserve" begin="00:21:01:20" end="00:21:03:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Surprise!</p>
+      <p xml:id="374" xml:space="preserve" begin="00:21:03:07" end="00:21:05:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Great. Excellent. Wonderful.</p>
+      <p xml:id="375" xml:space="preserve" begin="00:21:05:07" end="00:21:08:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Go ahead. Go ahead.<br />- Hi. Hi.</p>
+      <p xml:id="376" xml:space="preserve" begin="00:21:08:14" end="00:21:11:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">OK. OK. Give me room.<br />Give me room.</p>
+      <p xml:id="377" xml:space="preserve" begin="00:21:11:21" end="00:21:15:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Thank you. Thank you.<br />What a surprise.</p>
+      <p xml:id="378" xml:space="preserve" begin="00:21:15:24" end="00:21:17:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Marcia.<br />- What?</p>
+      <p xml:id="379" xml:space="preserve" begin="00:21:17:11" end="00:21:20:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What did I say?<br />I said nobody by the elevator.</p>
+      <p xml:id="380" xml:space="preserve" begin="00:21:20:19" end="00:21:23:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And what do I find?<br />Everybody's by the elevator.</p>
+      <p xml:id="381" xml:space="preserve" begin="00:21:23:10" end="00:21:24:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's a surprise.<br />- Oh, a surprise.</p>
+      <p xml:id="382" xml:space="preserve" begin="00:21:24:22" end="00:21:26:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Give me that.<br />- Some surprise.</p>
+      <p xml:id="383" xml:space="preserve" begin="00:21:26:09" end="00:21:28:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">In the office, please.</p>
+      <p xml:id="384" xml:space="preserve" begin="00:21:28:08" end="00:21:31:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Connor, Primo!<br />How are you?</p>
+      <p xml:id="385" xml:space="preserve" begin="00:21:31:09" end="00:21:34:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Good. Excellent, Pa.<br />Here you go.</p>
+      <p xml:id="386" xml:space="preserve" begin="00:21:34:08" end="00:21:36:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ah.</p>
+      <p xml:id="387" xml:space="preserve" begin="00:21:36:15" end="00:21:39:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Roman! Romulus! Look at you!<br />You look fantastic!</p>
+      <p xml:id="388" xml:space="preserve" begin="00:21:39:19" end="00:21:42:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, of course.<br />Happy birthday.</p>
+      <p xml:id="389" xml:space="preserve" begin="00:21:42:16" end="00:21:45:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Siobhan. Sweetheart.<br />- Happy birthday.</p>
+      <p xml:id="390" xml:space="preserve" begin="00:21:45:15" end="00:21:48:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Where's Tom?<br />- He's here. He's just there.</p>
+      <p xml:id="391" xml:space="preserve" begin="00:21:48:14" end="00:21:50:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, well, never mind.</p>
+      <p xml:id="392" xml:space="preserve" begin="00:21:53:01" end="00:21:55:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, oh, oh, oh.</p>
+      <p xml:id="393" xml:space="preserve" begin="00:21:55:15" end="00:21:58:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Everybody, this is...</p>
+      <p xml:id="394" xml:space="preserve" begin="00:21:58:10" end="00:22:00:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Craig, by the way.</p>
+      <p xml:id="395" xml:space="preserve" begin="00:22:00:13" end="00:22:02:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Cousin Craig.</p>
+      <p xml:id="396" xml:space="preserve" begin="00:22:03:01" end="00:22:06:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">"Craig"? It's Greg. N-No?</p>
+      <p xml:id="397" xml:space="preserve" begin="00:22:06:15" end="00:22:08:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah. Greg.</p>
+      <p xml:id="398" xml:space="preserve" begin="00:22:08:17" end="00:22:13:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">People sometimes, like,<br />mistakenly call me Craig, too,</p>
+      <p xml:id="399" xml:space="preserve" begin="00:22:13:07" end="00:22:15:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">so I'll answer to both.</p>
+      <p xml:id="400" xml:space="preserve" begin="00:22:15:13" end="00:22:18:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Here. This is just<br />a token of my very real</p>
+      <p xml:id="401" xml:space="preserve" begin="00:22:18:10" end="00:22:21:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- and enduring admiration, in the hope--<br />- Kendall?</p>
+      <p xml:id="402" xml:space="preserve" begin="00:22:23:07" end="00:22:25:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You came?</p>
+      <p xml:id="403" xml:space="preserve" begin="00:22:27:00" end="00:22:28:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, of course.</p>
+      <p xml:id="404" xml:space="preserve" begin="00:22:30:00" end="00:22:31:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Happy birthday, Dad.<br />- Uh-huh.</p>
+      <p xml:id="405" xml:space="preserve" begin="00:22:32:03" end="00:22:33:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hey, Marcy.<br />- Hi.</p>
+      <p xml:id="406" xml:space="preserve" begin="00:22:33:19" end="00:22:35:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How are you?<br />- Big day.</p>
+      <p xml:id="407" xml:space="preserve" begin="00:22:35:11" end="00:22:37:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Congratulations...<br />you bastard.</p>
+      <p xml:id="408" xml:space="preserve" begin="00:22:37:19" end="00:22:39:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Congratulations. Good luck.<br />- Thanks.</p>
+      <p xml:id="409" xml:space="preserve" begin="00:22:40:00" end="00:22:41:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey. Hey, Kendall.</p>
+      <p xml:id="410" xml:space="preserve" begin="00:22:41:20" end="00:22:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How's it goin'?<br />- So! What's the news?</p>
+      <p xml:id="411" xml:space="preserve" begin="00:22:43:14" end="00:22:47:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, good, good.<br />We're at the one-yard line.</p>
+      <p xml:id="412" xml:space="preserve" begin="00:22:48:15" end="00:22:50:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm just gonna--<br />This is important.</p>
+      <p xml:id="413" xml:space="preserve" begin="00:22:50:07" end="00:22:52:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Uh, sorry, guys,<br />I'll be right back.</p>
+      <p xml:id="414" xml:space="preserve" begin="00:22:52:19" end="00:22:54:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Excuse me. Hello.</p>
+      <p xml:id="415" xml:space="preserve" begin="00:22:56:13" end="00:22:58:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I hear you went down?<br />Did you go down?</p>
+      <p xml:id="416" xml:space="preserve" begin="00:22:58:05" end="00:22:59:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, yeah, I did.</p>
+      <p xml:id="417" xml:space="preserve" begin="00:22:59:19" end="00:23:01:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Not so good.</p>
+      <p xml:id="418" xml:space="preserve" begin="00:23:01:13" end="00:23:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It's a shitshow.</p>
+      <p xml:id="419" xml:space="preserve" begin="00:23:04:06" end="00:23:06:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Just gotta get somewhere quiet.<br />- Yeah, I got news.</p>
+      <p xml:id="420" xml:space="preserve" begin="00:23:06:11" end="00:23:07:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey, talk to me.</p>
+      <p xml:id="421" xml:space="preserve" begin="00:23:08:03" end="00:23:10:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, PPG Bank<br />have got their nose in,</p>
+      <p xml:id="422" xml:space="preserve" begin="00:23:10:04" end="00:23:11:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">might be rustling up another bid.</p>
+      <p xml:id="423" xml:space="preserve" begin="00:23:11:19" end="00:23:14:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Word's out. We gotta move.<br />What do you wanna do?</p>
+      <p xml:id="424" xml:space="preserve" begin="00:23:14:15" end="00:23:15:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm gonna call you back in five.</p>
+      <p xml:id="425" xml:space="preserve" begin="00:23:17:05" end="00:23:18:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm not losing this deal.<br />- All right.</p>
+      <p xml:id="426" xml:space="preserve" begin="00:23:18:22" end="00:23:21:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We call PPG, we offer<br />to cut them in on the financing</p>
+      <p xml:id="427" xml:space="preserve" begin="00:23:21:08" end="00:23:22:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">if they make the other bid fuck off.</p>
+      <p xml:id="428" xml:space="preserve" begin="00:23:22:21" end="00:23:25:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Great idea, Ken,<br />great idea.</p>
+      <p xml:id="429" xml:space="preserve" begin="00:23:25:14" end="00:23:29:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Boom. Kendall takes over.<br />Boom. Acquisition.</p>
+      <p xml:id="430" xml:space="preserve" begin="00:23:29:18" end="00:23:31:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">That's how it's done.</p>
+      <p xml:id="431" xml:space="preserve" begin="00:23:32:18" end="00:23:34:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, you know, I wanted<br />to talk to you about Tom.</p>
+      <p xml:id="432" xml:space="preserve" begin="00:23:34:12" end="00:23:36:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He thinks he might<br />be ready for the parks,</p>
+      <p xml:id="433" xml:space="preserve" begin="00:23:36:16" end="00:23:38:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- you know, globally and--<br />- Look, Dad,</p>
+      <p xml:id="434" xml:space="preserve" begin="00:23:38:11" end="00:23:40:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">we should get this<br />somewhere ambient.</p>
+      <p xml:id="435" xml:space="preserve" begin="00:23:40:11" end="00:23:42:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You want to?<br />- Connor. How are you?</p>
+      <p xml:id="436" xml:space="preserve" begin="00:23:42:05" end="00:23:43:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How's the ranch?<br />- Oh, perfect.</p>
+      <p xml:id="437" xml:space="preserve" begin="00:23:43:21" end="00:23:46:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">The light pollution<br />is practically zero,</p>
+      <p xml:id="438" xml:space="preserve" begin="00:23:46:04" end="00:23:48:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">so, you know, that's nice.</p>
+      <p xml:id="439" xml:space="preserve" begin="00:23:48:05" end="00:23:50:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hey.<br />- Oh, wonderful.</p>
+      <p xml:id="440" xml:space="preserve" begin="00:23:51:19" end="00:23:53:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What is it?</p>
+      <p xml:id="441" xml:space="preserve" begin="00:23:53:06" end="00:23:54:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Well...<br />- Oh, yes, yes.</p>
+      <p xml:id="442" xml:space="preserve" begin="00:23:54:21" end="00:23:57:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's a-- It's a goo.<br />It's a fucking goo?</p>
+      <p xml:id="443" xml:space="preserve" begin="00:23:57:13" end="00:24:00:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's perfect.<br />- It's sourdough starter.</p>
+      <p xml:id="444" xml:space="preserve" begin="00:24:00:10" end="00:24:01:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Amazing.</p>
+      <p xml:id="445" xml:space="preserve" begin="00:24:02:03" end="00:24:03:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I thought that you might<br />like to make something.</p>
+      <p xml:id="446" xml:space="preserve" begin="00:24:04:01" end="00:24:05:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ah, great.</p>
+      <p xml:id="447" xml:space="preserve" begin="00:24:06:00" end="00:24:08:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, OK, you shouldn't<br />have opened it. OK?</p>
+      <p xml:id="448" xml:space="preserve" begin="00:24:08:10" end="00:24:11:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Never mind, forget it. It was an idea.<br />I thought you might like it.</p>
+      <p xml:id="449" xml:space="preserve" begin="00:24:11:14" end="00:24:15:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I do. I do. I just don't know<br />what the fuck it is.</p>
+      <p xml:id="450" xml:space="preserve" begin="00:24:15:10" end="00:24:19:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's sourdough starter to make bread<br />without yeast-- the old way.</p>
+      <p xml:id="451" xml:space="preserve" begin="00:24:20:03" end="00:24:22:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh. Oh, OK.</p>
+      <p xml:id="452" xml:space="preserve" begin="00:24:22:17" end="00:24:25:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Old bread. Thank you.</p>
+      <p xml:id="453" xml:space="preserve" begin="00:24:25:15" end="00:24:28:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It's very kind. Thank you very much.<br />- You bet.</p>
+      <p xml:id="454" xml:space="preserve" begin="00:24:28:11" end="00:24:29:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Be nice.</p>
+      <p xml:id="455" xml:space="preserve" begin="00:24:33:19" end="00:24:36:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- How's it lookin'?<br />- Looking good.</p>
+      <p xml:id="456" xml:space="preserve" begin="00:24:36:07" end="00:24:37:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'll keep you posted.</p>
+      <p xml:id="457" xml:space="preserve" begin="00:24:37:21" end="00:24:41:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I just checked with Frank,<br />and the holidays mean</p>
+      <p xml:id="458" xml:space="preserve" begin="00:24:42:00" end="00:24:44:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">the board might be<br />kinda hard to get together,</p>
+      <p xml:id="459" xml:space="preserve" begin="00:24:44:06" end="00:24:46:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">so if it's cool<br />I've scheduled a call at 4:00?</p>
+      <p xml:id="460" xml:space="preserve" begin="00:24:46:24" end="00:24:48:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Then we can<br />issue the release?</p>
+      <p xml:id="461" xml:space="preserve" begin="00:24:48:24" end="00:24:51:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Uh-huh. You did?<br />- Yeah. Is that OK?</p>
+      <p xml:id="462" xml:space="preserve" begin="00:24:54:00" end="00:24:55:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey.</p>
+      <p xml:id="463" xml:space="preserve" begin="00:24:55:12" end="00:24:59:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You go on.<br />I'm not going.</p>
+      <p xml:id="464" xml:space="preserve" begin="00:24:59:17" end="00:25:02:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hey. Give Daddy a hug.<br />- Hi, Daddy.</p>
+      <p xml:id="465" xml:space="preserve" begin="00:25:02:20" end="00:25:04:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Sorry we're late.<br />- No, no, you're not even. Don't worry.</p>
+      <p xml:id="466" xml:space="preserve" begin="00:25:05:01" end="00:25:06:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Twenty's the margin of error.</p>
+      <p xml:id="467" xml:space="preserve" begin="00:25:06:22" end="00:25:09:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, sorry I haven't Skyped<br />with you guys in a couple days.</p>
+      <p xml:id="468" xml:space="preserve" begin="00:25:09:04" end="00:25:10:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I've been super busy.<br />You feel good?</p>
+      <p xml:id="469" xml:space="preserve" begin="00:25:10:20" end="00:25:12:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm good.<br />- OK.</p>
+      <p xml:id="470" xml:space="preserve" begin="00:25:12:07" end="00:25:14:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You see Isla up there?<br />Your friend Isla?</p>
+      <p xml:id="471" xml:space="preserve" begin="00:25:14:16" end="00:25:18:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You guys wanna go see her, maybe make<br />a drawing for Grandpa for his birthday?</p>
+      <p xml:id="472" xml:space="preserve" begin="00:25:20:14" end="00:25:24:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Sorry, one second.<br />- It's OK. Oh, uh,</p>
+      <p xml:id="473" xml:space="preserve" begin="00:25:24:11" end="00:25:26:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I got your message.<br />That's fine.</p>
+      <p xml:id="474" xml:space="preserve" begin="00:25:26:17" end="00:25:30:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, yeah. Yeah. It's just<br />as this all goes through,</p>
+      <p xml:id="475" xml:space="preserve" begin="00:25:30:22" end="00:25:32:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">next two weekends<br />will be kinda crazy.</p>
+      <p xml:id="476" xml:space="preserve" begin="00:25:32:24" end="00:25:34:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But then once it's done,<br />it would be great if--</p>
+      <p xml:id="477" xml:space="preserve" begin="00:25:35:02" end="00:25:37:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, no, it's fine.<br />Bank the weekends, spend them later.</p>
+      <p xml:id="478" xml:space="preserve" begin="00:25:37:09" end="00:25:39:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK. I can come up to you.</p>
+      <p xml:id="479" xml:space="preserve" begin="00:25:39:11" end="00:25:44:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maybe if you want, we could<br />grab dinner for the hand-over?</p>
+      <p xml:id="480" xml:space="preserve" begin="00:25:44:16" end="00:25:48:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ugh. What, like two weekends?<br />Um...</p>
+      <p xml:id="481" xml:space="preserve" begin="00:25:48:13" end="00:25:51:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No? Are you-- Is that not--</p>
+      <p xml:id="482" xml:space="preserve" begin="00:25:51:08" end="00:25:52:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Are you seeing someone?</p>
+      <p xml:id="483" xml:space="preserve" begin="00:25:55:14" end="00:25:56:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah.</p>
+      <p xml:id="484" xml:space="preserve" begin="00:25:57:01" end="00:25:58:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I am.</p>
+      <p xml:id="485" xml:space="preserve" begin="00:25:59:22" end="00:26:01:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And I'm just hoping<br />this one doesn't leave coke</p>
+      <p xml:id="486" xml:space="preserve" begin="00:26:01:16" end="00:26:03:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">smeared all over the kids' iPads.</p>
+      <p xml:id="487" xml:space="preserve" begin="00:26:06:13" end="00:26:08:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">All right, that's fair.</p>
+      <p xml:id="488" xml:space="preserve" begin="00:26:09:08" end="00:26:10:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Oh, God.<br />- It was three years ago, but--</p>
+      <p xml:id="489" xml:space="preserve" begin="00:26:11:03" end="00:26:13:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kendall, I'm fucking with you.</p>
+      <p xml:id="490" xml:space="preserve" begin="00:26:13:05" end="00:26:15:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's OK, it's OK.<br />You're good.</p>
+      <p xml:id="491" xml:space="preserve" begin="00:26:15:16" end="00:26:17:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">This is a big day.<br />Coronation day.</p>
+      <p xml:id="492" xml:space="preserve" begin="00:26:17:23" end="00:26:19:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Yeah.<br />- Hey, you deserve this.</p>
+      <p xml:id="493" xml:space="preserve" begin="00:26:20:22" end="00:26:22:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Seriously.<br />After everything.</p>
+      <p xml:id="494" xml:space="preserve" begin="00:26:22:19" end="00:26:24:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Guys, lunch in ten.</p>
+      <p xml:id="495" xml:space="preserve" begin="00:26:24:22" end="00:26:29:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Listen, just two minutes before lunch<br />in the sitting room.</p>
+      <p xml:id="496" xml:space="preserve" begin="00:26:29:15" end="00:26:31:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kids. Can you<br />give me two minutes.</p>
+      <p xml:id="497" xml:space="preserve" begin="00:26:32:24" end="00:26:34:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Got a speech.</p>
+      <p xml:id="498" xml:space="preserve" begin="00:26:34:11" end="00:26:37:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- So, Uncle Logan, can I--<br />- Not now.</p>
+      <p xml:id="499" xml:space="preserve" begin="00:26:39:22" end="00:26:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sorry, sir. Sir, sir, just,<br />I need your attention, please.</p>
+      <p xml:id="500" xml:space="preserve" begin="00:26:44:23" end="00:26:46:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">About the--<br />what I was talking about earlier,</p>
+      <p xml:id="501" xml:space="preserve" begin="00:26:46:23" end="00:26:48:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">the management<br />training program?</p>
+      <p xml:id="502" xml:space="preserve" begin="00:26:49:01" end="00:26:51:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I need to get back in.</p>
+      <p xml:id="503" xml:space="preserve" begin="00:26:51:24" end="00:26:53:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You're out?<br />- Yes.</p>
+      <p xml:id="504" xml:space="preserve" begin="00:26:53:18" end="00:26:56:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">There was an issue,<br />and I talked to my mom</p>
+      <p xml:id="505" xml:space="preserve" begin="00:26:56:11" end="00:26:58:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">who talked to my grandfather<br />and said that I can come to you</p>
+      <p xml:id="506" xml:space="preserve" begin="00:26:58:18" end="00:27:00:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">and-- and iron it out.</p>
+      <p xml:id="507" xml:space="preserve" begin="00:27:01:24" end="00:27:05:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'll do anything<br />for my brother.</p>
+      <p xml:id="508" xml:space="preserve" begin="00:27:05:06" end="00:27:07:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, that's-- that's nice.</p>
+      <p xml:id="509" xml:space="preserve" begin="00:27:08:00" end="00:27:09:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And I'm gonna work 100%--</p>
+      <p xml:id="510" xml:space="preserve" begin="00:27:09:16" end="00:27:12:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">All he needs to do is just ask.</p>
+      <p xml:id="511" xml:space="preserve" begin="00:27:12:05" end="00:27:13:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">My grandfather?</p>
+      <p xml:id="512" xml:space="preserve" begin="00:27:15:03" end="00:27:19:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I mean, you two<br />don't talk so much. Right?</p>
+      <p xml:id="513" xml:space="preserve" begin="00:27:19:08" end="00:27:22:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Anything.<br />Just get him to ask me.</p>
+      <p xml:id="514" xml:space="preserve" begin="00:27:28:22" end="00:27:30:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fuck!</p>
+      <p xml:id="515" xml:space="preserve" begin="00:27:31:23" end="00:27:33:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ah.</p>
+      <p xml:id="516" xml:space="preserve" begin="00:27:34:06" end="00:27:35:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Dad.<br />- Yes.</p>
+      <p xml:id="517" xml:space="preserve" begin="00:27:35:23" end="00:27:37:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, what's the deal?</p>
+      <p xml:id="518" xml:space="preserve" begin="00:27:37:10" end="00:27:40:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So...</p>
+      <p xml:id="519" xml:space="preserve" begin="00:27:40:15" end="00:27:43:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">On the family trust,<br />which will decide the situation</p>
+      <p xml:id="520" xml:space="preserve" begin="00:27:43:15" end="00:27:48:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">in the event<br />of my unlikely demise,</p>
+      <p xml:id="521" xml:space="preserve" begin="00:27:48:07" end="00:27:51:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm going to add Marcy<br />to myself and you four.</p>
+      <p xml:id="522" xml:space="preserve" begin="00:27:51:06" end="00:27:52:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whoa. OK.</p>
+      <p xml:id="523" xml:space="preserve" begin="00:27:53:03" end="00:27:57:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And my seat also to go to her<br />on my death.</p>
+      <p xml:id="524" xml:space="preserve" begin="00:27:57:13" end="00:28:01:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What? Wait, that gives her<br />double voting weight.</p>
+      <p xml:id="525" xml:space="preserve" begin="00:28:01:13" end="00:28:03:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Uh-huh. So I've got<br />some paperwork--</p>
+      <p xml:id="526" xml:space="preserve" begin="00:28:03:18" end="00:28:05:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whoa, whoa, whoa. What?</p>
+      <p xml:id="527" xml:space="preserve" begin="00:28:05:05" end="00:28:07:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So Marcia will have two votes when you--</p>
+      <p xml:id="528" xml:space="preserve" begin="00:28:07:17" end="00:28:09:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- "If" he--<br />- Well, no, Rome, it's not an if.</p>
+      <p xml:id="529" xml:space="preserve" begin="00:28:09:24" end="00:28:11:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, excuse me<br />if I don't want him to--</p>
+      <p xml:id="530" xml:space="preserve" begin="00:28:11:17" end="00:28:13:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, it's not really what<br />we want in this case, Rome.</p>
+      <p xml:id="531" xml:space="preserve" begin="00:28:14:00" end="00:28:16:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kendall's already signed,<br />but if I can get you all to--</p>
+      <p xml:id="532" xml:space="preserve" begin="00:28:16:08" end="00:28:18:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Two votes? I don't think<br />I was aware of that when I--</p>
+      <p xml:id="533" xml:space="preserve" begin="00:28:18:21" end="00:28:21:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Read the small print, asshole.</p>
+      <p xml:id="534" xml:space="preserve" begin="00:28:23:17" end="00:28:25:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I mean, this looks...</p>
+      <p xml:id="535" xml:space="preserve" begin="00:28:27:07" end="00:28:30:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm gonna have to talk to my lawyers,<br />just for all the implications.</p>
+      <p xml:id="536" xml:space="preserve" begin="00:28:30:21" end="00:28:32:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Of course.<br />- Just to get the full picture.</p>
+      <p xml:id="537" xml:space="preserve" begin="00:28:32:15" end="00:28:33:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sure, take a beat.</p>
+      <p xml:id="538" xml:space="preserve" begin="00:28:34:02" end="00:28:39:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But look,<br />I love the bread-- goo--</p>
+      <p xml:id="539" xml:space="preserve" begin="00:28:39:10" end="00:28:42:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">but this is the present<br />I really want.</p>
+      <p xml:id="540" xml:space="preserve" begin="00:28:42:23" end="00:28:46:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So: by 4:00, good?</p>
+      <p xml:id="541" xml:space="preserve" begin="00:28:46:04" end="00:28:51:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, also, I already<br />mentioned to Kendall,</p>
+      <p xml:id="542" xml:space="preserve" begin="00:28:51:16" end="00:28:55:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">despite the chatter<br />and all things considered,</p>
+      <p xml:id="543" xml:space="preserve" begin="00:28:55:13" end="00:28:57:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm going to give it<br />a couple of years.</p>
+      <p xml:id="544" xml:space="preserve" begin="00:28:58:03" end="00:29:00:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- As in?<br />- I'll stay in situ.</p>
+      <p xml:id="545" xml:space="preserve" begin="00:29:00:23" end="00:29:03:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">As chairman, CEO,<br />head of the firm.</p>
+      <p xml:id="546" xml:space="preserve" begin="00:29:06:07" end="00:29:09:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dad, wh-- you--you what?</p>
+      <p xml:id="547" xml:space="preserve" begin="00:29:09:08" end="00:29:12:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I just said, son, or were you<br />not listening, as usual?</p>
+      <p xml:id="548" xml:space="preserve" begin="00:29:12:23" end="00:29:15:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">But I'm-- You're not-- What?</p>
+      <p xml:id="549" xml:space="preserve" begin="00:29:16:00" end="00:29:18:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's no big deal.<br />I'm staying on.</p>
+      <p xml:id="550" xml:space="preserve" begin="00:29:18:10" end="00:29:20:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We can discuss the details.<br />- You didn't tell me.</p>
+      <p xml:id="551" xml:space="preserve" begin="00:29:20:16" end="00:29:22:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We can announce<br />you're in pole position,</p>
+      <p xml:id="552" xml:space="preserve" begin="00:29:22:04" end="00:29:23:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">pending events,<br />a move up or whatever.</p>
+      <p xml:id="553" xml:space="preserve" begin="00:29:24:03" end="00:29:27:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- "Pending events"?<br />- OK, come on, let's eat.</p>
+      <p xml:id="554" xml:space="preserve" begin="00:29:27:18" end="00:29:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dad, wait.</p>
+      <p xml:id="555" xml:space="preserve" begin="00:29:29:21" end="00:29:31:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, fuck!</p>
+      <p xml:id="556" xml:space="preserve" begin="00:29:34:04" end="00:29:35:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I don't know what you're<br />fucking laughing about!</p>
+      <p xml:id="557" xml:space="preserve" begin="00:29:36:01" end="00:29:39:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm not even laughing. What?!</p>
+      <p xml:id="558" xml:space="preserve" begin="00:29:39:11" end="00:29:41:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fuck. What the fuck.</p>
+      <p xml:id="559" xml:space="preserve" begin="00:29:41:08" end="00:29:44:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I mean, he can't just...<br />Right?</p>
+      <p xml:id="560" xml:space="preserve" begin="00:29:44:13" end="00:29:46:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He's gonna blow<br />the firm's credibility.</p>
+      <p xml:id="561" xml:space="preserve" begin="00:29:47:03" end="00:29:49:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Did he look OK to you?</p>
+      <p xml:id="562" xml:space="preserve" begin="00:29:49:13" end="00:29:53:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, come on!<br />Ken, this is typical. It's Dad.</p>
+      <p xml:id="563" xml:space="preserve" begin="00:29:53:05" end="00:29:56:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm out, OK?<br />I'm not playing.</p>
+      <p xml:id="564" xml:space="preserve" begin="00:29:56:04" end="00:29:57:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Whatever you three decide, goes.</p>
+      <p xml:id="565" xml:space="preserve" begin="00:29:57:23" end="00:29:59:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Goodbye.<br />- Connor.</p>
+      <p xml:id="566" xml:space="preserve" begin="00:29:59:10" end="00:30:01:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">On the trust, I refuse to play.</p>
+      <p xml:id="567" xml:space="preserve" begin="00:30:01:09" end="00:30:04:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I don't want to engage.<br />I'm water, I flow.</p>
+      <p xml:id="568" xml:space="preserve" begin="00:30:08:24" end="00:30:11:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">This doesn't stand, right?</p>
+      <p xml:id="569" xml:space="preserve" begin="00:30:11:08" end="00:30:12:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I...</p>
+      <p xml:id="570" xml:space="preserve" begin="00:30:12:23" end="00:30:15:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, fucking shrug?<br />You're fucking shrugging me?</p>
+      <p xml:id="571" xml:space="preserve" begin="00:30:15:06" end="00:30:16:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh.</p>
+      <p xml:id="572" xml:space="preserve" begin="00:30:19:12" end="00:30:21:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Are you texting?<br />Dude, what are you--</p>
+      <p xml:id="573" xml:space="preserve" begin="00:30:21:07" end="00:30:22:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey, hey!</p>
+      <p xml:id="574" xml:space="preserve" begin="00:30:22:20" end="00:30:24:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Are you telling?<br />- Are you fucking serious?</p>
+      <p xml:id="575" xml:space="preserve" begin="00:30:24:13" end="00:30:26:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What, are you 14? Private.<br />- Hey, this stays in here.</p>
+      <p xml:id="576" xml:space="preserve" begin="00:30:26:05" end="00:30:28:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- OK? This is a lockdown.<br />- We all need advice, man.</p>
+      <p xml:id="577" xml:space="preserve" begin="00:30:28:11" end="00:30:30:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Advice? What?<br />You're gonna give a double vote</p>
+      <p xml:id="578" xml:space="preserve" begin="00:30:30:05" end="00:30:33:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">to a power-hungry maniac<br />who will do fuck-knows-what with it</p>
+      <p xml:id="579" xml:space="preserve" begin="00:30:33:07" end="00:30:35:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">because she's got our dad's dick<br />in some Super Max pussy grip</p>
+      <p xml:id="580" xml:space="preserve" begin="00:30:35:10" end="00:30:36:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and she's juicing him<br />before he croaks?</p>
+      <p xml:id="581" xml:space="preserve" begin="00:30:36:22" end="00:30:38:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Guys? Lunch is coming up.</p>
+      <p xml:id="582" xml:space="preserve" begin="00:30:41:12" end="00:30:44:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sorry, I don't mean<br />to be strict.</p>
+      <p xml:id="583" xml:space="preserve" begin="00:30:55:02" end="00:30:58:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Can you give us a minute,<br />please? Thank you.</p>
+      <p xml:id="584" xml:space="preserve" begin="00:31:01:09" end="00:31:05:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey. So...you fucked me.</p>
+      <p xml:id="585" xml:space="preserve" begin="00:31:05:08" end="00:31:07:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I changed my mind, Kendall.</p>
+      <p xml:id="586" xml:space="preserve" begin="00:31:07:19" end="00:31:10:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">When?<br />When, exactly?</p>
+      <p xml:id="587" xml:space="preserve" begin="00:31:10:06" end="00:31:12:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">'Cause it feels<br />like you fucked me.</p>
+      <p xml:id="588" xml:space="preserve" begin="00:31:12:04" end="00:31:16:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's me. It's mainly me.<br />But you--</p>
+      <p xml:id="589" xml:space="preserve" begin="00:31:18:14" end="00:31:21:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Three years ago,<br />you were still in the nuthouse.</p>
+      <p xml:id="590" xml:space="preserve" begin="00:31:21:13" end="00:31:24:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Rehab, Dad.<br />It's called rehab.</p>
+      <p xml:id="591" xml:space="preserve" begin="00:31:24:05" end="00:31:25:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And I'm in recovery.</p>
+      <p xml:id="592" xml:space="preserve" begin="00:31:25:18" end="00:31:30:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's all good. I'm just concerned<br />you might be soft, as yet.</p>
+      <p xml:id="593" xml:space="preserve" begin="00:31:30:10" end="00:31:32:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">S-Soft? Are you kidding?</p>
+      <p xml:id="594" xml:space="preserve" begin="00:31:32:14" end="00:31:35:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I did a fucking year in Shanghai.</p>
+      <p xml:id="595" xml:space="preserve" begin="00:31:35:04" end="00:31:37:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I hear you let the guy<br />from the website trash-talk you</p>
+      <p xml:id="596" xml:space="preserve" begin="00:31:37:19" end="00:31:39:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">and you just let him come.</p>
+      <p xml:id="597" xml:space="preserve" begin="00:31:39:06" end="00:31:42:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's not a website.<br />And I was being professional.</p>
+      <p xml:id="598" xml:space="preserve" begin="00:31:42:21" end="00:31:45:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I hear it played weak.<br />Conflict averse.</p>
+      <p xml:id="599" xml:space="preserve" begin="00:31:46:01" end="00:31:50:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I wasn't about to get into<br />a fucking big dick competition. OK?</p>
+      <p xml:id="600" xml:space="preserve" begin="00:31:50:20" end="00:31:53:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I hear you bent for him.<br />- Wha-- I what?</p>
+      <p xml:id="601" xml:space="preserve" begin="00:31:53:08" end="00:31:56:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I hear you bent for him<br />and he fucked you.</p>
+      <p xml:id="602" xml:space="preserve" begin="00:31:56:18" end="00:31:59:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Well, no, actually.</p>
+      <p xml:id="603" xml:space="preserve" begin="00:31:59:13" end="00:32:02:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You know, I know that you've read<br />a lot of books about</p>
+      <p xml:id="604" xml:space="preserve" begin="00:32:02:24" end="00:32:04:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">business management<br />and this and that,</p>
+      <p xml:id="605" xml:space="preserve" begin="00:32:04:20" end="00:32:07:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- but you know what?<br />- What?</p>
+      <p xml:id="606" xml:space="preserve" begin="00:32:08:01" end="00:32:12:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sometimes it is<br />a big dick competition.</p>
+      <p xml:id="607" xml:space="preserve" begin="00:32:12:09" end="00:32:14:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK. OK. So that's it?</p>
+      <p xml:id="608" xml:space="preserve" begin="00:32:14:14" end="00:32:18:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So I should have shouted<br />at some guy, but I didn't.</p>
+      <p xml:id="609" xml:space="preserve" begin="00:32:18:06" end="00:32:20:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So you've ripped up 18 months<br />of corporate strategy?</p>
+      <p xml:id="610" xml:space="preserve" begin="00:32:21:02" end="00:32:23:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And you never lawyered<br />the trust change.</p>
+      <p xml:id="611" xml:space="preserve" begin="00:32:23:05" end="00:32:24:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I trusted my father.<br />That's a black mark?</p>
+      <p xml:id="612" xml:space="preserve" begin="00:32:24:20" end="00:32:26:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It's an accumulation.</p>
+      <p xml:id="613" xml:space="preserve" begin="00:32:28:08" end="00:32:30:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You left the room. The deal.</p>
+      <p xml:id="614" xml:space="preserve" begin="00:32:30:12" end="00:32:32:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">To come to my Dad's<br />fucking birthday party</p>
+      <p xml:id="615" xml:space="preserve" begin="00:32:32:07" end="00:32:35:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">'cause we don't know<br />how many more there'll be!</p>
+      <p xml:id="616" xml:space="preserve" begin="00:32:35:09" end="00:32:36:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sorry.</p>
+      <p xml:id="617" xml:space="preserve" begin="00:32:36:21" end="00:32:38:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So come on.</p>
+      <p xml:id="618" xml:space="preserve" begin="00:32:38:15" end="00:32:41:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">When will you be ready?<br />To step down?</p>
+      <p xml:id="619" xml:space="preserve" begin="00:32:41:22" end="00:32:43:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I don't know.</p>
+      <p xml:id="620" xml:space="preserve" begin="00:32:46:03" end="00:32:47:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Five?</p>
+      <p xml:id="621" xml:space="preserve" begin="00:32:47:15" end="00:32:49:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Five years?<br />- Ten?</p>
+      <p xml:id="622" xml:space="preserve" begin="00:32:49:18" end="00:32:51:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ten! Dad? Seriously!</p>
+      <p xml:id="623" xml:space="preserve" begin="00:32:53:06" end="00:32:55:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It's my fuckin' company.</p>
+      <p xml:id="624" xml:space="preserve" begin="00:32:55:11" end="00:32:58:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, it is your fucking company,<br />and you know what?</p>
+      <p xml:id="625" xml:space="preserve" begin="00:32:58:11" end="00:33:00:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're running it<br />into the fucking ground.</p>
+      <p xml:id="626" xml:space="preserve" begin="00:33:00:19" end="00:33:02:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You spend all your time<br />on costs--</p>
+      <p xml:id="627" xml:space="preserve" begin="00:33:02:23" end="00:33:05:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">where's the vision?<br />You're off the beat.</p>
+      <p xml:id="628" xml:space="preserve" begin="00:33:05:09" end="00:33:07:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Where's the growth?<br />All our graphs go down. All of them.</p>
+      <p xml:id="629" xml:space="preserve" begin="00:33:08:01" end="00:33:10:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Is that why you're paying a billion<br />dollars for a gay little website?</p>
+      <p xml:id="630" xml:space="preserve" begin="00:33:10:20" end="00:33:12:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It is not a fucking website!</p>
+      <p xml:id="631" xml:space="preserve" begin="00:33:13:00" end="00:33:16:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's a portfolio of online brands<br />and digital video content</p>
+      <p xml:id="632" xml:space="preserve" begin="00:33:16:16" end="00:33:19:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and it's part of an upstream<br />investment strategy to save us,</p>
+      <p xml:id="633" xml:space="preserve" begin="00:33:19:14" end="00:33:21:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">if you'll just let me.</p>
+      <p xml:id="634" xml:space="preserve" begin="00:33:28:04" end="00:33:30:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do you want to hit me,<br />is that it?</p>
+      <p xml:id="635" xml:space="preserve" begin="00:33:32:19" end="00:33:35:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Huh? Go on.</p>
+      <p xml:id="636" xml:space="preserve" begin="00:33:35:11" end="00:33:37:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Go on.</p>
+      <p xml:id="637" xml:space="preserve" begin="00:33:37:08" end="00:33:38:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Give it your best shot.</p>
+      <p xml:id="638" xml:space="preserve" begin="00:33:41:12" end="00:33:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Dad, come on.<br />What are you doing?</p>
+      <p xml:id="639" xml:space="preserve" begin="00:33:45:17" end="00:33:47:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Are you gonna fuckin' cry?</p>
+      <p xml:id="640" xml:space="preserve" begin="00:33:49:08" end="00:33:52:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kendall,<br />are you fuckin' crying?</p>
+      <p xml:id="641" xml:space="preserve" begin="00:33:54:12" end="00:33:55:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You know, this has been<br />floated already?</p>
+      <p xml:id="642" xml:space="preserve" begin="00:33:56:03" end="00:33:59:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">There's fucking paps outside.<br />I'm getting asked for quotes.</p>
+      <p xml:id="643" xml:space="preserve" begin="00:33:59:16" end="00:34:01:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fuck them.</p>
+      <p xml:id="644" xml:space="preserve" begin="00:34:01:18" end="00:34:05:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, 'course, "fuck 'em."<br />Great, great media strategy, Dad.</p>
+      <p xml:id="645" xml:space="preserve" begin="00:34:05:15" end="00:34:07:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Great business strategy.</p>
+      <p xml:id="646" xml:space="preserve" begin="00:34:07:04" end="00:34:09:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- The world is changing--<br />- Oh, yeah, yeah, yeah, yeah.</p>
+      <p xml:id="647" xml:space="preserve" begin="00:34:10:03" end="00:34:11:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, everything changes.</p>
+      <p xml:id="648" xml:space="preserve" begin="00:34:11:20" end="00:34:14:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">The studio was gonna tank<br />when I bought it,</p>
+      <p xml:id="649" xml:space="preserve" begin="00:34:14:15" end="00:34:16:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">everyone was gonna stay home<br />with video tapes.</p>
+      <p xml:id="650" xml:space="preserve" begin="00:34:16:15" end="00:34:21:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But guess what?<br />No! They wanna go out.</p>
+      <p xml:id="651" xml:space="preserve" begin="00:34:21:07" end="00:34:24:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No one was gonna watch Network,<br />except you give it zing and they do.</p>
+      <p xml:id="652" xml:space="preserve" begin="00:34:25:02" end="00:34:27:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You make your own reality.</p>
+      <p xml:id="653" xml:space="preserve" begin="00:34:27:04" end="00:34:29:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And once you've done it,<br />apparently,</p>
+      <p xml:id="654" xml:space="preserve" begin="00:34:29:14" end="00:34:33:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">everybody's of the opinion<br />it was all so fucking obvious.</p>
+      <p xml:id="655" xml:space="preserve" begin="00:34:33:17" end="00:34:35:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lunch!</p>
+      <p xml:id="656" xml:space="preserve" begin="00:34:44:16" end="00:34:47:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Come on. Find your places. Sit.</p>
+      <p xml:id="657" xml:space="preserve" begin="00:34:47:11" end="00:34:50:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Please give me my seating plan.</p>
+      <p xml:id="658" xml:space="preserve" begin="00:34:50:19" end="00:34:52:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">This is confusing. Sorry.</p>
+      <p xml:id="659" xml:space="preserve" begin="00:36:16:12" end="00:36:19:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">She was drunk and sitting<br />in Gore Vidal's lap.</p>
+      <p xml:id="660" xml:space="preserve" begin="00:36:19:08" end="00:36:20:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">She's very funny.</p>
+      <p xml:id="661" xml:space="preserve" begin="00:36:20:21" end="00:36:23:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Your mom's very funny.<br />- Who's Gore Vidal?</p>
+      <p xml:id="662" xml:space="preserve" begin="00:36:23:07" end="00:36:25:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">She's the one, you know, with the hair,<br />and she usually wears the clothes?</p>
+      <p xml:id="663" xml:space="preserve" begin="00:36:25:21" end="00:36:27:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Yeah.<br />- Yeah.</p>
+      <p xml:id="664" xml:space="preserve" begin="00:36:27:08" end="00:36:29:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, no,<br />I remember your daughter.</p>
+      <p xml:id="665" xml:space="preserve" begin="00:36:32:11" end="00:36:35:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Marcy. This was delicious.<br />Thank you.</p>
+      <p xml:id="666" xml:space="preserve" begin="00:36:35:06" end="00:36:37:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Oh, thank you.<br />- Yeah, the whole day.</p>
+      <p xml:id="667" xml:space="preserve" begin="00:36:37:11" end="00:36:40:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Really thoughtful.<br />It's been great.</p>
+      <p xml:id="668" xml:space="preserve" begin="00:36:40:23" end="00:36:42:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Thank you very much.</p>
+      <p xml:id="669" xml:space="preserve" begin="00:36:43:20" end="00:36:45:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You're a suck-up.</p>
+      <p xml:id="670" xml:space="preserve" begin="00:36:45:24" end="00:36:47:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm happy to have you.</p>
+      <p xml:id="671" xml:space="preserve" begin="00:36:47:13" end="00:36:50:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">"You are so swell,<br />Double Vote Power Mom!"</p>
+      <p xml:id="672" xml:space="preserve" begin="00:36:50:11" end="00:36:52:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You know what?<br />Fuck you.</p>
+      <p xml:id="673" xml:space="preserve" begin="00:36:54:03" end="00:36:56:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, if you'll excuse me...</p>
+      <p xml:id="674" xml:space="preserve" begin="00:36:58:04" end="00:37:00:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan Roy.</p>
+      <p xml:id="675" xml:space="preserve" begin="00:37:00:04" end="00:37:04:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Born in Dundee, Scotland,<br />80 years ago today,</p>
+      <p xml:id="676" xml:space="preserve" begin="00:37:04:17" end="00:37:06:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">raised in Quebec by an uncle</p>
+      <p xml:id="677" xml:space="preserve" begin="00:37:06:08" end="00:37:09:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">with a print shop<br />and a few advertising billboards</p>
+      <p xml:id="678" xml:space="preserve" begin="00:37:09:06" end="00:37:10:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and an aunt<br />with a herd of cattle.</p>
+      <p xml:id="679" xml:space="preserve" begin="00:37:11:02" end="00:37:16:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Logan himself has made a decent way<br />for himself these past 60 years.</p>
+      <p xml:id="680" xml:space="preserve" begin="00:37:16:14" end="00:37:20:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Fifth largest media conglomerate<br />in the world.</p>
+      <p xml:id="681" xml:space="preserve" begin="00:37:21:01" end="00:37:25:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">A pal to prime ministers,<br />a truth teller to presidents.</p>
+      <p xml:id="682" xml:space="preserve" begin="00:37:26:03" end="00:37:29:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He's tough, he's wily,</p>
+      <p xml:id="683" xml:space="preserve" begin="00:37:29:21" end="00:37:32:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">but he's always true<br />to his word.</p>
+      <p xml:id="684" xml:space="preserve" begin="00:37:32:21" end="00:37:35:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I arrived to give him<br />legal advice 30 years ago,</p>
+      <p xml:id="685" xml:space="preserve" begin="00:37:35:21" end="00:37:38:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">and I never got out the door.</p>
+      <p xml:id="686" xml:space="preserve" begin="00:37:38:15" end="00:37:43:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And since that day,<br />I'm proud to call him a friend.</p>
+      <p xml:id="687" xml:space="preserve" begin="00:37:44:23" end="00:37:48:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, let's raise a toast.</p>
+      <p xml:id="688" xml:space="preserve" begin="00:37:48:05" end="00:37:49:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan Roy.</p>
+      <p xml:id="689" xml:space="preserve" begin="00:37:49:17" end="00:37:51:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Logan Roy.</p>
+      <p xml:id="690" xml:space="preserve" begin="00:37:53:02" end="00:37:54:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Thank you.</p>
+      <p xml:id="691" xml:space="preserve" begin="00:37:56:04" end="00:38:00:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, I think it's time<br />to play the game.</p>
+      <p xml:id="692" xml:space="preserve" begin="00:38:00:21" end="00:38:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">We're playing the game?</p>
+      <p xml:id="693" xml:space="preserve" begin="00:38:03:02" end="00:38:05:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Well, yes.</p>
+      <p xml:id="694" xml:space="preserve" begin="00:38:05:13" end="00:38:09:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's my birthday, so yes,<br />we're playing the game.</p>
+      <p xml:id="695" xml:space="preserve" begin="00:38:09:05" end="00:38:10:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Do we have to play the game?</p>
+      <p xml:id="696" xml:space="preserve" begin="00:38:10:22" end="00:38:12:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's the game?</p>
+      <p xml:id="697" xml:space="preserve" begin="00:38:12:17" end="00:38:14:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's the game?</p>
+      <p xml:id="698" xml:space="preserve" begin="00:38:14:19" end="00:38:16:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's the game?</p>
+      <p xml:id="699" xml:space="preserve" begin="00:38:21:13" end="00:38:23:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nice day!<br />You OK, Greg?</p>
+      <p xml:id="700" xml:space="preserve" begin="00:38:24:00" end="00:38:26:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sure. I'm not...</p>
+      <p xml:id="701" xml:space="preserve" begin="00:38:26:08" end="00:38:28:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Is there room in there?</p>
+      <p xml:id="702" xml:space="preserve" begin="00:38:28:21" end="00:38:30:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hop in.</p>
+      <p xml:id="703" xml:space="preserve" begin="00:38:38:03" end="00:38:41:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm sorry if it's a crush.<br />- It's fine.</p>
+      <p xml:id="704" xml:space="preserve" begin="00:38:43:02" end="00:38:46:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, um, yeah,<br />I was just talking to my grandpa.</p>
+      <p xml:id="705" xml:space="preserve" begin="00:38:46:08" end="00:38:49:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Uh-huh.<br />- And he said happy birthday.</p>
+      <p xml:id="706" xml:space="preserve" begin="00:38:49:12" end="00:38:50:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Did he?</p>
+      <p xml:id="707" xml:space="preserve" begin="00:38:50:24" end="00:38:53:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Well, no, not technically,</p>
+      <p xml:id="708" xml:space="preserve" begin="00:38:54:03" end="00:38:56:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">but he's aware<br />it's your birthday.</p>
+      <p xml:id="709" xml:space="preserve" begin="00:38:56:16" end="00:38:58:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But it occurred to me,<br />talking to him,</p>
+      <p xml:id="710" xml:space="preserve" begin="00:38:59:03" end="00:39:03:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">that him having his seat on the holding<br />company still, from historically,</p>
+      <p xml:id="711" xml:space="preserve" begin="00:39:04:03" end="00:39:06:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">now, that must be suboptimal,<br />in some ways.</p>
+      <p xml:id="712" xml:space="preserve" begin="00:39:08:23" end="00:39:12:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But if I could--<br />if he was willing to give his seat</p>
+      <p xml:id="713" xml:space="preserve" begin="00:39:12:04" end="00:39:14:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">to someone a bit<br />more perspicacious,</p>
+      <p xml:id="714" xml:space="preserve" begin="00:39:14:20" end="00:39:18:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">someone who could learn the ropes,<br />running a theme park, say.</p>
+      <p xml:id="715" xml:space="preserve" begin="00:39:18:10" end="00:39:20:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Running the parks?</p>
+      <p xml:id="716" xml:space="preserve" begin="00:39:20:05" end="00:39:23:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Just a little guy. Learning, you know?<br />I mean, could that be...?</p>
+      <p xml:id="717" xml:space="preserve" begin="00:39:23:22" end="00:39:25:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You scratch my back, I--</p>
+      <p xml:id="718" xml:space="preserve" begin="00:39:25:18" end="00:39:28:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm not gonna say<br />I could scratch yours.</p>
+      <p xml:id="719" xml:space="preserve" begin="00:39:28:09" end="00:39:31:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It'd be too considerable<br />of a space.</p>
+      <p xml:id="720" xml:space="preserve" begin="00:39:31:06" end="00:39:33:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But is there<br />an angle there, perhaps?</p>
+      <p xml:id="721" xml:space="preserve" begin="00:40:30:05" end="00:40:31:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So...</p>
+      <p xml:id="722" xml:space="preserve" begin="00:40:31:19" end="00:40:34:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">what're you thinking, son?</p>
+      <p xml:id="723" xml:space="preserve" begin="00:40:35:00" end="00:40:36:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">On the thing?</p>
+      <p xml:id="724" xml:space="preserve" begin="00:40:38:07" end="00:40:39:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">She's very smart.</p>
+      <p xml:id="725" xml:space="preserve" begin="00:40:39:23" end="00:40:42:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">She'd make good picks.<br />Family first.</p>
+      <p xml:id="726" xml:space="preserve" begin="00:40:43:00" end="00:40:45:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm sure. I'm sure.</p>
+      <p xml:id="727" xml:space="preserve" begin="00:40:46:16" end="00:40:48:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">But what's your cut?</p>
+      <p xml:id="728" xml:space="preserve" begin="00:40:49:00" end="00:40:50:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Um...No.</p>
+      <p xml:id="729" xml:space="preserve" begin="00:40:50:15" end="00:40:53:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No. God no, Dad.<br />No, it's your firm.</p>
+      <p xml:id="730" xml:space="preserve" begin="00:40:53:07" end="00:40:55:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Like, it's not<br />what's in it for me.</p>
+      <p xml:id="731" xml:space="preserve" begin="00:40:57:10" end="00:41:00:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But you know, like,<br />what is in it for me?</p>
+      <p xml:id="732" xml:space="preserve" begin="00:41:04:14" end="00:41:07:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'd love to get you back in.<br />- Sure. No, sure.</p>
+      <p xml:id="733" xml:space="preserve" begin="00:41:07:11" end="00:41:10:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's just it was<br />tough last time.</p>
+      <p xml:id="734" xml:space="preserve" begin="00:41:10:13" end="00:41:12:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It was very tough<br />with Frank over me in LA.</p>
+      <p xml:id="735" xml:space="preserve" begin="00:41:13:03" end="00:41:14:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Frank's very important<br />to the firm.</p>
+      <p xml:id="736" xml:space="preserve" begin="00:41:14:21" end="00:41:16:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, no, sure. No, of course,<br />I understand that.</p>
+      <p xml:id="737" xml:space="preserve" begin="00:41:16:21" end="00:41:20:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's just I had a lot of ideas<br />at the studio.</p>
+      <p xml:id="738" xml:space="preserve" begin="00:41:20:05" end="00:41:22:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">As you know, I'm quite<br />an innovative thinker,</p>
+      <p xml:id="739" xml:space="preserve" begin="00:41:22:13" end="00:41:25:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and I was met with<br />a lot of resistance.</p>
+      <p xml:id="740" xml:space="preserve" begin="00:41:28:04" end="00:41:30:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Is this still the film thing?</p>
+      <p xml:id="741" xml:space="preserve" begin="00:41:31:21" end="00:41:33:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No-- Oh, what, Robot Olympics?</p>
+      <p xml:id="742" xml:space="preserve" begin="00:41:34:03" end="00:41:37:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No, Dad, it's not about<br />one fantastic idea.</p>
+      <p xml:id="743" xml:space="preserve" begin="00:41:37:04" end="00:41:38:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It was a culture.<br />There were many of them.</p>
+      <p xml:id="744" xml:space="preserve" begin="00:41:39:00" end="00:41:41:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What would be your dream outfit?</p>
+      <p xml:id="745" xml:space="preserve" begin="00:41:41:10" end="00:41:44:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I wanna run the damn show.<br />I do.</p>
+      <p xml:id="746" xml:space="preserve" begin="00:41:44:08" end="00:41:48:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And until it opens up,<br />Chief Operating Officer.</p>
+      <p xml:id="747" xml:space="preserve" begin="00:41:48:06" end="00:41:50:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">But I guess...</p>
+      <p xml:id="748" xml:space="preserve" begin="00:41:50:04" end="00:41:51:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I guess that's Frank, huh?</p>
+      <p xml:id="749" xml:space="preserve" begin="00:41:53:01" end="00:41:54:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Mm-hmm.<br />- Mm-hmm.</p>
+      <p xml:id="750" xml:space="preserve" begin="00:42:00:00" end="00:42:01:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You OK?</p>
+      <p xml:id="751" xml:space="preserve" begin="00:42:02:17" end="00:42:04:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sure. You?</p>
+      <p xml:id="752" xml:space="preserve" begin="00:42:22:13" end="00:42:24:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">The boys are here!</p>
+      <p xml:id="753" xml:space="preserve" begin="00:42:24:21" end="00:42:26:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Just right this way.</p>
+      <p xml:id="754" xml:space="preserve" begin="00:42:29:08" end="00:42:31:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That was<br />my first helicopter ride.</p>
+      <p xml:id="755" xml:space="preserve" begin="00:42:31:15" end="00:42:33:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">It was so crazy.</p>
+      <p xml:id="756" xml:space="preserve" begin="00:42:33:12" end="00:42:36:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- It goes so much faster than I thought.<br />- Hey, it's good to see you.</p>
+      <p xml:id="757" xml:space="preserve" begin="00:42:41:15" end="00:42:43:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK, let's get a glove.</p>
+      <p xml:id="758" xml:space="preserve" begin="00:42:43:17" end="00:42:45:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Let's have a second.</p>
+      <p xml:id="759" xml:space="preserve" begin="00:42:48:04" end="00:42:49:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What time is it?</p>
+      <p xml:id="760" xml:space="preserve" begin="00:42:50:13" end="00:42:51:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ah!</p>
+      <p xml:id="761" xml:space="preserve" begin="00:42:52:00" end="00:42:54:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh!</p>
+      <p xml:id="762" xml:space="preserve" begin="00:42:54:11" end="00:42:57:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Toss it over here!<br />- Come on back, come on back.</p>
+      <p xml:id="763" xml:space="preserve" begin="00:42:58:00" end="00:43:01:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Now that things are getting shaken up,<br />would you come inside?</p>
+      <p xml:id="764" xml:space="preserve" begin="00:43:01:23" end="00:43:04:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Dad, I'm not just playing<br />with the politics.</p>
+      <p xml:id="765" xml:space="preserve" begin="00:43:04:11" end="00:43:07:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, no, of course.<br />Politics.</p>
+      <p xml:id="766" xml:space="preserve" begin="00:43:07:16" end="00:43:12:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Not to be crude about it, but politics<br />is what comes out the asshole.</p>
+      <p xml:id="767" xml:space="preserve" begin="00:43:12:07" end="00:43:14:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Wouldn't you rather be up front,<br />feeding the horse?</p>
+      <p xml:id="768" xml:space="preserve" begin="00:43:14:14" end="00:43:17:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, Joyce, she's got that<br />Air Force One look.</p>
+      <p xml:id="769" xml:space="preserve" begin="00:43:17:07" end="00:43:20:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So... to come back,</p>
+      <p xml:id="770" xml:space="preserve" begin="00:43:20:23" end="00:43:22:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'd want the top job.</p>
+      <p xml:id="771" xml:space="preserve" begin="00:43:22:10" end="00:43:24:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And if that was difficult?</p>
+      <p xml:id="772" xml:space="preserve" begin="00:43:27:07" end="00:43:30:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Overseeing everything outside<br />the US, parks and all.</p>
+      <p xml:id="773" xml:space="preserve" begin="00:43:30:18" end="00:43:34:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What, like...<br />Tom's boss?</p>
+      <p xml:id="774" xml:space="preserve" begin="00:43:34:04" end="00:43:36:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah. Stepping stones.</p>
+      <p xml:id="775" xml:space="preserve" begin="00:43:40:04" end="00:43:42:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">What's the rescue pup<br />looking for?</p>
+      <p xml:id="776" xml:space="preserve" begin="00:43:42:09" end="00:43:45:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">He screwed up. Needs help.</p>
+      <p xml:id="777" xml:space="preserve" begin="00:43:45:12" end="00:43:48:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He might fit in eventually<br />to the parks.</p>
+      <p xml:id="778" xml:space="preserve" begin="00:43:48:23" end="00:43:51:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Do you think Tom<br />can handle the competition?</p>
+      <p xml:id="779" xml:space="preserve" begin="00:43:52:24" end="00:43:55:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Mr. Roy. All set.<br />- Mm.</p>
+      <p xml:id="780" xml:space="preserve" begin="00:43:55:16" end="00:43:57:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">There you go.</p>
+      <p xml:id="781" xml:space="preserve" begin="00:43:58:21" end="00:44:00:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey.</p>
+      <p xml:id="782" xml:space="preserve" begin="00:44:00:08" end="00:44:02:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, just wanted<br />to give this to you</p>
+      <p xml:id="783" xml:space="preserve" begin="00:44:03:01" end="00:44:06:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">in person just to say,<br />you know, happy birthday.</p>
+      <p xml:id="784" xml:space="preserve" begin="00:44:06:12" end="00:44:10:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hold that, will you?<br />- So... there we go.</p>
+      <p xml:id="785" xml:space="preserve" begin="00:44:10:10" end="00:44:12:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh! Mm.</p>
+      <p xml:id="786" xml:space="preserve" begin="00:44:13:00" end="00:44:16:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's just a Patek Philippe.<br />So...</p>
+      <p xml:id="787" xml:space="preserve" begin="00:44:16:14" end="00:44:19:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Yeah, it says "Patek Philippe."<br />- Yeah. I know.</p>
+      <p xml:id="788" xml:space="preserve" begin="00:44:19:23" end="00:44:21:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's incredibly accurate.<br />Every time you look at it,</p>
+      <p xml:id="789" xml:space="preserve" begin="00:44:22:01" end="00:44:24:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">it tells you exactly how rich you are.</p>
+      <p xml:id="790" xml:space="preserve" begin="00:44:24:12" end="00:44:26:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">That's very funny.</p>
+      <p xml:id="791" xml:space="preserve" begin="00:44:26:20" end="00:44:28:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Did you rehearse that?</p>
+      <p xml:id="792" xml:space="preserve" begin="00:44:29:01" end="00:44:32:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">No. Well, no. Yes. But--</p>
+      <p xml:id="793" xml:space="preserve" begin="00:44:32:21" end="00:44:36:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK. Yeah.</p>
+      <p xml:id="794" xml:space="preserve" begin="00:44:36:10" end="00:44:37:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Here.</p>
+      <p xml:id="795" xml:space="preserve" begin="00:44:37:23" end="00:44:39:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK, let's play ball.</p>
+      <p xml:id="796" xml:space="preserve" begin="00:44:41:10" end="00:44:43:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, what are you thinking?</p>
+      <p xml:id="797" xml:space="preserve" begin="00:44:43:14" end="00:44:47:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We say no, all of us,<br />on the trust. Full block.</p>
+      <p xml:id="798" xml:space="preserve" begin="00:44:47:18" end="00:44:49:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We say: stability.<br />Stick to the plan.</p>
+      <p xml:id="799" xml:space="preserve" begin="00:44:49:21" end="00:44:51:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I take over and we just--</p>
+      <p xml:id="800" xml:space="preserve" begin="00:44:51:11" end="00:44:53:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">you two, under me,<br />co-presidents.</p>
+      <p xml:id="801" xml:space="preserve" begin="00:44:53:24" end="00:44:55:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Under you?<br />- Uh-huh.</p>
+      <p xml:id="802" xml:space="preserve" begin="00:44:55:22" end="00:44:58:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But, you know, three.<br />The power of three?</p>
+      <p xml:id="803" xml:space="preserve" begin="00:44:58:23" end="00:45:00:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Interesting.<br />- Can we think about it?</p>
+      <p xml:id="804" xml:space="preserve" begin="00:45:01:02" end="00:45:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Of course.<br />- I thought about it. Fuck you.</p>
+      <p xml:id="805" xml:space="preserve" begin="00:45:06:19" end="00:45:08:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Go, Rava!<br />- Psych your mind!</p>
+      <p xml:id="806" xml:space="preserve" begin="00:45:08:19" end="00:45:10:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Go!</p>
+      <p xml:id="807" xml:space="preserve" begin="00:45:11:00" end="00:45:12:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- That's a strike.<br />- Got her looking!</p>
+      <p xml:id="808" xml:space="preserve" begin="00:45:12:23" end="00:45:14:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">That's good pitching.</p>
+      <p xml:id="809" xml:space="preserve" begin="00:45:14:18" end="00:45:16:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Change sides!<br />- Hey, man.</p>
+      <p xml:id="810" xml:space="preserve" begin="00:45:16:09" end="00:45:18:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It was balletic, though,<br />kinda came around..</p>
+      <p xml:id="811" xml:space="preserve" begin="00:45:18:18" end="00:45:20:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I hear you're the new kid. Yeah?</p>
+      <p xml:id="812" xml:space="preserve" begin="00:45:20:10" end="00:45:21:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, well, I mean,<br />I'm just kinda starting--</p>
+      <p xml:id="813" xml:space="preserve" begin="00:45:21:23" end="00:45:23:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I hear you're coming in.<br />- Yeah.</p>
+      <p xml:id="814" xml:space="preserve" begin="00:45:23:10" end="00:45:25:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, eyes on the prize.</p>
+      <p xml:id="815" xml:space="preserve" begin="00:45:25:12" end="00:45:29:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, I have got<br />my eye on you.</p>
+      <p xml:id="816" xml:space="preserve" begin="00:45:29:15" end="00:45:31:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, you need any help,</p>
+      <p xml:id="817" xml:space="preserve" begin="00:45:31:15" end="00:45:34:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">seriously, any help,<br />any advice, just, you know,</p>
+      <p xml:id="818" xml:space="preserve" begin="00:45:34:10" end="00:45:36:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">don't fuckin' bother, OK?</p>
+      <p xml:id="819" xml:space="preserve" begin="00:45:38:04" end="00:45:41:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm only razzing you, cuz.</p>
+      <p xml:id="820" xml:space="preserve" begin="00:45:41:06" end="00:45:44:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're dreaming, really.<br />I'm razzing you.</p>
+      <p xml:id="821" xml:space="preserve" begin="00:45:44:08" end="00:45:45:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- OK.<br />- That was a joke.</p>
+      <p xml:id="822" xml:space="preserve" begin="00:45:45:24" end="00:45:47:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No, really.<br />You know, the thing,</p>
+      <p xml:id="823" xml:space="preserve" begin="00:45:48:00" end="00:45:50:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I may look really fun, you know?<br />- Yeah.</p>
+      <p xml:id="824" xml:space="preserve" begin="00:45:50:08" end="00:45:54:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But the thing about me is that<br />I'm a terrible, terrible prick.</p>
+      <p xml:id="825" xml:space="preserve" begin="00:45:55:09" end="00:45:57:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I got you again.<br />I just got you again.</p>
+      <p xml:id="826" xml:space="preserve" begin="00:45:59:00" end="00:46:00:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fuck me, man, your face.</p>
+      <p xml:id="827" xml:space="preserve" begin="00:46:00:20" end="00:46:02:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pals. Yes?</p>
+      <p xml:id="828" xml:space="preserve" begin="00:46:03:03" end="00:46:04:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah.</p>
+      <p xml:id="829" xml:space="preserve" begin="00:46:04:24" end="00:46:06:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Would you kiss me?</p>
+      <p xml:id="830" xml:space="preserve" begin="00:46:06:16" end="00:46:08:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- What? Kiss you?<br />- Would you?</p>
+      <p xml:id="831" xml:space="preserve" begin="00:46:08:20" end="00:46:10:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">If I asked you to?</p>
+      <p xml:id="832" xml:space="preserve" begin="00:46:11:21" end="00:46:14:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Would I kiss you?<br />- If I told you to? Huh?</p>
+      <p xml:id="833" xml:space="preserve" begin="00:46:17:07" end="00:46:20:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I don't--<br />- Come on.</p>
+      <p xml:id="834" xml:space="preserve" begin="00:46:20:11" end="00:46:23:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm joking. I'm joking.</p>
+      <p xml:id="835" xml:space="preserve" begin="00:46:23:05" end="00:46:25:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- All right, Siobhan.<br />- Bring it!</p>
+      <p xml:id="836" xml:space="preserve" begin="00:46:26:11" end="00:46:28:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Batter swing!</p>
+      <p xml:id="837" xml:space="preserve" begin="00:46:28:05" end="00:46:30:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Just like that!</p>
+      <p xml:id="838" xml:space="preserve" begin="00:46:31:03" end="00:46:32:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh!</p>
+      <p xml:id="839" xml:space="preserve" begin="00:46:32:16" end="00:46:34:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hold up. Hang on, hang on.<br />Sorry.</p>
+      <p xml:id="840" xml:space="preserve" begin="00:46:34:09" end="00:46:36:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Apologies.<br />- Boo! Boo. Honey, boo him.</p>
+      <p xml:id="841" xml:space="preserve" begin="00:46:37:03" end="00:46:39:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah. OK. Sorry. I gotta run.<br />It's the crunch.</p>
+      <p xml:id="842" xml:space="preserve" begin="00:46:39:10" end="00:46:40:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Frank, will you be link man here?</p>
+      <p xml:id="843" xml:space="preserve" begin="00:46:41:02" end="00:46:42:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Uh-huh.<br />- Dad?</p>
+      <p xml:id="844" xml:space="preserve" begin="00:46:42:21" end="00:46:44:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Of course.</p>
+      <p xml:id="845" xml:space="preserve" begin="00:46:44:10" end="00:46:45:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Come here, sweetie.</p>
+      <p xml:id="846" xml:space="preserve" begin="00:46:45:22" end="00:46:50:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, if Kendall's going,<br />we need one more to make it fair!</p>
+      <p xml:id="847" xml:space="preserve" begin="00:46:50:06" end="00:46:51:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Keep it up, slugger.</p>
+      <p xml:id="848" xml:space="preserve" begin="00:46:51:20" end="00:46:56:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">The kid. Hey! Hello!</p>
+      <p xml:id="849" xml:space="preserve" begin="00:46:56:05" end="00:46:57:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hello! Kid. Yeah. Yes.</p>
+      <p xml:id="850" xml:space="preserve" begin="00:46:58:01" end="00:47:00:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You. You. You wanna play?</p>
+      <p xml:id="851" xml:space="preserve" begin="00:47:00:17" end="00:47:02:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dad, can he play?</p>
+      <p xml:id="852" xml:space="preserve" begin="00:47:02:10" end="00:47:04:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yes. Sure.</p>
+      <p xml:id="853" xml:space="preserve" begin="00:47:04:16" end="00:47:06:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Thank you, Dad.</p>
+      <p xml:id="854" xml:space="preserve" begin="00:47:07:24" end="00:47:09:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah, hey, what's up?</p>
+      <p xml:id="855" xml:space="preserve" begin="00:47:09:11" end="00:47:12:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I just got some background for the story<br />I heard you had cookin'.</p>
+      <p xml:id="856" xml:space="preserve" begin="00:47:13:01" end="00:47:15:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That's right.<br />Yeah, I know Kendall Roy.</p>
+      <p xml:id="857" xml:space="preserve" begin="00:47:15:21" end="00:47:18:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">And he's saying Logan's lost it.</p>
+      <p xml:id="858" xml:space="preserve" begin="00:47:18:23" end="00:47:22:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, that's right. Some board members<br />and senior management,</p>
+      <p xml:id="859" xml:space="preserve" begin="00:47:22:07" end="00:47:23:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">they want him out.</p>
+      <p xml:id="860" xml:space="preserve" begin="00:47:23:20" end="00:47:25:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That's what I'm hearing from people<br />close to the family.</p>
+      <p xml:id="861" xml:space="preserve" begin="00:47:26:02" end="00:47:27:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Those disloyal fucks.</p>
+      <p xml:id="862" xml:space="preserve" begin="00:47:31:13" end="00:47:34:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Just-- Just say source<br />close to the family.</p>
+      <p xml:id="863" xml:space="preserve" begin="00:47:47:15" end="00:47:49:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- That's high.<br />- Too high.</p>
+      <p xml:id="864" xml:space="preserve" begin="00:47:49:16" end="00:47:51:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You're gonna be fine.<br />Relax, don't worry about it.</p>
+      <p xml:id="865" xml:space="preserve" begin="00:47:51:04" end="00:47:52:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Can you hit a ball?<br />- Yeah.</p>
+      <p xml:id="866" xml:space="preserve" begin="00:47:52:23" end="00:47:54:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Great, because I will give you</p>
+      <p xml:id="867" xml:space="preserve" begin="00:47:54:10" end="00:47:57:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">one million dollars<br />if you hit a home run.</p>
+      <p xml:id="868" xml:space="preserve" begin="00:47:57:15" end="00:47:59:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I'm dead serious, OK?<br />- For real?</p>
+      <p xml:id="869" xml:space="preserve" begin="00:47:59:16" end="00:48:01:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yes, for real.<br />A million dollars.</p>
+      <p xml:id="870" xml:space="preserve" begin="00:48:01:20" end="00:48:04:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Honey, where's the...<br />your bag?</p>
+      <p xml:id="871" xml:space="preserve" begin="00:48:04:13" end="00:48:06:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hey, I'll do it for a million.<br />Give me that.</p>
+      <p xml:id="872" xml:space="preserve" begin="00:48:06:11" end="00:48:08:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Just kidding.<br />You're good.</p>
+      <p xml:id="873" xml:space="preserve" begin="00:48:08:17" end="00:48:10:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">All right.</p>
+      <p xml:id="874" xml:space="preserve" begin="00:48:11:00" end="00:48:12:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I don't know why you're smiling.<br />I am dead serious.</p>
+      <p xml:id="875" xml:space="preserve" begin="00:48:13:00" end="00:48:16:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I will give you<br />one million dollars, cash,</p>
+      <p xml:id="876" xml:space="preserve" begin="00:48:16:10" end="00:48:19:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">for a home fucking run.</p>
+      <p xml:id="877" xml:space="preserve" begin="00:48:19:15" end="00:48:21:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Rome,<br />don't be an asshole.</p>
+      <p xml:id="878" xml:space="preserve" begin="00:48:21:04" end="00:48:23:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm not being an asshole.<br />I want him incentivized. This is fun.</p>
+      <p xml:id="879" xml:space="preserve" begin="00:48:23:22" end="00:48:27:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's a game. Jeez,<br />stop being so serious. Huh?</p>
+      <p xml:id="880" xml:space="preserve" begin="00:48:27:24" end="00:48:29:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Witnesses.</p>
+      <p xml:id="881" xml:space="preserve" begin="00:48:29:19" end="00:48:31:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Good luck. I believe in you.</p>
+      <p xml:id="882" xml:space="preserve" begin="00:48:32:24" end="00:48:34:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">All right, let's do this!</p>
+      <p xml:id="883" xml:space="preserve" begin="00:48:35:03" end="00:48:37:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">One million dollars.</p>
+      <p xml:id="884" xml:space="preserve" begin="00:48:39:18" end="00:48:41:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK, come on.</p>
+      <p xml:id="885" xml:space="preserve" begin="00:48:44:22" end="00:48:47:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- That's it.<br />- Run, kid!</p>
+      <p xml:id="886" xml:space="preserve" begin="00:48:47:05" end="00:48:48:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That's a hit.<br />That's a damn hit.</p>
+      <p xml:id="887" xml:space="preserve" begin="00:48:49:01" end="00:48:51:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Come on, Shiv!<br />I'm here, Shiv!</p>
+      <p xml:id="888" xml:space="preserve" begin="00:48:52:12" end="00:48:54:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Come on!<br />- Tom!</p>
+      <p xml:id="889" xml:space="preserve" begin="00:48:54:14" end="00:48:57:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Come on!<br />Come on, run faster!</p>
+      <p xml:id="890" xml:space="preserve" begin="00:48:58:24" end="00:49:02:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- No! No!<br />- Bad luck, kid.</p>
+      <p xml:id="891" xml:space="preserve" begin="00:49:02:17" end="00:49:06:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, no! You were so damn close!</p>
+      <p xml:id="892" xml:space="preserve" begin="00:49:07:00" end="00:49:08:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">That was so close!</p>
+      <p xml:id="893" xml:space="preserve" begin="00:49:09:00" end="00:49:10:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, my goodness!</p>
+      <p xml:id="894" xml:space="preserve" begin="00:49:10:14" end="00:49:13:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, that is so sad!<br />Oh, I'm sorry.</p>
+      <p xml:id="895" xml:space="preserve" begin="00:49:13:23" end="00:49:15:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I can't give it to you. That would<br />have counted, by the way.</p>
+      <p xml:id="896" xml:space="preserve" begin="00:49:16:03" end="00:49:17:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That was almost a home run,<br />if you went all the way around.</p>
+      <p xml:id="897" xml:space="preserve" begin="00:49:18:01" end="00:49:20:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But it was a really good effort.<br />Really. Quite tremendous.</p>
+      <p xml:id="898" xml:space="preserve" begin="00:49:20:23" end="00:49:25:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So take this back to your life.<br />It's a quarter million. Enjoy.</p>
+      <p xml:id="899" xml:space="preserve" begin="00:49:25:08" end="00:49:29:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Son...magnificent effort.</p>
+      <p xml:id="900" xml:space="preserve" begin="00:49:29:07" end="00:49:30:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Thank you.<br />- Magnificent.</p>
+      <p xml:id="901" xml:space="preserve" begin="00:49:34:05" end="00:49:36:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Come here.<br />- It's OK.</p>
+      <p xml:id="902" xml:space="preserve" begin="00:49:55:17" end="00:49:57:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hey, Lawrence.</p>
+      <p xml:id="903" xml:space="preserve" begin="00:49:57:07" end="00:49:59:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sorry the other offer<br />fell through.</p>
+      <p xml:id="904" xml:space="preserve" begin="00:49:59:22" end="00:50:01:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I don't know what happened.</p>
+      <p xml:id="905" xml:space="preserve" begin="00:50:01:12" end="00:50:03:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But we fattened<br />the goose nice now, right?</p>
+      <p xml:id="906" xml:space="preserve" begin="00:50:03:17" end="00:50:05:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">The number is 140.</p>
+      <p xml:id="907" xml:space="preserve" begin="00:50:05:11" end="00:50:08:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Cash, with<br />a stock alternative.</p>
+      <p xml:id="908" xml:space="preserve" begin="00:50:09:11" end="00:50:11:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You're on our board.</p>
+      <p xml:id="909" xml:space="preserve" begin="00:50:11:08" end="00:50:13:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Take the stock, you'll own<br />a nice piece of us.</p>
+      <p xml:id="910" xml:space="preserve" begin="00:50:13:04" end="00:50:16:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, that is<br />an appealing package.</p>
+      <p xml:id="911" xml:space="preserve" begin="00:50:16:18" end="00:50:19:03" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It is, yeah.<br />It's appealing.</p>
+      <p xml:id="912" xml:space="preserve" begin="00:50:19:07" end="00:50:21:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You better play nice, though.<br />Because I'm the whole company.</p>
+      <p xml:id="913" xml:space="preserve" begin="00:50:21:14" end="00:50:22:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yeah, I think you're<br />gonna stick around</p>
+      <p xml:id="914" xml:space="preserve" begin="00:50:23:02" end="00:50:24:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">because I'm gonna stuff<br />your mouth with so much money</p>
+      <p xml:id="915" xml:space="preserve" begin="00:50:24:19" end="00:50:26:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">you're gonna shit<br />gold figurines.</p>
+      <p xml:id="916" xml:space="preserve" begin="00:50:27:02" end="00:50:30:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Non-disclosure agreement.<br />Non-voting shares. Non-compete.</p>
+      <p xml:id="917" xml:space="preserve" begin="00:50:30:20" end="00:50:34:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm going to lock you in a golden cage,<br />fuck you with a silver dildo,</p>
+      <p xml:id="918" xml:space="preserve" begin="00:50:34:10" end="00:50:36:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and pay you so much<br />you sing whatever song I want.</p>
+      <p xml:id="919" xml:space="preserve" begin="00:50:37:01" end="00:50:38:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Easy. You still need me<br />to recommend this.</p>
+      <p xml:id="920" xml:space="preserve" begin="00:50:39:00" end="00:50:42:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">No, I don't. This is a deal<br />so fucking good you have to take it,</p>
+      <p xml:id="921" xml:space="preserve" begin="00:50:42:21" end="00:50:44:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">or we'll see you in court.</p>
+      <p xml:id="922" xml:space="preserve" begin="00:50:45:00" end="00:50:46:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dude.</p>
+      <p xml:id="923" xml:space="preserve" begin="00:51:01:11" end="00:51:03:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">How you doing, sir?<br />How's everything?</p>
+      <p xml:id="924" xml:space="preserve" begin="00:51:03:16" end="00:51:07:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm Colin. I work for Mr. Logan Roy<br />and the Roy family.</p>
+      <p xml:id="925" xml:space="preserve" begin="00:51:07:23" end="00:51:11:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We'd like to keep this quiet<br />today, if you'll agree to that.</p>
+      <p xml:id="926" xml:space="preserve" begin="00:51:11:22" end="00:51:14:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We'd like to have you sign<br />a non-disclosure agreement.</p>
+      <p xml:id="927" xml:space="preserve" begin="00:51:14:14" end="00:51:17:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- You wanted five?<br />- Oh, Frank. Yeah.</p>
+      <p xml:id="928" xml:space="preserve" begin="00:51:17:13" end="00:51:19:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I've been thinking</p>
+      <p xml:id="929" xml:space="preserve" begin="00:51:19:20" end="00:51:24:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">if now isn't a time<br />for a new role for you.</p>
+      <p xml:id="930" xml:space="preserve" begin="00:51:26:13" end="00:51:29:02" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK. As in what sort?</p>
+      <p xml:id="931" xml:space="preserve" begin="00:51:29:06" end="00:51:31:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Light duties.</p>
+      <p xml:id="932" xml:space="preserve" begin="00:51:33:14" end="00:51:35:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Light duties.</p>
+      <p xml:id="933" xml:space="preserve" begin="00:51:37:14" end="00:51:40:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Are you kidding me?<br />Logan. Me?</p>
+      <p xml:id="934" xml:space="preserve" begin="00:51:40:16" end="00:51:44:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">There should be<br />a press release on your phone.</p>
+      <p xml:id="935" xml:space="preserve" begin="00:51:44:16" end="00:51:46:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Proof it.</p>
+      <p xml:id="936" xml:space="preserve" begin="00:51:46:14" end="00:51:49:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You might want to give it<br />a bit of color, it's quite dry.</p>
+      <p xml:id="937" xml:space="preserve" begin="00:51:56:15" end="00:52:00:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">That's it? To me. That's it?<br />After 30--</p>
+      <p xml:id="938" xml:space="preserve" begin="00:52:00:05" end="00:52:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jesus Christ. Here?</p>
+      <p xml:id="939" xml:space="preserve" begin="00:52:04:20" end="00:52:07:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">You are what you do, Logan.<br />You know that?</p>
+      <p xml:id="940" xml:space="preserve" begin="00:52:09:04" end="00:52:11:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">In the end,<br />you're just what you do.</p>
+      <p xml:id="941" xml:space="preserve" begin="00:52:11:16" end="00:52:14:05" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Don't worry,<br />you'll get your nut.</p>
+      <p xml:id="942" xml:space="preserve" begin="00:52:15:20" end="00:52:19:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Connor! Shiv! Roman!</p>
+      <p xml:id="943" xml:space="preserve" begin="00:52:19:24" end="00:52:21:14" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">The other helicopter.</p>
+      <p xml:id="944" xml:space="preserve" begin="00:52:21:18" end="00:52:24:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Colin, see to it.</p>
+      <p xml:id="945" xml:space="preserve" begin="00:52:43:00" end="00:52:46:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Well, officially<br />the deadline has passed.</p>
+      <p xml:id="946" xml:space="preserve" begin="00:52:47:02" end="00:52:50:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So... what do you say, kids?</p>
+      <p xml:id="947" xml:space="preserve" begin="00:52:50:08" end="00:52:52:15" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What's the Frank situation?</p>
+      <p xml:id="948" xml:space="preserve" begin="00:52:52:19" end="00:52:55:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Frank's out of the picture.<br />- Yeah?</p>
+      <p xml:id="949" xml:space="preserve" begin="00:52:55:20" end="00:52:58:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Frank's dead.<br />Tom's stepping up,</p>
+      <p xml:id="950" xml:space="preserve" begin="00:52:59:02" end="00:53:01:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and Shiv's thinking<br />about a new role.</p>
+      <p xml:id="951" xml:space="preserve" begin="00:53:01:08" end="00:53:03:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, are we good?</p>
+      <p xml:id="952" xml:space="preserve" begin="00:53:05:02" end="00:53:06:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Um... Shiv?</p>
+      <p xml:id="953" xml:space="preserve" begin="00:53:09:06" end="00:53:10:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Rome?</p>
+      <p xml:id="954" xml:space="preserve" begin="00:53:11:02" end="00:53:12:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Con?</p>
+      <p xml:id="955" xml:space="preserve" begin="00:53:13:19" end="00:53:15:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I'm with these two.<br />What they say goes.</p>
+      <p xml:id="956" xml:space="preserve" begin="00:53:18:24" end="00:53:21:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Our position is<br />this doesn't quite work for us.</p>
+      <p xml:id="957" xml:space="preserve" begin="00:53:21:15" end="00:53:22:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">At present.</p>
+      <p xml:id="958" xml:space="preserve" begin="00:53:23:02" end="00:53:24:11" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">You what?</p>
+      <p xml:id="959" xml:space="preserve" begin="00:53:24:15" end="00:53:27:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">It's not sufficiently attractive<br />as a proposition.</p>
+      <p xml:id="960" xml:space="preserve" begin="00:53:28:00" end="00:53:30:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Are you fuckin' joking?<br />- We get that.</p>
+      <p xml:id="961" xml:space="preserve" begin="00:53:30:10" end="00:53:31:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">We do. And we would love to help.</p>
+      <p xml:id="962" xml:space="preserve" begin="00:53:32:02" end="00:53:34:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- I would love to help.<br />- Then help.</p>
+      <p xml:id="963" xml:space="preserve" begin="00:53:34:10" end="00:53:36:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But why would I<br />when I'm giving away power?</p>
+      <p xml:id="964" xml:space="preserve" begin="00:53:36:24" end="00:53:38:07" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Why would I do that?</p>
+      <p xml:id="965" xml:space="preserve" begin="00:53:38:11" end="00:53:40:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So... so Kelly, uh...</p>
+      <p xml:id="966" xml:space="preserve" begin="00:53:41:01" end="00:53:43:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Who's Kelly?<br />- Kelly will set up some figures.</p>
+      <p xml:id="967" xml:space="preserve" begin="00:53:43:08" end="00:53:46:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- He should see that, uh...<br />- Dad?</p>
+      <p xml:id="968" xml:space="preserve" begin="00:53:46:16" end="00:53:48:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Dad?<br />- Yeah, he--</p>
+      <p xml:id="969" xml:space="preserve" begin="00:53:48:17" end="00:53:50:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Dad, it's just a first position.<br />- Dad?</p>
+      <p xml:id="970" xml:space="preserve" begin="00:53:50:24" end="00:53:52:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">...get a grasp of what-- what--</p>
+      <p xml:id="971" xml:space="preserve" begin="00:53:53:24" end="00:53:56:09" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Dad! Dad!<br />- Dad!</p>
+      <p xml:id="972" xml:space="preserve" begin="00:53:59:11" end="00:54:00:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Dad!</p>
+      <p xml:id="973" xml:space="preserve" begin="00:54:00:23" end="00:54:03:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Dad! Dad!<br />- Dad! Dad!</p>
+      <p xml:id="974" xml:space="preserve" begin="00:54:04:02" end="00:54:08:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Just, yeah. A hospital.<br />Take us to a hospital.</p>
+      <p xml:id="975" xml:space="preserve" begin="00:54:08:05" end="00:54:09:13" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">OK, yeah, now!</p>
+      <p xml:id="976" xml:space="preserve" begin="00:54:09:17" end="00:54:11:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Has he fainted?</p>
+      <p xml:id="977" xml:space="preserve" begin="00:54:11:10" end="00:54:13:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- He fainted? He's hot.<br />- He's really hot. I don't know.</p>
+      <p xml:id="978" xml:space="preserve" begin="00:54:30:24" end="00:54:33:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Kendall?<br />- Yeah.</p>
+      <p xml:id="979" xml:space="preserve" begin="00:54:33:22" end="00:54:35:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Have you heard the news?</p>
+      <p xml:id="980" xml:space="preserve" begin="00:54:35:20" end="00:54:37:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What?</p>
+      <p xml:id="981" xml:space="preserve" begin="00:54:41:00" end="00:54:43:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Deal. It's all very exciting.<br />I can't wait to--</p>
+      <p xml:id="982" xml:space="preserve" begin="00:54:44:02" end="00:54:45:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We got a deal?<br />- Yeah.</p>
+      <p xml:id="983" xml:space="preserve" begin="00:54:45:14" end="00:54:47:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Serious?<br />- Yes?</p>
+      <p xml:id="984" xml:space="preserve" begin="00:54:47:05" end="00:54:49:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oh, dude.</p>
+      <p xml:id="985" xml:space="preserve" begin="00:54:49:04" end="00:54:50:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Listen, I think...</p>
+      <p xml:id="986" xml:space="preserve" begin="00:54:51:02" end="00:54:53:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">I think you've made<br />a really great decision</p>
+      <p xml:id="987" xml:space="preserve" begin="00:54:53:05" end="00:54:56:10" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">and I hope there's no hard feelings<br />over all the shit-talking.</p>
+      <p xml:id="988" xml:space="preserve" begin="00:54:56:14" end="00:54:59:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oh, no, no, it's cool.<br />It's cool.</p>
+      <p xml:id="989" xml:space="preserve" begin="00:55:00:00" end="00:55:02:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">So, the news<br />I was talking about</p>
+      <p xml:id="990" xml:space="preserve" begin="00:55:03:02" end="00:55:05:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">is that your dad just<br />had a brain hemorrhage.</p>
+      <p xml:id="991" xml:space="preserve" begin="00:55:07:10" end="00:55:08:18" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">What?</p>
+      <p xml:id="992" xml:space="preserve" begin="00:55:08:22" end="00:55:10:16" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Yeah. I'm so sorry.</p>
+      <p xml:id="993" xml:space="preserve" begin="00:55:12:01" end="00:55:13:12" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Are you--<br />- But...</p>
+      <p xml:id="994" xml:space="preserve" begin="00:55:13:16" end="00:55:16:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">you just invited me<br />into the chicken coop.</p>
+      <p xml:id="995" xml:space="preserve" begin="00:55:16:21" end="00:55:20:06" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">And without Daddy around to protect you,<br />I'm gonna eat you all.</p>
+      <p xml:id="996" xml:space="preserve" begin="00:55:20:10" end="00:55:22:00" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">One by fucking one.</p>
+      <p xml:id="997" xml:space="preserve" begin="00:55:34:11" end="00:55:37:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- Hello?<br />- Kendall. Thank God.</p>
+      <p xml:id="998" xml:space="preserve" begin="00:55:37:05" end="00:55:40:08" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- We've been trying to reach you. Um...<br />- Uh-huh.</p>
+      <p xml:id="999" xml:space="preserve" begin="00:55:40:12" end="00:55:43:24" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">...Dad is in the hospital. He's...</p>
+      <p xml:id="1000" xml:space="preserve" begin="00:55:44:03" end="00:55:47:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We were in the helicopter,<br />and we got here really fast,</p>
+      <p xml:id="1001" xml:space="preserve" begin="00:55:47:05" end="00:55:48:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">- but they think--<br />- Uh-huh.</p>
+      <p xml:id="1002" xml:space="preserve" begin="00:55:48:24" end="00:55:51:01" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">We don't know. They think<br />he's had a brain hemorrhage.</p>
+      <p xml:id="1003" xml:space="preserve" begin="00:55:57:09" end="00:56:00:17" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">If you could get here really soon,<br />that'd be good.</p>
+      <p xml:id="1004" xml:space="preserve" begin="00:56:02:02" end="00:56:04:23" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">I'm sorry. Um...</p>
+      <p xml:id="1005" xml:space="preserve" begin="00:56:46:09" end="00:56:49:04" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Most first-time homebuyers<br />would love to live in Newport Beach.</p>
+      <p xml:id="1006" xml:space="preserve" begin="00:56:49:08" end="00:56:51:21" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">But average home price in Newport Beach<br />is over $1 million.</p>
+      <p xml:id="1007" xml:space="preserve" begin="00:56:52:00" end="00:56:54:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">So, most of the homes...</p>
+      <p xml:id="1008" xml:space="preserve" begin="00:57:17:06" end="00:57:18:22" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">There is a degree<br />of stock market volatility</p>
+      <p xml:id="1009" xml:space="preserve" begin="00:57:19:01" end="00:57:21:19" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">as Waystar Royco's chairman<br />is reported to be</p>
+      <p xml:id="1010" xml:space="preserve" begin="00:57:21:23" end="00:57:25:20" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">in critical condition<br />following a major medical incident...</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="133750000t" end="158750000t" region="bottom" xml:id="subtitle0"><span style="span">[man 1] </span><span style="italic">Is a normal, boring shift</span><br/><span style="italic">too much to ask?</span></p>
+<p begin="170416667t" end="185000000t" region="bottom" xml:id="subtitle1"><span style="span">Looks like a puncture wound.</span></p>
+<p begin="185833334t" end="204583334t" region="bottom" xml:id="subtitle2"><span style="span">Boys across town</span><br/><span style="span">just caught two more bodies.</span></p>
+<p begin="205416667t" end="225833334t" region="bottom" xml:id="subtitle3"><span style="italic">Said both had some kind of mark</span><br/><span style="italic">on their neck.</span></p>
+<p begin="250000000t" end="274583334t" region="bottom" xml:id="subtitle4"><span style="span">Got three random victims</span><br/><span style="span">with times of death minutes apart.</span></p>
+<p begin="291666667t" end="309166667t" region="bottom" xml:id="subtitle5"><span style="italic">Bodies are miles apart.</span><br/><span style="italic">How does that work?</span></p>
+<p begin="339583334t" end="366250000t" region="bottom" xml:id="subtitle6"><span style="span">[man 2] </span><span style="italic">Suspect heading west</span><br/><span style="italic">across Liberty.</span></p>
+<p begin="383750000t" end="394583334t" region="bottom" xml:id="subtitle7"><span style="span">[woman] </span><span style="italic">Hello, Thomas.</span></p>
+<p begin="403333334t" end="412500000t" region="bottom" xml:id="subtitle8"><span style="span">What did you say?</span></p>
+<p begin="425833334t" end="437916667t" region="bottom" xml:id="subtitle9"><span style="span">Is this where it happens?</span></p>
+<p begin="444583334t" end="460833334t" region="bottom" xml:id="subtitle10"><span style="span">[dramatic music swells]</span></p>
+<p begin="540416667t" end="573333334t" region="bottom" xml:id="subtitle11"><span style="span">[reporter] </span><span style="italic">Today marks the nine-year</span><br/><span style="italic">anniversary of the Market Street murders,</span></p>
+<p begin="574166667t" end="593333334t" region="bottom" xml:id="subtitle12"><span style="span">and a still-unidentified suspect.</span></p>
+<p begin="594166667t" end="605000000t" region="bottom" xml:id="subtitle13"><span style="span">[cell phone rings]</span></p>
+<p begin="605833334t" end="622500000t" region="bottom" xml:id="subtitle14"><span style="span">Detective Lockhart. Yes, hello.</span></p>
+<p begin="631250000t" end="652916667t" region="bottom" xml:id="subtitle15"><span style="span">[man 3] </span><span style="italic">What do you mean,</span><br/><span style="italic">it's happening again?</span></p>
+<p begin="668333334t" end="681250000t" region="bottom" xml:id="subtitle16"><span style="span">[man 4] </span><span style="italic">You guys gotta see this.</span></p>
+<p begin="685000000t" end="702500000t" region="bottom" xml:id="subtitle17"><span style="span">Philly PD. Have you seen this woman?</span></p>
+<p begin="732083334t" end="741250000t" region="bottom" xml:id="subtitle18"><span style="span">Nice to see you again.</span></p>
+<p begin="768333334t" end="800416667t" region="bottom" xml:id="subtitle19"><span style="span">[man 5] </span><span style="italic">She gets torn apart by a train,</span><br/><span style="italic">and nine years later she's back?</span></p>
+<p begin="814166667t" end="851666667t" region="bottom" xml:id="subtitle20"><span style="span">She is priority number one</span><br/><span style="span">for all law enforcement agencies.</span></p>
+<p begin="852500000t" end="867916667t" region="bottom" xml:id="subtitle21"><span style="span">[woman] </span><span style="italic">You have to stop chasing me.</span></p>
+<p begin="883750000t" end="897916667t" region="bottom" xml:id="subtitle22"><span style="italic">I'm doing all this for a reason.</span></p>
+<p begin="920416667t" end="941666667t" region="bottom" xml:id="subtitle23"><span style="span">[man 5] </span><span style="italic">We're all going forward but her.</span></p>
+<p begin="985000000t" end="997916667t" region="bottom" xml:id="subtitle24"><span style="span">[man 5] </span><span style="italic">She's going backward.</span></p>
+<p begin="1059583334t" end="1080416667t" region="bottom" xml:id="subtitle25"><span style="span">You have no idea what's coming.</span></p>
+<p begin="1163333334t" end="1177916667t" region="bottom" xml:id="subtitle26"><span style="span">[woman] </span><span style="italic">If you kill me now,</span></p>
+<p begin="1185416667t" end="1203750000t" region="bottom" xml:id="subtitle27"><span style="italic">the world as you know it will end.</span></p>
+</div>
+</body>
+</tt>

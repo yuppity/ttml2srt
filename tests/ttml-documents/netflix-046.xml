@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="58808749t" end="75909166t" region="bottomCenter" style="s1" xml:id="subtitle0"><span style="s1_1">[Thomas] 1922.</span></p>
+<p begin="88004582t" end="113446666t" region="bottomCenter" style="s1" xml:id="subtitle1"><span style="s1_1">A man's pride was a man's land.</span></p>
+<p begin="139305832t" end="154737916t" region="bottomCenter" style="s1" xml:id="subtitle2"><span style="s1_1">And so was his son.</span></p>
+<p begin="171838332t" end="182265416t" region="bottomCenter" style="s1" xml:id="subtitle3"><span style="s1_1">My wife...</span></p>
+<p begin="197280416t" end="218968749t" region="bottomCenter" style="s1" xml:id="subtitle4"><span style="s1_1">...she wanted us to leave all this behind.</span></p>
+<p begin="243159582t" end="251918332t" region="bottomCenter" style="s1" xml:id="subtitle5">We can move.</p>
+<p begin="257757499t" end="273189582t" region="bottomCenter" style="s1" xml:id="subtitle6">The cities are for fools.</p>
+<p begin="282365416t" end="318651666t" region="bottomCenter" style="s1" xml:id="subtitle7">We divorce.<br/>We both know that's what you want.</p>
+<p begin="344510832t" end="362862500t" region="bottomCenter" style="s1" xml:id="subtitle8">Life is rarely fair.</p>
+<p begin="372038332t" end="384133750t" region="bottomCenter" style="s1" xml:id="subtitle9">Especially out here.</p>
+<p begin="406239166t" end="427927499t" region="bottomCenter" style="s1" xml:id="subtitle10"><span style="s1_1">[Thomas] I believe that</span><br/><span style="s1_1">there's another man...</span></p>
+<p begin="453786666t" end="471721249t" region="bottomCenter" style="s1" xml:id="subtitle11"><span style="s1_1">...inside every man.</span></p>
+<p begin="495912082t" end="508841666t" region="bottomCenter" style="s1" xml:id="subtitle12"><span style="s1_1">A conniving man.</span></p>
+<p begin="528027499t" end="560977082t" region="bottomCenter" style="s1" xml:id="subtitle13">I'm gonna sell.<br/>You, my son, are coming with me.</p>
+<p begin="583499582t" end="598514582t" region="bottomCenter" style="s1" xml:id="subtitle14">This is our house.</p>
+<p begin="619785832t" end="636469166t" region="bottomCenter" style="s1" xml:id="subtitle15"><span style="s1_1">[Thomas] In 1922...</span></p>
+<p begin="651067082t" end="665247916t" region="bottomCenter" style="s1" xml:id="subtitle16"><span style="s1_1">...I murdered my wife.</span></p>
+<p begin="679011666t" end="692358332t" region="bottomCenter" style="s1" xml:id="subtitle17">-[knife slicing]<br/>-[woman taking breath]</p>
+<p begin="725725000t" end="744076666t" region="bottomCenter" style="s1" xml:id="subtitle18">Want a glass of lemonade Sheriff?</p>
+<p begin="746996250t" end="757840416t" region="bottomCenter" style="s1" xml:id="subtitle19">Can I look in the house?</p>
+<p begin="777026250t" end="793709582t" region="bottomCenter" style="s1" xml:id="subtitle20"><span style="s1_1">[Thomas] She only took the one suitcase.</span></p>
+<p begin="800382916t" end="824156666t" region="bottomCenter" style="s1" xml:id="subtitle21"><span style="s1_1">[Sheriff] Woman had to be crazy</span><br/><span style="s1_1">to leave a nice house like this one.</span></p>
+<p begin="881714166t" end="928427499t" region="bottomCenter" style="s1" xml:id="subtitle22">[The Very Thought Of You<br/>by Nat King Cole playing]</p>
+<p begin="965964999t" end="974306666t" region="bottomCenter" style="s1" xml:id="subtitle23">[rat squeeking]</p>
+<p begin="1035200832t" end="1046879166t" region="bottomCenter" style="s1" xml:id="subtitle24"><span style="s1_1">[Henry] Don't touch me!</span></p>
+<p begin="1059808749t" end="1069401666t" region="bottomCenter" style="s1" xml:id="subtitle25">[gunshot]</p>
+<p begin="1091924166t" end="1102768332t" region="bottomCenter" style="s1" xml:id="subtitle26">You cursed it all!</p>
+<p begin="1123205416t" end="1136969166t" region="bottomCenter" style="s1" xml:id="subtitle27"><span style="s1_1">[Henry] I hope there is no God.</span></p>
+<p begin="1149064582t" end="1163245416t" region="bottomCenter" style="s1" xml:id="subtitle28"><span style="s1_1">Because if there's no Heaven...</span></p>
+<p begin="1219551666t" end="1231647082t" region="bottomCenter" style="s1" xml:id="subtitle29"><span style="s1_1">...there's no Hell.</span></p>
+</div>
+</body>
+</tt>

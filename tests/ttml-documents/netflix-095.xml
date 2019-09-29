@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="11261250t" end="32532500t" region="bottom" xml:id="subtitle0"><span style="span">[man in Mandarin]</span><br/><span style="span">How old do you think these houses are?</span></p>
+<p begin="33366667t" end="44210834t" region="bottom" xml:id="subtitle1"><span style="span">[woman] 200 years.</span></p>
+<p begin="47547500t" end="56306250t" region="bottom" xml:id="subtitle2"><span style="span">[man] No way!</span></p>
+<p begin="57557500t" end="88004584t" region="bottom" xml:id="subtitle3"><span style="span">-America was founded only 200 years ago.</span><br/><span style="span">-Oh.</span></p>
+<p begin="88838750t" end="113863750t" region="bottom" xml:id="subtitle4"><span style="span">-[laughs] Only 200 years ago.</span><br/><span style="span">-Several decades at least.</span></p>
+<p begin="114697917t" end="129295834t" region="bottom" xml:id="subtitle5"><span style="span">[man] Yeah, several decades.</span></p>
+<p begin="154320834t" end="172672500t" region="bottom" xml:id="subtitle6"><span style="span">[man 2 in English]</span><br/><span style="span">The plant is closing here today.</span></p>
+<p begin="173506667t" end="187270417t" region="bottom" xml:id="subtitle7"><span style="span">Sad to see it go.</span></p>
+<p begin="203536667t" end="235652084t" region="bottom" xml:id="subtitle8"><span style="span">[man 3] For a year and a half, </span><br/><span style="span">I didn't have anything.</span></p>
+<p begin="236903334t" end="263596667t" region="bottom" xml:id="subtitle9"><span style="span">[woman 1]</span><br/><span style="span">We lost our home, we lost a vehicle.</span></p>
+<p begin="269852917t" end="296963334t" region="bottom" xml:id="subtitle10"><span style="span">[woman 2] I have struggled to get back</span><br/><span style="span">to middle class again.</span></p>
+<p begin="333666667t" end="362028334t" region="bottom" xml:id="subtitle11"><span style="span">[in Mandarin] I love Ohio very much.</span></p>
+<p begin="362862500t" end="391224167t" region="bottom" xml:id="subtitle12"><span style="span">[man 4 in English]</span><br/><span style="span">Fuyao has invested close to 500 million.</span></p>
+<p begin="397897500t" end="434600834t" region="bottom" xml:id="subtitle13"><span style="span">This is a historic project that is</span><br/><span style="span">gonna help grow this community,</span></p>
+<p begin="435852084t" end="475475000t" region="bottom" xml:id="subtitle14"><span style="span">give people jobs, and give a future</span><br/><span style="span">to your kids and my kids.</span></p>
+<p begin="485485000t" end="495077917t" region="bottom" xml:id="subtitle15"><span style="span">[camera shutter clicks]</span></p>
+<p begin="495912084t" end="525107917t" region="bottom" xml:id="subtitle16"><span style="span">[Dierks Bentley's "Riser" plays]</span></p>
+<p begin="547213334t" end="566399167t" region="bottom" xml:id="subtitle17"><span style="span">[man 5]</span><br/><span style="span">We're melding two cultures together:</span></p>
+<p begin="568067500t" end="593509584t" region="bottom" xml:id="subtitle18"><span style="span">the Chinese culture and the U.S. culture.</span></p>
+<p begin="595595000t" end="620620000t" region="bottom" xml:id="subtitle19"><span style="span">[in Mandarin] You'll find many things here</span><br/><span style="span">different from back in China.</span></p>
+<p begin="625625000t" end="641474167t" region="bottom" xml:id="subtitle20"><span style="span">We need to know each other.</span></p>
+<p begin="642308334t" end="662745417t" region="bottom" xml:id="subtitle21"><span style="span">[in English] Come down here</span><br/><span style="span">and eat some barbecue with us.</span></p>
+<p begin="663996667t" end="680262917t" region="bottom" xml:id="subtitle22"><span style="span">[in Mandarin]</span><br/><span style="span">He said he'll have a barbecue here</span></p>
+<p begin="681097084t" end="698197500t" region="bottom" xml:id="subtitle23"><span style="span">-and invite you to eat.</span><br/><span style="span">-Okay.</span></p>
+<p begin="700700000t" end="713629584t" region="bottom" xml:id="subtitle24"><span style="span">-[in English] Awesome, thank you.</span><br/><span style="span">-Okay.</span></p>
+<p begin="714880834t" end="754503750t" region="bottom" xml:id="subtitle25"><span style="italic">♪ Lay your pretty head down</span><br/><span style="italic">On my shoulder ♪</span></p>
+<p begin="759925834t" end="782448334t" region="bottom" xml:id="subtitle26"><span style="span">[owner in Mandarin] American workers</span><br/><span style="span">are not efficient, and output is low.</span></p>
+<p begin="783282500t" end="822905417t" region="bottom" xml:id="subtitle27"><span style="span">He has fat fingers.</span><br/><span style="span">We keep training him over and over.</span></p>
+<p begin="823739584t" end="842508334t" region="bottom" xml:id="subtitle28"><span style="italic">♪ This old world is cold... ♪</span></p>
+<p begin="846262084t" end="878377500t" region="bottom" xml:id="subtitle29"><span style="span">[woman 3 in English] They work non-stop,</span><br/><span style="span">around the clock, 24 hours a day.</span></p>
+<p begin="882548334t" end="903402500t" region="bottom" xml:id="subtitle30"><span style="span">[man 6 in English] It's like</span><br/><span style="span">they don't even know what the rules are.</span></p>
+<p begin="904236667t" end="921754167t" region="bottom" xml:id="subtitle31"><span style="span">Chairman said the door</span><br/><span style="span">can't face this way.</span></p>
+<p begin="929261667t" end="953035417t" region="bottom" xml:id="subtitle32"><span style="span">That's gonna cost us $35,000.</span></p>
+<p begin="959291667t" end="977226250t" region="bottom" xml:id="subtitle33"><span style="italic">♪ I'm a riser ♪</span></p>
+<p begin="978060417t" end="997246250t" region="bottom" xml:id="subtitle34"><span style="span">[owner in Mandarin]</span><br/><span style="span">This is a very tough challenge for us.</span></p>
+<p begin="998080417t" end="1035617917t" region="bottom" xml:id="subtitle35"><span style="italic">♪ Get up off the ground</span><br/><span style="italic">Don't run and hider ♪</span></p>
+<p begin="1036452084t" end="1073572500t" region="bottom" xml:id="subtitle36"><span style="span">[man 7 in Mandarin] Frankly,</span><br/><span style="span">the pressure is huge for everyone here.</span></p>
+<p begin="1075657917t" end="1099848750t" region="bottom" xml:id="subtitle37"><span style="italic">♪ Hey, I'm a fighter ♪</span></p>
+<p begin="1103185417t" end="1123205417t" region="bottom" xml:id="subtitle38"><span style="span">The loss is about 40 million US dollars.</span></p>
+<p begin="1124039584t" end="1132798334t" region="bottom" xml:id="subtitle39"><span style="span">[all] Improvement!</span></p>
+<p begin="1133632500t" end="1167833334t" region="bottom" xml:id="subtitle40"><span style="span">[in English] They told me they had to</span><br/><span style="span">be here two years away from their family.</span></p>
+<p begin="1168667500t" end="1177009167t" region="bottom" xml:id="subtitle41"><span style="span">[all] We'll do better!</span></p>
+<p begin="1177843334t" end="1196195000t" region="bottom" xml:id="subtitle42"><span style="span">[man 7 in Mandarin] I thought Americans</span><br/><span style="span">lived a comfortable life.</span></p>
+<p begin="1200365834t" end="1242491250t" region="bottom" xml:id="subtitle43"><span style="span">I thought they don't have to sacrifice</span><br/><span style="span">many things to make a living.</span></p>
+<p begin="1249998750t" end="1279194584t" region="bottom" xml:id="subtitle44"><span style="span">[reporter] </span><span style="italic">There have been 11 complaints</span><br/><span style="italic">filed against Fuyao.</span></p>
+<p begin="1280028750t" end="1288370417t" region="bottom" xml:id="subtitle45"><span style="span">Be careful!</span></p>
+<p begin="1289204584t" end="1301717084t" region="bottom" xml:id="subtitle46"><span style="span">Today was a ***show.</span></p>
+<p begin="1302551250t" end="1337586250t" region="bottom" xml:id="subtitle47"><span style="italic">-♪ Yeah, I'm a riser ♪</span><br/><span style="span">-[cheering]</span></p>
+<p begin="1338420417t" end="1366365000t" region="bottom" xml:id="subtitle48"><span style="span">[in Mandarin] Slowly bleeding money</span><br/><span style="span">is even worse than a union.</span></p>
+<p begin="1367616250t" end="1388887500t" region="bottom" xml:id="subtitle49"><span style="span">[man 3 in English]</span><br/><span style="span">People walk around saying "Vote No."</span></p>
+<p begin="1389721667t" end="1417249167t" region="bottom" xml:id="subtitle50"><span style="span">My question to them people: </span><br/><span style="span">"What voice do you have?</span></p>
+<p begin="1418083334t" end="1433515417t" region="bottom" xml:id="subtitle51"><span style="span">When have you ever had a voice?"</span></p>
+<p begin="1434349584t" end="1469384584t" region="bottom" xml:id="subtitle52"><span style="italic">♪ Pushin' come to shovin'</span><br/><span style="italic">Honey, I'm a fighter ♪</span></p>
+<p begin="1470218750t" end="1489821667t" region="bottom" xml:id="subtitle53"><span style="span">[man 4 in English]</span><br/><span style="span">Now the whole world is watching.</span></p>
+<p begin="1494826667t" end="1521102917t" region="bottom" xml:id="subtitle54"><span style="span">[man 7 in Mandarin] I think the most</span><br/><span style="span">important thing is mutual understanding.</span></p>
+<p begin="1521937084t" end="1542374167t" region="bottom" xml:id="subtitle55"><span style="italic">♪ Survivor ♪</span></p>
+<p begin="1543208334t" end="1565730834t" region="bottom" xml:id="subtitle56"><span style="span">[man 8 in English]</span><br/><span style="span">You never give up on the American dream.</span></p>
+<p begin="1574072500t" end="1590338750t" region="bottom" xml:id="subtitle57"><span style="span">To me, that would be un-American.</span></p>
+</div>
+</body>
+</tt>

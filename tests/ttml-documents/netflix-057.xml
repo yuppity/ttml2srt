@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="1666667t" end="19166667t" region="bottom" xml:id="subtitle0"><span style="span">She is priority number one</span></p>
+<p begin="20000000t" end="44583334t" region="bottom" xml:id="subtitle1"><span style="italic">-for all law enforcement agencies.</span><br/><span style="span">-[siren wails]</span></p>
+<p begin="51666667t" end="66666667t" region="bottom" xml:id="subtitle2"><span style="span">[clock ticking]</span></p>
+<p begin="77500000t" end="90000000t" region="bottom" xml:id="subtitle3"><span style="span">Nice to see you again.</span></p>
+<p begin="93333334t" end="104583334t" region="bottom" xml:id="subtitle4"><span style="span">I saw you die.</span></p>
+<p begin="125000000t" end="139166667t" region="bottom" xml:id="subtitle5"><span style="span">You have to stop chasing me.</span></p>
+<p begin="147083334t" end="162083334t" region="bottom" xml:id="subtitle6"><span style="italic">I'm doing all this for a reason.</span></p>
+<p begin="185416667t" end="200000000t" region="bottom" xml:id="subtitle7"><span style="span">[Tommy] </span><span style="italic">We're all going forward.</span></p>
+<p begin="205833334t" end="224583334t" region="bottom" xml:id="subtitle8"><span style="italic">But her? She's going backward.</span></p>
+<p begin="237500000t" end="245833334t" region="bottom" xml:id="subtitle9"><span style="span">[screams]</span></p>
+<p begin="253750000t" end="272500000t" region="bottom" xml:id="subtitle10"><span style="span">[woman] </span><span style="italic">You have no idea what's coming.</span></p>
+<p begin="273333334t" end="300416667t" region="bottom" xml:id="subtitle11"><span style="span">[clock ticking]</span></p>
+</div>
+</body>
+</tt>

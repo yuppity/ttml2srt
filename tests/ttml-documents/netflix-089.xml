@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="0t" end="40040000t" region="bottom" xml:id="subtitle0"><span style="span">...prior to the Revolutionary War,</span><br/><span style="span">the economic modalities,</span></p>
+<p begin="40874167t" end="70070000t" region="bottom" xml:id="subtitle1"><span style="span">especially in the southern colonies,</span></p>
+<p begin="70904167t" end="95929167t" region="bottom" xml:id="subtitle2"><span style="span">could most aptly be characterized as...</span></p>
+<p begin="99682917t" end="115949167t" region="bottom" xml:id="subtitle3"><span style="span">-agrarian precapitalist--</span><br/><span style="span">-Let me tell you something.</span></p>
+<p begin="116783334t" end="141391250t" region="bottom" xml:id="subtitle4"><span style="span">Of course that's your contention.</span><br/><span style="span">You're a first-year grad student.</span></p>
+<p begin="142225417t" end="163913750t" region="bottom" xml:id="subtitle5"><span style="span">You got finished reading</span><br/><span style="span">some Marxian historian.</span></p>
+<p begin="164747917t" end="177677500t" region="bottom" xml:id="subtitle6"><span style="span">Pete Garrison, probably.</span></p>
+<p begin="178511667t" end="193109584t" region="bottom" xml:id="subtitle7"><span style="span">You're gonna be convinced till next month</span></p>
+<p begin="193943750t" end="212712500t" region="bottom" xml:id="subtitle8"><span style="span">when you get to James Lemon.</span><br/><span style="span">You're gonna be talkin'</span></p>
+<p begin="213546667t" end="235652084t" region="bottom" xml:id="subtitle9"><span style="span">about how the economies</span><br/><span style="span">of Virginia and Pennsylvania</span></p>
+<p begin="236486250t" end="265682084t" region="bottom" xml:id="subtitle10"><span style="span">were entrepreneurial</span><br/><span style="span">and capitalist way back in 1740.</span></p>
+<p begin="266516250t" end="302802500t" region="bottom" xml:id="subtitle11"><span style="span">That's gonna last until next year.</span><br/><span style="span">You're gonna be regurgitating Gordon Wood,</span></p>
+<p begin="303636667t" end="331998334t" region="bottom" xml:id="subtitle12"><span style="span">talking about, you know,</span><br/><span style="span">the prerevolutionary utopia...</span></p>
+<p begin="333249584t" end="367867500t" region="bottom" xml:id="subtitle13"><span style="span">and the capital-forming effects</span><br/><span style="span">of military mobilization.</span></p>
+<p begin="377460417t" end="392058334t" region="bottom" xml:id="subtitle14"><span style="span">As a matter of fact, I won't,</span></p>
+<p begin="392892500t" end="420002917t" region="bottom" xml:id="subtitle15"><span style="span">because Wood drastically underestimates</span><br/><span style="span">the impact of--</span></p>
+<p begin="420837084t" end="455872084t" region="bottom" xml:id="subtitle16"><span style="span">Wood drastically underestimates</span><br/><span style="span">the impact of social distinctions</span></p>
+<p begin="456706250t" end="487987500t" region="bottom" xml:id="subtitle17"><span style="span">predicated upon wealth,</span><br/><span style="span">especially inherited wealth?</span></p>
+<p begin="489655834t" end="515097917t" region="bottom" xml:id="subtitle18"><span style="span">You got that from Vickers,</span><br/><span style="italic">Work in Essex County.</span></p>
+<p begin="516349167t" end="557640417t" region="bottom" xml:id="subtitle19"><span style="span">Page 98, right? Yeah, I read that, too.</span><br/><span style="span">Were you gonna plagiarize the whole thing?</span></p>
+<p begin="558474584t" end="596012084t" region="bottom" xml:id="subtitle20"><span style="span">Do you have any thoughts</span><br/><span style="span">of your own on this matter?</span></p>
+</div>
+</body>
+</tt>

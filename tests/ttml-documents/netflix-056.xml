@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="5005000t" end="34617917t" region="bottom" xml:id="subtitle0"><span style="span">[Carole] </span><span style="italic">These platforms</span><br/><span style="italic">which were created to connect us</span></p>
+<p begin="35452084t" end="60477084t" region="bottom" xml:id="subtitle1"><span style="italic">have now been weaponized.</span></p>
+<p begin="72989584t" end="96346250t" region="top" xml:id="subtitle2"><span style="span">[Brittany] These companies are</span><br/><span style="span">the most powerful in the world</span></p>
+<p begin="97180417t" end="131381250t" region="bottom" xml:id="subtitle3"><span style="span">because they own the personal data</span><br/><span style="span">of people from all around the world.</span></p>
+<p begin="150567084t" end="186436250t" region="top" xml:id="subtitle4"><span style="span">[Carole] </span><span style="italic">The real game changer</span><br/><span style="italic">was Cambridge Analytica.</span></p>
+<p begin="195195000t" end="225225000t" region="bottom" xml:id="subtitle5"><span style="span">[Brittany] </span><span style="italic">We targeted those whose minds</span><br/><span style="italic">we thought we could change.</span></p>
+<p begin="246913334t" end="271521250t" region="bottom" xml:id="subtitle6"><span style="span">[David] </span><span style="italic">When people see</span><br/><span style="italic">the extent of the surveillance,</span></p>
+<p begin="272355417t" end="293209584t" region="bottom" xml:id="subtitle7"><span style="italic">I think they're going to be shocked.</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="13346667t" end="42959584t" region="bottom" xml:id="subtitle0"><span style="span">[man] </span><span style="italic">When you look at every little detail</span><br/><span style="italic">in </span><span style="span">The Dark Crystal...</span></p>
+<p begin="52969584t" end="81748334t" region="bottom" xml:id="subtitle1"><span style="italic">those things are the apex</span><br/><span style="italic">of somebody's art.</span></p>
+<p begin="95512084t" end="121788334t" region="bottom" xml:id="subtitle2"><span style="span">[Wendy] </span><span style="italic">There's so few people that know</span><br/><span style="italic">how we did it the first time,</span></p>
+<p begin="122622500t" end="130964167t" region="top" xml:id="subtitle3"><span style="span">and we're so old,</span></p>
+<p begin="131798334t" end="148064584t" region="top" xml:id="subtitle4"><span style="span">-we don't remember how we did it.</span><br/><span style="span">-[all laugh]</span></p>
+<p begin="153903750t" end="188104584t" region="bottom" xml:id="subtitle5"><span style="span">[Lisa]</span><br/><span style="italic">Everything is hand-sculpted, hand-painted,</span></p>
+<p begin="188938750t" end="216466250t" region="bottom" xml:id="subtitle6"><span style="italic">just an amazing amount</span><br/><span style="italic">of craftsmanship that you see</span></p>
+<p begin="217300417t" end="231481250t" region="top" xml:id="subtitle7"><span style="span">across the whole image.</span></p>
+<p begin="255255000t" end="297797500t" region="bottom" xml:id="subtitle8"><span style="span">[Gavin] </span><span style="italic">The first thing you're trying to </span><br/><span style="italic">do is live up to what the film produced.</span></p>
+<p begin="302802500t" end="328661667t" region="top" xml:id="subtitle9"><span style="span">The next stage is, then,</span><br/><span style="span">to push it a lot further.</span></p>
+<p begin="338671667t" end="360777084t" region="top" xml:id="subtitle10"><span style="span">I think Jim Henson</span><br/><span style="span">would have been delighted.</span></p>
+<p begin="373706667t" end="405822084t" region="top" xml:id="subtitle11"><span style="span">Puppetry, it's an art form in itself.</span><br/><span style="span">And that's what you're watching.</span></p>
+<p begin="411661250t" end="435435000t" region="bottom" xml:id="subtitle12"><span style="span">[Lisa]</span><span style="italic"> I feel like Louis</span><br/><span style="italic">is really the right person</span></p>
+<p begin="436269167t" end="456706250t" region="bottom" xml:id="subtitle13"><span style="italic">to be standing in my father's shoes.</span></p>
+<p begin="466716250t" end="503002500t" region="top" xml:id="subtitle14"><span style="span">The idea is that you watch the show</span><br/><span style="span">and you forget you're watching puppets.</span></p>
+<p begin="602685417t" end="616449167t" region="bottom" xml:id="subtitle15"><span style="span">[grunts]</span></p>
+<p begin="847096250t" end="867116250t" region="bottom" xml:id="subtitle16"><span style="span">-[shrieks]</span><br/><span style="span">-Oh!</span></p>
+<p begin="1011010000t" end="1037703334t" region="bottom" xml:id="subtitle17"><span style="span">Your destiny calls to you.</span></p>
+</div>
+</body>
+</tt>

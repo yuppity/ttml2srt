@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="15030014t" end="26720027t" region="bottom" xml:id="subtitle0"><span style="span">He goes, "Here, try this."</span></p>
+<p begin="28390028t" end="45507546t" region="bottom" xml:id="subtitle1"><span style="span">He gave me one pill.</span></p>
+<p begin="47177547t" end="69305069t" region="bottom" xml:id="subtitle2"><span style="span">"Try this." Went over to the gym,</span><br/><span style="span">about a half an hour,</span></p>
+<p begin="70975071t" end="88510088t" region="bottom" xml:id="subtitle3"><span style="span">I felt great, felt fantastic.</span></p>
+<p begin="90180090t" end="109385109t" region="bottom" xml:id="subtitle4"><span style="span">And I came back and I said,</span><br/><span style="span">"What was that?"</span></p>
+<p begin="111055111t" end="135687636t" region="bottom" xml:id="subtitle5"><span style="span">And he goes, "Oh, that's what</span><br/><span style="span">Lance Armstrong takes."</span></p>
+<p begin="139862639t" end="161990162t" region="bottom" xml:id="subtitle6"><span style="span">I was like, "Oh. Oh, okay."</span></p>
+<p begin="163660163t" end="177020177t" region="bottom" xml:id="subtitle7"><span style="span">And so I walked away thinking to myself,</span></p>
+<p begin="178690178t" end="200400200t" region="bottom" xml:id="subtitle8"><span style="span">"Hey, I'm taking</span><br/><span style="span">what Lance Armstrong is taking.</span></p>
+<p begin="202070202t" end="228790228t" region="top" xml:id="subtitle9"><span style="span">Poor guy is getting ragged on in the media</span><br/><span style="span">for taking steroids.</span></p>
+<p begin="230460229t" end="247160247t" region="top" xml:id="subtitle10"><span style="span">He's taking something</span><br/><span style="span">that he's getting from a doctor.</span></p>
+<p begin="248830248t" end="264695264t" region="bottom" xml:id="subtitle11"><span style="span">Oh, yay, Lance."</span></p>
+<p begin="266365266t" end="277637777t" region="bottom" xml:id="subtitle12"><span style="span">And it worked.</span></p>
+</div>
+</body>
+</tt>

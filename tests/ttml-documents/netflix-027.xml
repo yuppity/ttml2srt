@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2502500t" end="32949584t" region="bottom" xml:id="subtitle0"><span style="span">I have a temper. So, that's the thing.</span><br/><span style="span">That's what kind of ruins things.</span></p>
+<p begin="33783750t" end="63396667t" region="bottom" xml:id="subtitle1"><span style="span">Everything else I do is fine, </span><br/><span style="span">but I have a... temper,</span></p>
+<p begin="64230834t" end="92175417t" region="bottom" xml:id="subtitle2"><span style="span">and it just ruins...</span><br/><span style="span">and my wife always says the same thing.</span></p>
+<p begin="93009584t" end="112195417t" region="bottom" xml:id="subtitle3"><span style="span">She's always just like, </span><br/><span style="span">[imitates wife] "I just don't understand.</span></p>
+<p begin="113029584t" end="127627500t" region="bottom" xml:id="subtitle4"><span style="span">Where did that come from?</span></p>
+<p begin="128461667t" end="138471667t" region="bottom" xml:id="subtitle5"><span style="span">[audience laughing]</span></p>
+<p begin="139305834t" end="154320834t" region="bottom" xml:id="subtitle6"><span style="span">Where is that coming from?</span></p>
+<p begin="155155000t" end="192692500t" region="bottom" xml:id="subtitle7"><span style="span">You just go from zero to 100</span><br/><span style="span">in two seconds."</span></p>
+<p begin="193526667t" end="223139584t" region="bottom" xml:id="subtitle8"><span style="span">It's like, first of all, </span><br/><span style="span">I idle at 75 miles an hour.</span></p>
+<p begin="224390834t" end="248998750t" region="bottom" xml:id="subtitle9"><span style="span">All right? So don't give me </span><br/><span style="span">this "zero to 100."</span></p>
+<p begin="249832917t" end="266516250t" region="bottom" xml:id="subtitle10"><span style="span">I walked into this restaurant at 75.</span></p>
+<p begin="267350417t" end="294460834t" region="bottom" xml:id="subtitle11"><span style="span">I could hear that guy talking too loud </span><br/><span style="span">on his cell phone</span></p>
+<p begin="295712084t" end="311144167t" region="bottom" xml:id="subtitle12"><span style="span">from the... parking lot!</span></p>
+<p begin="312395417t" end="327410417t" region="bottom" xml:id="subtitle13"><span style="span">[audience laughing]</span></p>
+</div>
+</body>
+</tt>

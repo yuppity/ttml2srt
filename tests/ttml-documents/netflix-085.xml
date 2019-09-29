@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="10437511t" end="34652534t" region="bottom" xml:id="subtitle0"><span style="span">So, your wife has</span><br/><span style="span">no friends here.</span></p>
+<p begin="36322536t" end="53022553t" region="bottom" xml:id="subtitle1"><span style="span">Is she kinda standoffish?</span></p>
+<p begin="54692554t" end="78907578t" region="bottom" xml:id="subtitle2"><span style="span">Ivy League?</span><br/><span style="span">Rubs people the wrong way?</span></p>
+<p begin="80577581t" end="104792604t" region="bottom" xml:id="subtitle3"><span style="span">She's from New York.</span><br/><span style="span">Oh.</span></p>
+<p begin="106462606t" end="135270135t" region="bottom" xml:id="subtitle4"><span style="span">She's complicated.</span><br/><span style="span">She's got</span><br/><span style="span">very high standards.</span></p>
+<p begin="136940137t" end="154475154t" region="bottom" xml:id="subtitle5"><span style="span">Type A?</span></p>
+<p begin="156145156t" end="177020177t" region="bottom" xml:id="subtitle6"><span style="span">That can make you crazy</span><br/><span style="span">if you're not like that.</span></p>
+<p begin="178690178t" end="191215191t" region="bottom" xml:id="subtitle7"><span style="span">You seem pretty laid-back.</span></p>
+<p begin="192885192t" end="205827706t" region="bottom" xml:id="subtitle8"><span style="span">Type B.</span></p>
+<p begin="207497707t" end="234635234t" region="bottom" xml:id="subtitle9"><span style="span">Speaking of which,</span><br/><span style="span">Amy's blood type?</span></p>
+<p begin="236305236t" end="252587752t" region="bottom" xml:id="subtitle10"><span style="span">God, I don't know.</span><br/><span style="span">I'd have to look it</span><br/><span style="span">up at the house.</span></p>
+<p begin="254257753t" end="265112764t" region="bottom" xml:id="subtitle11"><span style="span">You don't know</span><br/><span style="span">if she has friends...</span></p>
+<p begin="266782766t" end="280560280t" region="bottom" xml:id="subtitle12"><span style="span">you don't know what</span><br/><span style="span">she does all day...</span></p>
+<p begin="282230282t" end="297677797t" region="bottom" xml:id="subtitle13"><span style="span">and you don't know</span><br/><span style="span">your wife's blood type.</span></p>
+<p begin="299347798t" end="310620310t" region="bottom" xml:id="subtitle14"><span style="span">Sure you all are married?</span></p>
+<p begin="323562823t" end="339427838t" region="bottom" xml:id="subtitle15"><span style="span">Uh... Maybe it's type O.</span></p>
+<p begin="341097841t" end="361137861t" region="bottom" xml:id="subtitle16"><span style="span">Where are her folks?</span><br/><span style="span">New York?</span><br/><span style="span">Yeah.</span></p>
+<p begin="362807862t" end="378255377t" region="bottom" xml:id="subtitle17"><span style="span">Can they get here time</span><br/><span style="span">for this press</span><br/><span style="span">conference tomorrow?</span></p>
+<p begin="379925379t" end="399130398t" region="bottom" xml:id="subtitle18"><span style="span">Tomorrow? I have no idea.</span><br/><span style="span">I haven't talked to them.</span></p>
+<p begin="400800400t" end="417500417t" region="bottom" xml:id="subtitle19"><span style="span">You haven't called</span><br/><span style="span">your wife's parents yet?</span></p>
+<p begin="419170418t" end="430442929t" region="bottom" xml:id="subtitle20"><span style="span">You can't get a signal</span><br/><span style="span">in this building.</span></p>
+<p begin="432112931t" end="440880439t" region="bottom" xml:id="subtitle21"><span style="span">I've been in here</span><br/><span style="span">talking to you.</span></p>
+<p begin="442550442t" end="465512964t" region="bottom" xml:id="subtitle22"><span style="span">Call them,</span><br/><span style="span">please, Nick. Now.</span></p>
+<p begin="467182966t" end="480125479t" region="bottom" xml:id="subtitle23"><span style="span">Fine.</span></p>
+<p begin="504758003t" end="517283016t" region="bottom" xml:id="subtitle24"><span style="span">(INDISTINCT CONVERSATIONS)</span></p>
+<p begin="535653034t" end="554440553t" region="bottom" xml:id="subtitle25"><span style="span">Should I know</span><br/><span style="span">my wife's blood type?</span></p>
+<p begin="556110555t" end="576568076t" region="bottom" xml:id="subtitle26"><span style="span">(WHISPERING) No.</span></p>
+</div>
+</body>
+</tt>

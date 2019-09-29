@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="top"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="33366667t" end="60894167t" region="bottom" xml:id="subtitle0"><span style="span">[David] Who has seen an advertisement</span></p>
+<p begin="67567500t" end="82165417t" region="bottom" xml:id="subtitle1"><span style="span">that has convinced you</span></p>
+<p begin="82999584t" end="117617500t" region="bottom" xml:id="subtitle2"><span style="span">that your microphone is listening </span><br/><span style="span">to your conversations?</span></p>
+<p begin="144310834t" end="164747917t" region="bottom" xml:id="subtitle3"><span style="italic">All of your interactions,</span></p>
+<p begin="165582084t" end="189772917t" region="bottom" xml:id="subtitle4"><span style="italic">your credit card swipes, web searches,</span></p>
+<p begin="190607084t" end="208541667t" region="bottom" xml:id="subtitle5"><span style="italic">locations, likes,</span></p>
+<p begin="209375834t" end="228978750t" region="bottom" xml:id="subtitle6"><span style="italic">they're all collected in real-time</span></p>
+<p begin="229812917t" end="259008750t" region="bottom" xml:id="subtitle7"><span style="italic">into a trillion-dollar-a-year industry.</span></p>
+<p begin="274023750t" end="309058750t" region="bottom" xml:id="subtitle8"><span style="span">[Carole] The real game changer </span><br/><span style="span">was Cambridge Analytica.</span></p>
+<p begin="313646667t" end="349098750t" region="bottom" xml:id="subtitle9"><span style="span">They had worked for the Trump campaign</span><br/><span style="span">and for the Brexit campaign.</span></p>
+<p begin="349932917t" end="378294584t" region="top" xml:id="subtitle10"><span style="span">They started using information warfare.</span></p>
+<p begin="379128750t" end="416666250t" region="bottom" xml:id="subtitle11"><span style="span">[David] </span><span style="italic">Cambridge Analytica</span><br/><span style="italic">claimed to have 5,000 data points</span></p>
+<p begin="419168750t" end="437520417t" region="bottom" xml:id="subtitle12"><span style="italic">on every American voter.</span></p>
+<p begin="463796667t" end="479228750t" region="bottom" xml:id="subtitle13"><span style="span">[Carole] </span><span style="italic">I started tracking down</span></p>
+<p begin="480062917t" end="509258750t" region="bottom" xml:id="subtitle14"><span style="italic">all these Cambridge Analytica</span><br/><span style="italic">ex-employees.</span></p>
+<p begin="510092917t" end="542625417t" region="bottom" xml:id="subtitle15"><span style="span">Someone else you should be calling</span><br/><span style="span">to the committee is Brittany Kaiser.</span></p>
+<p begin="553886667t" end="573906667t" region="bottom" xml:id="subtitle16"><span style="span">[female reporter] </span><span style="italic">Brittany Kaiser,</span><br/><span style="italic">once a key player</span></p>
+<p begin="574740834t" end="590590000t" region="bottom" xml:id="subtitle17"><span style="italic">inside Cambridge Analytica,</span></p>
+<p begin="591424167t" end="610610000t" region="bottom" xml:id="subtitle18"><span style="italic">casting herself as a whistleblower.</span></p>
+<p begin="620620000t" end="638554584t" region="bottom" xml:id="subtitle19"><span style="span">[Brittany] </span><span style="italic">The reason</span><br/><span style="italic">why Google and Facebook</span></p>
+<p begin="639388750t" end="658574584t" region="top" xml:id="subtitle20"><span style="italic">are the most powerful companies </span><br/><span style="italic">in the world</span></p>
+<p begin="659408750t" end="673172500t" region="top" xml:id="subtitle21"><span style="italic">is because, last year,</span></p>
+<p begin="674006667t" end="693609584t" region="bottom" xml:id="subtitle22"><span style="italic">data surpassed oil in value.</span></p>
+<p begin="708624584t" end="732815417t" region="bottom" xml:id="subtitle23"><span style="italic">Data is the most valuable asset on Earth.</span></p>
+<p begin="747413334t" end="776192084t" region="bottom" xml:id="subtitle24"><span style="italic">We targeted those </span><br/><span style="italic">whose minds we thought we could change</span></p>
+<p begin="779111667t" end="804553750t" region="bottom" xml:id="subtitle25"><span style="italic">until they saw the world</span><br/><span style="italic">the way we wanted them to.</span></p>
+<p begin="823739584t" end="844176667t" region="bottom" xml:id="subtitle26"><span style="span">I do know that their targeting tool</span></p>
+<p begin="845010834t" end="857523334t" region="bottom" xml:id="subtitle27"><span style="span">was considered a weapon.</span></p>
+<p begin="858357500t" end="870870000t" region="bottom" xml:id="subtitle28"><span style="span">There is a possibility</span></p>
+<p begin="871704167t" end="895477917t" region="bottom" xml:id="subtitle29"><span style="span">that the American public </span><br/><span style="span">had been experimented on.</span></p>
+<p begin="896312084t" end="912995417t" region="bottom" xml:id="subtitle30"><span style="span">This is becoming a criminal matter.</span></p>
+<p begin="918417500t" end="943442500t" region="bottom" xml:id="subtitle31"><span style="span">[David] </span><span style="italic">When people see </span><br/><span style="italic">the extent of the surveillance,</span></p>
+<p begin="944276667t" end="963879584t" region="bottom" xml:id="subtitle32"><span style="italic">I think they're going to be shocked.</span></p>
+<p begin="980145834t" end="1007673334t" region="top" xml:id="subtitle33"><span style="span">-[woman] </span><span style="italic">I still fear for your life,</span><br/><span style="span">-Yeah.</span></p>
+<p begin="1008507500t" end="1026859167t" region="top" xml:id="subtitle34"><span style="italic">with the powerful people </span><br/><span style="italic">that are involved.</span></p>
+<p begin="1027693334t" end="1043959584t" region="bottom" xml:id="subtitle35"><span style="span">[Brittany] I can't keep quiet just because</span></p>
+<p begin="1044793750t" end="1064396667t" region="bottom" xml:id="subtitle36"><span style="italic">-</span><span style="span">it'll make powerful people mad.</span><br/><span style="span">-[woman] </span><span style="italic">I know.</span></p>
+<p begin="1077326250t" end="1106105000t" region="top" xml:id="subtitle37"><span style="span">Data rights should be considered</span><br/><span style="span">just fundamental rights.</span></p>
+<p begin="1111110000t" end="1144059584t" region="bottom" xml:id="subtitle38"><span style="span">This is about the integrity </span><br/><span style="span">of our democracy.</span></p>
+<p begin="1147396250t" end="1177009167t" region="top" xml:id="subtitle39"><span style="italic">These platforms</span><br/><span style="italic">which were created to connect us...3</span></p>
+<p begin="1177843334t" end="1188270417t" region="bottom" xml:id="subtitle40"><span style="span">[people shouting]</span></p>
+<p begin="1189104584t" end="1213295417t" region="bottom" xml:id="subtitle41"><span style="italic">...have now been weaponized.</span></p>
+<p begin="1214129584t" end="1243742500t" region="bottom" xml:id="subtitle42"><span style="italic">It's impossible to know what is what...</span></p>
+<p begin="1258757500t" end="1282948334t" region="bottom" xml:id="subtitle43"><span style="italic">because nothing is what it seems.</span></p>
+</div>
+</body>
+</tt>

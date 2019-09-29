@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="5010005t" end="19205019t" region="bottom" xml:id="subtitle0"><span style="span">[chatter stops]</span></p>
+<p begin="57615057t" end="73480073t" region="bottom" xml:id="subtitle1"><span style="span">[audience gasping]</span></p>
+<p begin="86422586t" end="122745122t" region="bottom" xml:id="subtitle2"><span style="span">Over time, she will not be able</span><br/><span style="span">to transform back.</span></p>
+<p begin="131095131t" end="146960147t" region="bottom" xml:id="subtitle3"><span style="span">[hissing]</span></p>
+<p begin="148630148t" end="187040187t" region="bottom" xml:id="subtitle4"><span style="span">She will be forever trapped</span><br/><span style="span">in the body of a snake.</span></p>
+<p begin="234217733t" end="243820243t" region="bottom" xml:id="subtitle5"><span style="span">[Credence grunts]</span></p>
+<p begin="245490244t" end="255092754t" region="bottom" xml:id="subtitle6"><span style="span">[creatures screeching]</span></p>
+<p begin="261355261t" end="271375271t" region="bottom" xml:id="subtitle7"><span style="span">-[groans]</span><br/><span style="span">-[audience gasps]</span></p>
+<p begin="280977781t" end="292667792t" region="bottom" xml:id="subtitle8"><span style="span">[screeching continues]</span></p>
+<p begin="308115307t" end="325650325t" region="bottom" xml:id="subtitle9"><span style="span">[panicked screaming]</span></p>
+<p begin="463842963t" end="485970484t" region="bottom" xml:id="subtitle10"><span style="span">-[creature roaring]</span><br/><span style="span">-[screaming continues]</span></p>
+<p begin="489727988t" end="501835501t" region="bottom" xml:id="subtitle11"><span style="span">[man screaming]</span></p>
+<p begin="523545522t" end="533565532t" region="bottom" xml:id="subtitle12"><span style="span">Credence!</span></p>
+<p begin="564460563t" end="576150575t" region="bottom" xml:id="subtitle13"><span style="span">[roars]</span></p>
+<p begin="615813114t" end="626668126t" region="bottom" xml:id="subtitle14"><span style="span">[groans]</span></p>
+<p begin="630843129t" end="642533141t" region="bottom" xml:id="subtitle15"><span style="span">Pack it up.</span></p>
+<p begin="644203143t" end="661320660t" region="bottom" xml:id="subtitle16"><span style="span">Paris is done for us now.</span></p>
+</div>
+</body>
+</tt>

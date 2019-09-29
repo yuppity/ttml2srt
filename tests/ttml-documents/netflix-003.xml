@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="italic"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="span"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottom"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="11261250t" end="28361667t" region="bottom" xml:id="subtitle0"><span style="span">[Payton]</span><span style="italic"> I'm running </span><br/><span style="italic">for student body president.</span></p>
+<p begin="29195834t" end="52969584t" region="bottom" xml:id="subtitle1"><span style="span">That is why I'm proud to introduce</span><br/><span style="span">my running mate today.</span></p>
+<p begin="57974584t" end="73406667t" region="bottom" xml:id="subtitle2"><span style="span">Infinity Jackson!</span></p>
+<p begin="74240834t" end="85085000t" region="bottom" xml:id="subtitle3"><span style="span">[crowd cheering]</span></p>
+<p begin="90090000t" end="123456667t" region="bottom" xml:id="subtitle4"><span style="span">-She already has a 80% approval rating.</span><br/><span style="span">-And a fan account on Instagram.</span></p>
+<p begin="139722917t" end="158491667t" region="bottom" xml:id="subtitle5"><span style="span">Evidently, there's a videotape </span><br/><span style="span">with footage of you</span></p>
+<p begin="159325834t" end="170170000t" region="bottom" xml:id="subtitle6"><span style="span">using an offensive gay slur.</span></p>
+<p begin="171004167t" end="185602084t" region="bottom" xml:id="subtitle7"><span style="span">Any idea what I might be referring to?</span></p>
+<p begin="186436250t" end="200617084t" region="bottom" xml:id="subtitle8"><span style="span">Do you have any idea what time it is?</span></p>
+<p begin="201451250t" end="217717500t" region="bottom" xml:id="subtitle9"><span style="span">Shut up, ma'am. Not gonna</span><br/><span style="span">take your bull tonight.</span></p>
+<p begin="218551667t" end="232732500t" region="bottom" xml:id="subtitle10"><span style="span">What did you say on the tape?</span></p>
+<p begin="233566667t" end="249415834t" region="bottom" xml:id="subtitle11"><span style="span">Damn it! This is all over now!</span></p>
+<p begin="250250000t" end="261094167t" region="bottom" xml:id="subtitle12"><span style="span">[Mia Wallace] </span><span style="italic">I want that trophy.</span></p>
+<p begin="261928334t" end="289872917t" region="bottom" xml:id="subtitle13"><span style="span">["Trophy" by Charli XCX playing]</span></p>
+<p begin="290707084t" end="312395417t" region="bottom" xml:id="subtitle14"><span style="span">See, gentlemen, I'm going to be</span><br/><span style="span">President of the United States.</span></p>
+<p begin="313229584t" end="337420417t" region="bottom" xml:id="subtitle15"><span style="italic">I'm merely stating a fact.</span><br/><span style="italic">I will be president someday.</span></p>
+<p begin="351184167t" end="368284584t" region="bottom" xml:id="subtitle16"><span style="italic">I'm warning you, </span><br/><span style="italic">do not screw with my dream.</span></p>
+<p begin="383716667t" end="401234167t" region="bottom" xml:id="subtitle17"><span style="span">Your ambition frightens me.</span></p>
+<p begin="402068334t" end="413746667t" region="bottom" xml:id="subtitle18"><span style="span">[Mia] </span><span style="italic">I want that trophy.</span></p>
+<p begin="431681250t" end="452535417t" region="bottom" xml:id="subtitle19"><span style="span">This school deserves better than you.</span></p>
+<p begin="453369584t" end="490490000t" region="bottom" xml:id="subtitle20"><span style="span">You want to beat them? You need to embrace</span><br/><span style="span">your inner coldness unapologetically.</span></p>
+<p begin="500500000t" end="514263750t" region="bottom" xml:id="subtitle21"><span style="span">[Mia]</span><span style="italic"> I want that trophy.</span></p>
+<p begin="515097917t" end="536786250t" region="bottom" xml:id="subtitle22"><span style="span">-Go to hell, Payton.</span><br/><span style="span">-We hate Payton way more than you do.</span></p>
+<p begin="537620417t" end="561811250t" region="bottom" xml:id="subtitle23"><span style="span">-Think I should kill him?</span><br/><span style="span">-What?</span></p>
+<p begin="599348750t" end="611027084t" region="bottom" xml:id="subtitle24"><span style="span">Yes. Yes, I do.</span></p>
+<p begin="618117500t" end="634383750t" region="bottom" xml:id="subtitle25"><span style="span">[classical music playing] </span></p>
+<p begin="635635000t" end="653986667t" region="bottom" xml:id="subtitle26"><span style="span">[Payton] </span><br/><span style="italic">I don't know yet if I'm a good person.</span></p>
+<p begin="665247917t" end="694443750t" region="bottom" xml:id="subtitle27"><span style="span">You don't have to be a good person...</span><br/><span style="span">as long as you do good things.</span></p>
+<p begin="708207500t" end="724473750t" region="bottom" xml:id="subtitle28"><span style="span">[cheering] </span></p>
+<p begin="725307917t" end="741157084t" region="bottom" xml:id="subtitle29"><span style="span">Tell me the stuff</span><br/><span style="span">that'd make a difference to you.</span></p>
+<p begin="741991250t" end="750750000t" region="bottom" xml:id="subtitle30"><span style="italic">What do you care about?</span></p>
+<p begin="778277500t" end="786619167t" region="bottom" xml:id="subtitle31"><span style="italic">I can't believe it.</span></p>
+<p begin="787453334t" end="812895417t" region="bottom" xml:id="subtitle32"><span style="span">That I'm a stone-cold bitch</span><br/><span style="span">with ice water in my veins?</span></p>
+<p begin="813729584t" end="823322500t" region="bottom" xml:id="subtitle33"><span style="span">[Mia]</span><span style="italic"> I want that trophy.</span></p>
+<p begin="849598750t" end="866282084t" region="bottom" xml:id="subtitle34"><span style="span">[Georgina] </span><br/><span style="italic">This young lady would like to vote.</span></p>
+<p begin="867116250t" end="881714167t" region="bottom" xml:id="subtitle35"><span style="span">[boy] She can't without a student ID.</span></p>
+<p begin="882548334t" end="913412500t" region="bottom" xml:id="subtitle36"><span style="span">Otherwise, they'd bus in a bunch of kids</span><br/><span style="span">from other schools to vote illegally.</span></p>
+<p begin="914246667t" end="924256667t" region="bottom" xml:id="subtitle37"><span style="span">That's insane.</span></p>
+<p begin="949281667t" end="961794167t" region="bottom" xml:id="subtitle38"><span style="span">Payton's possibly a homosexual.</span></p>
+<p begin="962628334t" end="973055417t" region="bottom" xml:id="subtitle39"><span style="span">Astrid is a raging bigot.</span></p>
+<p begin="1001000000t" end="1026442084t" region="bottom" xml:id="subtitle40"><span style="span">I want to go to the restaurant in</span><br/><span style="italic">Ratatouille.</span><span style="span"> The one where the rat cooks.</span></p>
+<p begin="1027276250t" end="1078160417t" region="bottom" xml:id="subtitle41"><span style="span">That's an animated film, Infinity.</span><br/><span style="span">Rats don't actually work there.</span></p>
+<p begin="1078994584t" end="1089838750t" region="bottom" xml:id="subtitle42"><span style="span">[Mia]</span><span style="italic"> I want that trophy.</span></p>
+<p begin="1117783334t" end="1134049584t" region="bottom" xml:id="subtitle43"><span style="span">We should have him assassinated.</span></p>
+<p begin="1134883750t" end="1143225417t" region="bottom" xml:id="subtitle44"><span style="span">Too dark?</span></p>
+<p begin="1164079584t" end="1178260417t" region="bottom" xml:id="subtitle45"><span style="span">[Payton] </span><span style="italic">I will win at all costs.</span></p>
+<p begin="1191190000t" end="1205370834t" region="bottom" xml:id="subtitle46"><span style="span">I have a crime to report.</span></p>
+<p begin="1206205000t" end="1217049167t" region="bottom" xml:id="subtitle47"><span style="span">Did you do it, Payton?</span></p>
+<p begin="1232898334t" end="1257923334t" region="bottom" xml:id="subtitle48"><span style="span">It's so hard</span><br/><span style="span">to have to try so hard all the time.</span></p>
+<p begin="1258757500t" end="1275023750t" region="bottom" xml:id="subtitle49"><span style="span">You're gonna change the world, Payton.</span></p>
+<p begin="1284199584t" end="1295460834t" region="bottom" xml:id="subtitle50"><span style="span">How do you know?</span></p>
+<p begin="1327576250t" end="1340505834t" region="bottom" xml:id="subtitle51"><span style="span">[screaming]</span></p>
+<p begin="1432264167t" end="1445610834t" region="bottom" xml:id="subtitle52"><span style="span">[Mia]</span><span style="italic"> I want that trophy.</span></p>
+</div>
+</body>
+</tt>
