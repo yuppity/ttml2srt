@@ -284,7 +284,7 @@ class Ttml2Srt():
                 style_attrs = self.get_tt_style_attrs(node)
                 inline_italic = style_attrs['font_style'] == 'italic'
                 assoc_italic = style_attrs['style_id'] in self.italic_style_ids
-                if inline_italic or assoc_italic:
+                if inline_italic or assoc_italic or node.parentNode.getAttribute('style') == 'AmazonDefaultStyle':
                     _styles.append('i')
 
             if node.hasChildNodes():
