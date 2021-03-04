@@ -469,7 +469,7 @@ class Ttml2Srt():
         elif output == '-':
             handle = sys.stdout
         else:
-            handle = open(output, 'w')
+            handle = open(output, 'w', encoding="utf-8")
 
         try:
             for parag in self.paragraphs(generator=True):
