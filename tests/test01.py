@@ -195,6 +195,10 @@ class Tester(unittest.TestCase):
                 ('Has he fainted?', (54 * 60 + 10) * 1000, 1000),
             ),
 
+            'tvp.pl.Ekspedycja-41100771.pl.xml': (
+                ('Pa, babciu!', 4761.2 * 1000, 1000),
+            ),
+
         }
 
         for ttml_file in positions.keys():

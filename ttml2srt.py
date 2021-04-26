@@ -44,6 +44,20 @@ class Ttml2Srt():
             if style['font_style'] == 'italic':
                 self.italic_style_ids.append(sid)
 
+    def _parse_frame_rate_multiplier(self, expression):
+        """
+        Frame rate multiplier is stored as a fraction of nominator and denominator
+        like "2 3" == 2/3 == 0.6(6)
+        https://www.w3.org/TR/2018/PR-ttml1-20181004/#parameter-attribute-frameRateMultiplier
+        """
+        two_digits_match = re.match(r"(\d+)\s+(\d+)", expression)
+        if two_digits_match:
+            first_digit = int(two_digits_match.group(1))
+            second_digit = int(two_digits_match.group(2))
+            return float(first_digit) / float(second_digit)
+        else:
+            return float(expression)
+
     def _load_ttml_doc(self, filepath):
         """Read TTML file. Extract <p> elements and various attributes.
         """
@@ -72,7 +86,7 @@ class Ttml2Srt():
                 ('tickRate', 0, lambda x: int(x)),
                 ('timeBase', 'media', lambda x: x),
                 ('clockMode', '', lambda x: x),
-                ('frameRateMultiplier', 1, lambda x: int(x)),
+                ('frameRateMultiplier', '1', self._parse_frame_rate_multiplier),
                 ('subFrameRate', 1, lambda x: int(x)),
                 ('markerMode', '', lambda x: x),
                 ('dropMode', '', lambda x: x),
