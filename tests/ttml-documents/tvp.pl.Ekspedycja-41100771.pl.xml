@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- zpk subtitles file - Telewizja Polska S.A. - www.tvp.pl -->
+<tt xml:lang="pl-PL" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" ttp:frameRate="25" ttp:frameRateMultiplier="1 1" ttp:timeBase="media">
+  <head>
+    <metadata/>
+    <styling>
+      <style xml:id="style.center" tts:fontFamily="Arial" tts:fontSize="120%" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="white" tts:textOutline="black 4px" tts:textAlign="center"/>
+    </styling>
+    <layout>
+      <region xml:id="region.after" tts:displayAlign="after" tts:backgroundColor="transparent" tts:origin="10% 50%" tts:extent="80% 40%"/>
+      <region xml:id="region.after.1" tts:displayAlign="after" tts:backgroundColor="transparent" tts:origin="10% 50%" tts:extent="80% 21.45%"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p style="style.center" region="region.after" begin="00:00:14.000" end="00:00:16.720"><span tts:color="#FFFF51">No i jak? Jedzie?</span><br/>Już nie. Utknął!</p>
+      <p style="style.center" region="region.after" begin="01:19:21.200" end="01:19:23.000"><span tts:color="aqua">Pa, babciu!</span></p>
+      <p style="style.center" region="region.after" begin="01:22:40.440" end="01:22:44.080"/>
+    </div>
+  </body>
+</tt>
