@@ -1,0 +1,29 @@
+name: Run tests in Python 2 and 3
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  py3_tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version:
+          - 3.7
+          - 3.12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run tests
+        run: python tests/test01.py
+  py2_tests:
+    runs-on: ubuntu-latest
+    container: python:2.7
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run tests
+        run: python tests/test01.py
