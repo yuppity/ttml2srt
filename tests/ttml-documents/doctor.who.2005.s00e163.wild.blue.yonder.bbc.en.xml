@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ittp:activeArea="12% 5% 76% 90%" ttp:cellResolution="40 24" ttp:timeBase="media" xml:lang="en-GB" xml:space="default">
+  <head>
+    <ttm:copyright>BBC</ttm:copyright>
+    <metadata>
+      <ebuttm:documentMetadata>
+        <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+        <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2018-04</ebuttm:conformsToStandard>
+        <ebuttm:documentOriginatingSystem>ebu-tt-live.3.0.1.EBUTT3EBUTTDConverter/Distiller(fda1771)</ebuttm:documentOriginatingSystem>
+      </ebuttm:documentMetadata>
+    </metadata>
+    <styling>
+      <style ebutts:linePadding="0.5c" tts:textAlign="start" xml:id="S1"/>
+      <style tts:textAlign="center" xml:id="S2"/>
+      <style tts:backgroundColor="#000000ff" tts:color="#ffffffff" xml:id="S3"/>
+      <style tts:backgroundColor="#000000ff" tts:color="#00ff00ff" xml:id="S4"/>
+      <style xml:id="S5"/>
+      <style tts:backgroundColor="#000000ff" tts:color="#00ffffff" xml:id="S6"/>
+      <style tts:backgroundColor="#000000ff" tts:color="#ffff00ff" xml:id="S7"/>
+      <style itts:fillLineGap="true" xml:id="StyleFillLineGapTrue"/>
+      <style tts:fontFamily="ReithSans, Arial, Roboto, proportionalSansSerif, default" xml:id="fontFamilyStyle"/>
+      <style tts:fontSize="150%" tts:lineHeight="120%" xml:id="autogenFontStyle_n_150_120"/>
+    </styling>
+    <layout>
+      <region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 87.174%" tts:overflow="visible" xml:id="R4"/>
+      <region tts:displayAlign="before" tts:extent="76% 7.826%" tts:origin="12% 5%" tts:overflow="visible" xml:id="R21"/>
+      <region tts:displayAlign="after" tts:extent="76% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="R29"/>
+      <region tts:displayAlign="after" tts:extent="76% 7.826%" tts:origin="12% 63.696%" tts:overflow="visible" xml:id="R52"/>
+      <region tts:displayAlign="after" tts:extent="76% 15.652%" tts:origin="12% 55.87%" tts:overflow="visible" xml:id="R148"/>
+      <region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12.938% 79.348%" tts:overflow="visible" xml:id="agr_0.5_20_39.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="73.188% 15.652%" tts:origin="14.812% 79.348%" tts:overflow="visible" xml:id="agr_1.5_20_38.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39_4_after"/>
+      <region tts:displayAlign="after" tts:extent="73.188% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_38.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12% 79.348%" tts:overflow="visible" xml:id="agr_0_20_39.5_4_after"/>
+      <region tts:displayAlign="before" tts:extent="75.062% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="agr_0_1_39.5_4_after"/>
+      <region tts:displayAlign="before" tts:extent="74.125% 15.652%" tts:origin="13.875% 5%" tts:overflow="visible" xml:id="agr_1_1_39_4_after"/>
+      <region tts:displayAlign="before" tts:extent="76% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="agr_0_1_40_4_after"/>
+      <region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="13.875% 79.348%" tts:overflow="visible" xml:id="agr_1_20_39_4_after"/>
+      <region tts:displayAlign="after" tts:extent="71.312% 15.652%" tts:origin="16.688% 55.87%" tts:overflow="visible" xml:id="agr_2.5_14_37.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="72.25% 15.652%" tts:origin="15.75% 55.87%" tts:overflow="visible" xml:id="agr_2_14_38_4_after"/>
+      <region tts:displayAlign="after" tts:extent="69.438% 15.652%" tts:origin="18.562% 79.348%" tts:overflow="visible" xml:id="agr_3.5_20_36.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="71.312% 15.652%" tts:origin="16.688% 79.348%" tts:overflow="visible" xml:id="agr_2.5_20_37.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="72.25% 15.652%" tts:origin="15.75% 79.348%" tts:overflow="visible" xml:id="agr_2_20_38_4_after"/>
+      <region tts:displayAlign="after" tts:extent="70.375% 15.652%" tts:origin="17.625% 79.348%" tts:overflow="visible" xml:id="agr_3_20_37_4_after"/>
+      <region tts:displayAlign="after" tts:extent="68.5% 15.652%" tts:origin="19.5% 79.348%" tts:overflow="visible" xml:id="agr_4_20_36_4_after"/>
+      <region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12.938% 55.87%" tts:overflow="visible" xml:id="agr_0.5_14_39.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="75.062% 15.652%" tts:origin="12% 55.87%" tts:overflow="visible" xml:id="agr_0_14_39.5_4_after"/>
+      <region tts:displayAlign="after" tts:extent="74.125% 15.652%" tts:origin="12% 59.783%" tts:overflow="visible" xml:id="agr_0_15_39_4_after"/>
+      <region tts:displayAlign="before" tts:extent="73.188% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="agr_0_1_38.5_4_after"/>
+      <region tts:displayAlign="before" tts:extent="74.125% 15.652%" tts:origin="12% 5%" tts:overflow="visible" xml:id="agr_0_1_39_4_after"/>
+      <region tts:displayAlign="after" tts:extent="70.375% 15.652%" tts:origin="17.625% 55.87%" tts:overflow="visible" xml:id="agr_3_14_37_4_after"/>
+      <region tts:displayAlign="before" tts:extent="72.25% 15.652%" tts:origin="15.75% 5%" tts:overflow="visible" xml:id="agr_2_1_38_4_after"/>
+      <region tts:displayAlign="before" tts:extent="75.062% 15.652%" tts:origin="12.938% 5%" tts:overflow="visible" xml:id="agr_0.5_1_39.5_4_after"/>
+      <region tts:displayAlign="before" tts:extent="71.312% 15.652%" tts:origin="16.688% 5%" tts:overflow="visible" xml:id="agr_2.5_1_37.5_4_after"/>
+      <region tts:displayAlign="before" tts:extent="68.5% 15.652%" tts:origin="19.5% 5%" tts:overflow="visible" xml:id="agr_4_1_36_4_after"/>
+      <region tts:displayAlign="after" tts:extent="68.5% 15.652%" tts:origin="19.5% 55.87%" tts:overflow="visible" xml:id="agr_4_14_36_4_after"/>
+      <region tts:displayAlign="before" tts:extent="70.375% 15.652%" tts:origin="17.625% 5%" tts:overflow="visible" xml:id="agr_3_1_37_4_after"/>
+    </layout>
+  </head>
+  <body ttm:role="caption">
+    <div style="autogenFontStyle_n_150_120 S1 StyleFillLineGapTrue fontFamilyStyle">
+      <p begin="00:00:05" end="00:00:07.240" region="R4" style="S2" xml:id="C2">
+        <span style="S4">Three, two, one - action.</span>
+      </p>
+      <p begin="00:00:07.240" end="00:00:09.600" region="R4" style="S5" ttm:role="sound" xml:id="C3">
+        <span style="S3">DOCTOR WHO THEME</span>
+      </p>
+      <p begin="00:00:12.800" end="00:00:15" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C4_1">
+        <span style="S6">I'm really bending over backwards</span>
+        <br/>
+        <span style="S6">for this shot.</span>
+      </p>
+      <p begin="00:00:15" end="00:00:16.280" region="R4" style="S2" xml:id="C5">
+        <span style="S4">Cut, please.</span>
+      </p>
+      <p begin="00:00:16.280" end="00:00:19.960" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C6_1">
+        <span style="S3">This week, we've got Isaac Newton,</span>
+        <br/>
+        <span style="S3">a ghost ship,</span>
+      </p>
+      <p begin="00:00:19.960" end="00:00:22.800" region="R29" style="S2" xml:id="C7_1">
+        <span style="S3">a lovable robot,</span>
+        <br/>
+        <span style="S3">some giant limbs</span>
+      </p>
+      <p begin="00:00:22.800" end="00:00:24.480" region="R4" style="S2" xml:id="C8">
+        <span style="S3">and deadly doubles.</span>
+      </p>
+      <p begin="00:00:24.480" end="00:00:26.440" region="R4" style="S2" xml:id="C9">
+        <span style="S7">Welcome to Doctor Who: Unleashed!</span>
+      </p>
+      <p begin="00:00:26.440" end="00:00:28.480" region="R4" style="S2" xml:id="C10">
+        <span style="S3">That's my line!</span>
+      </p>
+      <p begin="00:00:28.480" end="00:00:31.680" region="agr_0_20_39_4_after" style="S2" xml:id="C11_1">
+        <span style="S3">Coming up, we'll find out</span>
+        <br/>
+        <span style="S3">how we get from this...</span>
+      </p>
+      <p begin="00:00:31.680" end="00:00:34.360" region="agr_0_20_38.5_4_after" style="S2" xml:id="C12_1">
+        <span style="S6">I can't control it!</span>
+        <br/>
+        <span style="S3">..to this...</span>
+      </p>
+      <p begin="00:00:34.360" end="00:00:37.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C13_1">
+        <span style="S6">I can't control it!</span>
+        <span style="S3"> ..to this.</span>
+        <br/>
+        <span style="S6">I can't control it!</span>
+      </p>
+      <p begin="00:00:37.560" end="00:00:40.880" region="agr_0_20_38.5_4_after" style="S2" xml:id="C14_1">
+        <span style="S3">We'll find out the secrets</span>
+        <br/>
+        <span style="S3">behind the Doctor's giant hands</span>
+      </p>
+      <p begin="00:00:40.880" end="00:00:43.040" region="R4" style="S2" xml:id="C15">
+        <span style="S3">and get to grips with how they work.</span>
+      </p>
+      <p begin="00:00:43.040" end="00:00:45.040" region="R4" style="S2" xml:id="C16">
+        <span style="S4">There we go!</span>
+      </p>
+      <p begin="00:00:45.040" end="00:00:46.800" region="R4" style="S2" xml:id="C17">
+        <span style="S6">That's amazing.</span>
+      </p>
+      <p begin="00:00:46.800" end="00:00:48.560" region="R4" style="S2" xml:id="C18">
+        <span style="S3">And, spoiler alert, we've got</span>
+      </p>
+      <p begin="00:00:48.560" end="00:00:51.800" region="agr_0_20_39.5_4_after" style="S2" xml:id="C19_1">
+        <span style="S3">a worldwide exclusive clip</span>
+        <br/>
+        <span style="S3">from next week's episode.</span>
+      </p>
+      <p begin="00:00:59.280" end="00:01:01.320" region="R21" style="S2" xml:id="C20">
+        <span style="S3">Welcome to Doctor Who: Unleashed,</span>
+      </p>
+      <p begin="00:01:01.320" end="00:01:04.760" region="agr_0_1_39.5_4_after" style="S2" xml:id="C21_1">
+        <span style="S3">the show that gets you backstage</span>
+        <br/>
+        <span style="S3">access to the Whoniverse.</span>
+      </p>
+      <p begin="00:01:06.480" end="00:01:09.640" region="agr_1_1_39_4_after" style="S2" xml:id="C22_1">
+        <span style="S3">In this episode, we're going to</span>
+        <br/>
+        <span style="S3">lift the lid on Wild Blue Yonder,</span>
+      </p>
+      <p begin="00:01:09.640" end="00:01:13.320" region="agr_0_1_40_4_after" style="S2" xml:id="C23_1">
+        <span style="S3">the second of the Doctor Who</span>
+        <br/>
+        <span style="S3">60th anniversary specials.</span>
+      </p>
+      <p begin="00:01:14.720" end="00:01:17.760" region="agr_0_20_39_4_after" style="S2" xml:id="C24_1">
+        <span style="S3">But be prepared -</span>
+        <br/>
+        <span style="S3">there are going to be spoilers.</span>
+      </p>
+      <p begin="00:01:19.280" end="00:01:22.560" region="R29" style="S2" xml:id="C25">
+        <span style="S3">And the first thing you need to</span>
+        <br/>
+        <span style="S3">know is that we are filming this</span>
+      </p>
+      <p begin="00:01:22.560" end="00:01:27.200" region="agr_0_20_39_4_after" style="S2" xml:id="C26_1">
+        <span style="S3">in July 2022. It is</span>
+        <br/>
+        <span style="S3">the hottest summer on record.</span>
+      </p>
+      <p begin="00:01:27.200" end="00:01:29.960" region="R4" style="S2" xml:id="C27">
+        <span style="S3">Out there, it is 37 degrees</span>
+      </p>
+      <p begin="00:01:29.960" end="00:01:33.880" region="agr_1_20_39_4_after" style="S2" xml:id="C28_1">
+        <span style="S3">and in here, the filming schedule</span>
+        <br/>
+        <span style="S3">is fast and it's frantic.</span>
+      </p>
+      <p begin="00:01:35.200" end="00:01:39.320" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C29_1">
+        <span style="S3">And it appears to be doing strange</span>
+        <br/>
+        <span style="S3">things to the actors' bodies.</span>
+      </p>
+      <p begin="00:01:39.320" end="00:01:42.320" region="R29" style="S2" xml:id="C30_1">
+        <span style="S6">I don't know why, but the arms</span>
+        <br/>
+        <span style="S6">are so very difficult.</span>
+      </p>
+      <p begin="00:01:43.880" end="00:01:45.160" region="R4" style="S2" xml:id="C31">
+        <span style="S3">But how do they do that?</span>
+      </p>
+      <p begin="00:01:47.480" end="00:01:52.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C32_1">
+        <span style="S3">Inside this metal box are</span>
+        <br/>
+        <span style="S3">204 cameras and David Tennant.</span>
+      </p>
+      <p begin="00:01:52.200" end="00:01:54.880" region="agr_1_20_39_4_after" style="S2" xml:id="C33_1">
+        <span style="S3">Close your eyes now</span>
+        <br/>
+        <span style="S3">if you don't like bright flashes.</span>
+      </p>
+      <p begin="00:01:54.880" end="00:01:56.880" region="R4" style="S2" xml:id="C34">
+        <span style="S4">Three, two, one.</span>
+      </p>
+      <p begin="00:01:58.800" end="00:02:00.240" region="R4" style="S2" xml:id="C35">
+        <span style="S4">Brilliant.</span>
+      </p>
+      <p begin="00:02:00.240" end="00:02:01.640" region="R4" style="S2" xml:id="C36">
+        <span style="S3">OK, you can open them again.</span>
+      </p>
+      <p begin="00:02:03.160" end="00:02:06.640" region="agr_0_20_39_4_after" style="S2" xml:id="C37_1">
+        <span style="S3">This rig is a 3D body-capture</span>
+        <br/>
+        <span style="S3">system.</span>
+      </p>
+      <p begin="00:02:06.640" end="00:02:09.240" region="agr_0_20_39_4_after" style="S2" xml:id="C38_1">
+        <span style="S3">The cameras are</span>
+        <br/>
+        <span style="S3">taking 360 images of David.</span>
+      </p>
+      <p begin="00:02:10.760" end="00:02:13" region="R29" style="S2" xml:id="C39_1">
+        <span style="S3">Sorry,</span>
+        <br/>
+        <span style="S3">could you close your eyes again?</span>
+      </p>
+      <p begin="00:02:13" end="00:02:14.520" region="R4" style="S2" xml:id="C40">
+        <span style="S4">Three, two, one.</span>
+      </p>
+      <p begin="00:02:16.200" end="00:02:17.480" region="R4" style="S2" xml:id="C41">
+        <span style="S4">Great, happy with that.</span>
+      </p>
+      <p begin="00:02:17.480" end="00:02:19.920" region="R4" style="S2" xml:id="C42">
+        <span style="S3">OK, it's safe.</span>
+      </p>
+      <p begin="00:02:19.920" end="00:02:23.760" region="agr_0_20_39_4_after" style="S2" xml:id="C43_1">
+        <span style="S3">The images are converted into</span>
+        <br/>
+        <span style="S3">digi doubles.</span>
+      </p>
+      <p begin="00:02:23.760" end="00:02:27.240" region="R29" style="S2" xml:id="C44_1">
+        <span style="S3">And it's scans similar to this</span>
+        <br/>
+        <span style="S3">that Millennium FX use</span>
+      </p>
+      <p begin="00:02:27.240" end="00:02:29.800" region="agr_0_20_39.5_4_after" style="S2" xml:id="C45_1">
+        <span style="S3">to create prosthetics</span>
+        <br/>
+        <span style="S3">for David and Catherine.</span>
+      </p>
+      <p begin="00:02:32.200" end="00:02:35.560" region="agr_2.5_14_37.5_4_after" style="S2" xml:id="C46_1">
+        <span style="S3">And three weeks later, those</span>
+        <br/>
+        <span style="S3">prosthetics were ready for testing.</span>
+      </p>
+      <p begin="00:02:37.040" end="00:02:39.160" region="R4" style="S2" xml:id="C47">
+        <span style="S6">Jeez, they're big.</span>
+      </p>
+      <p begin="00:02:39.160" end="00:02:40.880" region="R4" style="S2" xml:id="C48">
+        <span style="S6">Wow, that's brilliant!</span>
+      </p>
+      <p begin="00:02:42.480" end="00:02:45.280" region="R4" style="S2" xml:id="C49">
+        <span style="S6">That's amazing. And how does it...?</span>
+      </p>
+      <p begin="00:02:45.280" end="00:02:51.320" region="R29" style="S2" xml:id="C50">
+        <span style="S7">So, if you put your arm in and then</span>
+        <br/>
+        <span style="S7">you should feel a bar just past...</span>
+      </p>
+      <p begin="00:02:51.320" end="00:02:53.680" region="R29" style="S2" xml:id="C51_1">
+        <span style="S6">What do I do with shirt?</span>
+        <br/>
+        <span style="S6">Do we just...?</span>
+      </p>
+      <p begin="00:02:53.680" end="00:02:56.400" region="agr_0_20_39_4_after" style="S2" xml:id="C52_1">
+        <span style="S7">Er, you've got a special shirt.</span>
+        <br/>
+        <span style="S6">Have I?</span>
+        <span style="S7"> Yeah.</span>
+      </p>
+      <p begin="00:02:56.400" end="00:02:58.600" region="R4" style="S2" xml:id="C53">
+        <span style="S4">That's going to go, like, to here.</span>
+      </p>
+      <p begin="00:02:58.600" end="00:03:01" region="agr_0_20_39.5_4_after" style="S2" xml:id="C54_1">
+        <span style="S7">So you should be able to</span>
+        <br/>
+        <span style="S7">squeeze it.</span>
+      </p>
+      <p begin="00:03:01" end="00:03:03.880" region="R29" style="S2" xml:id="C55">
+        <span style="S4">There's, like, a little trigger.</span>
+        <br/>
+        <span style="S4">So you go further than the bar.</span>
+      </p>
+      <p begin="00:03:03.880" end="00:03:05.040" region="R4" style="S2" xml:id="C56">
+        <span style="S4">Further down.</span>
+      </p>
+      <p begin="00:03:06.160" end="00:03:08.160" region="R21" style="S2" xml:id="C57">
+        <span style="S4">That's it.</span>
+        <span style="S7"> There we go.</span>
+      </p>
+      <p begin="00:03:12.040" end="00:03:14.440" region="R21" style="S2" xml:id="C58">
+        <span style="S6">That's amazing. Very clever.</span>
+      </p>
+      <p begin="00:03:14.440" end="00:03:18.400" region="agr_0_20_39.5_4_after" style="S2" xml:id="C59_1">
+        <span style="S6">Is that from the scan of one's</span>
+        <br/>
+        <span style="S6">actual arm?</span>
+        <span style="S7"> Yeah.</span>
+      </p>
+      <p begin="00:03:19.880" end="00:03:22.200" region="R52" style="S2" xml:id="C60">
+        <span style="S4">When are you putting the hand on?</span>
+      </p>
+      <p begin="00:03:22.200" end="00:03:25.880" region="agr_2_14_38_4_after" style="S2" xml:id="C61_1">
+        <span style="S4">What?!</span>
+        <br/>
+        <span style="S6">See, she comes from comedy.</span>
+        <span style="S4"> What?!</span>
+      </p>
+      <p begin="00:03:25.880" end="00:03:26.920" region="R4" style="S2" xml:id="C62">
+        <span style="S7">And...action.</span>
+      </p>
+      <p begin="00:03:26.920" end="00:03:28.720" region="R4" style="S2" xml:id="C63">
+        <span style="S4">My arm's too long. Look.</span>
+      </p>
+      <p begin="00:03:28.720" end="00:03:31.640" region="R29" style="S2" xml:id="C64_1">
+        <span style="S3">And it wasn't just David</span>
+        <br/>
+        <span style="S3">who got the prosthetics.</span>
+      </p>
+      <p begin="00:03:31.640" end="00:03:33.560" region="R4" style="S2" xml:id="C65">
+        <span style="S4">I had a very long arm.</span>
+      </p>
+      <p begin="00:03:33.560" end="00:03:35.600" region="R4" style="S2" xml:id="C66">
+        <span style="S4">And an extra leg.</span>
+      </p>
+      <p begin="00:03:35.600" end="00:03:38.120" region="R4" style="S2" xml:id="C67">
+        <span style="S4">She's got a leg that doesn't...</span>
+      </p>
+      <p begin="00:03:38.120" end="00:03:39.680" region="R4" style="S2" xml:id="C68">
+        <span style="S4">She's got a double knee.</span>
+      </p>
+      <p begin="00:03:39.680" end="00:03:42.280" region="R29" style="S2" xml:id="C69_1">
+        <span style="S4">She's got a double knee,</span>
+        <br/>
+        <span style="S4">like a cat with double paws.</span>
+      </p>
+      <p begin="00:03:42.280" end="00:03:45.520" region="R29" style="S2" xml:id="C70_1">
+        <span style="S4">She's got a double knee,</span>
+        <br/>
+        <span style="S4">which was...</span>
+      </p>
+      <p begin="00:03:45.520" end="00:03:47.640" region="R4" style="S2" xml:id="C71">
+        <span style="S4">You know, fun.</span>
+      </p>
+      <p begin="00:03:47.640" end="00:03:49.080" region="R4" style="S2" xml:id="C72">
+        <span style="S3">But not as much fun as me</span>
+      </p>
+      <p begin="00:03:49.080" end="00:03:52.960" region="agr_0_20_39_4_after" style="S2" xml:id="C73_1">
+        <span style="S3">introducing David</span>
+        <br/>
+        <span style="S3">to his prosthetic double.</span>
+      </p>
+      <p begin="00:03:52.960" end="00:03:55.080" region="R4" style="S2" xml:id="C74">
+        <span style="S6">Oh, Jesus, what's that?!</span>
+      </p>
+      <p begin="00:03:55.080" end="00:03:57.240" region="R4" style="S2" xml:id="C75">
+        <span style="S6">I can't say Jesus on the telly.</span>
+      </p>
+      <p begin="00:03:57.240" end="00:03:58.720" region="R4" style="S2" xml:id="C76">
+        <span style="S6">Man, that's weird.</span>
+      </p>
+      <p begin="00:04:01.560" end="00:04:03" region="R4" style="S2" xml:id="C77">
+        <span style="S3">Hello, mate.</span>
+        <span style="S6"> Hi.</span>
+      </p>
+      <p begin="00:04:03" end="00:04:04.280" region="R4" style="S2" xml:id="C78">
+        <span style="S3">Don't mind me.</span>
+      </p>
+      <p begin="00:04:04.280" end="00:04:05.320" region="R4" style="S2" xml:id="C79">
+        <span style="S6">Ooh, it's quite...</span>
+      </p>
+      <p begin="00:04:07.480" end="00:04:12.240" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C80_1">
+        <span style="S3">What do you think?</span>
+        <span style="S6"> I think it's</span>
+        <br/>
+        <span style="S6">beautiful, I think I might kiss you.</span>
+      </p>
+      <p begin="00:04:12.240" end="00:04:14.800" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C81_1">
+        <span style="S3">Do you want a kiss? You can kiss...</span>
+        <br/>
+        <span style="S3">You're kissing yourself...</span>
+      </p>
+      <p begin="00:04:14.800" end="00:04:16.920" region="agr_0_20_39.5_4_after" style="S2" xml:id="C82_1">
+        <span style="S6">I think that's weird.</span>
+        <br/>
+        <span style="S3">..on the top of my forehead.</span>
+      </p>
+      <p begin="00:04:16.920" end="00:04:19.040" region="R4" style="S2" xml:id="C83">
+        <span style="S6">I think that might not make... Ooh.</span>
+      </p>
+      <p begin="00:04:19.040" end="00:04:21.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C84_1">
+        <span style="S6">Oh, there's a lot of product</span>
+        <br/>
+        <span style="S6">in that hair.</span>
+      </p>
+      <p begin="00:04:21.080" end="00:04:23.040" region="R4" style="S2" xml:id="C85">
+        <span style="S4">You know they want you on set now?</span>
+      </p>
+      <p begin="00:04:23.040" end="00:04:25.440" region="agr_1_20_39_4_after" style="S2" xml:id="C86_1">
+        <span style="S3">Oh, do they?</span>
+        <span style="S4"> Yeah, they want you.</span>
+        <br/>
+        <span style="S3">OK, cool.</span>
+      </p>
+      <p begin="00:04:25.440" end="00:04:27.800" region="R4" style="S2" xml:id="C87">
+        <span style="S4">Oh, God, it's you!</span>
+        <span style="S6"> Ha-ha!</span>
+      </p>
+      <p begin="00:04:32.040" end="00:04:34.800" region="R29" style="S2" xml:id="C88_1">
+        <span style="S4">That's crazy.</span>
+        <span style="S3"> Do you think</span>
+        <br/>
+        <span style="S3">I can do it?</span>
+        <span style="S6"> Isn't that weird?</span>
+      </p>
+      <p begin="00:04:34.800" end="00:04:38.400" region="agr_1_20_39_4_after" style="S2" xml:id="C89_1">
+        <span style="S3">And it didn't stop there.</span>
+        <br/>
+        <span style="S3">There were even prosthetic teeth.</span>
+      </p>
+      <p begin="00:04:38.400" end="00:04:40.840" region="agr_0_20_39.5_4_after" style="S2" xml:id="C90_1">
+        <span style="S4">So, the good thing about</span>
+        <br/>
+        <span style="S4">this next scene is...</span>
+      </p>
+      <p begin="00:04:42.400" end="00:04:45.080" region="agr_0_20_39_4_after" style="S2" xml:id="C91_1">
+        <span style="S4">..it's really something</span>
+        <br/>
+        <span style="S4">you can sink your teeth into.</span>
+      </p>
+      <p begin="00:04:45.080" end="00:04:48.920" region="R4" style="S2" xml:id="C92">
+        <span style="S7">Three, two, one...action.</span>
+      </p>
+      <p begin="00:04:48.920" end="00:04:50.520" region="R4" style="S2" xml:id="C93">
+        <span style="S4">Did I prefer the teeth or the arm?</span>
+      </p>
+      <p begin="00:04:50.520" end="00:04:53.960" region="agr_2_20_38_4_after" style="S2" xml:id="C94_1">
+        <span style="S4">Teeth, 100%, because they're going</span>
+        <br/>
+        <span style="S4">to be much easier for me</span>
+      </p>
+      <p begin="00:04:53.960" end="00:04:55.640" region="R4" style="S2" xml:id="C95">
+        <span style="S4">to smuggle out.</span>
+      </p>
+      <p begin="00:04:55.640" end="00:04:57.720" region="R4" style="S2" xml:id="C96">
+        <span style="S4">I can just put them in my pocket.</span>
+      </p>
+      <p begin="00:04:57.720" end="00:05:01" region="agr_3_20_37_4_after" style="S2" xml:id="C97_1">
+        <span style="S4">If I was going to smuggle them out,</span>
+        <br/>
+        <span style="S4">I wouldn't wear them!</span>
+      </p>
+      <p begin="00:05:02.160" end="00:05:05" region="R29" style="S2" xml:id="C98_1">
+        <span style="S4">Just updating my profile pic</span>
+        <br/>
+        <span style="S4">on Tinder.</span>
+      </p>
+      <p begin="00:05:05" end="00:05:09.720" region="agr_4_20_36_4_after" style="S2" xml:id="C99_1">
+        <span style="S4">Whereas the arm, I mean, I'd have to</span>
+        <br/>
+        <span style="S4">go some to just say to everyone,</span>
+      </p>
+      <p begin="00:05:09.720" end="00:05:12.120" region="R4" style="S2" xml:id="C100">
+        <span style="S4">"Bye! Bye."</span>
+      </p>
+      <p begin="00:05:13.440" end="00:05:15.880" region="agr_0_20_39.5_4_after" style="S2" xml:id="C101_1">
+        <span style="S6">That's it, we made it</span>
+        <br/>
+        <span style="S6">to the end of the day.</span>
+        <span style="S4"> Whoo.</span>
+      </p>
+      <p begin="00:05:15.880" end="00:05:19" region="R29" style="S2" xml:id="C102_1">
+        <span style="S4">We just, JUST about completed it</span>
+        <br/>
+        <span style="S4">in time.</span>
+      </p>
+      <p begin="00:05:19" end="00:05:20.480" region="R4" style="S2" xml:id="C103">
+        <span style="S6">By the skin of our teeth.</span>
+      </p>
+      <p begin="00:05:25" end="00:05:28.240" region="agr_0_20_38.5_4_after" style="S2" xml:id="C104_1">
+        <span style="S3">The majority of the action</span>
+        <br/>
+        <span style="S3">in Wild Blue Yonder takes place</span>
+      </p>
+      <p begin="00:05:28.240" end="00:05:31.240" region="agr_0_20_39.5_4_after" style="S2" xml:id="C105_1">
+        <span style="S3">on a ship floating at</span>
+        <br/>
+        <span style="S3">the very edge of the universe.</span>
+      </p>
+      <p begin="00:05:31.240" end="00:05:34.280" region="R4" style="S2" xml:id="C106">
+        <span style="S3">AKA Stage 3 at Wolf Studios.</span>
+      </p>
+      <p begin="00:05:34.280" end="00:05:36.960" region="R29" style="S2" xml:id="C107_1">
+        <span style="S3">Like all of the new sets</span>
+        <br/>
+        <span style="S3">across these specials,</span>
+      </p>
+      <p begin="00:05:36.960" end="00:05:39.800" region="agr_0_20_39_4_after" style="S2" xml:id="C108_1">
+        <span style="S3">it's been designed by Phil Sims</span>
+        <br/>
+        <span style="S3">and his team.</span>
+      </p>
+      <p begin="00:05:41.240" end="00:05:44" region="agr_1_20_39_4_after" style="S2" xml:id="C109_1">
+        <span style="S3">Phil's credits include Star Wars,</span>
+        <br/>
+        <span style="S3">Captain America</span>
+      </p>
+      <p begin="00:05:44" end="00:05:45.680" region="R4" style="S2" xml:id="C110">
+        <span style="S3">and Guardians Of The Galaxy.</span>
+      </p>
+      <p begin="00:05:45.680" end="00:05:49.080" region="agr_0.5_14_39.5_4_after" style="S2" xml:id="C111_1">
+        <span style="S3">Before he was called into action,</span>
+        <br/>
+        <span style="S3">Phil gave me a sneaky tour</span>
+      </p>
+      <p begin="00:05:49.080" end="00:05:52.320" region="agr_0_14_39.5_4_after" style="S2" xml:id="C112_1">
+        <span style="S3">of the flight deck whilst it was</span>
+        <br/>
+        <span style="S3">still under construction.</span>
+      </p>
+      <p begin="00:05:52.320" end="00:05:55.240" region="agr_2_20_38_4_after" style="S2" xml:id="C113_1">
+        <span style="S3">Wow, this is it, then, Phil?</span>
+        <span style="S7"> Yeah.</span>
+        <br/>
+        <span style="S7">So, this is the...</span>
+      </p>
+      <p begin="00:05:55.240" end="00:05:56.560" region="R4" style="S2" xml:id="C114">
+        <span style="S7">It was the antechamber</span>
+      </p>
+      <p begin="00:05:56.560" end="00:05:59.880" region="agr_3_20_37_4_after" style="S2" xml:id="C115_1">
+        <span style="S7">but we're now revamping it into</span>
+        <br/>
+        <span style="S7">a space called the industrial room.</span>
+      </p>
+      <p begin="00:05:59.880" end="00:06:03.360" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C116_1">
+        <span style="S3">And you're mid...? I mean,</span>
+        <br/>
+        <span style="S3">I can see the nails on the floor.</span>
+      </p>
+      <p begin="00:06:03.360" end="00:06:05.360" region="R29" style="S2" xml:id="C117_1">
+        <span style="S3">So you're halfway through!</span>
+        <br/>
+        <span style="S7">We're mid.</span>
+      </p>
+      <p begin="00:06:05.360" end="00:06:08.400" region="R29" style="S2" xml:id="C118_1">
+        <span style="S7">We don't clean up until the last</span>
+        <br/>
+        <span style="S7">thing, so the floor's dirty.</span>
+      </p>
+      <p begin="00:06:08.400" end="00:06:11.560" region="agr_2_20_38_4_after" style="S2" xml:id="C119_1">
+        <span style="S3">Do you often re-purpose and re-use</span>
+        <br/>
+        <span style="S3">sets in a programme like this?</span>
+      </p>
+      <p begin="00:06:11.560" end="00:06:15.520" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C120_1">
+        <span style="S7">Yeah, lots. I mean,</span>
+        <br/>
+        <span style="S7">to get the most value out of the set</span>
+      </p>
+      <p begin="00:06:15.520" end="00:06:18.240" region="agr_0_20_38.5_4_after" style="S2" xml:id="C121_1">
+        <span style="S7">and to make the budget</span>
+        <br/>
+        <span style="S7">stretch as far as we can,</span>
+      </p>
+      <p begin="00:06:18.240" end="00:06:21.600" region="R29" style="S2" xml:id="C122">
+        <span style="S7">we're reusing as much as we can</span>
+        <br/>
+        <span style="S7">and recycling wherever we can.</span>
+      </p>
+      <p begin="00:06:21.600" end="00:06:22.760" region="R4" style="S2" xml:id="C123">
+        <span style="S3">In the episode itself,</span>
+      </p>
+      <p begin="00:06:22.760" end="00:06:26.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C124_1">
+        <span style="S3">this repurposed set is where</span>
+        <br/>
+        <span style="S3">the salt sequence was shot.</span>
+      </p>
+      <p begin="00:06:26.080" end="00:06:27.840" region="R4" style="S2" xml:id="C125">
+        <span style="S6">Salt!</span>
+      </p>
+      <p begin="00:06:27.840" end="00:06:30.320" region="R4" style="S2" xml:id="C126">
+        <span style="S6">You can't cross salt.</span>
+      </p>
+      <p begin="00:06:30.320" end="00:06:33.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C127_1">
+        <span style="S6">In our universe, it is said that</span>
+        <br/>
+        <span style="S6">vampires, demons and ghosts</span>
+      </p>
+      <p begin="00:06:33.080" end="00:06:38.440" region="agr_3_20_37_4_after" style="S2" xml:id="C128_1">
+        <span style="S6">cannot cross a line of salt until</span>
+        <br/>
+        <span style="S6">they've counted every single grain.</span>
+      </p>
+      <p begin="00:06:38.440" end="00:06:41.360" region="agr_0_20_39_4_after" style="S2" xml:id="C129_1">
+        <span style="S3">And the detail in the set</span>
+        <br/>
+        <span style="S3">is pretty incredible.</span>
+      </p>
+      <p begin="00:06:41.360" end="00:06:43.920" region="agr_0_20_39_4_after" style="S2" xml:id="C130_1">
+        <span style="S3">So what was the inspiration</span>
+        <br/>
+        <span style="S3">behind the fuel assimilators?</span>
+      </p>
+      <p begin="00:06:43.920" end="00:06:46.800" region="agr_2_20_38_4_after" style="S2" xml:id="C131_1">
+        <span style="S3">Because you've sold me, I feel</span>
+        <br/>
+        <span style="S3">like this is powering a spaceship.</span>
+      </p>
+      <p begin="00:06:46.800" end="00:06:48.280" region="R4" style="S2" xml:id="C132">
+        <span style="S3">CHUCKLING:</span>
+        <span style="S7"> So...!</span>
+      </p>
+      <p begin="00:06:48.280" end="00:06:51.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C133_1">
+        <span style="S7">The script description of</span>
+        <br/>
+        <span style="S7">the flight deck is there's water</span>
+      </p>
+      <p begin="00:06:51.440" end="00:06:54.640" region="agr_3_20_37_4_after" style="S2" xml:id="C134_1">
+        <span style="S7">bubbling through the set, there's</span>
+        <br/>
+        <span style="S7">water bubbling through the cockpit.</span>
+      </p>
+      <p begin="00:06:54.640" end="00:06:57.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C135_1">
+        <span style="S7">It was the most exciting thing</span>
+        <br/>
+        <span style="S7">about it, because I've done</span>
+      </p>
+      <p begin="00:06:57.520" end="00:07:00.600" region="agr_3_20_37_4_after" style="S2" xml:id="C136_1">
+        <span style="S7">quite a few cockpits, but I'd never</span>
+        <br/>
+        <span style="S7">had to incorporate water into it.</span>
+      </p>
+      <p begin="00:07:00.600" end="00:07:03.200" region="R29" style="S2" xml:id="C137_1">
+        <span style="S3">Talking of the little details,</span>
+        <br/>
+        <span style="S3">Phil, I've been spotting</span>
+      </p>
+      <p begin="00:07:03.200" end="00:07:06.240" region="agr_3_20_37_4_after" style="S2" xml:id="C138_1">
+        <span style="S3">the alien language, the hieroglyphs</span>
+        <br/>
+        <span style="S3">that are knocking around.</span>
+      </p>
+      <p begin="00:07:06.240" end="00:07:09.360" region="R29" style="S2" xml:id="C139_1">
+        <span style="S3">Who designs those?</span>
+        <br/>
+        <span style="S3">Is there like a theme?</span>
+      </p>
+      <p begin="00:07:09.360" end="00:07:11.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C140_1">
+        <span style="S7">Our graphic designer Stephen</span>
+        <br/>
+        <span style="S7">comes up with</span>
+      </p>
+      <p begin="00:07:11.720" end="00:07:15.080" region="R29" style="S2" xml:id="C141_1">
+        <span style="S7">all sorts of different languages</span>
+        <br/>
+        <span style="S7">and hieroglyphs.</span>
+      </p>
+      <p begin="00:07:15.080" end="00:07:19.320" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C142_1">
+        <span style="S7">Together, we try to fathom out</span>
+        <br/>
+        <span style="S7">what the alien language might be.</span>
+      </p>
+      <p begin="00:07:19.320" end="00:07:23.480" region="R29" style="S2" xml:id="C143_1">
+        <span style="S7">So in this case, our pilot</span>
+        <br/>
+        <span style="S7">is sort of equine, horse-like.</span>
+      </p>
+      <p begin="00:07:23.480" end="00:07:25.120" region="agr_0_20_38.5_4_after" style="S2" xml:id="C144_1">
+        <span style="S7">And we thought</span>
+        <br/>
+        <span style="S7">what it would be like -</span>
+      </p>
+      <p begin="00:07:25.120" end="00:07:27.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C145_1">
+        <span style="S7">if they had hooves,</span>
+        <br/>
+        <span style="S7">how would they have communicated</span>
+      </p>
+      <p begin="00:07:27.360" end="00:07:29.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C146_1">
+        <span style="S7">and their language</span>
+        <br/>
+        <span style="S7">might have developed?</span>
+      </p>
+      <p begin="00:07:29.200" end="00:07:31.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C147_1">
+        <span style="S7">So maybe they scratched</span>
+        <br/>
+        <span style="S7">with their hoof,</span>
+      </p>
+      <p begin="00:07:31.160" end="00:07:33.360" region="R4" style="S2" xml:id="C148">
+        <span style="S7">maybe they clopped with their hoof.</span>
+      </p>
+      <p begin="00:07:33.360" end="00:07:37.200" region="agr_0_20_38.5_4_after" style="S2" xml:id="C149_1">
+        <span style="S3">Oh, OK, yeah.</span>
+        <span style="S7"> So these shapes</span>
+        <br/>
+        <span style="S7">are derived from scrapes</span>
+      </p>
+      <p begin="00:07:37.200" end="00:07:39.280" region="R4" style="S2" xml:id="C150">
+        <span style="S7">and kind of maybe, once upon a time,</span>
+      </p>
+      <p begin="00:07:39.280" end="00:07:44.520" region="agr_0_20_39_4_after" style="S2" xml:id="C151_1">
+        <span style="S7">in the equivalent of Sanskrit</span>
+        <br/>
+        <span style="S7">for the horse aliens.</span>
+      </p>
+      <p begin="00:07:44.520" end="00:07:46.040" region="R4" style="S2" xml:id="C152">
+        <span style="S7">That's where it came from.</span>
+      </p>
+      <p begin="00:07:46.040" end="00:07:47.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C153_1">
+        <span style="S3">That's a meeting</span>
+        <br/>
+        <span style="S3">I would have been into.</span>
+      </p>
+      <p begin="00:07:47.960" end="00:07:49.800" region="agr_0_20_39.5_4_after" style="S2" xml:id="C154_1">
+        <span style="S3">That is a meeting</span>
+        <br/>
+        <span style="S3">I would have been...</span>
+      </p>
+      <p begin="00:07:49.800" end="00:07:52.760" region="agr_3_20_37_4_after" style="S2" xml:id="C155_1">
+        <span style="S3">"Right, this morning,</span>
+        <br/>
+        <span style="S3">I've cleared out everybody's diary,</span>
+      </p>
+      <p begin="00:07:52.760" end="00:07:56.560" region="R29" style="S2" xml:id="C156">
+        <span style="S3">"today is hieroglyphs for a horse's</span>
+        <br/>
+        <span style="S3">hoof."</span>
+        <span style="S7"> Yeah, it's bonkers, I know.</span>
+      </p>
+      <p begin="00:07:56.560" end="00:07:59.080" region="agr_0_20_39_4_after" style="S2" xml:id="C157_1">
+        <span style="S7">It sounds insane.</span>
+        <br/>
+        <span style="S3">No, it's brilliant.</span>
+      </p>
+      <p begin="00:07:59.080" end="00:08:01.320" region="R4" style="S2" xml:id="C158">
+        <span style="S3">It is bonkers but it's brilliant.</span>
+      </p>
+      <p begin="00:08:01.320" end="00:08:03.680" region="R4" style="S2" xml:id="C159">
+        <span style="S7">So, this is the filament room.</span>
+        <span style="S3"> Yeah.</span>
+      </p>
+      <p begin="00:08:03.680" end="00:08:06.400" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C160_1">
+        <span style="S7">And the idea is that</span>
+        <br/>
+        <span style="S7">there's like a honey-like liquid,</span>
+      </p>
+      <p begin="00:08:06.400" end="00:08:08.720" region="agr_3_20_37_4_after" style="S2" xml:id="C161_1">
+        <span style="S7">so maybe it's a re-use of the fluid</span>
+        <br/>
+        <span style="S7">or the liquid</span>
+      </p>
+      <p begin="00:08:08.720" end="00:08:12.560" region="R29" style="S2" xml:id="C162_1">
+        <span style="S7">that's the lifeblood of this</span>
+        <br/>
+        <span style="S7">spaceship. And in this case,</span>
+      </p>
+      <p begin="00:08:12.560" end="00:08:16.360" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C163_1">
+        <span style="S7">it's kind of like a computer room</span>
+        <br/>
+        <span style="S7">or a programming room.</span>
+      </p>
+      <p begin="00:08:16.360" end="00:08:18" region="R4" style="S2" xml:id="C164">
+        <span style="S7">They're like blocks of code -</span>
+      </p>
+      <p begin="00:08:18" end="00:08:22.040" region="agr_1_20_39_4_after" style="S2" xml:id="C165_1">
+        <span style="S7">the Doctor's rewiring or recoding</span>
+        <br/>
+        <span style="S7">or reprogramming the spaceship.</span>
+      </p>
+      <p begin="00:08:22.040" end="00:08:24.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C166_1">
+        <span style="S7">In the script,</span>
+        <br/>
+        <span style="S7">there's an action where</span>
+      </p>
+      <p begin="00:08:24.800" end="00:08:28.080" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C167_1">
+        <span style="S7">the Doctor and Donna have to take</span>
+        <br/>
+        <span style="S7">elements from the filament</span>
+      </p>
+      <p begin="00:08:28.080" end="00:08:30.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C168_1">
+        <span style="S7">and move them from one drawer</span>
+        <br/>
+        <span style="S7">to another drawer.</span>
+      </p>
+      <p begin="00:08:30.680" end="00:08:33" region="R4" style="S2" xml:id="C169">
+        <span style="S6">If we move one up...</span>
+      </p>
+      <p begin="00:08:34.600" end="00:08:36" region="R4" style="S2" xml:id="C170">
+        <span style="S4">Is that stuff dangerous?</span>
+      </p>
+      <p begin="00:08:36" end="00:08:37.680" region="R4" style="S2" xml:id="C171">
+        <span style="S6">No.</span>
+      </p>
+      <p begin="00:08:37.680" end="00:08:38.920" region="R4" style="S2" xml:id="C172">
+        <span style="S6">I don't think so.</span>
+      </p>
+      <p begin="00:08:38.920" end="00:08:42.360" region="agr_0_20_39.5_4_after" style="S2" xml:id="C173_1">
+        <span style="S7">And the elements are in goo,</span>
+        <br/>
+        <span style="S7">like a honey...</span>
+      </p>
+      <p begin="00:08:42.360" end="00:08:44.400" region="R4" style="S2" xml:id="C174">
+        <span style="S7">I mean, in our case...</span>
+      </p>
+      <p begin="00:08:44.400" end="00:08:46.880" region="R4" style="S2" xml:id="C175">
+        <span style="S7">In our case, it's actually hair gel.</span>
+      </p>
+      <p begin="00:08:46.880" end="00:08:49.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C176_1">
+        <span style="S3">There it is,</span>
+        <br/>
+        <span style="S3">that is the spongey hair gel.</span>
+      </p>
+      <p begin="00:08:49.720" end="00:08:51.920" region="agr_0_20_39_4_after" style="S2" xml:id="C177_1">
+        <span style="S3">I can have orange hair now,</span>
+        <br/>
+        <span style="S3">it's going to be great.</span>
+      </p>
+      <p begin="00:08:53.440" end="00:08:56.320" region="agr_1_20_39_4_after" style="S2" xml:id="C178_1">
+        <span style="S3">Something that I've always been</span>
+        <br/>
+        <span style="S3">interested by, because I remember</span>
+      </p>
+      <p begin="00:08:56.320" end="00:08:59.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C179_1">
+        <span style="S3">watching a documentary once</span>
+        <br/>
+        <span style="S3">about famous sci-fi programmes</span>
+      </p>
+      <p begin="00:08:59.600" end="00:09:01.520" region="R4" style="S2" xml:id="C180">
+        <span style="S3">of the past where, when doors open,</span>
+      </p>
+      <p begin="00:09:01.520" end="00:09:04.840" region="R29" style="S2" xml:id="C181_1">
+        <span style="S3">there's literally somebody</span>
+        <br/>
+        <span style="S3">stood behind there, waiting,</span>
+      </p>
+      <p begin="00:09:04.840" end="00:09:06.840" region="R4" style="S2" xml:id="C182">
+        <span style="S3">and yanking a pulley or whatever.</span>
+      </p>
+      <p begin="00:09:06.840" end="00:09:08.480" region="R4" style="S2" xml:id="C183">
+        <span style="S3">Is that actually, is that how...?</span>
+      </p>
+      <p begin="00:09:08.480" end="00:09:10.880" region="R29" style="S2" xml:id="C184_1">
+        <span style="S7">No, no, they're all really</span>
+        <br/>
+        <span style="S7">mechanical and pneumatic</span>
+      </p>
+      <p begin="00:09:10.880" end="00:09:13.880" region="R29" style="S2" xml:id="C185_1">
+        <span style="S7">and hydraulic and they use</span>
+        <br/>
+        <span style="S7">the water stuff of the spaceship</span>
+      </p>
+      <p begin="00:09:13.880" end="00:09:16.200" region="R4" style="S2" xml:id="C186">
+        <span style="S7">and that's how they work.</span>
+      </p>
+      <p begin="00:09:16.200" end="00:09:18.240" region="R29" style="S2" xml:id="C187_1">
+        <span style="S7">Which roughly translates to,</span>
+        <br/>
+        <span style="S7">we've got people</span>
+      </p>
+      <p begin="00:09:18.240" end="00:09:21" region="R29" style="S2" xml:id="C188">
+        <span style="S7">with pulleys, going like that.</span>
+        <br/>
+        <span style="S3">Unbelievable!</span>
+        <span style="S7"> Yeah, yeah, yeah.</span>
+      </p>
+      <p begin="00:09:21" end="00:09:23.160" region="agr_0_20_38.5_4_after" style="S2" xml:id="C189_1">
+        <span style="S7">And on this one...</span>
+        <br/>
+        <span style="S3">I thought there would have been</span>
+      </p>
+      <p begin="00:09:23.160" end="00:09:24.920" region="agr_0_20_39_4_after" style="S2" xml:id="C190_1">
+        <span style="S3">a button or something by now,</span>
+        <br/>
+        <span style="S3">but no, no.</span>
+      </p>
+      <p begin="00:09:24.920" end="00:09:28.440" region="agr_0_20_39.5_4_after" style="S2" xml:id="C191_1">
+        <span style="S7">No, a pulley, it can be</span>
+        <br/>
+        <span style="S7">quite a stressful conversation</span>
+      </p>
+      <p begin="00:09:28.440" end="00:09:31.600" region="R29" style="S2" xml:id="C192">
+        <span style="S7">because you need people to operate</span>
+        <br/>
+        <span style="S7">them. So if they're slidey doors,</span>
+      </p>
+      <p begin="00:09:31.600" end="00:09:34.680" region="agr_4_20_36_4_after" style="S2" xml:id="C193_1">
+        <span style="S7">like this, you've probably got one</span>
+        <br/>
+        <span style="S7">person or two people operating them.</span>
+      </p>
+      <p begin="00:09:34.680" end="00:09:37.880" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C194_1">
+        <span style="S7">For these doors, we need one person</span>
+        <br/>
+        <span style="S7">operating each door.</span>
+      </p>
+      <p begin="00:09:37.880" end="00:09:40.720" region="R29" style="S2" xml:id="C195_1">
+        <span style="S7">So in principle, if somebody</span>
+        <br/>
+        <span style="S7">walks from room to room to room,</span>
+      </p>
+      <p begin="00:09:40.720" end="00:09:42.600" region="R29" style="S2" xml:id="C196_1">
+        <span style="S7">you'd either have one person</span>
+        <br/>
+        <span style="S7">chasing around</span>
+      </p>
+      <p begin="00:09:42.600" end="00:09:44.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C197_1">
+        <span style="S7">pulling lots of pulleys,</span>
+        <br/>
+        <span style="S7">like a bell-ringer,</span>
+      </p>
+      <p begin="00:09:44.520" end="00:09:45.760" region="R4" style="S2" xml:id="C198">
+        <span style="S7">trying to close these doors,</span>
+      </p>
+      <p begin="00:09:45.760" end="00:09:48.120" region="R29" style="S2" xml:id="C199_1">
+        <span style="S7">or you'd have somebody</span>
+        <br/>
+        <span style="S7">manning each door.</span>
+        <span style="S3"> Yeah.</span>
+      </p>
+      <p begin="00:09:53.160" end="00:09:56.800" region="agr_0_20_39_4_after" style="S2" xml:id="C200_1">
+        <span style="S3">Still to come, more exclusive</span>
+        <br/>
+        <span style="S3">backstage access as we reveal</span>
+      </p>
+      <p begin="00:09:56.800" end="00:09:59.280" region="R4" style="S2" xml:id="C201">
+        <span style="S3">how to keep cool in a heatwave.</span>
+      </p>
+      <p begin="00:09:59.280" end="00:10:01.360" region="agr_0_20_39_4_after" style="S2" xml:id="C202_1">
+        <span style="S6">I just love the fact that</span>
+        <br/>
+        <span style="S6">you've done all of this</span>
+      </p>
+      <p begin="00:10:01.360" end="00:10:03.720" region="agr_0_20_39_4_after" style="S2" xml:id="C203_1">
+        <span style="S6">with an air-conditioning tube</span>
+        <br/>
+        <span style="S6">up your jumper.</span>
+        <span style="S4"> It's hot!</span>
+      </p>
+      <p begin="00:10:05.040" end="00:10:08.760" region="agr_4_20_36_4_after" style="S2" xml:id="C204_1">
+        <span style="S3">We show how David and Catherine shot</span>
+        <br/>
+        <span style="S3">a scene with Nathaniel Curtis...</span>
+      </p>
+      <p begin="00:10:08.760" end="00:10:11" region="agr_0_20_39.5_4_after" style="S2" xml:id="C205_1">
+        <span style="S6">Sorry, we're just slightly</span>
+        <br/>
+        <span style="S6">out of control.</span>
+      </p>
+      <p begin="00:10:11" end="00:10:13.120" region="R4" style="S2" xml:id="C206">
+        <span style="S3">..when they were 25 miles apart.</span>
+      </p>
+      <p begin="00:10:13.120" end="00:10:15.440" region="R4" style="S2" xml:id="C207">
+        <span style="S3">And, spoiler alert, we've got</span>
+      </p>
+      <p begin="00:10:15.440" end="00:10:19.280" region="agr_0_20_39.5_4_after" style="S2" xml:id="C208_1">
+        <span style="S3">exclusive sneak footage</span>
+        <br/>
+        <span style="S3">from the riotous next episode.</span>
+      </p>
+      <p begin="00:10:19.280" end="00:10:21.120" region="R4" style="S2" xml:id="C209">
+        <span style="S3">But first...</span>
+      </p>
+      <p begin="00:10:21.120" end="00:10:23.840" region="agr_2_20_38_4_after" style="S2" xml:id="C210_1">
+        <span style="S3">BBC NEWS:</span>
+        <span style="S7"> Stars are paying tribute</span>
+        <br/>
+        <span style="S7">to actor Bernard Cribbins,</span>
+      </p>
+      <p begin="00:10:23.840" end="00:10:26.840" region="agr_0_14_39.5_4_after" style="S2" xml:id="C211_1">
+        <span style="S7">famous for his many roles,</span>
+        <br/>
+        <span style="S7">including Doctor Who.</span>
+      </p>
+      <p begin="00:10:26.840" end="00:10:28.800" region="R52" style="S2" xml:id="C212">
+        <span style="S7">He's died at the age of 93.</span>
+      </p>
+      <p begin="00:10:28.800" end="00:10:32.920" region="R29" style="S2" xml:id="C213_1">
+        <span style="S3">Among the galaxy of characters</span>
+        <br/>
+        <span style="S3">who have lit up the Whoniverse</span>
+      </p>
+      <p begin="00:10:32.920" end="00:10:34.400" region="R4" style="S2" xml:id="C214">
+        <span style="S3">through the decades,</span>
+      </p>
+      <p begin="00:10:34.400" end="00:10:38.360" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C215_1">
+        <span style="S3">none have been more popular</span>
+        <br/>
+        <span style="S3">or held more public affection than</span>
+      </p>
+      <p begin="00:10:38.360" end="00:10:42.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C216_1">
+        <span style="S3">Donna's grandad, Wilfred Mott,</span>
+        <br/>
+        <span style="S3">played by Bernard Cribbins.</span>
+      </p>
+      <p begin="00:10:42.960" end="00:10:45.120" region="R4" style="S2" xml:id="C217">
+        <span style="S3">Bernard first played Wilfred</span>
+      </p>
+      <p begin="00:10:45.120" end="00:10:48.880" region="agr_0_15_39_4_after" style="S2" xml:id="C218_1">
+        <span style="S3">in the 2007 Christmas special</span>
+        <br/>
+        <span style="S3">Voyage Of The Damned.</span>
+      </p>
+      <p begin="00:10:48.880" end="00:10:50.720" region="agr_0_1_38.5_4_after" style="S2" xml:id="C219_1">
+        <span style="S6">Hello there.</span>
+        <br/>
+        <span style="S6">Where's everybody gone?</span>
+      </p>
+      <p begin="00:10:50.720" end="00:10:52.920" region="R4" style="S2" xml:id="C220">
+        <span style="S4">Well, it's them, up above.</span>
+      </p>
+      <p begin="00:10:52.920" end="00:10:57.200" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C221_1">
+        <span style="S4">Christmas before last,</span>
+        <br/>
+        <span style="S4">we had that big bloody spaceship,</span>
+      </p>
+      <p begin="00:10:57.200" end="00:10:58.640" region="R4" style="S2" xml:id="C222">
+        <span style="S4">everyone standing on a roof.</span>
+      </p>
+      <p begin="00:10:58.640" end="00:11:01.560" region="agr_0_14_39.5_4_after" style="S2" xml:id="C223_1">
+        <span style="S4">And then last year,</span>
+        <br/>
+        <span style="S4">that Christmas star,</span>
+      </p>
+      <p begin="00:11:01.560" end="00:11:03.680" region="R4" style="S2" xml:id="C224">
+        <span style="S4">electrocuting all over the place.</span>
+      </p>
+      <p begin="00:11:03.680" end="00:11:08.480" region="agr_3_20_37_4_after" style="S2" xml:id="C225_1">
+        <span style="S3">For the next couple of years,</span>
+        <br/>
+        <span style="S3">Wilfred made regular appearances...</span>
+      </p>
+      <p begin="00:11:08.480" end="00:11:09.520" region="R4" style="S2" xml:id="C226">
+        <span style="S6">Shimmer!</span>
+      </p>
+      <p begin="00:11:10.640" end="00:11:12" region="R52" style="S2" xml:id="C227">
+        <span style="S7">Ugh...</span>
+      </p>
+      <p begin="00:11:12" end="00:11:14.280" region="R52" style="S2" xml:id="C228">
+        <span style="S4">Oh, my Lord. She's a cactus!</span>
+      </p>
+      <p begin="00:11:14.280" end="00:11:16.280" region="agr_0_1_40_4_after" style="S2" xml:id="C229_1">
+        <span style="S3">..forging a close bond</span>
+        <br/>
+        <span style="S3">with the Doctor.</span>
+      </p>
+      <p begin="00:11:16.280" end="00:11:18.120" region="R4" style="S2" xml:id="C230">
+        <span style="S6">I'd be proud.</span>
+      </p>
+      <p begin="00:11:18.120" end="00:11:19.520" region="R4" style="S2" xml:id="C231">
+        <span style="S4">Of what?</span>
+      </p>
+      <p begin="00:11:19.520" end="00:11:21.280" region="R4" style="S2" xml:id="C232">
+        <span style="S6">If you were my dad.</span>
+      </p>
+      <p begin="00:11:21.280" end="00:11:24.720" region="agr_1_20_39_4_after" style="S2" xml:id="C233_1">
+        <span style="S3">And famously taking on the Daleks</span>
+        <br/>
+        <span style="S3">with a paint gun.</span>
+      </p>
+      <p begin="00:11:24.720" end="00:11:27.720" region="R4" style="S2" xml:id="C234">
+        <span style="S7">Halt! You will come with me!</span>
+      </p>
+      <p begin="00:11:27.720" end="00:11:29.280" region="R4" style="S2" xml:id="C235">
+        <span style="S4">Will I heck!</span>
+      </p>
+      <p begin="00:11:33.080" end="00:11:37.080" region="agr_0_1_39_4_after" style="S2" xml:id="C236_1">
+        <span style="S3">So when 93-year-old Bernard</span>
+        <br/>
+        <span style="S3">agreed to return to Doctor Who,</span>
+      </p>
+      <p begin="00:11:37.080" end="00:11:39.240" region="R4" style="S2" xml:id="C237">
+        <span style="S3">there was joy all around.</span>
+      </p>
+      <p begin="00:11:39.240" end="00:11:40.880" region="R4" style="S2" xml:id="C238">
+        <span style="S6">We were beyond delighted</span>
+      </p>
+      <p begin="00:11:40.880" end="00:11:44.160" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C239_1">
+        <span style="S6">when we knew that Bernard</span>
+        <br/>
+        <span style="S6">was going to be able to come back.</span>
+      </p>
+      <p begin="00:11:44.160" end="00:11:46.040" region="R4" style="S2" xml:id="C240">
+        <span style="S6">It means so much to me, personally,</span>
+      </p>
+      <p begin="00:11:46.040" end="00:11:49.600" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C241_1">
+        <span style="S6">and I think to the show as a whole,</span>
+        <br/>
+        <span style="S6">really, that he was there.</span>
+      </p>
+      <p begin="00:11:49.600" end="00:11:52.520" region="R4" style="S2" xml:id="C242">
+        <span style="S4">Oh! Oh, my goodness, Donna!</span>
+      </p>
+      <p begin="00:11:52.520" end="00:11:55.200" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C243_1">
+        <span style="S3">DAVID:</span>
+        <span style="S6"> That character meant so much</span>
+        <br/>
+        <span style="S6">to so many people.</span>
+      </p>
+      <p begin="00:11:55.200" end="00:11:58.400" region="R4" style="S2" xml:id="C244">
+        <span style="S6">Oh, now I feel better!</span>
+      </p>
+      <p begin="00:11:58.400" end="00:12:00.520" region="R4" style="S2" xml:id="C245">
+        <span style="S7">Bernard will always, obviously,</span>
+      </p>
+      <p begin="00:12:00.520" end="00:12:02.440" region="agr_0_20_38.5_4_after" style="S2" xml:id="C246_1">
+        <span style="S7">hold a very special place</span>
+        <br/>
+        <span style="S7">in my heart,</span>
+      </p>
+      <p begin="00:12:02.440" end="00:12:05.960" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C247_1">
+        <span style="S7">because he always did, even before</span>
+        <br/>
+        <span style="S7">I knew him, because David and I</span>
+      </p>
+      <p begin="00:12:05.960" end="00:12:09.400" region="agr_3_20_37_4_after" style="S2" xml:id="C248_1">
+        <span style="S7">kind of grew up with watching</span>
+        <br/>
+        <span style="S7">Bernard on TV, and he was the voice</span>
+      </p>
+      <p begin="00:12:09.400" end="00:12:13.320" region="R29" style="S2" xml:id="C249">
+        <span style="S7">of the Wombles and loads of stuff</span>
+        <br/>
+        <span style="S7">that would define our childhood.</span>
+      </p>
+      <p begin="00:12:13.320" end="00:12:16.120" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C250_1">
+        <span style="S7">And so having him play my grandad</span>
+        <br/>
+        <span style="S7">was amazing.</span>
+      </p>
+      <p begin="00:12:16.120" end="00:12:19.040" region="agr_0_20_38.5_4_after" style="S2" xml:id="C251_1">
+        <span style="S6">Just that twinkle.</span>
+        <br/>
+        <span style="S6">He was a magical human.</span>
+      </p>
+      <p begin="00:12:19.040" end="00:12:20.720" region="R4" style="S2" xml:id="C252">
+        <span style="S4">David? Oh, who...?</span>
+      </p>
+      <p begin="00:12:20.720" end="00:12:21.920" region="R4" style="S2" xml:id="C253">
+        <span style="S4">Oh, David, yes.</span>
+      </p>
+      <p begin="00:12:23.160" end="00:12:25.480" region="agr_0_20_39_4_after" style="S2" xml:id="C254_1">
+        <span style="S4">Well, you know,</span>
+        <br/>
+        <span style="S4">if you like that sort of thing.</span>
+      </p>
+      <p begin="00:12:28.520" end="00:12:30.280" region="R4" style="S2" xml:id="C255">
+        <span style="S4">Naughty. Can I be naughty?</span>
+      </p>
+      <p begin="00:12:31.320" end="00:12:33.720" region="R29" style="S2" xml:id="C256_1">
+        <span style="S4">I haven't retired.</span>
+        <br/>
+        <span style="S4">That's a dirty word.</span>
+      </p>
+      <p begin="00:12:33.720" end="00:12:36.840" region="agr_0_20_39.5_4_after" style="S2" xml:id="C257_1">
+        <span style="S4">I'm just not chosen</span>
+        <br/>
+        <span style="S4">as much as I used to be,</span>
+      </p>
+      <p begin="00:12:36.840" end="00:12:39.560" region="R4" style="S2" xml:id="C258">
+        <span style="S4">because I'm 93, you know!</span>
+      </p>
+      <p begin="00:12:39.560" end="00:12:42.080" region="R4" style="S2" xml:id="C259">
+        <span style="S4">So not too much noise.</span>
+      </p>
+      <p begin="00:12:42.080" end="00:12:45" region="agr_0_1_40_4_after" style="S2" xml:id="C260_1">
+        <span style="S7">It's one of the great joys</span>
+        <br/>
+        <span style="S7">of my life that,</span>
+      </p>
+      <p begin="00:12:45" end="00:12:47.760" region="agr_0_1_39_4_after" style="S2" xml:id="C261_1">
+        <span style="S7">at the end of Bernard's career,</span>
+        <br/>
+        <span style="S7">at the end of his life,</span>
+      </p>
+      <p begin="00:12:47.760" end="00:12:49.320" region="R4" style="S2" xml:id="C262">
+        <span style="S7">he came back to us to shoot</span>
+      </p>
+      <p begin="00:12:49.320" end="00:12:51.360" region="R29" style="S2" xml:id="C263_1">
+        <span style="S7">what actually turned out to be</span>
+        <br/>
+        <span style="S7">his final scene.</span>
+      </p>
+      <p begin="00:12:51.360" end="00:12:55.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C264_1">
+        <span style="S7">We didn't know that at the time.</span>
+        <br/>
+        <span style="S7">But he loved coming back.</span>
+      </p>
+      <p begin="00:12:55.200" end="00:12:57.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C265_1">
+        <span style="S7">He had kind of retired,</span>
+        <br/>
+        <span style="S7">but he loved Doctor Who.</span>
+      </p>
+      <p begin="00:12:57.680" end="00:12:59.680" region="agr_0_20_39_4_after" style="S2" xml:id="C266_1">
+        <span style="S7">He came to our readthrough,</span>
+        <br/>
+        <span style="S7">he was there,</span>
+      </p>
+      <p begin="00:12:59.680" end="00:13:02.080" region="agr_0_20_39_4_after" style="S2" xml:id="C267_1">
+        <span style="S7">we all went out for dinner,</span>
+        <br/>
+        <span style="S7">we had such a happy time.</span>
+      </p>
+      <p begin="00:13:02.080" end="00:13:03.320" region="R4" style="S2" xml:id="C268">
+        <span style="S7">He was shooting in Camden.</span>
+      </p>
+      <p begin="00:13:03.320" end="00:13:05.400" region="agr_0_20_38.5_4_after" style="S2" xml:id="C269_1">
+        <span style="S7">We wanted to do more,</span>
+        <br/>
+        <span style="S7">because we love him.</span>
+      </p>
+      <p begin="00:13:05.400" end="00:13:08.040" region="agr_1_20_39_4_after" style="S2" xml:id="C270_1">
+        <span style="S7">He wasn't well enough to do more,</span>
+        <br/>
+        <span style="S7">but that one scene he completed</span>
+      </p>
+      <p begin="00:13:08.040" end="00:13:10.080" region="R4" style="S2" xml:id="C271">
+        <span style="S7">fills me with absolute joy.</span>
+      </p>
+      <p begin="00:13:10.080" end="00:13:13.680" region="agr_3_20_37_4_after" style="S2" xml:id="C272_1">
+        <span style="S7">In those few seconds, there's</span>
+        <br/>
+        <span style="S7">everything he brings to the screen.</span>
+      </p>
+      <p begin="00:13:13.680" end="00:13:16.640" region="agr_0_20_38.5_4_after" style="S2" xml:id="C273_1">
+        <span style="S7">He's joyous, he's worried,</span>
+        <br/>
+        <span style="S7">he's scared, he's full of love,</span>
+      </p>
+      <p begin="00:13:16.640" end="00:13:19.640" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C274_1">
+        <span style="S7">he hugs Donna, he hugs the Doctor -</span>
+        <br/>
+        <span style="S7">it's pure Bernard.</span>
+      </p>
+      <p begin="00:13:19.640" end="00:13:22.800" region="R4" style="S2" xml:id="C275">
+        <span style="S7">I am so glad we got to shoot that</span>
+      </p>
+      <p begin="00:13:22.800" end="00:13:25.680" region="agr_2_20_38_4_after" style="S2" xml:id="C276_1">
+        <span style="S7">because it's one of the great joys</span>
+        <br/>
+        <span style="S7">of my entire life that I got</span>
+      </p>
+      <p begin="00:13:25.680" end="00:13:29.160" region="R29" style="S2" xml:id="C277">
+        <span style="S7">to work with that man and I got to</span>
+        <br/>
+        <span style="S7">know him and got to be his friend.</span>
+      </p>
+      <p begin="00:13:29.160" end="00:13:30.240" region="R4" style="S2" xml:id="C278">
+        <span style="S7">I love him.</span>
+      </p>
+      <p begin="00:13:30.240" end="00:13:33.040" region="R29" style="S2" xml:id="C279_1">
+        <span style="S7">He's absolutely beautiful,</span>
+        <br/>
+        <span style="S7">and here he is at the end,</span>
+      </p>
+      <p begin="00:13:33.040" end="00:13:34.320" region="R4" style="S2" xml:id="C280">
+        <span style="S7">back in Doctor Who.</span>
+      </p>
+      <p begin="00:13:45.120" end="00:13:48.080" region="R29" style="S2" xml:id="C281_1">
+        <span style="S3">Sometimes, usually</span>
+        <br/>
+        <span style="S3">because of a clash with timings,</span>
+      </p>
+      <p begin="00:13:48.080" end="00:13:50.600" region="agr_0_20_39_4_after" style="S2" xml:id="C282_1">
+        <span style="S3">actors can be</span>
+        <br/>
+        <span style="S3">in the very same scene together</span>
+      </p>
+      <p begin="00:13:50.600" end="00:13:53.960" region="agr_0_20_38.5_4_after" style="S2" xml:id="C283_1">
+        <span style="S3">without ever actually</span>
+        <br/>
+        <span style="S3">coming face-to-face.</span>
+      </p>
+      <p begin="00:13:53.960" end="00:13:55.400" region="R4" style="S2" xml:id="C284">
+        <span style="S7">It's crazy, but it's true.</span>
+      </p>
+      <p begin="00:13:55.400" end="00:13:57.360" region="R4" style="S2" xml:id="C285">
+        <span style="S3">How do they do that?</span>
+        <span style="S7"> Let's find out.</span>
+      </p>
+      <p begin="00:13:59.440" end="00:14:02.600" region="agr_3_14_37_4_after" style="S2" xml:id="C286_1">
+        <span style="S3">When it came to filming the</span>
+        <br/>
+        <span style="S3">Isaac Newton scene in this special,</span>
+      </p>
+      <p begin="00:14:02.600" end="00:14:05.560" region="agr_0_14_39.5_4_after" style="S2" xml:id="C287_1">
+        <span style="S3">Nathaniel Curtis,</span>
+        <br/>
+        <span style="S3">who plays the great man himself,</span>
+      </p>
+      <p begin="00:14:05.560" end="00:14:08.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C288_1">
+        <span style="S3">was in a walled garden</span>
+        <br/>
+        <span style="S3">on the Welsh coast...</span>
+      </p>
+      <p begin="00:14:08.520" end="00:14:10.240" region="R4" style="S2" xml:id="C289">
+        <span style="S7">Of course...!</span>
+      </p>
+      <p begin="00:14:10.240" end="00:14:13.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C290_1">
+        <span style="S3">..when he was rudely interrupted</span>
+        <br/>
+        <span style="S3">by a low-flying TARDIS.</span>
+      </p>
+      <p begin="00:14:13.600" end="00:14:17.480" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C291_1">
+        <span style="S3">Except the TARDIS and its occupants</span>
+        <br/>
+        <span style="S3">weren't in Isaac Newton's tree -</span>
+      </p>
+      <p begin="00:14:17.480" end="00:14:19" region="R4" style="S2" xml:id="C292">
+        <span style="S3">the tree was empty.</span>
+      </p>
+      <p begin="00:14:19" end="00:14:20.880" region="R4" style="S2" xml:id="C293">
+        <span style="S7">What the devil?</span>
+      </p>
+      <p begin="00:14:20.880" end="00:14:24.840" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C294_1">
+        <span style="S3">They were 25 miles away, in Cardiff</span>
+        <br/>
+        <span style="S3">Bay, filming on a different day.</span>
+      </p>
+      <p begin="00:14:24.840" end="00:14:28.800" region="agr_2_1_38_4_after" style="S2" xml:id="C295_1">
+        <span style="S6">Oh! Sorry, we're just slightly</span>
+        <br/>
+        <span style="S6">out of control. My friend Donna...</span>
+      </p>
+      <p begin="00:14:28.800" end="00:14:30.360" region="R21" style="S2" xml:id="C296">
+        <span style="S6">This is Donna, Donna Noble...</span>
+        <span style="S4"> Hi!</span>
+      </p>
+      <p begin="00:14:30.360" end="00:14:32.640" region="agr_0_1_39.5_4_after" style="S2" xml:id="C297_1">
+        <span style="S6">..she just dropped some coffee</span>
+        <br/>
+        <span style="S6">into the console.</span>
+      </p>
+      <p begin="00:14:32.640" end="00:14:35.760" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C298_1">
+        <span style="S6">I just need to triangulate.</span>
+        <br/>
+        <span style="S6">Could you tell me what year this is?</span>
+      </p>
+      <p begin="00:14:35.760" end="00:14:39.640" region="R29" style="S2" xml:id="C299_1">
+        <span style="S7">It's 1666.</span>
+        <br/>
+        <span style="S6">Oh, stay away from London.</span>
+      </p>
+      <p begin="00:14:39.640" end="00:14:40.680" region="R4" style="S2" xml:id="C300">
+        <span style="S3">Wait, what?</span>
+      </p>
+      <p begin="00:14:43.400" end="00:14:47.480" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C301_1">
+        <span style="S3">So option one was to have the TARDIS</span>
+        <br/>
+        <span style="S3">in Isaac Newton's apple tree.</span>
+      </p>
+      <p begin="00:14:47.480" end="00:14:50.480" region="agr_0_20_39_4_after" style="S2" xml:id="C302_1">
+        <span style="S3">But the insurers weren't keen</span>
+        <br/>
+        <span style="S3">on risking a time machine</span>
+      </p>
+      <p begin="00:14:50.480" end="00:14:53.360" region="agr_0_20_39_4_after" style="S2" xml:id="C303_1">
+        <span style="S3">containing two of Britain's</span>
+        <br/>
+        <span style="S3">best-loved acting talents</span>
+      </p>
+      <p begin="00:14:53.360" end="00:14:55.520" region="R4" style="S2" xml:id="C304">
+        <span style="S3">taking a 12-foot topple.</span>
+      </p>
+      <p begin="00:14:55.520" end="00:14:57.440" region="R4" style="S2" xml:id="C305">
+        <span style="S3">So, we are onto option two -</span>
+      </p>
+      <p begin="00:14:57.440" end="00:15:00.960" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C306_1">
+        <span style="S3">David and Catherine filming against</span>
+        <br/>
+        <span style="S3">a blue screen in Cardiff</span>
+      </p>
+      <p begin="00:15:00.960" end="00:15:05.640" region="R29" style="S2" xml:id="C307_1">
+        <span style="S3">and Nathaniel talking to</span>
+        <br/>
+        <span style="S3">an empty tree in Southerndown.</span>
+      </p>
+      <p begin="00:15:05.640" end="00:15:08.040" region="agr_0_1_39_4_after" style="S2" xml:id="C308_1">
+        <span style="S7">This feels like</span>
+        <br/>
+        <span style="S7">very old-school Doctor Who.</span>
+      </p>
+      <p begin="00:15:08.040" end="00:15:11.520" region="agr_0.5_1_39.5_4_after" style="S2" xml:id="C309_1">
+        <span style="S7">We're in a car park with a TARDIS</span>
+        <br/>
+        <span style="S7">balanced on an old tyre.</span>
+      </p>
+      <p begin="00:15:11.520" end="00:15:15.360" region="agr_0_1_38.5_4_after" style="S2" xml:id="C310_1">
+        <span style="S7">Yeah, the TARDIS</span>
+        <br/>
+        <span style="S7">is balanced on an old tyre,</span>
+      </p>
+      <p begin="00:15:15.360" end="00:15:17.920" region="R4" style="S2" xml:id="C311">
+        <span style="S7">we're by an incinerator plant.</span>
+      </p>
+      <p begin="00:15:17.920" end="00:15:21.840" region="agr_0_20_39_4_after" style="S2" xml:id="C312_1">
+        <span style="S7">It's meant to suggest</span>
+        <br/>
+        <span style="S7">the TARDIS is in an apple tree.</span>
+      </p>
+      <p begin="00:15:21.840" end="00:15:25.040" region="agr_1_20_39_4_after" style="S2" xml:id="C313_1">
+        <span style="S3">And through the magic of computer</span>
+        <br/>
+        <span style="S3">software, the fake apple tree</span>
+      </p>
+      <p begin="00:15:25.040" end="00:15:27.840" region="agr_0_20_39_4_after" style="S2" xml:id="C314_1">
+        <span style="S3">and the real apple tree</span>
+        <br/>
+        <span style="S3">are blended into one.</span>
+      </p>
+      <p begin="00:15:27.840" end="00:15:29.320" region="R4" style="S2" xml:id="C315">
+        <span style="S4">That's a rough key.</span>
+      </p>
+      <p begin="00:15:29.320" end="00:15:32.560" region="agr_0_20_39_4_after" style="S2" xml:id="C316_1">
+        <span style="S4">That hopefully will look like</span>
+        <br/>
+        <span style="S4">we're with Sir Iasac Newton</span>
+      </p>
+      <p begin="00:15:32.560" end="00:15:34.440" region="R4" style="S2" xml:id="C317">
+        <span style="S4">and the TARDIS being cheated in.</span>
+      </p>
+      <p begin="00:15:34.440" end="00:15:36.880" region="R4" style="S2" xml:id="C318">
+        <span style="S4">The camera never lies!</span>
+      </p>
+      <p begin="00:15:36.880" end="00:15:39.960" region="agr_0_14_39.5_4_after" style="S2" xml:id="C319_1">
+        <span style="S4">There's the original shot,</span>
+        <br/>
+        <span style="S4">without the TARDIS.</span>
+      </p>
+      <p begin="00:15:41.400" end="00:15:44.960" region="R29" style="S2" xml:id="C320_1">
+        <span style="S4">And now we're inserting that</span>
+        <br/>
+        <span style="S4">into here.</span>
+      </p>
+      <p begin="00:15:44.960" end="00:15:46.920" region="R4" style="S2" xml:id="C321">
+        <span style="S4">And hopefully, you'll never know.</span>
+      </p>
+      <p begin="00:15:46.920" end="00:15:49.520" region="agr_0_20_39_4_after" style="S2" xml:id="C322_1">
+        <span style="S4">Well, you will now,</span>
+        <br/>
+        <span style="S4">because we're giving it away.</span>
+      </p>
+      <p begin="00:15:49.520" end="00:15:53.680" region="agr_2_20_38_4_after" style="S2" xml:id="C323_1">
+        <span style="S6">Oh! Sorry, we're just slightly</span>
+        <br/>
+        <span style="S6">out of control. My friend Donna...</span>
+      </p>
+      <p begin="00:15:53.680" end="00:15:55.120" region="R4" style="S2" xml:id="C324">
+        <span style="S6">This is Donna, Donna Noble...</span>
+        <span style="S4"> Hi!</span>
+      </p>
+      <p begin="00:15:55.120" end="00:15:57.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C325_1">
+        <span style="S6">..has just dropped some coffee</span>
+        <br/>
+        <span style="S6">into the console.</span>
+      </p>
+      <p begin="00:15:57.680" end="00:16:00.400" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C326_1">
+        <span style="S3">So although Nathaniel,</span>
+        <br/>
+        <span style="S3">David and Catherine shared a scene,</span>
+      </p>
+      <p begin="00:16:00.400" end="00:16:02.280" region="R4" style="S2" xml:id="C327">
+        <span style="S3">they never came face-to-face.</span>
+      </p>
+      <p begin="00:16:02.280" end="00:16:05.800" region="agr_2_20_38_4_after" style="S2" xml:id="C328_1">
+        <span style="S6">It's a shame, because I've</span>
+        <br/>
+        <span style="S6">met Nathaniel and he's really nice</span>
+      </p>
+      <p begin="00:16:05.800" end="00:16:08.240" region="agr_2_20_38_4_after" style="S2" xml:id="C329_1">
+        <span style="S6">and I would have liked to have had</span>
+        <br/>
+        <span style="S6">a little scene with him.</span>
+      </p>
+      <p begin="00:16:08.240" end="00:16:10.040" region="agr_3_20_37_4_after" style="S2" xml:id="C330_1">
+        <span style="S4">I would have liked to have met him.</span>
+        <br/>
+        <span style="S6">Yeah.</span>
+      </p>
+      <p begin="00:16:10.040" end="00:16:12.920" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C331_1">
+        <span style="S6">But apparently, he asked not to have</span>
+        <br/>
+        <span style="S6">anything to do with us.</span>
+        <span style="S4"> Yeah.</span>
+      </p>
+      <p begin="00:16:12.920" end="00:16:14.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C332_1">
+        <span style="S6">He asked to be kept apart.</span>
+        <br/>
+        <span style="S6">He was very particular.</span>
+      </p>
+      <p begin="00:16:14.960" end="00:16:17.480" region="R29" style="S2" xml:id="C333_1">
+        <span style="S6">He accepted the part</span>
+        <br/>
+        <span style="S6">on that very strict condition.</span>
+      </p>
+      <p begin="00:16:17.480" end="00:16:19.360" region="R52" style="S2" xml:id="C334">
+        <span style="S7">I mean, I love David Tennant.</span>
+      </p>
+      <p begin="00:16:19.360" end="00:16:20.800" region="R52" style="S2" xml:id="C335">
+        <span style="S7">I love David Tennant.</span>
+      </p>
+      <p begin="00:16:20.800" end="00:16:25.480" region="R148" style="S2" xml:id="C336">
+        <span style="S7">He's, A, he's such a lovely man</span>
+        <br/>
+        <span style="S7">and B, he's a brilliant Doctor.</span>
+      </p>
+      <p begin="00:16:25.480" end="00:16:29.520" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C337_1">
+        <span style="S7">And I grew up watching David Tennant</span>
+        <br/>
+        <span style="S7">as the Doctor, so I think that...</span>
+      </p>
+      <p begin="00:16:29.520" end="00:16:31.720" region="R4" style="S2" xml:id="C338">
+        <span style="S7">It's a bit surreal, to be honest.</span>
+      </p>
+      <p begin="00:16:31.720" end="00:16:35.480" region="R29" style="S2" xml:id="C339_1">
+        <span style="S4">It's got to be said,</span>
+        <br/>
+        <span style="S4">Mr Isaac Newton,</span>
+      </p>
+      <p begin="00:16:35.480" end="00:16:38.160" region="R4" style="S2" xml:id="C340">
+        <span style="S4">that you, above all others,</span>
+      </p>
+      <p begin="00:16:38.160" end="00:16:40.280" region="R4" style="S2" xml:id="C341">
+        <span style="S4">you can appreciate...</span>
+      </p>
+      <p begin="00:16:40.280" end="00:16:42.680" region="R4" style="S2" xml:id="C342">
+        <span style="S3">BOTH: The gravity of the situation.</span>
+      </p>
+      <p begin="00:16:46.160" end="00:16:48.200" region="R4" style="S2" xml:id="C343">
+        <span style="S7">What was that delightful word?</span>
+      </p>
+      <p begin="00:16:49.760" end="00:16:51.320" region="R4" style="S2" xml:id="C344">
+        <span style="S7">Savity...</span>
+      </p>
+      <p begin="00:16:51.320" end="00:16:52.360" region="R4" style="S2" xml:id="C345">
+        <span style="S7">Havity...</span>
+      </p>
+      <p begin="00:16:53.800" end="00:16:57.160" region="R4" style="S2" xml:id="C346">
+        <span style="S7">Ah, mavity!</span>
+      </p>
+      <p begin="00:16:58.480" end="00:17:00.520" region="agr_0_20_39_4_after" style="S2" xml:id="C347_1">
+        <span style="S3">After filming</span>
+        <br/>
+        <span style="S3">the Isaac Newton scene,</span>
+      </p>
+      <p begin="00:17:00.520" end="00:17:04.560" region="R29" style="S2" xml:id="C348_1">
+        <span style="S3">that mavity/gravity ending</span>
+        <br/>
+        <span style="S3">was playing on Catherine's mind.</span>
+      </p>
+      <p begin="00:17:04.560" end="00:17:09.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C349_1">
+        <span style="S3">So, is it still gravity</span>
+        <br/>
+        <span style="S3">or is it mavity?</span>
+      </p>
+      <p begin="00:17:09.800" end="00:17:11.920" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C350_1">
+        <span style="S4">This is what I don't understand, OK?</span>
+        <br/>
+        <span style="S6">Yeah.</span>
+      </p>
+      <p begin="00:17:11.920" end="00:17:16" region="agr_0_20_38.5_4_after" style="S2" xml:id="C351_1">
+        <span style="S4">I get that we meet Isaac Newton</span>
+        <br/>
+        <span style="S4">and he mishears us</span>
+      </p>
+      <p begin="00:17:16" end="00:17:19.040" region="agr_0_20_39_4_after" style="S2" xml:id="C352_1">
+        <span style="S4">and instead of gravity,</span>
+        <br/>
+        <span style="S4">he says mavity.</span>
+        <span style="S6"> Yeah.</span>
+      </p>
+      <p begin="00:17:19.040" end="00:17:23.360" region="agr_0_20_39_4_after" style="S2" xml:id="C353_1">
+        <span style="S4">What I don't understand is,</span>
+        <br/>
+        <span style="S4">given that I was there...</span>
+        <span style="S6"> Yeah.</span>
+      </p>
+      <p begin="00:17:23.360" end="00:17:27" region="agr_0_20_38.5_4_after" style="S2" xml:id="C354_1">
+        <span style="S4">..why am I...?</span>
+        <br/>
+        <span style="S4">Why do I now think it's mavity?</span>
+      </p>
+      <p begin="00:17:27" end="00:17:28.240" region="R4" style="S2" xml:id="C355">
+        <span style="S4">Has he gone to me,</span>
+      </p>
+      <p begin="00:17:28.240" end="00:17:30.920" region="R29" style="S2" xml:id="C356_1">
+        <span style="S4">"Look into my eyes, not around</span>
+        <br/>
+        <span style="S4">my eyes but in my eyes..."</span>
+        <span style="S6"> No!</span>
+      </p>
+      <p begin="00:17:30.920" end="00:17:32.680" region="R4" style="S2" xml:id="C357">
+        <span style="S6">It's, it's...</span>
+      </p>
+      <p begin="00:17:32.680" end="00:17:34.360" region="R4" style="S2" xml:id="C358">
+        <span style="S6">It's, time is linear, you see.</span>
+      </p>
+      <p begin="00:17:34.360" end="00:17:36.360" region="R4" style="S2" xml:id="C359">
+        <span style="S6">Even though we zip around in it.</span>
+      </p>
+      <p begin="00:17:36.360" end="00:17:41.040" region="agr_3_20_37_4_after" style="S2" xml:id="C360_1">
+        <span style="S6">So when you said gravity,</span>
+        <br/>
+        <span style="S6">that's the word you'd learned.</span>
+        <span style="S4"> Yes.</span>
+      </p>
+      <p begin="00:17:41.040" end="00:17:43.880" region="agr_0_20_39_4_after" style="S2" xml:id="C361_1">
+        <span style="S6">But then he mishears you,</span>
+        <br/>
+        <span style="S6">he changes it to mavity</span>
+      </p>
+      <p begin="00:17:43.880" end="00:17:47.720" region="agr_3_20_37_4_after" style="S2" xml:id="C362_1">
+        <span style="S6">and because he's coining the phrase</span>
+        <br/>
+        <span style="S6">right there and then,</span>
+      </p>
+      <p begin="00:17:47.720" end="00:17:50.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C363_1">
+        <span style="S6">he then changes history</span>
+        <br/>
+        <span style="S6">from that moment on.</span>
+      </p>
+      <p begin="00:17:50.680" end="00:17:52.320" region="R4" style="S2" xml:id="C364">
+        <span style="S3">You following this?</span>
+      </p>
+      <p begin="00:17:52.320" end="00:17:56.520" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C365_1">
+        <span style="S6">In that moment, when he changes it,</span>
+        <br/>
+        <span style="S6">it dominoes through...</span>
+      </p>
+      <p begin="00:17:56.520" end="00:18:00.440" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C366_1">
+        <span style="S6">Temporal dominoes do that, and it</span>
+        <br/>
+        <span style="S6">affects everything from that moment.</span>
+      </p>
+      <p begin="00:18:00.440" end="00:18:02.880" region="R4" style="S2" xml:id="C367">
+        <span style="S6">You change... You change time.</span>
+      </p>
+      <p begin="00:18:04.480" end="00:18:08.120" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C368_1">
+        <span style="S6">You change your own education system</span>
+        <br/>
+        <span style="S6">in that moment.</span>
+      </p>
+      <p begin="00:18:08.120" end="00:18:10.840" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C369_1">
+        <span style="S4">They're going to have to cut</span>
+        <br/>
+        <span style="S4">this bit down a bit, aren't they?</span>
+      </p>
+      <p begin="00:18:12.120" end="00:18:14.480" region="agr_0_20_39_4_after" style="S2" xml:id="C370_1">
+        <span style="S6">I just love the fact that</span>
+        <br/>
+        <span style="S6">you've done all of this</span>
+      </p>
+      <p begin="00:18:14.480" end="00:18:16.880" region="agr_0_20_39_4_after" style="S2" xml:id="C371_1">
+        <span style="S6">with an air-conditioning tube</span>
+        <br/>
+        <span style="S6">up your jumper.</span>
+        <span style="S4"> It's hot!</span>
+      </p>
+      <p begin="00:18:16.880" end="00:18:18.320" region="R4" style="S2" xml:id="C372">
+        <span style="S6">I mean...</span>
+        <span style="S4"> Yeah.</span>
+      </p>
+      <p begin="00:18:18.320" end="00:18:22" region="agr_4_20_36_4_after" style="S2" xml:id="C373_1">
+        <span style="S6">We are filming this on the hottest</span>
+        <br/>
+        <span style="S6">days of 2022, thank you.</span>
+        <span style="S4"> Oh, my God.</span>
+      </p>
+      <p begin="00:18:22" end="00:18:26.080" region="R29" style="S2" xml:id="C374">
+        <span style="S4">Yes.</span>
+        <span style="S6"> Think back.</span>
+        <span style="S4"> When the world</span>
+        <br/>
+        <span style="S4">boiled. Well, the UK did.</span>
+        <span style="S6"> Yeah.</span>
+      </p>
+      <p begin="00:18:26.080" end="00:18:27.480" region="R4" style="S2" xml:id="C375">
+        <span style="S4">Yeah.</span>
+      </p>
+      <p begin="00:18:27.480" end="00:18:29.080" region="R4" style="S2" xml:id="C376">
+        <span style="S4">Erm...</span>
+      </p>
+      <p begin="00:18:29.080" end="00:18:31.280" region="R29" style="S2" xml:id="C377_1">
+        <span style="S4">Even better up the back.</span>
+        <br/>
+        <span style="S4">Even better.</span>
+      </p>
+      <p begin="00:18:32.720" end="00:18:34.040" region="R4" style="S2" xml:id="C378">
+        <span style="S4">It's even better!</span>
+      </p>
+      <p begin="00:18:41.280" end="00:18:44.240" region="agr_0_20_39.5_4_after" style="S2" xml:id="C379_1">
+        <span style="S3">The bulk of Wild Blue Yonder</span>
+        <br/>
+        <span style="S3">is being filmed</span>
+      </p>
+      <p begin="00:18:44.240" end="00:18:46.480" region="R4" style="S2" xml:id="C380">
+        <span style="S3">on Stage 2 at Wolf Studios.</span>
+      </p>
+      <p begin="00:18:46.480" end="00:18:48.640" region="R4" style="S2" xml:id="C381">
+        <span style="S3">It's basically a big green backdrop</span>
+      </p>
+      <p begin="00:18:48.640" end="00:18:51.440" region="R29" style="S2" xml:id="C382_1">
+        <span style="S3">and what looks like a catwalk,</span>
+        <br/>
+        <span style="S3">which, apparently, will be</span>
+      </p>
+      <p begin="00:18:51.440" end="00:18:56.120" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C383_1">
+        <span style="S3">turned into miles and miles</span>
+        <br/>
+        <span style="S3">and miles of a spaceship corridor.</span>
+      </p>
+      <p begin="00:18:56.120" end="00:18:58.720" region="R29" style="S2" xml:id="C384_1">
+        <span style="S3">How? Let's go back in time</span>
+        <br/>
+        <span style="S3">to find out.</span>
+      </p>
+      <p begin="00:19:00.040" end="00:19:01.080" region="R21" style="S2" xml:id="C385">
+        <span style="S7">Here we go!</span>
+      </p>
+      <p begin="00:19:03.200" end="00:19:06.320" region="R148" style="S2" xml:id="C386_1">
+        <span style="S3">When David Tennant and Catherine</span>
+        <br/>
+        <span style="S3">Tate were playing the Doctor</span>
+      </p>
+      <p begin="00:19:06.320" end="00:19:09.200" region="agr_0_20_39.5_4_after" style="S2" xml:id="C387_1">
+        <span style="S3">and Donna and scenes were</span>
+        <br/>
+        <span style="S3">filmed against a green screen,</span>
+      </p>
+      <p begin="00:19:09.200" end="00:19:12.840" region="agr_0_20_39_4_after" style="S2" xml:id="C388_1">
+        <span style="S3">the background would be</span>
+        <br/>
+        <span style="S3">put in later in the edit suite.</span>
+      </p>
+      <p begin="00:19:12.840" end="00:19:15.440" region="agr_0_20_39_4_after" style="S2" xml:id="C389_1">
+        <span style="S3">It was a time-consuming</span>
+        <br/>
+        <span style="S3">and expensive process</span>
+      </p>
+      <p begin="00:19:15.440" end="00:19:19.240" region="agr_1_20_39_4_after" style="S2" xml:id="C390_1">
+        <span style="S3">and the director was never 100%</span>
+        <br/>
+        <span style="S3">certain that they had shot things</span>
+      </p>
+      <p begin="00:19:19.240" end="00:19:22.040" region="R29" style="S2" xml:id="C391_1">
+        <span style="S3">from the right angle</span>
+        <br/>
+        <span style="S3">and with the right framing</span>
+      </p>
+      <p begin="00:19:22.040" end="00:19:23.520" region="R4" style="S2" xml:id="C392">
+        <span style="S3">until they were in the edit.</span>
+      </p>
+      <p begin="00:19:25.440" end="00:19:28.760" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C393_1">
+        <span style="S3">But fast-forward 15 years,</span>
+        <br/>
+        <span style="S3">and David and Catherine are still</span>
+      </p>
+      <p begin="00:19:28.760" end="00:19:32.560" region="agr_2_20_38_4_after" style="S2" xml:id="C394_1">
+        <span style="S3">acting against a green screen,</span>
+        <br/>
+        <span style="S3">but now, a digital computer system</span>
+      </p>
+      <p begin="00:19:32.560" end="00:19:36.400" region="R29" style="S2" xml:id="C395_1">
+        <span style="S3">is simultaneously creating</span>
+        <br/>
+        <span style="S3">a virtual set in the camera.</span>
+      </p>
+      <p begin="00:19:36.400" end="00:19:38.880" region="agr_0_20_39_4_after" style="S2" xml:id="C396_1">
+        <span style="S3">And even though</span>
+        <br/>
+        <span style="S3">this isn't the final image,</span>
+      </p>
+      <p begin="00:19:38.880" end="00:19:41.640" region="R29" style="S2" xml:id="C397_1">
+        <span style="S3">the director has a good idea</span>
+        <br/>
+        <span style="S3">of what it would look like</span>
+      </p>
+      <p begin="00:19:41.640" end="00:19:43.400" region="R4" style="S2" xml:id="C398">
+        <span style="S3">whilst they're still in the studio.</span>
+      </p>
+      <p begin="00:19:44.840" end="00:19:46.720" region="agr_0_20_38.5_4_after" style="S2" xml:id="C399_1">
+        <span style="S7">What's cool about this system</span>
+        <br/>
+        <span style="S7">is that,</span>
+      </p>
+      <p begin="00:19:46.720" end="00:19:49.320" region="agr_0_20_39_4_after" style="S2" xml:id="C400_1">
+        <span style="S7">when we're on the monitor</span>
+        <br/>
+        <span style="S7">watching it live,</span>
+      </p>
+      <p begin="00:19:49.320" end="00:19:53.320" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C401_1">
+        <span style="S7">when the actors are acting, we can</span>
+        <br/>
+        <span style="S7">see that digital background in.</span>
+      </p>
+      <p begin="00:19:53.320" end="00:19:55.280" region="R4" style="S2" xml:id="C402">
+        <span style="S6">We just landed!</span>
+      </p>
+      <p begin="00:19:55.280" end="00:19:56.880" region="R4" style="S2" xml:id="C403">
+        <span style="S6">By accident!</span>
+      </p>
+      <p begin="00:19:56.880" end="00:19:58.400" region="R4" style="S2" xml:id="C404">
+        <span style="S6">Hope that's OK!</span>
+      </p>
+      <p begin="00:19:58.400" end="00:20:02.240" region="agr_2_20_38_4_after" style="S2" xml:id="C405_1">
+        <span style="S7">So, partly, we don't go mad, and</span>
+        <br/>
+        <span style="S7">we know what would be a good shot,</span>
+      </p>
+      <p begin="00:20:02.240" end="00:20:04" region="agr_0_20_39_4_after" style="S2" xml:id="C406_1">
+        <span style="S7">we know how it's going to</span>
+        <br/>
+        <span style="S7">edit together</span>
+      </p>
+      <p begin="00:20:04" end="00:20:05.720" region="agr_0_20_39_4_after" style="S2" xml:id="C407_1">
+        <span style="S7">and if the camera's</span>
+        <br/>
+        <span style="S7">in the right place.</span>
+      </p>
+      <p begin="00:20:05.720" end="00:20:07.240" region="R4" style="S2" xml:id="C408">
+        <span style="S7">Cut! Thank you.</span>
+      </p>
+      <p begin="00:20:09.160" end="00:20:11.280" region="R4" style="S2" xml:id="C409">
+        <span style="S4">The way it works is that we</span>
+      </p>
+      <p begin="00:20:11.280" end="00:20:13.360" region="R52" style="S2" xml:id="C410">
+        <span style="S4">put dots on the ceiling,</span>
+      </p>
+      <p begin="00:20:13.360" end="00:20:16.320" region="agr_0_14_39.5_4_after" style="S2" xml:id="C411_1">
+        <span style="S4">like stars on the ceiling,</span>
+        <br/>
+        <span style="S4">a bit like a starscape,</span>
+      </p>
+      <p begin="00:20:16.320" end="00:20:19.560" region="agr_0_20_38.5_4_after" style="S2" xml:id="C412_1">
+        <span style="S4">and the cameras track</span>
+        <br/>
+        <span style="S4">using those stars.</span>
+      </p>
+      <p begin="00:20:19.560" end="00:20:22.640" region="agr_0_20_39_4_after" style="S2" xml:id="C413_1">
+        <span style="S4">So it's a bit like conventional</span>
+        <br/>
+        <span style="S4">green screen, in a way,</span>
+      </p>
+      <p begin="00:20:22.640" end="00:20:24.640" region="agr_0_20_39.5_4_after" style="S2" xml:id="C414_1">
+        <span style="S4">but obviously</span>
+        <br/>
+        <span style="S4">it's a lot more technical.</span>
+      </p>
+      <p begin="00:20:24.640" end="00:20:27.520" region="agr_0_20_39_4_after" style="S2" xml:id="C415_1">
+        <span style="S4">This system is being used a lot</span>
+        <br/>
+        <span style="S4">in virtual studios,</span>
+      </p>
+      <p begin="00:20:27.520" end="00:20:29.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C416_1">
+        <span style="S4">so live TV, like sports events,</span>
+        <br/>
+        <span style="S4">for example.</span>
+      </p>
+      <p begin="00:20:34.560" end="00:20:37.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C417_1">
+        <span style="S3">So the crew get to view</span>
+        <br/>
+        <span style="S3">the virtual set in the studio,</span>
+      </p>
+      <p begin="00:20:37.520" end="00:20:42.600" region="agr_4_20_36_4_after" style="S2" xml:id="C418_1">
+        <span style="S3">but it's at postproduction house</span>
+        <br/>
+        <span style="S3">Realtime that the final CGI happens.</span>
+      </p>
+      <p begin="00:20:42.600" end="00:20:46.160" region="agr_0_1_40_4_after" style="S2" xml:id="C419_1">
+        <span style="S3">Let's go right back to basics,</span>
+        <br/>
+        <span style="S3">like a green-screen plate.</span>
+      </p>
+      <p begin="00:20:46.160" end="00:20:49.120" region="agr_2.5_1_37.5_4_after" style="S2" xml:id="C420_1">
+        <span style="S3">I've heard lot of people talk about</span>
+        <br/>
+        <span style="S3">plates and I was expecting lunch</span>
+      </p>
+      <p begin="00:20:49.120" end="00:20:51.200" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C421_1">
+        <span style="S3">and it was nothing to do with that</span>
+        <br/>
+        <span style="S3">at all.</span>
+      </p>
+      <p begin="00:20:51.200" end="00:20:53.360" region="R4" style="S2" xml:id="C422">
+        <span style="S3">So, what's going on?</span>
+        <span style="S7"> Yeah.</span>
+      </p>
+      <p begin="00:20:53.360" end="00:20:58.920" region="agr_0.5_14_39.5_4_after" style="S2" xml:id="C423_1">
+        <span style="S7">So, when obviously we're doing</span>
+        <br/>
+        <span style="S7">a CG environment or a CG creature</span>
+      </p>
+      <p begin="00:20:58.920" end="00:21:01.320" region="R29" style="S2" xml:id="C424_1">
+        <span style="S7">we'll shoot them</span>
+        <br/>
+        <span style="S7">on a green-screen plate.</span>
+      </p>
+      <p begin="00:21:01.320" end="00:21:05" region="agr_0_20_38.5_4_after" style="S2" xml:id="C425_1">
+        <span style="S7">That means the actors have</span>
+        <br/>
+        <span style="S7">a big green screen behind them,</span>
+      </p>
+      <p begin="00:21:05" end="00:21:09.560" region="agr_4_20_36_4_after" style="S2" xml:id="C426_1">
+        <span style="S7">which we spend a lot of time ironing</span>
+        <br/>
+        <span style="S7">out and neatly making look nice.</span>
+      </p>
+      <p begin="00:21:09.560" end="00:21:14" region="R29" style="S2" xml:id="C427">
+        <span style="S7">And it means that we can easily</span>
+        <br/>
+        <span style="S7">cut them out from the backdrop,</span>
+      </p>
+      <p begin="00:21:14" end="00:21:17.680" region="agr_0_20_39.5_4_after" style="S2" xml:id="C428_1">
+        <span style="S7">just like the weatherman,</span>
+        <br/>
+        <span style="S7">pretty much. Same kind of thing.</span>
+      </p>
+      <p begin="00:21:17.680" end="00:21:20.280" region="R29" style="S2" xml:id="C429_1">
+        <span style="S3">Yeah!</span>
+        <span style="S7"> Yeah. And we call that</span>
+        <br/>
+        <span style="S7">pulling a key.</span>
+      </p>
+      <p begin="00:21:20.280" end="00:21:23.720" region="agr_4_1_36_4_after" style="S2" xml:id="C430_1">
+        <span style="S7">So when you pull the green off</span>
+        <br/>
+        <span style="S7">and make the background transparent,</span>
+      </p>
+      <p begin="00:21:23.720" end="00:21:25" region="R21" style="S2" xml:id="C431">
+        <span style="S7">that's pulling a key.</span>
+      </p>
+      <p begin="00:21:26.440" end="00:21:29.360" region="agr_4_20_36_4_after" style="S2" xml:id="C432_1">
+        <span style="S3">But unlike traditional green screen,</span>
+        <br/>
+        <span style="S3">James and the team</span>
+      </p>
+      <p begin="00:21:29.360" end="00:21:34.360" region="R29" style="S2" xml:id="C433">
+        <span style="S3">had already provided in-camera</span>
+        <br/>
+        <span style="S3">CGI footage to the crew on set.</span>
+      </p>
+      <p begin="00:21:34.360" end="00:21:37" region="agr_0_1_39.5_4_after" style="S2" xml:id="C434_1">
+        <span style="S3">Which leaves me wondering,</span>
+        <br/>
+        <span style="S3">what's wrong with this?</span>
+      </p>
+      <p begin="00:21:37" end="00:21:39.520" region="agr_0_1_39_4_after" style="S2" xml:id="C435_1">
+        <span style="S7">What's wrong with it?</span>
+        <br/>
+        <span style="S3">Yeah, it looks really good.</span>
+      </p>
+      <p begin="00:21:39.520" end="00:21:41.280" region="agr_0_20_39.5_4_after" style="S2" xml:id="C436_1">
+        <span style="S3">Couldn't you just put that</span>
+        <br/>
+        <span style="S3">on the telly?</span>
+      </p>
+      <p begin="00:21:41.280" end="00:21:44.040" region="agr_0_20_39.5_4_after" style="S2" xml:id="C437_1">
+        <span style="S3">Obviously without the big hole</span>
+        <br/>
+        <span style="S3">in the corner.</span>
+        <span style="S7"> Hmm...</span>
+      </p>
+      <p begin="00:21:44.040" end="00:21:46.800" region="agr_0_20_38.5_4_after" style="S2" xml:id="C438_1">
+        <span style="S7">Well, that was the bit</span>
+        <br/>
+        <span style="S7">I was trying to simplify,</span>
+      </p>
+      <p begin="00:21:46.800" end="00:21:48.440" region="R4" style="S2" xml:id="C439">
+        <span style="S7">is that there isn't real...</span>
+      </p>
+      <p begin="00:21:48.440" end="00:21:50.760" region="R29" style="S2" xml:id="C440_1">
+        <span style="S7">This lighting,</span>
+        <br/>
+        <span style="S7">we call it baked lighting,</span>
+      </p>
+      <p begin="00:21:50.760" end="00:21:53.120" region="R4" style="S2" xml:id="C441">
+        <span style="S7">so the lighting is actually static.</span>
+      </p>
+      <p begin="00:21:53.120" end="00:21:57.360" region="R29" style="S2" xml:id="C442_1">
+        <span style="S7">So the shadows aren't moving</span>
+        <br/>
+        <span style="S7">and everything is just basically</span>
+      </p>
+      <p begin="00:21:57.360" end="00:22:01.040" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C443_1">
+        <span style="S7">a temporary representation of</span>
+        <br/>
+        <span style="S7">how the lighting will be in the end.</span>
+      </p>
+      <p begin="00:22:01.040" end="00:22:05.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C444_1">
+        <span style="S7">So you could still use that,</span>
+        <br/>
+        <span style="S7">technically speaking,</span>
+      </p>
+      <p begin="00:22:05.560" end="00:22:08.560" region="agr_0_20_39.5_4_after" style="S2" xml:id="C445_1">
+        <span style="S7">but we just prefer to do</span>
+        <br/>
+        <span style="S7">something a bit posher.</span>
+      </p>
+      <p begin="00:22:08.560" end="00:22:10" region="R4" style="S2" xml:id="C446">
+        <span style="S3">Bit posher, yeah, OK.</span>
+      </p>
+      <p begin="00:22:10" end="00:22:13.720" region="agr_0_1_38.5_4_after" style="S2" xml:id="C447_1">
+        <span style="S3">And in this case, posh meant</span>
+        <br/>
+        <span style="S3">playing with the lighting, tone</span>
+      </p>
+      <p begin="00:22:13.720" end="00:22:18.240" region="agr_4_1_36_4_after" style="S2" xml:id="C448_1">
+        <span style="S3">and textures and animating the walls</span>
+        <br/>
+        <span style="S3">and buttresses of the spaceship.</span>
+      </p>
+      <p begin="00:22:18.240" end="00:22:22.160" region="agr_0_1_40_4_after" style="S2" xml:id="C449_1">
+        <span style="S3">Seeing it move and twist</span>
+        <br/>
+        <span style="S3">and live here,</span>
+      </p>
+      <p begin="00:22:22.160" end="00:22:27.240" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C450_1">
+        <span style="S3">what are you most pleased with?</span>
+        <span style="S7"> Ooh,</span>
+        <br/>
+        <span style="S7">that is a tricky question. Erm...</span>
+      </p>
+      <p begin="00:22:27.240" end="00:22:30.760" region="R29" style="S2" xml:id="C451_1">
+        <span style="S7">It's a really boring answer!</span>
+        <br/>
+        <span style="S3">No, excellent, what is it?</span>
+      </p>
+      <p begin="00:22:30.760" end="00:22:32.920" region="agr_0_20_39_4_after" style="S2" xml:id="C452_1">
+        <span style="S7">I really like the work we did</span>
+        <br/>
+        <span style="S7">with the floor.</span>
+      </p>
+      <p begin="00:22:32.920" end="00:22:35.880" region="agr_0_1_39_4_after" style="S2" xml:id="C453_1">
+        <span style="S7">The match that we've done</span>
+        <br/>
+        <span style="S7">of the floor and the...</span>
+      </p>
+      <p begin="00:22:35.880" end="00:22:37.560" region="R21" style="S2" xml:id="C454">
+        <span style="S3">So the floor that was really there?</span>
+      </p>
+      <p begin="00:22:37.560" end="00:22:39.800" region="R21" style="S2" xml:id="C455">
+        <span style="S7">The floor had a weird shininess</span>
+      </p>
+      <p begin="00:22:39.800" end="00:22:43.560" region="agr_0_1_39.5_4_after" style="S2" xml:id="C456_1">
+        <span style="S7">and a weird quality to it</span>
+        <br/>
+        <span style="S7">that was quite hard to do.</span>
+      </p>
+      <p begin="00:22:43.560" end="00:22:45.960" region="R21" style="S2" xml:id="C457">
+        <span style="S7">And in Unreal, it looks really good.</span>
+      </p>
+      <p begin="00:22:45.960" end="00:22:47.440" region="R4" style="S2" xml:id="C458">
+        <span style="S7">It's a really boring answer.</span>
+      </p>
+      <p begin="00:22:47.440" end="00:22:49.920" region="agr_0_20_39.5_4_after" style="S2" xml:id="C459_1">
+        <span style="S3">No! So, basically</span>
+        <br/>
+        <span style="S3">what you're saying is,</span>
+      </p>
+      <p begin="00:22:49.920" end="00:22:52.960" region="agr_0_20_39.5_4_after" style="S2" xml:id="C460_1">
+        <span style="S3">and this entire spaceship,</span>
+        <br/>
+        <span style="S3">you like the floor...</span>
+      </p>
+      <p begin="00:22:52.960" end="00:22:55.800" region="R4" style="S2" xml:id="C461">
+        <span style="S7">Yeah!</span>
+        <span style="S3"> ..James, the most?</span>
+      </p>
+      <p begin="00:22:55.800" end="00:22:56.920" region="R4" style="S2" xml:id="C462">
+        <span style="S7">Yeah.</span>
+      </p>
+      <p begin="00:23:01.880" end="00:23:04.520" region="R29" style="S2" xml:id="C463_1">
+        <span style="S3">So on every episode,</span>
+        <br/>
+        <span style="S3">I'm trying out a different job</span>
+      </p>
+      <p begin="00:23:04.520" end="00:23:08.520" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C464_1">
+        <span style="S3">here on set to see what it's like,</span>
+        <br/>
+        <span style="S3">trying not to mess things up.</span>
+      </p>
+      <p begin="00:23:08.520" end="00:23:12" region="agr_0_20_39.5_4_after" style="S2" xml:id="C465_1">
+        <span style="S3">And this time, I'm going to be</span>
+        <br/>
+        <span style="S3">a camera trainee.</span>
+      </p>
+      <p begin="00:23:12" end="00:23:15.640" region="R29" style="S2" xml:id="C466_1">
+        <span style="S3">In charge of thousands</span>
+        <br/>
+        <span style="S3">and thousands of pounds' worth</span>
+      </p>
+      <p begin="00:23:15.640" end="00:23:18.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C467_1">
+        <span style="S3">of camera equipment.</span>
+        <br/>
+        <span style="S3">What could possibly go wrong?</span>
+      </p>
+      <p begin="00:23:23.440" end="00:23:26.480" region="R148" style="S2" xml:id="C468_1">
+        <span style="S3">So, what exactly does a camera</span>
+        <br/>
+        <span style="S3">trainee do, other than</span>
+      </p>
+      <p begin="00:23:26.480" end="00:23:30" region="agr_4_14_36_4_after" style="S2" xml:id="C469_1">
+        <span style="S3">make sure that none of the expensive</span>
+        <br/>
+        <span style="S3">kit gets broken or lost?</span>
+      </p>
+      <p begin="00:23:30" end="00:23:31.960" region="agr_0_20_39_4_after" style="S2" xml:id="C470_1">
+        <span style="S7">So, what we do at the start</span>
+        <br/>
+        <span style="S7">of the day is</span>
+      </p>
+      <p begin="00:23:31.960" end="00:23:33.120" region="R4" style="S2" xml:id="C471">
+        <span style="S7">we set up Video Village,</span>
+      </p>
+      <p begin="00:23:33.120" end="00:23:35.600" region="agr_0_20_39_4_after" style="S2" xml:id="C472_1">
+        <span style="S7">so we set all up the monitors</span>
+        <br/>
+        <span style="S7">for everyone to have a look at.</span>
+      </p>
+      <p begin="00:23:35.600" end="00:23:38.200" region="R29" style="S2" xml:id="C473_1">
+        <span style="S3">Video Village?</span>
+        <br/>
+        <span style="S7">It's called Video Village.</span>
+      </p>
+      <p begin="00:23:38.200" end="00:23:40.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C474_1">
+        <span style="S7">So essentially,</span>
+        <br/>
+        <span style="S7">it's 24-inch monitors that we'll</span>
+      </p>
+      <p begin="00:23:40.320" end="00:23:43.120" region="agr_0_20_39.5_4_after" style="S2" xml:id="C475_1">
+        <span style="S7">set up for people like checks</span>
+        <br/>
+        <span style="S7">and make-up. We're looking after</span>
+      </p>
+      <p begin="00:23:43.120" end="00:23:45.520" region="agr_0_20_38.5_4_after" style="S2" xml:id="C476_1">
+        <span style="S7">all the equipment, so that's</span>
+        <br/>
+        <span style="S7">pretty much from the cameras,</span>
+      </p>
+      <p begin="00:23:45.520" end="00:23:47.560" region="R4" style="S2" xml:id="C477">
+        <span style="S7">we're looking after the boards.</span>
+      </p>
+      <p begin="00:23:47.560" end="00:23:49.720" region="agr_0_20_39_4_after" style="S2" xml:id="C478_1">
+        <span style="S7">We're looking after</span>
+        <br/>
+        <span style="S7">a lot of the rigging equipment,</span>
+      </p>
+      <p begin="00:23:49.720" end="00:23:52.160" region="agr_0_20_39.5_4_after" style="S2" xml:id="C479_1">
+        <span style="S7">so then whatever they rig onto</span>
+        <br/>
+        <span style="S7">the camera, we're pretty much</span>
+      </p>
+      <p begin="00:23:52.160" end="00:23:54.440" region="agr_0_20_39_4_after" style="S2" xml:id="C480_1">
+        <span style="S7">protecting that and making sure</span>
+        <br/>
+        <span style="S7">none of that gets lost.</span>
+      </p>
+      <p begin="00:23:54.440" end="00:23:56.800" region="agr_1_20_39_4_after" style="S2" xml:id="C481_1">
+        <span style="S3">What was it about working</span>
+        <br/>
+        <span style="S3">on the camera that you were like,</span>
+      </p>
+      <p begin="00:23:56.800" end="00:23:59.600" region="agr_2_20_38_4_after" style="S2" xml:id="C482_1">
+        <span style="S3">"This is cool,</span>
+        <br/>
+        <span style="S3">this is what I really want to do"?</span>
+      </p>
+      <p begin="00:23:59.600" end="00:24:03.280" region="agr_3_20_37_4_after" style="S2" xml:id="C483_1">
+        <span style="S7">I think it's just the fact that</span>
+        <br/>
+        <span style="S7">it just looked so freaking amazing.</span>
+      </p>
+      <p begin="00:24:03.280" end="00:24:05.920" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C484_1">
+        <span style="S7">You want to get yourself involved</span>
+        <br/>
+        <span style="S7">in that sort of stuff.</span>
+      </p>
+      <p begin="00:24:05.920" end="00:24:08.400" region="agr_0.5_20_39.5_4_after" style="S2" xml:id="C485_1">
+        <span style="S7">And you want to know how</span>
+        <br/>
+        <span style="S7">everything's made and you kind of</span>
+      </p>
+      <p begin="00:24:08.400" end="00:24:11.200" region="agr_0_20_39_4_after" style="S2" xml:id="C486_1">
+        <span style="S7">appreciate the art of camera,</span>
+        <br/>
+        <span style="S7">because it's the most hands-on.</span>
+      </p>
+      <p begin="00:24:12.480" end="00:24:16.600" region="agr_0_20_39.5_4_after" style="S2" xml:id="C487_1">
+        <span style="S3">Kudzai, you've gone -</span>
+        <br/>
+        <span style="S3">this story's amazing -</span>
+      </p>
+      <p begin="00:24:16.600" end="00:24:21.640" region="agr_3_20_37_4_after" style="S2" xml:id="C488_1">
+        <span style="S3">you've gone from working in Nando's</span>
+        <br/>
+        <span style="S3">to working on Doctor Who.</span>
+        <span style="S7"> Yeah!</span>
+      </p>
+      <p begin="00:24:21.640" end="00:24:25.880" region="agr_2.5_20_37.5_4_after" style="S2" xml:id="C489_1">
+        <span style="S3">Now, how on earth does that happen?</span>
+        <br/>
+        <span style="S3">That's pretty cool, right?</span>
+      </p>
+      <p begin="00:24:25.880" end="00:24:28.480" region="R29" style="S2" xml:id="C490_1">
+        <span style="S7">I applied for this job</span>
+        <br/>
+        <span style="S7">and I thought I'd fluked it,</span>
+      </p>
+      <p begin="00:24:28.480" end="00:24:31.440" region="agr_3_20_37_4_after" style="S2" xml:id="C491_1">
+        <span style="S7">I thought it was a complete fluke</span>
+        <br/>
+        <span style="S7">and I just completely messed it up.</span>
+      </p>
+      <p begin="00:24:31.440" end="00:24:33.280" region="agr_0_20_39_4_after" style="S2" xml:id="C492_1">
+        <span style="S7">But then I got a call saying,</span>
+        <br/>
+        <span style="S7">yeah, I'm on.</span>
+      </p>
+      <p begin="00:24:33.280" end="00:24:36" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C493_1">
+        <span style="S7">And I was like, "You know what,</span>
+        <br/>
+        <span style="S7">guys, chicken restaurant? Dumped."</span>
+      </p>
+      <p begin="00:24:36" end="00:24:38.800" region="agr_4_20_36_4_after" style="S2" xml:id="C494_1">
+        <span style="S3">You're done.</span>
+        <span style="S7"> Over! I literally went,</span>
+        <br/>
+        <span style="S7">"Bye-bye," and they were like,</span>
+      </p>
+      <p begin="00:24:38.800" end="00:24:41.080" region="R29" style="S2" xml:id="C495_1">
+        <span style="S7">"Wait, what? Why you leaving?"</span>
+        <br/>
+        <span style="S7">I was like, "TV show."</span>
+      </p>
+      <p begin="00:24:41.080" end="00:24:44.280" region="agr_1.5_20_38.5_4_after" style="S2" xml:id="C496_1">
+        <span style="S7">They were like, "Can you tell us?"</span>
+        <br/>
+        <span style="S7">"No! Absolutely not."</span>
+      </p>
+      <p begin="00:24:44.280" end="00:24:47.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C497_1">
+        <span style="S3">Right, enough chicken chat -</span>
+        <br/>
+        <span style="S3">time to make myself useful.</span>
+      </p>
+      <p begin="00:24:47.720" end="00:24:49.360" region="R4" style="S2" xml:id="C498">
+        <span style="S6">Sophie to Steffan.</span>
+      </p>
+      <p begin="00:24:49.360" end="00:24:50.560" region="R4" style="S2" xml:id="C499">
+        <span style="S3">Steffan coming in.</span>
+      </p>
+      <p begin="00:24:50.560" end="00:24:53.440" region="agr_3_1_37_4_after" style="S2" xml:id="C500_1">
+        <span style="S6">Hello, mate. Could you run to the</span>
+        <br/>
+        <span style="S6">truck and get me some bits, please?</span>
+      </p>
+      <p begin="00:24:53.440" end="00:24:55.680" region="R4" style="S2" xml:id="C501">
+        <span style="S3">Yeah, that's fine, I can do truck.</span>
+      </p>
+      <p begin="00:24:55.680" end="00:24:58.200" region="R29" style="S2" xml:id="C502_1">
+        <span style="S3">I can do truck and get bits,</span>
+        <br/>
+        <span style="S3">yeah, that's fine.</span>
+      </p>
+      <p begin="00:24:58.200" end="00:25:02.200" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C503_1">
+        <span style="S3">What I hadn't realised is how</span>
+        <br/>
+        <span style="S3">demanding being a camera trainee is.</span>
+      </p>
+      <p begin="00:25:02.200" end="00:25:03.440" region="R4" style="S2" xml:id="C504">
+        <span style="S3">OK, so...</span>
+      </p>
+      <p begin="00:25:03.440" end="00:25:04.480" region="R4" style="S2" xml:id="C505">
+        <span style="S3">Erm...</span>
+      </p>
+      <p begin="00:25:04.480" end="00:25:05.880" region="R4" style="S2" xml:id="C506">
+        <span style="S6">You on your way, Stef?</span>
+      </p>
+      <p begin="00:25:05.880" end="00:25:09.280" region="agr_0_20_39_4_after" style="S2" xml:id="C507_1">
+        <span style="S3">Copy that.</span>
+        <span style="S7"> When a loader asks</span>
+        <br/>
+        <span style="S7">for stuff, get ASAP, come on!</span>
+      </p>
+      <p begin="00:25:09.280" end="00:25:11.400" region="R29" style="S2" xml:id="C508_1">
+        <span style="S7">Get with the ASAP.</span>
+        <span style="S3"> Is that...?</span>
+        <br/>
+        <span style="S7">That is an Xbox.</span>
+      </p>
+      <p begin="00:25:11.400" end="00:25:14.480" region="agr_0_20_39.5_4_after" style="S2" xml:id="C509_1">
+        <span style="S3">OK, you do the Xbox, I'll do</span>
+        <br/>
+        <span style="S3">the crisps and the water.</span>
+      </p>
+      <p begin="00:25:14.480" end="00:25:16.960" region="R4" style="S2" xml:id="C510">
+        <span style="S3">I'm going to take...</span>
+        <span style="S7"> Wallet, wallet.</span>
+      </p>
+      <p begin="00:25:16.960" end="00:25:18.840" region="R4" style="S2" xml:id="C511">
+        <span style="S3">Have you got the wallet?</span>
+      </p>
+      <p begin="00:25:18.840" end="00:25:21.080" region="agr_0_20_39.5_4_after" style="S2" xml:id="C512_1">
+        <span style="S7">I've not got the wallet, no.</span>
+        <br/>
+        <span style="S3">Is this the wallet?</span>
+      </p>
+      <p begin="00:25:21.080" end="00:25:22.480" region="R4" style="S2" xml:id="C513">
+        <span style="S7">No, that is not the wallet.</span>
+      </p>
+      <p begin="00:25:22.480" end="00:25:25.520" region="R29" style="S2" xml:id="C514_1">
+        <span style="S7">You're forgetting these.</span>
+        <br/>
+        <span style="S7">Oh, hoo-hoo-hoo.</span>
+      </p>
+      <p begin="00:25:25.520" end="00:25:27.520" region="R4" style="S2" xml:id="C515">
+        <span style="S3">Coffee cup. Keys. Bingo.</span>
+      </p>
+      <p begin="00:25:27.520" end="00:25:29.720" region="agr_0_20_39.5_4_after" style="S2" xml:id="C516_1">
+        <span style="S3">Here's your wallet.</span>
+        <span style="S6"> Thank you.</span>
+        <br/>
+        <span style="S3">Water.</span>
+        <span style="S6"> Thank you.</span>
+      </p>
+      <p begin="00:25:29.720" end="00:25:31.680" region="agr_0_20_39_4_after" style="S2" xml:id="C517_1">
+        <span style="S3">And Kudzai has...</span>
+        <br/>
+        <span style="S6">You didn't want to top it up?</span>
+      </p>
+      <p begin="00:25:31.680" end="00:25:34.480" region="agr_0_20_39_4_after" style="S2" xml:id="C518_1">
+        <span style="S3">I didn't want to top it up, no,</span>
+        <br/>
+        <span style="S3">I didn't have time.</span>
+        <span style="S6"> OK.</span>
+      </p>
+      <p begin="00:25:34.480" end="00:25:37" region="R29" style="S2" xml:id="C519_1">
+        <span style="S3">And this is your coffee cup.</span>
+        <br/>
+        <span style="S6">OK, thank you.</span>
+      </p>
+      <p begin="00:25:37" end="00:25:39.440" region="R29" style="S2" xml:id="C520_1">
+        <span style="S7">Come on, Stef, quick. Come on,</span>
+        <br/>
+        <span style="S7">the camera team are waiting.</span>
+      </p>
+      <p begin="00:25:39.440" end="00:25:41.600" region="R29" style="S2" xml:id="C521_1">
+        <span style="S3">After doing the coffee run</span>
+        <br/>
+        <span style="S3">for the camera crew,</span>
+      </p>
+      <p begin="00:25:41.600" end="00:25:42.920" region="R4" style="S2" xml:id="C522">
+        <span style="S3">it was time to cable-bash.</span>
+      </p>
+      <p begin="00:25:47.760" end="00:25:50.960" region="agr_3.5_20_36.5_4_after" style="S2" xml:id="C523_1">
+        <span style="S7">So basically, what we're going to do</span>
+        <br/>
+        <span style="S7">is we're going to cable-bash.</span>
+      </p>
+      <p begin="00:25:50.960" end="00:25:52.560" region="R4" style="S2" xml:id="C524">
+        <span style="S7">You've got to keep everything neat</span>
+      </p>
+      <p begin="00:25:52.560" end="00:25:54.440" region="R29" style="S2" xml:id="C525_1">
+        <span style="S7">because anyone can trip over</span>
+        <br/>
+        <span style="S7">a cable.</span>
+        <span style="S3"> Yeah.</span>
+      </p>
+      <p begin="00:25:54.440" end="00:25:56.040" region="agr_0_20_38.5_4_after" style="S2" xml:id="C526_1">
+        <span style="S7">So what we're going to do</span>
+        <br/>
+        <span style="S7">is make sure</span>
+      </p>
+      <p begin="00:25:56.040" end="00:25:58.760" region="agr_2_20_38_4_after" style="S2" xml:id="C527_1">
+        <span style="S7">we get this as neat as possible,</span>
+        <br/>
+        <span style="S7">tidy this up as quickly as we can.</span>
+      </p>
+      <p begin="00:25:58.760" end="00:26:00.640" region="R29" style="S2" xml:id="C528_1">
+        <span style="S7">Sometimes,</span>
+        <br/>
+        <span style="S7">it's helpful for the camera.</span>
+      </p>
+      <p begin="00:26:00.640" end="00:26:03.240" region="R29" style="S2" xml:id="C529">
+        <span style="S7">So, if the camera's on the move</span>
+        <br/>
+        <span style="S7">and there's a bunch of cables,</span>
+      </p>
+      <p begin="00:26:03.240" end="00:26:06.240" region="R29" style="S2" xml:id="C530">
+        <span style="S7">someone will come in and be like,</span>
+        <br/>
+        <span style="S7">"Can you cable-bash this for us?"</span>
+      </p>
+      <p begin="00:26:06.240" end="00:26:08.840" region="R29" style="S2" xml:id="C531_1">
+        <span style="S7">So you just need to tie it</span>
+        <br/>
+        <span style="S7">as quickly as you can or help it</span>
+      </p>
+      <p begin="00:26:08.840" end="00:26:11.640" region="R29" style="S2" xml:id="C532">
+        <span style="S7">feed through.</span>
+        <span style="S3"> So you're doing that</span>
+        <br/>
+        <span style="S3">all the time, all day, every day?</span>
+      </p>
+      <p begin="00:26:11.640" end="00:26:13.920" region="agr_1_20_39_4_after" style="S2" xml:id="C533_1">
+        <span style="S7">Yeah, we are working with the MCs</span>
+        <br/>
+        <span style="S7">every single day.</span>
+        <span style="S3"> OK.</span>
+      </p>
+      <p begin="00:26:13.920" end="00:26:18.240" region="agr_2_20_38_4_after" style="S2" xml:id="C534_1">
+        <span style="S7">So, my way of doing it. So, I grab</span>
+        <br/>
+        <span style="S7">this end of the cable.</span>
+        <span style="S3"> Uh-huh.</span>
+      </p>
+      <p begin="00:26:18.240" end="00:26:19.760" region="R4" style="S2" xml:id="C535">
+        <span style="S7">I form a loop.</span>
+      </p>
+      <p begin="00:26:19.760" end="00:26:21.680" region="R4" style="S2" xml:id="C536">
+        <span style="S7">And that's...</span>
+        <span style="S3"> Whoa, whoa, whoa.</span>
+      </p>
+      <p begin="00:26:21.680" end="00:26:22.760" region="R4" style="S2" xml:id="C537">
+        <span style="S3">You do a what?</span>
+      </p>
+      <p begin="00:26:22.760" end="00:26:24.680" region="R4" style="S2" xml:id="C538">
+        <span style="S3">I thought you just do this?</span>
+      </p>
+      <p begin="00:26:24.680" end="00:26:25.720" region="R4" style="S2" xml:id="C539">
+        <span style="S7">No. Oh, my God, no.</span>
+      </p>
+      <p begin="00:26:25.720" end="00:26:28.640" region="agr_4_20_36_4_after" style="S2" xml:id="C540_1">
+        <span style="S7">If a loader saw you do that, I don't</span>
+        <br/>
+        <span style="S7">think they'd be happy with that.</span>
+      </p>
+      <p begin="00:26:28.640" end="00:26:31.520" region="agr_0_20_39.5_4_after" style="S2" xml:id="C541_1">
+        <span style="S3">So wait...?</span>
+        <br/>
+        <span style="S7">Right, let's make it easier.</span>
+      </p>
+      <p begin="00:26:31.520" end="00:26:33.240" region="R4" style="S2" xml:id="C542">
+        <span style="S7">Put it here, like this...</span>
+      </p>
+      <p begin="00:26:33.240" end="00:26:35.760" region="agr_0_20_39.5_4_after" style="S2" xml:id="C543_1">
+        <span style="S3">This bit is not the problem,</span>
+        <br/>
+        <span style="S3">it's what you're...</span>
+      </p>
+      <p begin="00:26:35.760" end="00:26:39.320" region="agr_0_20_39.5_4_after" style="S2" xml:id="C544_1">
+        <span style="S7">Just form a normal loop.</span>
+        <br/>
+        <span style="S7">That's an over.</span>
+      </p>
+      <p begin="00:26:39.320" end="00:26:40.560" region="R4" style="S2" xml:id="C545">
+        <span style="S3">Well...</span>
+      </p>
+      <p begin="00:26:40.560" end="00:26:41.600" region="R4" style="S2" xml:id="C546">
+        <span style="S3">Bear with me.</span>
+      </p>
+      <p begin="00:26:49.560" end="00:26:51.200" region="R4" style="S2" xml:id="C547">
+        <span style="S3">This might take a while.</span>
+      </p>
+      <p begin="00:26:51.200" end="00:26:54.120" region="agr_0_20_39_4_after" style="S2" xml:id="C548_1">
+        <span style="S3">I suggest you maybe</span>
+        <br/>
+        <span style="S3">go and make a cup of tea,</span>
+      </p>
+      <p begin="00:26:54.120" end="00:26:56.840" region="agr_0_20_38.5_4_after" style="S2" xml:id="C549_1">
+        <span style="S3">maybe watch all of the previous</span>
+        <br/>
+        <span style="S3">series of Doctor Who, maybe?</span>
+      </p>
+      <p begin="00:26:56.840" end="00:26:58.200" region="R4" style="S2" xml:id="C550">
+        <span style="S3">Come back and, by then,</span>
+      </p>
+      <p begin="00:26:58.200" end="00:27:00.640" region="agr_0_20_38.5_4_after" style="S2" xml:id="C551_1">
+        <span style="S3">I might have learned</span>
+        <br/>
+        <span style="S3">how to turn this into a coil.</span>
+      </p>
+      <p begin="00:27:04.800" end="00:27:05.840" region="R4" style="S2" xml:id="C552">
+        <span style="S7">Yeah?</span>
+      </p>
+      <p begin="00:27:07.680" end="00:27:10.160" region="R4" style="S2" xml:id="C553">
+        <span style="S7">It's shocking. This is unbelievable.</span>
+      </p>
+      <p begin="00:27:11.520" end="00:27:14.320" region="R29" style="S2" xml:id="C554_1">
+        <span style="S3">So, Kudzai, it's fair to say</span>
+        <br/>
+        <span style="S3">it's been a rough day.</span>
+      </p>
+      <p begin="00:27:14.320" end="00:27:16.400" region="R4" style="S2" xml:id="C555">
+        <span style="S7">Yeah, just a little bit.</span>
+      </p>
+      <p begin="00:27:16.400" end="00:27:17.440" region="R4" style="S2" xml:id="C556">
+        <span style="S3">So...</span>
+      </p>
+      <p begin="00:27:18.720" end="00:27:20.160" region="R4" style="S2" xml:id="C557">
+        <span style="S7">On to the next department?</span>
+      </p>
+      <p begin="00:27:20.160" end="00:27:21.200" region="R4" style="S2" xml:id="C558">
+        <span style="S3">Yeah.</span>
+      </p>
+      <p begin="00:27:24.360" end="00:27:27.320" region="R4" style="S5" ttm:role="sound" xml:id="C559">
+        <span style="S3">DOCTOR WHO THEME</span>
+      </p>
+      <p begin="00:27:28.600" end="00:27:30.240" region="R4" style="S2" xml:id="C560">
+        <span style="S3">Next time...</span>
+      </p>
+      <p begin="00:27:30.240" end="00:27:33.080" region="R4" style="S5" ttm:role="sound" xml:id="C561">
+        <span style="S3">SHOUTING AND PANIC</span>
+      </p>
+      <p begin="00:27:33.080" end="00:27:34.400" region="R4" style="S2" xml:id="C562">
+        <span style="S6">Excuse me!</span>
+      </p>
+      <p begin="00:27:34.400" end="00:27:36.680" region="agr_0_20_38.5_4_after" style="S2" xml:id="C563_1">
+        <span style="S6">Can you tell me,</span>
+        <br/>
+        <span style="S6">what are you doing?</span>
+      </p>
+      <p begin="00:27:36.680" end="00:27:39.360" region="agr_0_20_38.5_4_after" style="S2" xml:id="C564_1">
+        <span style="S6">You'll get yourself killed.</span>
+        <br/>
+        <span style="S7">It's my life, not yours.</span>
+      </p>
+    </div>
+  </body>
+</tt>
